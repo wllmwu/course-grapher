@@ -38,6 +38,13 @@ def parse_dept(url):
     dept_page = requests.get(url)
     dept_soup = BeautifulSoup(dept_page.content, 'html.parser')
 
+    # parse dept abbreviation (to use as key in courses_dict)
+    index_l = url.rfind('/')
+    index_r = url.rfind('.')
+    dept_abbr = url[index_l+1:index_r]
+
+    # parse course listings
+
 # link set contains links to courses, faculty, degree programs contained in a
 # <span> tag with class "courseFacLink" - we want the courses link
 link_sets = soup.find_all('span', class_='courseFacLink')
@@ -55,6 +62,7 @@ for links in link_sets:
         courses_url = BASE_URL + courses_url
 
         dept_count += 1
+        parse_dept(courses_url)
 
 print('Found', dept_count, 'departments')
 print('Found', course_count, 'courses')
