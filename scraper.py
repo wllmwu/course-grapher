@@ -65,8 +65,8 @@ def parse_links():
             dept_count += 1
 
             # temp
-            if dept_count == 50:
-                break
+            #if dept_count == 50:
+            #    break
 
 def parse_dept_page(url):
     global course_count
@@ -150,7 +150,6 @@ def parse_prerequisites(text):
     return course_code_matcher.findall(text)
 
 parse_links()
-#parse_dept_page('https://ucsd.edu/catalog/courses/BENG.html')
 
 print('Found', dept_count, 'departments')
 print('Found', course_count, 'courses total')
