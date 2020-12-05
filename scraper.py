@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import re
 import json
 
 CCF_PAGE_URL = 'https://ucsd.edu/catalog/front/courses.html'
@@ -80,6 +81,7 @@ def parse_dept_page(url):
     for name_soup in course_names:
         (course_code, course_dict) = parse_course(name_soup)
         dept_dict[course_code] = course_dict
+        course_count += 1
 
     return (dept_abbr, dept_dict)
 
@@ -115,7 +117,8 @@ def parse_course(name_soup):
         prereq_label = desc_soup.strong
         if prereq_label is not None:
             # get the text that comes after the label and parse it
-            prereq_text = prereq_label.next_sibling.next_sibling
+            prereq_text = str(prereq_label.next_sibling)
+            print(prereq_text)
             course_prereqs = parse_prerequisites(prereq_text)
             course_dict['prereqs'] = course_prereqs
 
@@ -125,10 +128,8 @@ def parse_course(name_soup):
     return (course_code, course_dict)
 
 def parse_prerequisites(text):
-    # will contain strings like "DEPT 5" or "DEPT 120"
-    prerequisites = []
-
-    return prerequisites
+    # look for strings like "DEPT 5" or "ABC 100A"
+    return re.findall('[A-Z]+ [0-9]+[A-Z]?', text)
 
 parse_links()
 
