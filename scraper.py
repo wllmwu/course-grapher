@@ -32,6 +32,7 @@ courses_dict = {}
 def parse_links():
     global courses_dict, dept_count
 
+    print('Parsing list of departments...')
     ccf_page = requests.get(CCF_PAGE_URL)
     soup = BeautifulSoup(ccf_page.content, 'html.parser')
 
@@ -59,7 +60,7 @@ def parse_links():
             dept_count += 1
 
             # temp
-            if dept_count == 3:
+            if dept_count == 30:
                 break
 
 def parse_dept_page(url):
@@ -73,8 +74,10 @@ def parse_dept_page(url):
     # will return tuple (dept_abbr, dept_dict)
     dept_dict = {}
 
+    print('Parsing courses in department', dept_abbr)
     dept_page = requests.get(url)
     dept_soup = BeautifulSoup(dept_page.content, 'html.parser')
+    prev_course_count = course_count
 
     # parse course listings--find tags with CSS class "course-name"
     course_names = dept_soup.find_all(class_='course-name')
@@ -83,6 +86,7 @@ def parse_dept_page(url):
         dept_dict[course_code] = course_dict
         course_count += 1
 
+    print('  > Found', course_count - prev_course_count, 'courses')
     return (dept_abbr, dept_dict)
 
 def parse_course(name_soup):
@@ -118,7 +122,6 @@ def parse_course(name_soup):
         if prereq_label is not None:
             # get the text that comes after the label and parse it
             prereq_text = str(prereq_label.next_sibling)
-            print(prereq_text)
             course_prereqs = parse_prerequisites(prereq_text)
             course_dict['prereqs'] = course_prereqs
 
@@ -134,4 +137,9 @@ def parse_prerequisites(text):
 parse_links()
 
 print('Found', dept_count, 'departments')
-print('Found', course_count, 'courses')
+print('Found', course_count, 'courses total')
+
+with open('courses.json', 'w') as file:
+    json.dump(courses_dict, file, indent=2, separators=(',',':'))
+
+print('Done')
