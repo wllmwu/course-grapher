@@ -6,6 +6,11 @@ import json
 CCF_PAGE_URL = 'https://ucsd.edu/catalog/front/courses.html'
 BASE_URL = 'https://ucsd.edu/catalog/'
 
+COURSE_CODE_REGEX = '[A-Z]+ [0-9]+[A-Z]?'
+WHITESPACE_REGEX = r'\s+'
+course_code_matcher = re.compile(COURSE_CODE_REGEX)
+whitespace_matcher = re.compile(WHITESPACE_REGEX)
+
 dept_count = 0
 course_count = 0
 
@@ -60,7 +65,7 @@ def parse_links():
             dept_count += 1
 
             # temp
-            if dept_count == 30:
+            if dept_count == 50:
                 break
 
 def parse_dept_page(url):
@@ -82,30 +87,42 @@ def parse_dept_page(url):
     # parse course listings--find tags with CSS class "course-name"
     course_names = dept_soup.find_all(class_='course-name')
     for name_soup in course_names:
-        (course_code, course_dict) = parse_course(name_soup)
-        dept_dict[course_code] = course_dict
-        course_count += 1
+        course_data = parse_course(name_soup) # expecting (code, dict)
+        if course_data is not None:
+            (course_code, course_dict) = course_data
+            dept_dict[course_code] = course_dict
+            course_count += 1
 
     print('  > Found', course_count - prev_course_count, 'courses')
     return (dept_abbr, dept_dict)
 
 def parse_course(name_soup):
-    # text should be of the form "DEPT ###. Course Title (#)"
+    # text should generally be of the form "DEPT ###. Course Title (#)"
+    # of course, there are many inconsistencies
     name_text = name_soup.get_text()
+    name_text = whitespace_matcher.sub(' ', name_text)
 
     # parse course code and title
-    index1 = name_text.find('.')
-    index2 = name_text.find('(')
-    if index1 == -1 or index2 == -1:
-        print('Bad format course name:', name_text)
-    course_code = name_text[:index1] # "DEPT ###"
-    course_title = name_text[index1+1:index2].strip() # "Course Title"
-    course_title = course_title.replace('\n', '')
+    code_match = course_code_matcher.search(name_text) # returns a Match object
+    if code_match is not None:
+        course_code = code_match.group()
+        title_start = code_match.end() + 2 # skip character after code
+        title_end = name_text.find('(')
+        if title_end == -1:
+            title_end = len(name_text)
+        course_title = name_text[title_start:title_end].strip().replace('\n', '')
+    else:
+        print('Bad format course code:', name_text)
+        return None
 
     # will return tuple (course_code, course_dict)
     course_dict = {'title': course_title}
 
     #print(course_code, ':', course_title)
+
+    if name_soup.next_sibling is None:
+        print('Couldn\'t find description for', course_code)
+        return None
 
     # parse course description and prerequisites--tags and CSS classes are
     # inconsistent, so we have to traverse the DOM manually
@@ -123,18 +140,17 @@ def parse_course(name_soup):
             # get the text that comes after the label and parse it
             prereq_text = str(prereq_label.next_sibling)
             course_prereqs = parse_prerequisites(prereq_text)
-            course_dict['prereqs'] = course_prereqs
-
-    if 'prereqs' not in course_dict:
-        course_dict['prereqs'] = []
+            if len(course_prereqs) > 0:
+                course_dict['prereqs'] = course_prereqs
 
     return (course_code, course_dict)
 
 def parse_prerequisites(text):
     # look for strings like "DEPT 5" or "ABC 100A"
-    return re.findall('[A-Z]+ [0-9]+[A-Z]?', text)
+    return course_code_matcher.findall(text)
 
 parse_links()
+#parse_dept_page('https://ucsd.edu/catalog/courses/BENG.html')
 
 print('Found', dept_count, 'departments')
 print('Found', course_count, 'courses total')
