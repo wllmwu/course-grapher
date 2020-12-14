@@ -16,5 +16,5 @@ May create executables so it works without requiring user to install dependencie
 * RealPython - BeautifulSoup tutorial: <https://realpython.com/beautiful-soup-web-scraper-python/>
 * RealPython - JSON tutorial: <https://realpython.com/python-json/>
 * NetworkX documentation: <https://networkx.org/documentation/stable/index.html>
-* Plotly Express documentation: <https://plotly.com/python/plotly-express/>
+* Plotly reference: <https://plotly.com/python/reference/index/>
 * Towards Data Science - NetworkX and Plotly tutorial: <https://towardsdatascience.com/tutorial-network-visualization-basics-with-networkx-and-plotly-and-a-little-nlp-57c9bbb55bb9>
