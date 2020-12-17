@@ -6,10 +6,12 @@ import json
 CCF_PAGE_URL = "https://ucsd.edu/catalog/front/courses.html"
 BASE_URL = "https://ucsd.edu/catalog/"
 
-COURSE_CODE_REGEX = "[A-Z]+ [0-9]+[A-Z]?"
+COURSE_CODE_REGEX = "[A-Z]{2,} [0-9]+[A-Z]?"
 WHITESPACE_REGEX = r"\s+"
+NUMBER_REGEX = "[0-9]+"
 course_code_matcher = re.compile(COURSE_CODE_REGEX)
 whitespace_matcher = re.compile(WHITESPACE_REGEX)
+number_matcher = re.compile(NUMBER_REGEX)
 
 dept_count = 0
 course_count = 0
@@ -90,6 +92,9 @@ def parse_dept_page(url):
         course_data = parse_course(name_soup) # expecting (code, dict)
         if course_data is not None:
             (course_code, course_dict) = course_data
+            course_level = int(number_matcher.findall(course_code)[0])
+            if course_level >= 200: # ignore non-undergraduate courses
+                break
             dept_dict[course_code] = course_dict
             course_count += 1
 
