@@ -38,14 +38,35 @@ for dept_abbr in courses_dict:
 
 # calculate node positions
 print("Calculating node positions...")
-node_positions = nx.circular_layout(courses_graph, scale=2000) # returns a dict
+# group nodes by size
+tiny_nodes = []
+small_nodes = []
+medium_nodes = []
+large_nodes = []
+for node in courses_graph:
+    node_size = courses_graph.nodes[node]["size"]
+    if node_size <= 1:
+        tiny_nodes.append(node)
+    elif node_size <= 3:
+        small_nodes.append(node)
+    elif node_size <= 10:
+        medium_nodes.append(node)
+    else:
+        large_nodes.append(node)
+
+# arrange nodes in shells - could use nx.shell_layout() but we want more
+# control over the radii
+node_positions = nx.circular_layout(large_nodes, scale=500) # returns a dict
 # of (x, y) tuples, keyed by node
+node_positions.update(nx.circular_layout(medium_nodes, scale=750))
+node_positions.update(nx.circular_layout(small_nodes, scale=1000))
+node_positions.update(nx.circular_layout(tiny_nodes, scale=1250))
 
 # draw graph
 print("Generating figure...")
 # build a single node trace and a list of individual edge traces
 node_trace = go.Scattergl(x=[], y=[], hovertext=[], hoverinfo="text",
-                        mode="markers+text", marker=dict(size=[], line=None))
+                        mode="markers", marker=dict(size=[], line=None))
 #edge_traces = []
 edge_trace = go.Scattergl(x=[], y=[], mode="lines",
                           line=dict(width=1, color="gray"))
@@ -54,10 +75,12 @@ i = 0
 for node in courses_graph.nodes:
     # add a marker to the node trace
     x0, y0 = node_positions[node]
+    size = courses_graph.nodes[node]["size"]
+    marker_size = min(max(size * 2, 4), 200)
     node_trace["x"] += (x0,)
     node_trace["y"] += (y0,)
-    node_trace["hovertext"] += (node,)
-    node_trace["marker"]["size"] += (courses_graph.nodes[node]["size"] * 5,)
+    node_trace["hovertext"] += (node + " (" + str(size - 1) + ")",)
+    node_trace["marker"]["size"] += (marker_size,)
 
     # create edge traces for all outgoing edges from this node
     for successor in courses_graph.successors(node):
