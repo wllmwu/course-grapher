@@ -152,13 +152,12 @@ def parse_course(name_soup):
         # get the <strong> tag within the description--this is the label
         # "Prerequisites:" or occasionally "Corequisite:"
         prereq_label = desc_soup.strong
-        if prereq_label is not None:
+        if prereq_label is not None and "req" in prereq_label.get_text():
             # get the text that comes after the label and parse it
             prereq_text = str(prereq_label.next_sibling)
-            if "requisite" in prereq_text:
-                course_prereqs = parse_prerequisites(prereq_text)
-                if len(course_prereqs) > 0:
-                    course_dict["prereqs"] = course_prereqs
+            course_prereqs = parse_prerequisites(prereq_text)
+            if len(course_prereqs) > 0:
+                course_dict["prereqs"] = course_prereqs
 
     return (course_code, course_dict)
 
