@@ -6,12 +6,16 @@ import json
 CCF_PAGE_URL = "https://ucsd.edu/catalog/front/courses.html"
 BASE_URL = "https://ucsd.edu/catalog/"
 
-COURSE_CODE_REGEX = "[A-Z]{2,} [0-9]+[A-Z]?"
+COURSE_CODE_REGEX = "[A-Z]{2,} [0-9]+[A-Z]{,2}(?:-[A-Z])?"
 WHITESPACE_REGEX = r"\s+"
 NUMBER_REGEX = "[0-9]+"
+AND_REGEX = r"\s*and\s*"
+OR_REGEX = r"\s*or\s*"
 course_code_matcher = re.compile(COURSE_CODE_REGEX)
 whitespace_matcher = re.compile(WHITESPACE_REGEX)
 number_matcher = re.compile(NUMBER_REGEX)
+and_matcher = re.compile(AND_REGEX)
+or_matcher = re.compile(OR_REGEX)
 
 dept_count = 0
 course_count = 0
@@ -22,8 +26,11 @@ course_count = 0
 #     "DEPT 1": {               <-- course object
 #       "title": "...",
 #       "desc": "...",
-#       "prereqs": [
-#         "PRE 1", "PRE 2", ... <-- all prerequisites, no clustering
+#       "prereqs": [            <-- groups joined by AND
+#         ["PRE 1", "PRE 2"],   <-- prereq OR group
+#         ["STUF 5", "STUF 99"],
+#         "SMTH 1",             <-- single prereq (i.e. no alternatives)
+#         ...
 #       ]
 #     },
 #     "DEPT 100": {             <-- course object etc.
@@ -62,8 +69,10 @@ def parse_links():
             #print(courses_url)
 
             # parse that page and add results to courses_dict
-            (dept_abbr, dept_dict) = parse_dept_page(courses_url)
-            courses_dict[dept_abbr] = dept_dict
+            dept_data = parse_dept_page(courses_url)
+            if dept_data is not None:
+                (dept_abbr, dept_dict) = dept_data
+                courses_dict[dept_abbr] = dept_dict
             dept_count += 1
 
             # temp
@@ -99,6 +108,8 @@ def parse_dept_page(url):
             course_count += 1
 
     print("  > Found", course_count - prev_course_count, "courses")
+    if len(dept_dict) == 0:
+        return None
     return (dept_abbr, dept_dict)
 
 def parse_course(name_soup):
@@ -144,15 +155,84 @@ def parse_course(name_soup):
         if prereq_label is not None:
             # get the text that comes after the label and parse it
             prereq_text = str(prereq_label.next_sibling)
-            course_prereqs = parse_prerequisites(prereq_text)
-            if len(course_prereqs) > 0:
-                course_dict["prereqs"] = course_prereqs
+            if "requisite" in prereq_text:
+                course_prereqs = parse_prerequisites(prereq_text)
+                if len(course_prereqs) > 0:
+                    course_dict["prereqs"] = course_prereqs
 
     return (course_code, course_dict)
 
 def parse_prerequisites(text):
-    # look for strings like "DEPT 5" or "ABC 100A"
-    return course_code_matcher.findall(text)
+    search_text = text
+
+    # ignore anything before first course code
+    first_match = course_code_matcher.search(search_text)
+    if first_match is None:
+        return []
+    else:
+        search_text = search_text[first_match.start():]
+
+    # ignore anything after first semicolon or period
+    end_index = find_stop_punct(search_text)
+    if end_index != -1:
+        search_text = search_text[:end_index]
+
+    # ignore anything after last course code
+    last_match = None
+    for match in course_code_matcher.finditer(search_text):
+        last_match = match
+    if last_match is None:
+        return []
+    else:
+        search_text = search_text[:last_match.end()]
+
+    # replace any commas with appropriate conjunction
+    comma_index = search_text.rfind(",")
+    if comma_index != -1:
+        or_match = or_matcher.match(search_text[comma_index+1:]) # match() must
+        # start at beginning
+        search_text = search_text[:comma_index] + search_text[comma_index+1:]
+        if or_match is not None:
+            search_text = search_text.replace(",", " or")
+        else:
+            # by default, assume commas represent "and"
+            search_text = search_text.replace(",", " and")
+
+    # build list of prereqs
+    prereqs = []
+    for group in and_matcher.split(search_text):
+        code_list = course_code_matcher.findall(group)
+        if len(code_list) == 1:
+            code = code_list[0]
+            if code[-2] == "-":
+                prereqs[len(prereqs):] = expand_course_range(code)
+            else:
+                prereqs.append(code)
+        elif len(code_list) > 1:
+            i = 0
+            while i < len(code_list):
+                code = code_list[i]
+                if code[-2] == "-":
+                    expanded = expand_course_range(code)
+                    code_list[i:i+1] = expanded
+                    i += len(expanded)
+                else:
+                    i += 1
+            prereqs.append(code_list)
+    return prereqs
+
+def find_stop_punct(string):
+    for i in range(len(string)):
+        if string[i] == ";" or string[i] == ".":
+            return i
+    return -1
+
+def expand_course_range(code):
+    expanded = []
+    base, start_letter, end_letter = code[:-3], code[-3], code[-1]
+    for letter in range(ord(start_letter), ord(end_letter) + 1):
+        expanded.append(base + chr(letter))
+    return expanded
 
 parse_links()
 
@@ -160,6 +240,6 @@ print("Found", dept_count, "departments")
 print("Found", course_count, "courses total")
 
 with open("courses.json", "w") as file:
-    json.dump(courses_dict, file, indent=2, separators=(",", ":"))
+    json.dump(courses_dict, file, indent=1, separators=(",", ":"))
 
 print("Done")
