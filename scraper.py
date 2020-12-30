@@ -18,7 +18,7 @@ and_matcher = re.compile(AND_REGEX)
 or_matcher = re.compile(OR_REGEX)
 
 dept_count = 0
-course_count = 0
+#course_count = 0
 
 # courses_dict JSON format:
 # {
@@ -73,7 +73,11 @@ def parse_links():
             # parse that page and add results to courses_dict
             dept_dict = parse_dept_page(courses_url)
             if dept_dict is not None:
-                courses_dict.update(dept_dict)
+                for course_code, course_dict in dept_dict.items():
+                    if course_code not in courses_dict:
+                        courses_dict[course_code] = course_dict
+                print("  > Found", len(dept_dict), "courses,",
+                      len(courses_dict), "total")
             dept_count += 1
 
             # temp
@@ -81,8 +85,6 @@ def parse_links():
             #    break
 
 def parse_dept_page(url):
-    global course_count
-
     # parse dept abbreviation
     abbr_start = url.rfind("/") + 1
     abbr_end = url.rfind(".")
@@ -93,7 +95,6 @@ def parse_dept_page(url):
     print("Parsing courses in department", dept_abbr)
     dept_page = requests.get(url)
     dept_soup = BeautifulSoup(dept_page.content, "html.parser")
-    prev_course_count = course_count
 
     # parse course listings--find tags with CSS class "course-name"
     course_names = dept_soup.find_all(class_="course-name")
@@ -106,9 +107,7 @@ def parse_dept_page(url):
                 break
             course_dict["dept"] = dept_abbr
             dept_dict[course_code] = course_dict
-            course_count += 1
 
-    print("  > Found", course_count - prev_course_count, "courses")
     if len(dept_dict) == 0:
         return None
     return dept_dict
@@ -258,7 +257,7 @@ def set_successor(prereq_code, successor_code):
 parse_links()
 
 print("Found", dept_count, "departments")
-print("Found", course_count, "courses total")
+print("Found", len(courses_dict), "courses total")
 
 process_successors()
 
