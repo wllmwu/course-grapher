@@ -22,24 +22,26 @@ course_count = 0
 
 # courses_dict JSON format:
 # {
-#   "DEPT": {                   <-- dept object
-#     "DEPT 1": {               <-- course object
-#       "title": "...",
-#       "desc": "...",
-#       "prereqs": [            <-- groups joined by AND
-#         ["PRE 1", "PRE 2"],   <-- prereq OR group
-#         ["STUF 5", "STUF 99"],
-#         "SMTH 1",             <-- single prereq (i.e. no alternatives)
-#         ...
-#       ]
-#     },
-#     "DEPT 100": {             <-- course object etc.
+#   "DEPT 1": {               <-- course object
+#     "title": "...",
+#     "desc": "...",
+#     "dept": "DEPT",
+#     "prereqs": [            <-- groups joined by AND
+#       ["PRE 1", "PRE 2"],   <-- prereq OR group
+#       ["STUF 5", "STUF 99"],
+#       "SMTH 1",             <-- single prereq (i.e. no alternatives)
 #       ...
-#     }
+#     ],
+#     "leadsto": [            <-- course is a prereq to these courses
+#       "DEPT 100",
+#       "STUF 20",
+#       ...
+#     ]
 #   },
-#   "STUF": {                   <-- dept object etc.
+#   "DEPT 100": {             <-- course object etc.
 #     ...
-#   }
+#   },
+#   ...
 # }
 courses_dict = {}
 
@@ -69,10 +71,9 @@ def parse_links():
             #print(courses_url)
 
             # parse that page and add results to courses_dict
-            dept_data = parse_dept_page(courses_url)
-            if dept_data is not None:
-                (dept_abbr, dept_dict) = dept_data
-                courses_dict[dept_abbr] = dept_dict
+            dept_dict = parse_dept_page(courses_url)
+            if dept_dict is not None:
+                courses_dict.update(dept_dict)
             dept_count += 1
 
             # temp
@@ -87,7 +88,6 @@ def parse_dept_page(url):
     abbr_end = url.rfind(".")
     dept_abbr = url[abbr_start:abbr_end]
 
-    # will return tuple (dept_abbr, dept_dict)
     dept_dict = {}
 
     print("Parsing courses in department", dept_abbr)
@@ -101,16 +101,17 @@ def parse_dept_page(url):
         course_data = parse_course(name_soup) # expecting (code, dict)
         if course_data is not None:
             (course_code, course_dict) = course_data
-            course_level = int(number_matcher.findall(course_code)[0])
-            if course_level >= 200: # ignore non-undergraduate courses
+            number = int(number_matcher.findall(course_code)[0])
+            if number >= 200: # ignore non-undergraduate courses
                 break
+            course_dict["dept"] = dept_abbr
             dept_dict[course_code] = course_dict
             course_count += 1
 
     print("  > Found", course_count - prev_course_count, "courses")
     if len(dept_dict) == 0:
         return None
-    return (dept_abbr, dept_dict)
+    return dept_dict
 
 def parse_course(name_soup):
     # text should generally be of the form "DEPT ###. Course Title (#)"
@@ -190,7 +191,6 @@ def parse_prerequisites(text):
     if comma_index != -1:
         or_match = or_matcher.match(search_text[comma_index+1:]) # match() must
         # start at beginning
-        search_text = search_text[:comma_index] + search_text[comma_index+1:]
         if or_match is not None:
             search_text = search_text.replace(",", " or")
         else:
@@ -233,10 +233,34 @@ def expand_course_range(code):
         expanded.append(base + chr(letter))
     return expanded
 
+def process_successors():
+    global courses_dict
+    print("Processing successors...")
+    for course_code, course_dict in courses_dict.items():
+        if "prereqs" in course_dict:
+            prereqs = course_dict["prereqs"]
+            for item in prereqs:
+                if isinstance(item, list):
+                    for prereq in item:
+                        set_successor(prereq, course_code)
+                else:
+                    set_successor(item, course_code)
+
+def set_successor(prereq_code, successor_code):
+    global courses_dict
+    prereq_dict = courses_dict.get(prereq_code)
+    if prereq_dict is not None:
+        if "leadsto" in prereq_dict:
+            prereq_dict["leadsto"].append(successor_code)
+        else:
+            prereq_dict["leadsto"] = [successor_code]
+
 parse_links()
 
 print("Found", dept_count, "departments")
 print("Found", course_count, "courses total")
+
+process_successors()
 
 with open("courses.json", "w") as file:
     json.dump(courses_dict, file, indent=1, separators=(",", ":"))
