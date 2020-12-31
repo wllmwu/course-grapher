@@ -34,8 +34,6 @@ def draw_circle(x, y, radius, color="#78b6f5", hover_color="#659acf", tags=None)
                        tags=tags)
 
 def draw_course(x, y, radius, label):
-    if radius < 4:
-        draw_circle(x, y, radius=4, color="#ffffff", tags=label)
     draw_circle(x, y, radius=radius, tags=label)
     canvas.create_text(x + radius + 2, y, text=label, anchor=tk.W,
                        font=("Arial", 10))
@@ -83,7 +81,7 @@ def mouse_up(event):
     mouse_drag = False
 
 # display all courses
-curr_x, curr_y = 50, 50
+curr_x, curr_y = 20, 50
 max_y = 1000
 def next_column():
     global curr_x, curr_y
