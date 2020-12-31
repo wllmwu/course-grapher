@@ -34,30 +34,84 @@ def draw_circle(x, y, radius, color="#78b6f5", hover_color="#659acf", tags=None)
                        tags=tags)
 
 def draw_course(x, y, radius, label):
+    if radius < 4:
+        draw_circle(x, y, radius=4, color="#ffffff", tags=label)
     draw_circle(x, y, radius=radius, tags=label)
     canvas.create_text(x + radius + 2, y, text=label, anchor=tk.W,
                        font=("Arial", 10))
 
 def radius_from_size(size):
-    if size >= 200:
-        return 20
-    a = (size - 200) / 69
-    return int(75 - a ** 4)
+    if size <= 20:
+        return size + 2
+    elif size < 200:
+        return 0.32 * (size - 200) + 80
+    else:
+        return 80
+
+mouse_drag = False
+drag_start = None
+
+def mouse_down(event):
+    mouse_x, mouse_y = event.x, event.y
+    selected = canvas.find_overlapping(mouse_x, mouse_y,
+                                       mouse_x + 1, mouse_y + 1)
+    if len(selected) > 0:
+        tags = canvas.gettags(selected[0])
+        if len(tags) > 1:
+            # display_course(tags[0] + " " + tags[1])
+            print(tags)
+        else:
+            start_drag(mouse_x, mouse_y)
+    else:
+        start_drag(mouse_x, mouse_y)
+
+def start_drag(x, y):
+    global mouse_drag, drag_start
+    mouse_drag = True
+    drag_start = (x, y)
+
+def mouse_move(event):
+    global mouse_drag, drag_start
+    if mouse_drag:
+        dx = event.x - drag_start[0]
+        dy = event.y - drag_start[1]
+        canvas.move("all", dx, dy)
+        drag_start = (event.x, event.y)
+
+def mouse_up(event):
+    global mouse_drag
+    mouse_drag = False
 
 # display all courses
-curr_x = 50
-for dept in depts:
-    canvas.create_text(curr_x, 25, text=dept, font=("Arial", 20))
+curr_x, curr_y = 50, 50
+max_y = 1000
+def next_column():
+    global curr_x, curr_y
+    curr_x += 100
     curr_y = 50
+
+for dept in depts:
+    if curr_y > max_y - 50:
+        next_column()
+    curr_y += 10
+    canvas.create_text(curr_x - 10, curr_y, text=dept, anchor=tk.W,
+                       font=("Arial", 20))
+    curr_y += 12
     for course in depts[dept]:
         course_dict = courses_dict[course]
         size = 0
         if "leadsto" in course_dict:
             size = len(course_dict["leadsto"])
         r = radius_from_size(size)
-        curr_y += r
+        delta_y = max(r, 4)
+        curr_y += delta_y
         draw_course(curr_x, curr_y, r, course)
-        curr_y += r + 2
-    curr_x += 100
+        curr_y += delta_y + 2
+        if curr_y > max_y:
+            next_column()
+
+canvas.bind("<Button-1>", mouse_down)
+canvas.bind("<Motion>", mouse_move)
+canvas.bind("<ButtonRelease-1>", mouse_up)
 
 window.mainloop()
