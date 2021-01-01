@@ -82,15 +82,25 @@ def mouse_up(event):
 
 # display all courses
 curr_x, curr_y = 20, 50
-max_y = 1000
+max_y = 760
+curr_letter = "A"
 def next_column():
     global curr_x, curr_y
     curr_x += 100
     curr_y = 50
+def col_letter(letter):
+    canvas.create_text(curr_x - 10, 20, text=letter, anchor=tk.NW,
+                       font=("Arial", 30))
 
-for dept in depts:
-    if curr_y > max_y - 50:
+col_letter(curr_letter)
+for dept in sorted(list(depts)):
+    if dept[0] != curr_letter:
         next_column()
+        curr_letter = dept[0]
+        col_letter(curr_letter)
+    elif curr_y > max_y - 50:
+        next_column()
+        
     curr_y += 10
     canvas.create_text(curr_x - 10, curr_y, text=dept, anchor=tk.W,
                        font=("Arial", 20))
