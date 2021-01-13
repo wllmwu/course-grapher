@@ -4,6 +4,7 @@ import tkinter as tk
 
 class MainView(tk.Frame):
     DEFAULT_MESSAGE = "Click on a course to view more info."
+
     def __init__(self, courses, depts, master=None):
         tk.Frame.__init__(self, master)
         self.master.title("Course Grapher")
@@ -90,7 +91,7 @@ class MainView(tk.Frame):
                 if curr_y > max_y:
                     next_column()
             # temp
-            break
+            #break
 
     def bind_listeners(self):
         self.canvas.bind("<Button-1>", self.mouse_down)
@@ -103,18 +104,23 @@ class MainView(tk.Frame):
                                 fill=color, activefill=hover_color, outline="",
                                 tags=tags)
 
-    def draw_course(self, x, y, radius, label):
-        self.draw_circle(x, y, radius=radius, tags=label)
-        self.canvas.create_text(x + radius + 2, y, text=label, anchor=tk.W,
+    def draw_course(self, x, y, radius, code):
+        tags = ("course", code.replace(" ", "_"))
+        self.draw_circle(x, y, radius=radius, tags=tags)
+        offset = radius + 2
+        if radius <= 3:
+            self.draw_circle(x, y, radius=4, color=None, tags=tags)
+            offset += 3
+        self.canvas.create_text(x + offset, y, text=code, anchor=tk.W,
                                 font=("Arial", 10))
 
     def radius_from_size(size):
         if size <= 20:
             return size + 2
-        elif size < 200:
-            return 0.32 * (size - 200) + 80
+        elif size < 100:
+            return 0.32 * size + 16
         else:
-            return 80
+            return 48
 
     def mouse_down(self, event):
         mouse_x, mouse_y = event.x, event.y
@@ -125,7 +131,7 @@ class MainView(tk.Frame):
                                                 mouse_x + 1, mouse_y + 1)
         if len(selected) > 0:
             tags = self.canvas.gettags(selected[0])
-            if len(tags) > 1:
+            if tags is not None and tags[0] == "course":
                 # display_course(tags[0] + " " + tags[1])
                 print(tags)
             else:
