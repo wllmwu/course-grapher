@@ -11,11 +11,14 @@ class MainView(tk.Frame):
         self.grid() # row 0, col 0 in top-level window
         self.create_widgets()
         self.courses = courses
+        self.current_course = None
         self.depts = depts
         self.display_courses()
         self.mouse_drag = False
         self.drag_start = None
         self.bind_listeners()
+
+    #### initialization ####
 
     def create_widgets(self):
         self.canvas = tk.Canvas(self, width=1000, height=800,
@@ -98,6 +101,8 @@ class MainView(tk.Frame):
         self.canvas.bind("<Motion>", self.mouse_move)
         self.canvas.bind("<ButtonRelease-1>", self.mouse_up)
 
+    #### drawing ####
+
     def draw_circle(self, x, y, radius, color="#78b6f5", hover_color="#659acf",
                     tags=None):
         self.canvas.create_oval(x - radius, y - radius, x + radius, y + radius,
@@ -122,6 +127,19 @@ class MainView(tk.Frame):
         else:
             return 48
 
+    #### displaying info ####
+
+    def display_course(self, code):
+        self.current_course = code
+        course_dict = self.courses[code]
+        title = code + ". " + course_dict["title"]
+        self.title_label.configure(text=title)
+        if "desc" in course_dict:
+            self.desc_label.configure(text=course_dict["desc"])
+        self.course_button.configure(state=tk.NORMAL)
+
+    #### mouse event handlers ####
+
     def mouse_down(self, event):
         mouse_x, mouse_y = event.x, event.y
         def start_drag():
@@ -132,8 +150,8 @@ class MainView(tk.Frame):
         if len(selected) > 0:
             tags = self.canvas.gettags(selected[0])
             if tags is not None and tags[0] == "course":
-                # display_course(tags[0] + " " + tags[1])
-                print(tags)
+                self.display_course(tags[1].replace("_", " "))
+                #print(tags)
             else:
                 start_drag()
         else:
@@ -149,11 +167,13 @@ class MainView(tk.Frame):
     def mouse_up(self, event):
         self.mouse_drag = False
 
+    #### button event handlers ####
+
     def search(self):
-        print("Search")
+        print("Search " + self.search_box.get())
 
     def open_graph(self):
-        print("Open graph")
+        print("Open graph " + self.current_course)
 
 def read_courses():
     courses = None
