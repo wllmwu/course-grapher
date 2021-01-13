@@ -44,11 +44,11 @@ class MainView(tk.Frame):
         # course info display
         self.title_label = tk.Label(panel, text=None,
                                     font=("Arial", 12, "bold"), justify=tk.LEFT,
-                                    wraplength=300, background="#f0f0f0")
+                                    wraplength=290, background="#f0f0f0")
         self.title_label.grid(row=1, column=0, sticky=tk.W)
         self.desc_label = tk.Label(panel, text=MainView.DEFAULT_MESSAGE,
                                    font=("Arial", 12), justify=tk.LEFT,
-                                   wraplength=300, background="#f0f0f0")
+                                   wraplength=290, background="#f0f0f0")
         self.desc_label.grid(row=2, column=0, sticky=tk.NW)
         self.course_button = tk.Button(panel, text="Open graph",
                                        command=self.open_graph,
