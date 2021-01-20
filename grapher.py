@@ -40,6 +40,7 @@ class MainView(tk.Frame):
         self.search_button = tk.Button(search_panel, text="Search",
                                        command=self.search)
         self.search_button.grid(row=1, column=1)
+        self.bind_all("<Return>", self.search)
 
         # course info display
         self.title_label = tk.Label(panel, text=None,
@@ -79,7 +80,7 @@ class MainView(tk.Frame):
                 
             curr_y += 10
             self.canvas.create_text(curr_x - 10, curr_y, text=dept, anchor=tk.W,
-                                    font=("Arial", 20))
+                                    font=("Arial", 20), tags=dept)
             curr_y += 12
             for course in self.depts[dept]:
                 course_dict = self.courses[course]
@@ -117,7 +118,7 @@ class MainView(tk.Frame):
             self.draw_circle(x, y, radius=4, color=None, tags=tags)
             offset += 3
         self.canvas.create_text(x + offset, y, text=code, anchor=tk.W,
-                                font=("Arial", 10))
+                                font=("Arial", 10), tags=tags)
 
     def radius_from_size(size):
         if size <= 20:
@@ -127,16 +128,47 @@ class MainView(tk.Frame):
         else:
             return 48
 
+    def clear_highlight(self):
+        self.canvas.delete("hl")
+
+    def highlight_items(self, canvas_tag):
+        # draw a yellow rectangle below the objects with the given tag
+        x1, y1, x2, y2 = self.canvas.bbox(canvas_tag)
+        rect = self.canvas.create_rectangle(x1, y1, x2, y2, fill="#FFFF00",
+                                            outline="", tags="hl")
+        self.canvas.tag_lower(rect, canvas_tag)
+
+        # center this rectangle on screen if not visible
+        if x1 < 0 or x2 > 1000 or y1 < 0 or y2 > 800:
+            center_x = (x1 + x2) // 2
+            center_y = (y1 + y2) // 2
+            self.canvas.move("all", 500 - center_x, 400 - center_y)
+
     #### displaying info ####
+
+    def show_title(self, title):
+        self.title_label.configure(text=title)
+
+    def show_desc(self, desc):
+        self.desc_label.configure(text=desc)
+
+    def set_button_active(self, active):
+        self.course_button.configure(state=tk.NORMAL if active else tk.DISABLED)
 
     def display_course(self, code):
         self.current_course = code
         course_dict = self.courses[code]
         title = code + ". " + course_dict["title"]
-        self.title_label.configure(text=title)
+        self.show_title(title)
         if "desc" in course_dict:
-            self.desc_label.configure(text=course_dict["desc"])
-        self.course_button.configure(state=tk.NORMAL)
+            self.show_desc(course_dict["desc"])
+        self.set_button_active(True)
+
+    def reset_panel(self):
+        self.current_course = None
+        self.show_title("")
+        self.show_desc(MainView.DEFAULT_MESSAGE)
+        self.set_button_active(False)
 
     #### mouse event handlers ####
 
@@ -148,9 +180,10 @@ class MainView(tk.Frame):
         selected = self.canvas.find_overlapping(mouse_x, mouse_y,
                                                 mouse_x + 1, mouse_y + 1)
         if len(selected) > 0:
-            tags = self.canvas.gettags(selected[0])
+            tags = self.canvas.gettags(selected[-1])
             if tags is not None and tags[0] == "course":
                 self.display_course(tags[1].replace("_", " "))
+                self.clear_highlight()
                 #print(tags)
             else:
                 start_drag()
@@ -169,8 +202,18 @@ class MainView(tk.Frame):
 
     #### button event handlers ####
 
-    def search(self):
-        print("Search " + self.search_box.get())
+    def search(self, event=None):
+        #print("Search " + self.search_box.get())
+        query = self.search_box.get()
+        self.show_title("")
+        self.clear_highlight()
+        if query is not None and len(query) > 0:
+            query = query.strip().upper().replace(" ", "_")
+            self.reset_panel()
+            if len(self.canvas.find_withtag(query)) > 0:
+                self.highlight_items(query)
+            else:
+                self.show_title("No results")
 
     def open_graph(self):
         print("Open graph " + self.current_course)
