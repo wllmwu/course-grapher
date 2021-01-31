@@ -217,6 +217,12 @@ class MainView(tk.Frame):
 
     def open_graph(self):
         print("Open graph " + self.current_course)
+        GraphView(self.courses, self.depts)
+
+class GraphView(MainView):
+    def __init__(self, courses, depts):
+        window = tk.Toplevel()
+        super().__init__(courses, depts, master=window)
 
 def read_courses():
     courses = None
