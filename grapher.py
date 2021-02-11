@@ -3,11 +3,15 @@ import json
 import tkinter as tk
 
 class MainView(tk.Frame):
+    WINDOW_TITLE = "Course Grapher"
     DEFAULT_MESSAGE = "Click on a course to view more info."
+    CANVAS_WIDTH = 1000
+    PANEL_WIDTH = 300
+    WINDOW_HEIGHT = 800
 
     def __init__(self, courses, depts, master=None):
         tk.Frame.__init__(self, master)
-        self.master.title("Course Grapher")
+        self.master.title(self.WINDOW_TITLE)
         self.grid() # row 0, col 0 in top-level window
         self.create_widgets()
         self.courses = courses
@@ -21,12 +25,13 @@ class MainView(tk.Frame):
     #### initialization ####
 
     def create_widgets(self):
-        self.canvas = tk.Canvas(self, width=1000, height=800,
-                                background="#ffffff")
+        self.canvas = tk.Canvas(self, width=self.CANVAS_WIDTH,
+                                height=self.WINDOW_HEIGHT, background="#ffffff")
         self.canvas.grid(row=0, column=0)
-        panel = tk.Frame(self, width=300, height=800, background="#f0f0f0")
+        panel = tk.Frame(self, width=self.PANEL_WIDTH, height=self.WINDOW_HEIGHT,
+                         background="#f0f0f0")
         panel.grid(row=0, column=1, sticky=tk.N+tk.E+tk.S+tk.W)
-        panel.columnconfigure(0, minsize=300)
+        panel.columnconfigure(0, minsize=self.PANEL_WIDTH)
 
         # search box
         search_panel = tk.Frame(panel, height=30, background="#f0f0f0")
@@ -43,13 +48,14 @@ class MainView(tk.Frame):
         self.bind_all("<Return>", self.search)
 
         # course info display
+        wrap = self.PANEL_WIDTH - 10
         self.title_label = tk.Label(panel, text=None,
                                     font=("Arial", 12, "bold"), justify=tk.LEFT,
-                                    wraplength=290, background="#f0f0f0")
+                                    wraplength=wrap, background="#f0f0f0")
         self.title_label.grid(row=1, column=0, sticky=tk.W)
         self.desc_label = tk.Label(panel, text=self.DEFAULT_MESSAGE,
                                    font=("Arial", 12), justify=tk.LEFT,
-                                   wraplength=290, background="#f0f0f0")
+                                   wraplength=wrap, background="#f0f0f0")
         self.desc_label.grid(row=2, column=0, sticky=tk.NW)
         self.course_button = tk.Button(panel, text="Open graph",
                                        command=self.open_graph,
