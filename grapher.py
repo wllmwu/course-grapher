@@ -47,7 +47,7 @@ class MainView(tk.Frame):
                                     font=("Arial", 12, "bold"), justify=tk.LEFT,
                                     wraplength=290, background="#f0f0f0")
         self.title_label.grid(row=1, column=0, sticky=tk.W)
-        self.desc_label = tk.Label(panel, text=MainView.DEFAULT_MESSAGE,
+        self.desc_label = tk.Label(panel, text=self.DEFAULT_MESSAGE,
                                    font=("Arial", 12), justify=tk.LEFT,
                                    wraplength=290, background="#f0f0f0")
         self.desc_label.grid(row=2, column=0, sticky=tk.NW)
@@ -111,14 +111,15 @@ class MainView(tk.Frame):
                                 tags=tags)
 
     def draw_course(self, x, y, radius, code):
-        tags = ("course", code.replace(" ", "_"))
+        code_nospace = code.replace(" ", "_")
+        tags = ("course", code_nospace)
         self.draw_circle(x, y, radius=radius, tags=tags)
         offset = radius + 2
         if radius <= 3:
             self.draw_circle(x, y, radius=4, color=None, tags=tags)
             offset += 3
         self.canvas.create_text(x + offset, y, text=code, anchor=tk.W,
-                                font=("Arial", 10), tags=tags)
+                                font=("Arial", 10), tags=code_nospace)
 
     def radius_from_size(size):
         if size <= 20:
@@ -158,16 +159,21 @@ class MainView(tk.Frame):
     def display_course(self, code):
         self.current_course = code
         course_dict = self.courses[code]
+
         title = code + ". " + course_dict["title"]
+        if "units" in course_dict:
+            title += " (" + course_dict["units"] + ")"
         self.show_title(title)
+
         if "desc" in course_dict:
             self.show_desc(course_dict["desc"])
+
         self.set_button_active(True)
 
     def reset_panel(self):
         self.current_course = None
         self.show_title("")
-        self.show_desc(MainView.DEFAULT_MESSAGE)
+        self.show_desc(self.DEFAULT_MESSAGE)
         self.set_button_active(False)
 
     #### mouse event handlers ####
@@ -184,6 +190,7 @@ class MainView(tk.Frame):
             if tags is not None and tags[0] == "course":
                 self.display_course(tags[1].replace("_", " "))
                 self.clear_highlight()
+                self.highlight_items(tags[1])
                 #print(tags)
             else:
                 start_drag()
