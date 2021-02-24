@@ -15,7 +15,7 @@ class MainView(tk.Frame):
         self.grid() # row 0, col 0 in top-level window
         self.create_widgets()
         self.courses = courses
-        self.current_course = None
+        self.current_code = None
         self.depts = depts
         self.display_courses()
         self.mouse_drag = False
@@ -146,10 +146,11 @@ class MainView(tk.Frame):
         self.canvas.tag_lower(rect, canvas_tag)
 
         # center this rectangle on screen if not visible
-        if x1 < 0 or x2 > 1000 or y1 < 0 or y2 > 800:
+        if x1 < 0 or x2 > self.CANVAS_WIDTH or y1 < 0 or y2 > self.WINDOW_HEIGHT:
             center_x = (x1 + x2) // 2
             center_y = (y1 + y2) // 2
-            self.canvas.move("all", 500 - center_x, 400 - center_y)
+            self.canvas.move("all", self.CANVAS_WIDTH / 2 - center_x,
+                             self.WINDOW_HEIGHT / 2 - center_y)
 
     #### displaying info ####
 
@@ -163,7 +164,7 @@ class MainView(tk.Frame):
         self.course_button.configure(state=tk.NORMAL if active else tk.DISABLED)
 
     def display_course(self, code):
-        self.current_course = code
+        self.current_code = code
         course_dict = self.courses[code]
 
         title = code + ". " + course_dict["title"]
@@ -177,7 +178,7 @@ class MainView(tk.Frame):
         self.set_button_active(True)
 
     def reset_panel(self):
-        self.current_course = None
+        self.current_code = None
         self.show_title("")
         self.show_desc(self.DEFAULT_MESSAGE)
         self.set_button_active(False)
@@ -229,13 +230,87 @@ class MainView(tk.Frame):
                 self.show_title("No results")
 
     def open_graph(self):
-        print("Open graph " + self.current_course)
-        GraphView(self.courses, self.depts)
+        #print("Open graph " + self.current_code)
+        GraphView(self.courses, self.depts, self.current_code)
 
 class GraphView(MainView):
-    def __init__(self, courses, depts):
+    CANVAS_WIDTH = 800
+    PANEL_WIDTH = 300
+    WINDOW_HEIGHT = 800
+    X_UNIT = 30
+    Y_UNIT = 100
+
+    def __init__(self, courses, depts, root_code):
         window = tk.Toplevel()
+        self.WINDOW_TITLE = root_code
+        self.root_code = root_code
         super().__init__(courses, depts, master=window)
+        #print("graph " + root_code)
+
+    #### initialization ####
+
+    def display_courses(self):
+        right_x = self.draw_subtree(self.root_code, 0, 0)
+        # draw subsequent courses...
+        dx = (self.CANVAS_WIDTH - right_x) // 2
+        dy = self.WINDOW_HEIGHT // 2
+        self.canvas.move("all", dx, dy)
+
+    def draw_subtree(self, root_code, left_x, root_y, parent_dept=None):
+        root_dict = self.courses.get(root_code)
+        right_x = root_x = left_x
+
+        if root_dict is not None:
+            if parent_dept == None:
+                parent_dept = root_dict["dept"]
+
+            child_y = root_y - self.Y_UNIT
+            result = self.draw_subtree_helper(root_dict, left_x, child_y,
+                                              parent_dept)
+            if result is not None:
+                child_x_list, right_x = result
+                root_x = left_x + (right_x - left_x) // 2
+
+                for child_x in child_x_list:
+                    self.draw_arrow(root_x, root_y, child_x, child_y)
+
+        self.draw_course(root_x, root_y, root_code)
+        return right_x
+
+    def draw_subtree_helper(self, root_dict, left_x, child_y, parent_dept):
+        if root_dict["dept"] != parent_dept:
+            return None
+        prereq_list = root_dict.get("prereqs", [])
+        leadsto_list = root_dict.get("leadsto", [])
+        right_x = left_x
+        next_x = left_x
+        x_coords = []
+
+        for i, item in enumerate(prereq_list):
+            for prereq_code in item.split(","):
+                if prereq_code in leadsto_list:
+                    continue # skip corequisites
+
+                right_x = self.draw_subtree(prereq_code, next_x, child_y,
+                                            parent_dept=parent_dept)
+                child_x = next_x + (right_x - next_x) // 2
+                x_coords.append(child_x)
+                next_x = right_x + self.X_UNIT
+
+            if i < len(prereq_list) - 1:
+                self.draw_bar(next_x - self.X_UNIT // 2, child_y)
+
+        return (x_coords, right_x)
+
+    def draw_course(self, x, y, code):
+        self.draw_circle(x, y, radius=10)
+        self.canvas.create_text(x, y, text=code, font=("Arial", 10), anchor=tk.CENTER)
+
+    def draw_bar(self, x, y):
+        pass
+
+    def draw_arrow(self, x1, y1, x2, y2):
+        self.canvas.create_line(x1, y1, x2, y2, fill="gray", width=2)
 
 def read_courses():
     courses = None
