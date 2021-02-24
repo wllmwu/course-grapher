@@ -22,23 +22,23 @@ dept_count = 0
 
 # courses_dict JSON format:
 # {
-#   "DEPT 1": {               <-- course object
+#   "DEPT 1": {             <-- course object
 #     "title": "...",
 #     "desc": "...",
 #     "dept": "DEPT",
-#     "prereqs": [            <-- groups joined by AND
-#       ["PRE 1", "PRE 2"],   <-- prereq OR group
-#       ["STUF 5", "STUF 99"],
-#       "SMTH 1",             <-- single prereq (i.e. no alternatives)
+#     "prereqs": [          <-- groups joined by AND
+#       "PRE 1,PRE 2",      <-- prereq OR group
+#       "STUF 5,STUF 99",
+#       "SMTH 1",           <-- single prereq (i.e. no alternatives)
 #       ...
 #     ],
-#     "leadsto": [            <-- course is a prereq to these courses
+#     "leadsto": [          <-- course is a prereq to these courses
 #       "DEPT 100",
 #       "STUF 20",
 #       ...
 #     ]
 #   },
-#   "DEPT 100": {             <-- course object etc.
+#   "DEPT 100": {           <-- course object etc.
 #     ...
 #   },
 #   ...
@@ -200,6 +200,18 @@ def parse_prerequisites(text):
     prereqs = []
     for group in and_matcher.split(search_text):
         code_list = course_code_matcher.findall(group)
+        i = 0
+        while i < len(code_list):
+            # expand ranges like MATH 20A-B
+            code = code_list[i]
+            if code[-2] == "-":
+                expanded = expand_course_range(code)
+                code_list[i:i+1] = expanded
+                i += len(expanded)
+            else:
+                i += 1
+        prereqs.append(",".join(code_list))
+        '''
         if len(code_list) == 1:
             code = code_list[0]
             if code[-2] == "-":
@@ -217,6 +229,7 @@ def parse_prerequisites(text):
                 else:
                     i += 1
             prereqs.append(code_list)
+        '''
     return prereqs
 
 def find_stop_punct(string):
@@ -239,11 +252,15 @@ def process_successors():
         if "prereqs" in course_dict:
             prereqs = course_dict["prereqs"]
             for item in prereqs:
+                for prereq_code in item.split(","):
+                    set_successor(prereq_code, course_code)
+                '''
                 if isinstance(item, list):
                     for prereq in item:
                         set_successor(prereq, course_code)
                 else:
                     set_successor(item, course_code)
+                '''
 
 def set_successor(prereq_code, successor_code):
     global courses_dict
