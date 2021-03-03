@@ -187,9 +187,9 @@ def parse_prerequisites(text):
 
     # replace any commas with appropriate conjunction
     comma_index = search_text.rfind(",")
-    if comma_index != -1:
-        or_match = or_matcher.match(search_text[comma_index+1:]) # match() must
-        # start at beginning
+    if comma_index != -1 and "," in search_text[:comma_index]: # 2+ commas?
+        # match() must start at beginning of given string
+        or_match = or_matcher.match(search_text[comma_index+1:])
         if or_match is not None:
             search_text = search_text.replace(",", " or")
         else:
