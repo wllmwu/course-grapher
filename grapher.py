@@ -1,6 +1,7 @@
 import sys
 import json
 import tkinter as tk
+import coursetree
 
 class MainView(tk.Frame):
     WINDOW_TITLE = "Course Grapher"
@@ -250,11 +251,42 @@ class GraphView(MainView):
     #### initialization ####
 
     def display_courses(self):
+        tree = coursetree.Tree(self.root_code)
+        self.build_subtree(self.root_code, tree.root)
+        tree.calculate_positions(self.CANVAS_WIDTH // 2, self.WINDOW_HEIGHT // 2)
+        self.draw_subtree(tree.root)
+
+
+        '''
         right_x = self.draw_subtree(self.root_code, 0, 0)
         # draw subsequent courses...
         dx = (self.CANVAS_WIDTH - right_x) // 2
         dy = self.WINDOW_HEIGHT // 2
         self.canvas.move("all", dx, dy)
+        '''
+
+    def build_subtree(self, root_code, root_node, parent_dept=None):
+        root_dict = self.courses.get(root_code)
+        if root_dict is not None:
+            if parent_dept is None:
+                parent_dept = root_dict["dept"]
+            elif root_dict["dept"] != parent_dept:
+                return # ignore prerequisites of courses in different depts
+            prereq_list = root_dict.get("prereqs", [])
+            leadsto_list = root_dict.get("leadsto", [])
+
+            for item in prereq_list:
+                for prereq_code in item.split(","):
+                    if prereq_code in leadsto_list:
+                        continue # skip corequisites
+
+                    prereq_node = coursetree.Node(prereq_code)
+                    self.build_subtree(prereq_code, prereq_node,
+                                       parent_dept=parent_dept)
+                    root_node.children.append(prereq_node)
+
+    #def draw_subtree(self, root_node):
+    #    pass # todo...
 
     def draw_subtree(self, root_code, left_x, root_y, parent_dept=None):
         root_dict = self.courses.get(root_code)
