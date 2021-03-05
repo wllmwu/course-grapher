@@ -285,10 +285,16 @@ class GraphView(MainView):
                                        parent_dept=parent_dept)
                     root_node.children.append(prereq_node)
 
-    #def draw_subtree(self, root_node):
-    #    pass # todo...
+    def draw_subtree(self, root_node):
+        root_x = root_node.x
+        root_y = root_node.y
+        for prereq_node in root_node.children:
+            self.draw_arrow(root_x, root_y, prereq_node.x, prereq_node.y)
+            self.draw_subtree(prereq_node)
+        self.draw_course(root_x, root_y, root_node.code)
+        return
 
-    def draw_subtree(self, root_code, left_x, root_y, parent_dept=None):
+    #def draw_subtree(self, root_code, left_x, root_y, parent_dept=None):
         root_dict = self.courses.get(root_code)
         right_x = root_x = left_x
 
