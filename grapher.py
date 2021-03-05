@@ -253,7 +253,8 @@ class GraphView(MainView):
     def display_courses(self):
         tree = coursetree.Tree(self.root_code)
         self.build_subtree(self.root_code, tree.root)
-        tree.calculate_positions(self.CANVAS_WIDTH // 2, self.WINDOW_HEIGHT // 2)
+        tree.calculate_positions(self.CANVAS_WIDTH // 2, self.WINDOW_HEIGHT // 2,
+                                 75, 75)
         self.draw_subtree(tree.root)
 
 
@@ -341,8 +342,8 @@ class GraphView(MainView):
         return (x_coords, right_x)
 
     def draw_course(self, x, y, code):
-        self.draw_circle(x, y, radius=10)
-        self.canvas.create_text(x, y, text=code, font=("Arial", 10), anchor=tk.CENTER)
+        self.draw_circle(x, y, radius=20)
+        self.canvas.create_text(x, y, text=code, font=("Arial", 12), anchor=tk.CENTER)
 
     def draw_bar(self, x, y):
         pass
