@@ -1,7 +1,10 @@
 class Node:
-    def __init__(self, code, children=[], x=0, y=0):
+    def __init__(self, code, children=None, x=0, y=0):
         self.code = code
-        self.children = children
+        if children is None:
+            self.children = []
+        else:
+            self.children = children
         self.x = x
         self.y = y
 
