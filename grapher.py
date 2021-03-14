@@ -238,8 +238,8 @@ class GraphView(MainView):
     CANVAS_WIDTH = 800
     PANEL_WIDTH = 300
     WINDOW_HEIGHT = 800
-    X_UNIT = 30
-    Y_UNIT = 100
+    X_UNIT = 60
+    Y_UNIT = 75
 
     def __init__(self, courses, depts, root_code):
         window = tk.Toplevel()
@@ -254,7 +254,7 @@ class GraphView(MainView):
         tree = coursetree.Tree(self.root_code)
         self.build_subtree(self.root_code, tree.root)
         tree.calculate_positions(self.CANVAS_WIDTH // 2, self.WINDOW_HEIGHT // 2,
-                                 60, 75)
+                                 self.X_UNIT, self.Y_UNIT)
         self.draw_subtree(tree.root)
 
     def build_subtree(self, root_code, root_node, parent_dept=None):
@@ -267,9 +267,10 @@ class GraphView(MainView):
             prereq_list = root_dict.get("prereqs", [])
             leadsto_list = root_dict.get("leadsto", [])
 
-            for item in prereq_list:
-                for prereq_code in item.split(","):
-                    prereq_node = coursetree.Node(prereq_code)
+            for group_num, item in enumerate(prereq_list):
+                group = item.split(",")
+                for prereq_code in group:
+                    prereq_node = coursetree.Node(prereq_code, group_num)
                     if prereq_code not in leadsto_list:
                         # ^ avoid infinite recursion on corequisites
                         self.build_subtree(prereq_code, prereq_node,
@@ -279,9 +280,19 @@ class GraphView(MainView):
     def draw_subtree(self, root_node):
         root_x = root_node.x
         root_y = root_node.y
+
+        curr_group = 0
+        prev_child_x = 0
         for prereq_node in root_node.children:
+            if prereq_node.group != curr_group:
+                curr_group = prereq_node.group
+                bar_x = prev_child_x + (prereq_node.x - prev_child_x) // 2
+                self.draw_bar(bar_x, prereq_node.y)
+            prev_child_x = prereq_node.x
+
             self.draw_arrow(root_x, root_y, prereq_node.x, prereq_node.y)
             self.draw_subtree(prereq_node)
+
         self.draw_course(root_x, root_y, root_node.code)
 
     def draw_course(self, x, y, code):
@@ -289,7 +300,7 @@ class GraphView(MainView):
         self.canvas.create_text(x, y, text=code, font=("Arial", 12), anchor=tk.CENTER)
 
     def draw_bar(self, x, y):
-        pass
+        self.canvas.create_line(x, y - 20, x, y + 20, fill="gray", width=1)
 
     def draw_arrow(self, x1, y1, x2, y2):
         self.canvas.create_line(x1, y1, x2, y2, fill="gray", width=2)

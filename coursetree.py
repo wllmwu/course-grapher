@@ -1,6 +1,7 @@
 class Node:
-    def __init__(self, code, children=None, x=0, y=0):
+    def __init__(self, code, group, children=None, x=0, y=0):
         self.code = code
+        self.group = group
         if children is None:
             self.children = []
         else:
@@ -10,7 +11,7 @@ class Node:
 
 class Tree:
     def __init__(self, root_code):
-        self.root = Node(root_code)
+        self.root = Node(root_code, 0)
 
     def calculate_positions(self, root_x, root_y, x_unit, y_unit):
         self.ROOT_X = root_x
