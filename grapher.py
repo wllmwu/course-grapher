@@ -269,8 +269,9 @@ class GraphView(MainView):
 
             for group_num, item in enumerate(prereq_list):
                 group = item.split(",")
+                single = len(group) == 1
                 for i, prereq_code in enumerate(group):
-                    prereq_node = coursetree.Node(prereq_code, group_num)
+                    prereq_node = coursetree.Node(prereq_code, group_num, single)
                     if i > 0 and self.same_prereqs(prereq_code, group[i - 1]):
                         prereq_node.same_as_sibling = True
                     elif prereq_code not in leadsto_list:
@@ -297,7 +298,10 @@ class GraphView(MainView):
                 self.draw_bar(prereq_node.x, bar_y)
             prev_child_y = prereq_node.y
 
-            self.draw_arrow(root_x, root_y, prereq_node.x, prereq_node.y)
+            self.draw_arrow(root_x, root_y, prereq_node.x, prereq_node.y,
+                            dotted=not prereq_node.single)
+
+        for prereq_node in root_node.children:
             self.draw_subtree(prereq_node)
 
         self.draw_course(root_x, root_y, root_node.code)
@@ -309,8 +313,13 @@ class GraphView(MainView):
     def draw_bar(self, x, y):
         self.canvas.create_line(x - 20, y, x + 20, y, fill="gray", width=1)
 
-    def draw_arrow(self, x1, y1, x2, y2):
-        self.canvas.create_line(x1, y1, x2, y2, fill="gray", width=2)
+    def draw_arrow(self, x1, y1, x2, y2, dotted=False):
+        if dotted:
+            pattern = (2, 2)
+        else:
+            pattern = None
+        self.canvas.create_line(x1, y1, x2, y2, fill="gray", width=2,
+                                dash=pattern)
 
 def read_courses():
     courses = None
