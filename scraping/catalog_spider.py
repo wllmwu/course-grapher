@@ -24,6 +24,7 @@ class CatalogSpider(scrapy.Spider):
     def parse(self, response):
         selectors = response.xpath(
             '//span[@class="courseFacLink"]/a[text()[contains(.,"courses")]]/@href')
+        self.logger.info('Found %d department course pages', len(selectors))
         i = 0
         for link in selectors.getall():
             if i >= 30:
@@ -33,13 +34,17 @@ class CatalogSpider(scrapy.Spider):
 
     def parse_courses(self, response):
         dept = self._department_from_url(response.url)
-        name_selectors = response.xpath('//p[@class="course-name"]/text()')
+        name_selectors = response.xpath(
+            '//p[@class="course-name"]').xpath('string()')
         # description_selectors = response.xpath(
         #     '//p[@class="course-name"]/following-sibling::p[@class="course-descriptions"][1]'
         # ).xpath('string()')
+        self.logger.info('Found %d courses in department %s',
+                         len(name_selectors), dept)
         for line in name_selectors.getall():
             match = course_info_matcher.match(line)
             if match is None:
+                self.logger.error('Failed to match course info: "%s"', line)
                 continue
             code, title, units = match.group('code', 'title', 'units')
             code = self._remove_cross_listings(code)
@@ -58,4 +63,9 @@ class CatalogSpider(scrapy.Spider):
         index = code.find('/')
         if index == -1:
             return code
-        return code[:index]
+        self.logger.warning('Ignored cross-listing: %s', code)
+        # code may look like "ABC 101/DEF 102" or "ABC/DEF 101" or "ABC 101/201"
+        new_code = code[:index]
+        if re.search(r'\d', new_code) is None:
+            new_code += code[code.rfind(' '):]
+        return new_code
