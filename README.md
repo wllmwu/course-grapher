@@ -21,7 +21,7 @@ Then install requirements:
 pip install -r requirements.txt
 ```
 
-To update the requirements file, run `pip freeze`.
+To update the requirements file, run `pip freeze > requirements.txt`.
 
 ## Sources
 
