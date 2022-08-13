@@ -1,0 +1,180 @@
+{"dept": "MAE", "code": "MAE 02", "title": "Introduction to Aerospace Engineering", "units": "4"}
+{"dept": "MAE", "code": "MAE 03", "title": "Introduction to Engineering Graphics and Design", "units": "4"}
+{"dept": "MAE", "code": "MAE 05", "title": "Quantitative Computer Skills", "units": "4"}
+{"dept": "MAE", "code": "MAE 07", "title": "Spatial Visualization", "units": "1"}
+{"dept": "MAE", "code": "MAE 08", "title": "MATLAB Programming for Engineering Analysis", "units": "4"}
+{"dept": "MAE", "code": "MAE 11", "title": "Thermodynamics", "units": "4"}
+{"dept": "MAE", "code": "MAE 20", "title": "Elements of Materials Science", "units": "4"}
+{"dept": "MAE", "code": "MAE 21", "title": "Aerospace Materials Science", "units": "4"}
+{"dept": "MAE", "code": "MAE 30A", "title": "Statics and Introduction to Dynamics", "units": "4"}
+{"dept": "MAE", "code": "MAE 30B", "title": "Dynamics and Vibrations", "units": "4"}
+{"dept": "MAE", "code": "MAE 40", "title": "Linear Circuits", "units": "4"}
+{"dept": "MAE", "code": "MAE 87", "title": "First-year Student Seminar", "units": "1"}
+{"dept": "MAE", "code": "MAE 92A", "title": "Design Competition\u2014Design, Build, and Fly Aircraft", "units": "1"}
+{"dept": "MAE", "code": "MAE 93", "title": "Design Competition\u2014Design, Build, and Test Race Car", "units": "1"}
+{"dept": "MAE", "code": "MAE 98", "title": "Directed Group Study", "units": "2"}
+{"dept": "MAE", "code": "MAE 99H", "title": "Independent Study", "units": "1"}
+{"dept": "MAE", "code": "MAE 101A", "title": "Introductory Fluid Mechanics", "units": "4"}
+{"dept": "MAE", "code": "MAE 101B", "title": "Advanced Fluid Mechanics", "units": "4"}
+{"dept": "MAE", "code": "MAE 101C", "title": "Heat Transfer", "units": "4"}
+{"dept": "MAE", "code": "MAE 101D", "title": "Intermediate Heat Transfer", "units": "4"}
+{"dept": "MAE", "code": "MAE 104", "title": "Aerodynamics", "units": "4"}
+{"dept": "MAE", "code": "MAE 105", "title": "Introduction to Mathematical Physics", "units": "4"}
+{"dept": "MAE", "code": "MAE 107", "title": "Computational Methods in Engineering", "units": "4"}
+{"dept": "MAE", "code": "MAE 108", "title": "Probability and Statistical Methods for Mechanical Engineering", "units": "4"}
+{"dept": "MAE", "code": "MAE 110", "title": "Thermodynamic Systems", "units": "4"}
+{"dept": "MAE", "code": "MAE 113", "title": "Fundamentals of Propulsion", "units": "4"}
+{"dept": "MAE", "code": "MAE 117A", "title": "Elementary Plasma Physics", "units": "4"}
+{"dept": "MAE", "code": "MAE 118", "title": "Introduction to Energy and Environment", "units": "4"}
+{"dept": "MAE", "code": "MAE 119", "title": "Introduction to Renewable Energy: Solar and Wind", "units": "4"}
+{"dept": "MAE", "code": "MAE 120", "title": "Introduction to Nuclear Energy", "units": "4"}
+{"dept": "MAE", "code": "MAE 121", "title": "Air Pollution Transport and Dispersion Modeling", "units": "4"}
+{"dept": "MAE", "code": "MAE 122", "title": "Flow and Transport in the Environment", "units": "4"}
+{"dept": "MAE", "code": "MAE 123", "title": "Introduction to Transport in Porous Media", "units": "4"}
+{"dept": "MAE", "code": "MAE 125", "title": "Building Energy Efficiency", "units": "4"}
+{"dept": "MAE", "code": "MAE 126A", "title": "Environmental Engineering Laboratory", "units": "4"}
+{"dept": "MAE", "code": "MAE 126B", "title": "Environmental Engineering Design", "units": "4"}
+{"dept": "MAE", "code": "MAE 130", "title": "Advanced Vibrations", "units": "4"}
+{"dept": "MAE", "code": "MAE 131A", "title": "Solid Mechanics I", "units": "4"}
+{"dept": "MAE", "code": "MAE 131B", "title": "Fundamentals of Solid Mechanics II", "units": "4"}
+{"dept": "MAE", "code": "MAE 133", "title": "Finite Element Methods in Mechanical and Aerospace Engineering", "units": "4"}
+{"dept": "MAE", "code": "MAE 142", "title": "Dynamics and Control of Aerospace Vehicles", "units": "4"}
+{"dept": "MAE", "code": "MAE 143A", "title": "Signals and Systems", "units": "4"}
+{"dept": "MAE", "code": "MAE 143B", "title": "Linear Control", "units": "4"}
+{"dept": "MAE", "code": "MAE 144", "title": "Embedded Control and Robotics", "units": "4"}
+{"dept": "MAE", "code": "MAE 145", "title": "Introduction to Robotic Planning and Estimation", "units": "4"}
+{"dept": "MAE", "code": "MAE 146", "title": "Introduction to Machine Learning Algorithms", "units": "4"}
+{"dept": "MAE", "code": "MAE 148", "title": "Introduction to Autonomous Vehicles", "units": "4"}
+{"dept": "MAE", "code": "MAE 149", "title": "Sensor Networks", "units": "4"}
+{"dept": "MAE", "code": "MAE 150", "title": "Computer-Aided Design", "units": "4"}
+{"dept": "MAE", "code": "MAE 152", "title": "Introductions to Manual and CNC Machining", "units": "1"}
+{"dept": "MAE", "code": "MAE 154", "title": "Product Design and Entrepreneurship", "units": "4"}
+{"dept": "MAE", "code": "MAE 155A", "title": "Aerospace Engineering Design I", "units": "4"}
+{"dept": "MAE", "code": "MAE 155B", "title": "Aerospace Engineering Design II", "units": "4"}
+{"dept": "MAE", "code": "MAE 156A", "title": "Fundamental Principles of Mechanical Design I", "units": "4"}
+{"dept": "MAE", "code": "MAE 156B", "title": "Fundamental Principles of Mechanical Design II", "units": "4"}
+{"dept": "MAE", "code": "MAE 160", "title": "Mechanical Behavior of Materials", "units": "4"}
+{"dept": "MAE", "code": "MAE 165", "title": "Fatigue and Failure Analysis of Engineering Components", "units": "4"}
+{"dept": "MAE", "code": "MAE 166", "title": "Nanomaterials", "units": "4"}
+{"dept": "MAE", "code": "MAE 167", "title": "Wave Dynamics in Materials", "units": "4"}
+{"dept": "MAE", "code": "MAE 170", "title": "Experimental Techniques", "units": "4"}
+{"dept": "MAE", "code": "MAE 171A", "title": "Mechanical Engineering Laboratory I", "units": "4"}
+{"dept": "MAE", "code": "MAE 171B", "title": "Mechanical Engineering Laboratory II", "units": "4"}
+{"dept": "MAE", "code": "MAE 175A", "title": "Aerospace Engineering Laboratory I", "units": "4"}
+{"dept": "MAE", "code": "MAE 180A", "title": "Spacecraft Guidance I", "units": "4"}
+{"dept": "MAE", "code": "MAE 181", "title": "Space Mission Analysis and Design", "units": "4"}
+{"dept": "MAE", "code": "MAE 184", "title": "Flight Simulation Techniques", "units": "4"}
+{"dept": "MAE", "code": "MAE 190", "title": "Topics in Mechanical and Aerospace Engineering", "units": "4"}
+{"dept": "MAE", "code": "MAE 191", "title": "Topics in Mechanical and Aerospace Engineering with Laboratory", "units": "4"}
+{"dept": "MAE", "code": "MAE 197", "title": "Engineering Internship", "units": "1\u201312"}
+{"dept": "MAE", "code": "MAE 198", "title": "Directed Group Study", "units": "1\u20134"}
+{"dept": "MAE", "code": "MAE 199", "title": "Independent Study for Undergraduates", "units": "4"}
+{"dept": "MAE", "code": "MAE 200", "title": "Controls", "units": "4"}
+{"dept": "MAE", "code": "MAE 201", "title": "Mechanics of Fluids", "units": "4"}
+{"dept": "MAE", "code": "MAE 202", "title": "Thermal Processes", "units": "4"}
+{"dept": "MAE", "code": "MAE 203", "title": "Solid Mechanics and Materials", "units": "4"}
+{"dept": "MAE", "code": "MAE 204", "title": "Robotics", "units": "4"}
+{"dept": "MAE", "code": "MAE 205", "title": "Graduate Seminar", "units": "1"}
+{"dept": "MAE", "code": "MAE 206", "title": "Energy Systems", "units": "4"}
+{"dept": "MAE", "code": "MAE 207", "title": "Topics in Engineering Science", "units": "4"}
+{"dept": "MAE", "code": "MAE 208", "title": "Mathematics for Engineers", "units": "4"}
+{"dept": "MAE", "code": "MAE 209", "title": "Continuum Mechanics Applied to Medicine/Biology", "units": "4"}
+{"dept": "MAE", "code": "MAE 210A", "title": "Fluid Mechanics I", "units": "4"}
+{"dept": "MAE", "code": "MAE 210B", "title": "Fluid Mechanics II", "units": "4"}
+{"dept": "MAE", "code": "MAE 210C", "title": "Fluid Mechanics III", "units": "4"}
+{"dept": "MAE", "code": "MAE 211", "title": "Introduction to Combustion", "units": "4"}
+{"dept": "MAE", "code": "MAE 212", "title": "Introductory Compressible Flow", "units": "4"}
+{"dept": "MAE", "code": "MAE 213", "title": "Mechanics of Propulsion", "units": "4"}
+{"dept": "MAE", "code": "MAE 214A", "title": "Introduction to Turbulence and Turbulent Mixing", "units": "4"}
+{"dept": "MAE", "code": "MAE 217A", "title": "Introduction to Gas Discharge Plasma Physics", "units": "4"}
+{"dept": "MAE", "code": "MAE 217B", "title": "Introduction to Nonmagnetized Hot Plasma Physics", "units": "4"}
+{"dept": "MAE", "code": "MAE 217C", "title": "Introduction to Magnetized Hot Plasma Physics", "units": "4"}
+{"dept": "MAE", "code": "MAE 218A", "title": "Introduction to High Energy Density Physics", "units": "MHD and Pinches"}
+{"dept": "MAE", "code": "MAE 218B", "title": "Introduction to High Energy Density Physics", "units": "Laser-Plasma Interactions"}
+{"dept": "MAE", "code": "MAE 220A", "title": "Physics of Gases", "units": "4"}
+{"dept": "MAE", "code": "MAE 220B", "title": "Physical Gas Dynamics", "units": "4"}
+{"dept": "MAE", "code": "MAE 221A", "title": "Conduction Heat Transfer", "units": "4"}
+{"dept": "MAE", "code": "MAE 221B", "title": "Mass Transfer", "units": "4"}
+{"dept": "MAE", "code": "MAE 221C", "title": "Convection Heat Transfer", "units": "4"}
+{"dept": "MAE", "code": "MAE 221D", "title": "Radiation Heat Transfer", "units": "4"}
+{"dept": "MAE", "code": "MAE 224A", "title": "Environmental Fluid Dynamics I", "units": "4"}
+{"dept": "MAE", "code": "MAE 224B", "title": "Environmental Fluid Dynamics II", "units": "4"}
+{"dept": "MAE", "code": "MAE 225A", "title": "Nanoscale and Microscale Heat Transfer for Energy Conversion Applications I", "units": "4"}
+{"dept": "MAE", "code": "MAE 225B", "title": "Nanoscale and Microscale Heat Transfer for Energy Conversion Applications II", "units": "4"}
+{"dept": "MAE", "code": "MAE 228", "title": "Selected Topics in Plasma Physics", "units": "4"}
+{"dept": "MAE", "code": "MAE 231A", "title": "Foundations of Solid Mechanics", "units": "4"}
+{"dept": "MAE", "code": "MAE 231B", "title": "Elasticity", "units": "4"}
+{"dept": "MAE", "code": "MAE 231C", "title": "Inelasticity", "units": "4"}
+{"dept": "MAE", "code": "MAE 232A", "title": "Finite Element Methods in Solid Mechanics I", "units": "4"}
+{"dept": "MAE", "code": "MAE 232B", "title": "Finite Element Methods in Solid Mechanics II", "units": "4"}
+{"dept": "MAE", "code": "MAE 232C", "title": "Finite Element Methods in Solid Mechanics III", "units": "4"}
+{"dept": "MAE", "code": "MAE 233A", "title": "Fracture Mechanics", "units": "4"}
+{"dept": "MAE", "code": "MAE 233B", "title": "Micromechanics", "units": "4"}
+{"dept": "MAE", "code": "MAE 235", "title": "Computational Techniques in Finite Elements", "units": "4"}
+{"dept": "MAE", "code": "MAE 238", "title": "Stress Waves in Solids", "units": "4"}
+{"dept": "MAE", "code": "MAE 242", "title": "Robot Motion Planning", "units": "4"}
+{"dept": "MAE", "code": "MAE 247", "title": "Cooperative Control of Multi-agent Systems", "units": "4"}
+{"dept": "MAE", "code": "MAE 251", "title": "Structure and Analysis of Solids", "units": "4"}
+{"dept": "MAE", "code": "MAE 253", "title": "Advanced Ceramics", "units": "4"}
+{"dept": "MAE", "code": "MAE 254", "title": "Energy Materials and Applications", "units": "4"}
+{"dept": "MAE", "code": "MAE 255", "title": "Boundary Layer and Renewable Energy Meteorology", "units": "4"}
+{"dept": "MAE", "code": "MAE 256", "title": "Radiative Transfer for Energy Applications", "units": "4"}
+{"dept": "MAE", "code": "MAE 260", "title": "Fundamentals and Applications of Computational Materials Science", "units": "4"}
+{"dept": "MAE", "code": "MAE 261", "title": "Cardiovascular Fluid Mechanics", "units": "4"}
+{"dept": "MAE", "code": "MAE 262", "title": "Biological Fluid Mechanics", "units": "4"}
+{"dept": "MAE", "code": "MAE 263", "title": "Experimental Methods in Cell Mechanics", "units": "4"}
+{"dept": "MAE", "code": "MAE 264", "title": "Mechanics and Thermodynamics of Biological Membranes", "units": "4"}
+{"dept": "MAE", "code": "MAE 265A", "title": "Electronic and Photonic Properties of Materials", "units": "4"}
+{"dept": "MAE", "code": "MAE 265B", "title": "Magnetic Materials: Principles and Applications", "units": "4"}
+{"dept": "MAE", "code": "MAE 266", "title": "Biomaterials", "units": "4"}
+{"dept": "MAE", "code": "MAE 267", "title": "Nanomaterials and Properties", "units": "4"}
+{"dept": "MAE", "code": "MAE 271A", "title": "Thermodynamics of Solids", "units": "4"}
+{"dept": "MAE", "code": "MAE 271B", "title": "Solid State Diffusion and Reaction Kinetics", "units": "4"}
+{"dept": "MAE", "code": "MAE 271C", "title": "Phase Transformations", "units": "4"}
+{"dept": "MAE", "code": "MAE 272", "title": "Imperfections in Solids", "units": "4"}
+{"dept": "MAE", "code": "MAE 273A", "title": "Dynamic Behavior of Materials", "units": "4"}
+{"dept": "MAE", "code": "MAE 276", "title": "Mechanics of Soft Materials", "units": "4"}
+{"dept": "MAE", "code": "MAE 277A", "title": "Complexity and Large-Scale Systems", "units": "4"}
+{"dept": "MAE", "code": "MAE 278A", "title": "Modeling, Simulation, and Analysis", "units": "4"}
+{"dept": "MAE", "code": "MAE 280A", "title": "Linear Systems Theory", "units": "4"}
+{"dept": "MAE", "code": "MAE 280B", "title": "Linear Control Design", "units": "4"}
+{"dept": "MAE", "code": "MAE 281A", "title": "Nonlinear Systems", "units": "4"}
+{"dept": "MAE", "code": "MAE 281B", "title": "Nonlinear Control", "units": "4"}
+{"dept": "MAE", "code": "MAE 283A", "title": "Parametric Identification: Theory and Methods", "units": "4"}
+{"dept": "MAE", "code": "MAE 283B", "title": "Approximate Identification and Control", "units": "4"}
+{"dept": "MAE", "code": "MAE 284", "title": "Robust and Multivariable Control", "units": "4"}
+{"dept": "MAE", "code": "MAE 285", "title": "Design of Micro/Nanoacoustofluidic Devices", "units": "4"}
+{"dept": "MAE", "code": "MAE 286", "title": "Hybrid Systems", "units": "4"}
+{"dept": "MAE", "code": "MAE 287", "title": "Control of Distributed Parameter Systems", "units": "4"}
+{"dept": "MAE", "code": "MAE 288A", "title": "Optimal Control", "units": "4"}
+{"dept": "MAE", "code": "MAE 288B", "title": "Optimal Estimation", "units": "4"}
+{"dept": "MAE", "code": "MAE 289A", "title": "Mathematical Analysis for Applications", "units": "4"}
+{"dept": "MAE", "code": "MAE 289B", "title": "Real Analysis for Applications", "units": "4"}
+{"dept": "MAE", "code": "MAE 289C", "title": "Functional Analysis and Applications", "units": "4"}
+{"dept": "MAE", "code": "MAE 290A", "title": "Numerical Methods for Linear Algebra and ODE Simulation", "units": "4"}
+{"dept": "MAE", "code": "MAE 290B", "title": "Numerical Methods for Differential Equations", "units": "4"}
+{"dept": "MAE", "code": "MAE 290C", "title": "Computational Fluid Dynamics", "units": "4"}
+{"dept": "MAE", "code": "MAE 291", "title": "Design and Mechanics in Computer Technology", "units": "4"}
+{"dept": "MAE", "code": "MAE 292", "title": "Computer-Aided Design and Analysis", "units": "4"}
+{"dept": "MAE", "code": "MAE 293", "title": "Flow Control", "units": "4"}
+{"dept": "MAE", "code": "MAE 294A", "title": "Introduction to Applied Mathematics", "units": "4"}
+{"dept": "MAE", "code": "MAE 294B", "title": "Introduction to Applied Mathematics II", "units": "4"}
+{"dept": "MAE", "code": "MAE 294C", "title": "Introduction to Applied Mathematics III", "units": "4"}
+{"dept": "MAE", "code": "MAE 295", "title": "Field Study", "units": "1\u201312"}
+{"dept": "MAE", "code": "MAE 296", "title": "Independent Study", "units": "1\u20134"}
+{"dept": "MAE", "code": "MAE 298", "title": "Directed Group Study", "units": "1\u20134"}
+{"dept": "MAE", "code": "MAE 299", "title": "Graduate Research", "units": "1\u201312"}
+{"dept": "MAE", "code": "MAE 501", "title": "Teaching Experience", "units": "2"}
+{"dept": "MAE", "code": "MDE 209", "title": "Mechanics and Transport Phenomena for Biomedical Device Design", "units": "4"}
+{"dept": "MAE", "code": "MDE 210", "title": "Medical Devices: Clinical Perspectives", "units": "4"}
+{"dept": "MAE", "code": "MDE 225A", "title": "Biobusiness: Small to Large I", "units": "2"}
+{"dept": "MAE", "code": "MDE 225B", "title": "Biobusiness: Small to Large II", "units": "2"}
+{"dept": "MAE", "code": "MDE 230", "title": "Life Sciences and Technologies", "units": "4"}
+{"dept": "MAE", "code": "MDE 231A", "title": "Fundamentals of Physiology and Anatomy I", "units": "2"}
+{"dept": "MAE", "code": "MDE 231B", "title": "Fundamentals of Physiology and Anatomy II", "units": "2"}
+{"dept": "MAE", "code": "MDE 240", "title": "Embedded System Design", "units": "4"}
+{"dept": "MAE", "code": "MDE 260A", "title": "Design and Implementation of Medical Device Technology I", "units": "1"}
+{"dept": "MAE", "code": "MDE 260B", "title": "Design and Implementation of Medical Device Technology II", "units": "2"}
+{"dept": "MAE", "code": "MDE 260C", "title": "Design and Implementation of Medical Device Technology III", "units": "1"}
+{"dept": "MAE", "code": "MDE 266", "title": "Biomaterials for Medical Device Design", "units": "4"}
+{"dept": "MAE", "code": "MDE 292", "title": "Computer Aided Design of Medical Devices", "units": "4"}

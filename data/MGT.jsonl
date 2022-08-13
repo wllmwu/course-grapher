@@ -1,0 +1,222 @@
+{"dept": "MGT", "code": "MGT 3", "title": "Quantitative Methods in Business", "units": "4"}
+{"dept": "MGT", "code": "MGT 4", "title": "Financial Accounting", "units": "4"}
+{"dept": "MGT", "code": "MGT 5", "title": "Managerial Accounting", "units": "4"}
+{"dept": "MGT", "code": "MGT 12", "title": "Personal Financial Management", "units": "4"}
+{"dept": "MGT", "code": "MGT 16", "title": "Personal Ethics at Work", "units": "4"}
+{"dept": "MGT", "code": "MGT 18", "title": "Managing Diverse Teams", "units": "4"}
+{"dept": "MGT", "code": "MGT 18GS", "title": "Managing Diverse Teams", "units": "4"}
+{"dept": "MGT", "code": "MGT 45", "title": "Principles of Accounting", "units": "4"}
+{"dept": "MGT", "code": "MGT 52", "title": "Test and Measurement in the Workplace", "units": "4"}
+{"dept": "MGT", "code": "MGT 71", "title": "Business Process and Operations Management", "units": "4"}
+{"dept": "MGT", "code": "MGT 100", "title": "Customer Analytics", "units": "4"}
+{"dept": "MGT", "code": "MGT 102", "title": "E-Commerce", "units": "4"}
+{"dept": "MGT", "code": "MGT 103", "title": "Product Marketing and Management", "units": "4"}
+{"dept": "MGT", "code": "MGT 105", "title": "Product Promotion and Brand Management", "units": "4"}
+{"dept": "MGT", "code": "MGT 106", "title": "Sales and Sales Management", "units": "4"}
+{"dept": "MGT", "code": "MGT 107", "title": "Consumer Behavior", "units": "4"}
+{"dept": "MGT", "code": "MGT 108R", "title": "Applied Market Research", "units": "4"}
+{"dept": "MGT", "code": "MGT 109", "title": "Topics in Marketing", "units": "4"}
+{"dept": "MGT", "code": "MGT 112", "title": "Global Business Strategy", "units": "4"}
+{"dept": "MGT", "code": "MGT 117", "title": "Business Law", "units": "4"}
+{"dept": "MGT", "code": "MGT 119", "title": "Topics in Business", "units": "4"}
+{"dept": "MGT", "code": "MGT 121A", "title": "Innovation to Market A", "units": "4"}
+{"dept": "MGT", "code": "MGT 121B", "title": "Innovation to Market B", "units": "4"}
+{"dept": "MGT", "code": "MGT 127", "title": "Innovation and Technology Strategy", "units": "4"}
+{"dept": "MGT", "code": "MGT 128", "title": "Business Innovation and Growth", "units": "4"}
+{"dept": "MGT", "code": "MGT 128R", "title": "Business Innovation and Growth", "units": "4"}
+{"dept": "MGT", "code": "MGT 129", "title": "Topics in Entrepreneurship", "units": "2"}
+{"dept": "MGT", "code": "MGT 131A", "title": "Intermediate Accounting A", "units": "4"}
+{"dept": "MGT", "code": "MGT 131B", "title": "Intermediate Accounting B", "units": "4"}
+{"dept": "MGT", "code": "MGT 132", "title": "Auditing", "units": "4"}
+{"dept": "MGT", "code": "MGT 133", "title": "Advanced Cost Accounting", "units": "4"}
+{"dept": "MGT", "code": "MGT 134", "title": "Federal Taxation\u2014Individuals", "units": "4"}
+{"dept": "MGT", "code": "MGT 135", "title": "Federal Taxation\u2014Companies", "units": "4"}
+{"dept": "MGT", "code": "MGT 136", "title": "Advanced Accounting", "units": "4"}
+{"dept": "MGT", "code": "MGT 137", "title": "Financial Statement Analysis", "units": "4"}
+{"dept": "MGT", "code": "MGT 138", "title": "Information Technology and Accounting", "units": "4"}
+{"dept": "MGT", "code": "MGT 139", "title": "Accounting Information Systems", "units": "4"}
+{"dept": "MGT", "code": "MGT 143", "title": "Forensic Accounting", "units": "4"}
+{"dept": "MGT", "code": "MGT 146", "title": "Ethics in Accounting", "units": "4"}
+{"dept": "MGT", "code": "MGT 147", "title": "Not-For-Profit and Government Accounting", "units": "4"}
+{"dept": "MGT", "code": "MGT 148", "title": "Mergers and Acquisitions", "units": "4"}
+{"dept": "MGT", "code": "MGT 149", "title": "Topics in Accounting", "units": "4"}
+{"dept": "MGT", "code": "MGT 151", "title": "Foundations and Principles of Business Analytics", "units": "4"}
+{"dept": "MGT", "code": "MGT 153", "title": "Business Analytics", "units": "4"}
+{"dept": "MGT", "code": "MGT 154", "title": "Advanced Business Research", "units": "4"}
+{"dept": "MGT", "code": "MGT 157", "title": "Real Estate Securitization", "units": "4"}
+{"dept": "MGT", "code": "MGT 158", "title": "Real Estate and the Tech Sector", "units": "4"}
+{"dept": "MGT", "code": "MGT 160", "title": "Experiments in Firms", "units": "4"}
+{"dept": "MGT", "code": "MGT 162", "title": "Negotiations", "units": "4"}
+{"dept": "MGT", "code": "MGT 162R", "title": "Negotiations", "units": "4"}
+{"dept": "MGT", "code": "MGT 164", "title": "Business and Organizational Leadership", "units": "4"}
+{"dept": "MGT", "code": "MGT 164GS", "title": "Business and Organizational Leadership", "units": "4"}
+{"dept": "MGT", "code": "MGT 166", "title": "Business Ethics and Corporate Responsibility", "units": "4"}
+{"dept": "MGT", "code": "MGT 167", "title": "Social Entrepreneurship", "units": "4"}
+{"dept": "MGT", "code": "MGT 171", "title": "Operations Management", "units": "4"}
+{"dept": "MGT", "code": "MGT 172", "title": "Business Project Management", "units": "4"}
+{"dept": "MGT", "code": "MGT 173", "title": "Project Management: Health Services", "units": "4"}
+{"dept": "MGT", "code": "MGT 175", "title": "Supply Chain Management", "units": "4"}
+{"dept": "MGT", "code": "MGT 176", "title": "Strategic Cost Management", "units": "4"}
+{"dept": "MGT", "code": "MGT 177", "title": "Analytics and Spreadsheet Modeling in Supply Chain Management", "units": "4"}
+{"dept": "MGT", "code": "MGT 179", "title": "Topics in Supply Chain Management", "units": "2"}
+{"dept": "MGT", "code": "MGT 180", "title": "Business Finance", "units": "4"}
+{"dept": "MGT", "code": "MGT 181", "title": "Enterprise Finance", "units": "4"}
+{"dept": "MGT", "code": "MGT 183", "title": "Financial Investments", "units": "4"}
+{"dept": "MGT", "code": "MGT 184", "title": "Money and Banking", "units": "4"}
+{"dept": "MGT", "code": "MGT 185", "title": "Investment Banking", "units": "4"}
+{"dept": "MGT", "code": "MGT 187", "title": "New Venture Finance", "units": "4"}
+{"dept": "MGT", "code": "MGT 189", "title": "Topics in Finance", "units": "4"}
+{"dept": "MGT", "code": "MGT 198", "title": "Directed Group Study", "units": "4"}
+{"dept": "MGT", "code": "MGT 199", "title": "Directed Independent Study", "units": "4"}
+{"dept": "MGT", "code": "MGT 402", "title": "Management Communications", "units": "1"}
+{"dept": "MGT", "code": "MGT 403", "title": "Quantitative Analysis", "units": "4"}
+{"dept": "MGT", "code": "MGT 404", "title": "Accounting", "units": "4"}
+{"dept": "MGT", "code": "MGT 405", "title": "Managerial Economics", "units": "4"}
+{"dept": "MGT", "code": "MGT 406", "title": "Leadership Skills, Values, and Teamwork in Technology Firms", "units": "4"}
+{"dept": "MGT", "code": "MGT 407", "title": "Marketing", "units": "4"}
+{"dept": "MGT", "code": "MGT 408", "title": "Finance", "units": "4"}
+{"dept": "MGT", "code": "MGT 409", "title": "Organizational Strategy", "units": "4"}
+{"dept": "MGT", "code": "MGT 410", "title": "Strategy", "units": "4"}
+{"dept": "MGT", "code": "MGT 412", "title": "Lab to Market: Opportunity and Business Model Analysis", "units": "4"}
+{"dept": "MGT", "code": "MGT 413", "title": "Operations, Information Systems, and Data Analysis", "units": "4"}
+{"dept": "MGT", "code": "MGT 414A", "title": "Lab to Market Workshop I", "units": "4"}
+{"dept": "MGT", "code": "MGT 414B", "title": "Lab to Market Workshop II", "units": "4"}
+{"dept": "MGT", "code": "MGT 416", "title": "Readings in Management", "units": "1 or 2"}
+{"dept": "MGT", "code": "MGT 417", "title": "Current Business Law Issues", "units": "4"}
+{"dept": "MGT", "code": "MGT 419", "title": "Global Business Immersion", "units": "2"}
+{"dept": "MGT", "code": "MGT 420", "title": "Negotiation", "units": "4"}
+{"dept": "MGT", "code": "MGT 421", "title": "CEO, the Board of Directors, and Corporate Governance", "units": "4"}
+{"dept": "MGT", "code": "MGT 422", "title": "Creativity and Innovation", "units": "4"}
+{"dept": "MGT", "code": "MGT 425", "title": "Opportunity and Business Model Analysis", "units": "2"}
+{"dept": "MGT", "code": "MGT 426", "title": "Creating a High-Performing Workplace", "units": "2"}
+{"dept": "MGT", "code": "MGT 427", "title": "Decision Analysis", "units": "4"}
+{"dept": "MGT", "code": "MGT 429", "title": "Topics in Corporate Governance", "units": "2 or 4"}
+{"dept": "MGT", "code": "MGT 430", "title": "Biotechnology Industry, Structure, and Strategy", "units": "4"}
+{"dept": "MGT", "code": "MGT 439", "title": "Topics in Organizational Behavior", "units": "2 or 4"}
+{"dept": "MGT", "code": "MGT 442", "title": "Topics in Decision Sciences", "units": "2 or 4"}
+{"dept": "MGT", "code": "MGT 443", "title": "Topics in International Business", "units": "2 or 4"}
+{"dept": "MGT", "code": "MGT 444", "title": "Topics in Business Strategy", "units": "2 or 4"}
+{"dept": "MGT", "code": "MGT 445", "title": "Regulation and Innovation", "units": "4"}
+{"dept": "MGT", "code": "MGT 447", "title": "Drug Discovery, Development, and Commercialization", "units": "3"}
+{"dept": "MGT", "code": "MGT 449", "title": "Topics in Operations and Technology", "units": "2 or 4"}
+{"dept": "MGT", "code": "MGT 450", "title": "Project Management", "units": "4"}
+{"dept": "MGT", "code": "MGT 451", "title": "Technology and Innovation Strategy", "units": "4"}
+{"dept": "MGT", "code": "MGT 452", "title": "New Product Development", "units": "4"}
+{"dept": "MGT", "code": "MGT 453", "title": "Supply Chain Management", "units": "4"}
+{"dept": "MGT", "code": "MGT 454", "title": "Disruptive Technologies for Health Care", "units": "4"}
+{"dept": "MGT", "code": "MGT 455", "title": "Customer Analytics", "units": "4"}
+{"dept": "MGT", "code": "MGT 459", "title": "Topics in Innovation", "units": "2 or 4"}
+{"dept": "MGT", "code": "MGT 463", "title": "Projects in Technology Commercialization", "units": "4"}
+{"dept": "MGT", "code": "MGT 464", "title": "Projects in Business Innovation", "units": "4"}
+{"dept": "MGT", "code": "MGT 469", "title": "Topics in Accounting", "units": "2 or 4"}
+{"dept": "MGT", "code": "MGT 475", "title": "Research for Marketing Decisions", "units": "4"}
+{"dept": "MGT", "code": "MGT 476", "title": "Marketing Strategy", "units": "4"}
+{"dept": "MGT", "code": "MGT 477", "title": "Consumer Behavior", "units": "4"}
+{"dept": "MGT", "code": "MGT 478", "title": "Marketing Communications", "units": "4"}
+{"dept": "MGT", "code": "MGT 479", "title": "Pricing", "units": "4"}
+{"dept": "MGT", "code": "MGT 480", "title": "Sales and Sales Management", "units": "4"}
+{"dept": "MGT", "code": "MGT 488R", "title": "Applied Market Research", "units": "4"}
+{"dept": "MGT", "code": "MGT 489", "title": "Topics in Marketing", "units": "2 or 4"}
+{"dept": "MGT", "code": "MGT 491", "title": "Investments", "units": "4"}
+{"dept": "MGT", "code": "MGT 492", "title": "Financial Risk Management", "units": "4"}
+{"dept": "MGT", "code": "MGT 495", "title": "Topics in Finance", "units": "2 or 4"}
+{"dept": "MGT", "code": "MGT 496A", "title": "Venture Capital Management I", "units": "2"}
+{"dept": "MGT", "code": "MGT 496B", "title": "Venture Capital Management II", "units": "2"}
+{"dept": "MGT", "code": "MGT 497", "title": "Advanced Management Research Practicum", "units": "1"}
+{"dept": "MGT", "code": "MGT 499", "title": "Individual Directed Study", "units": "1\u20134"}
+{"dept": "MGT", "code": "MGTF 405", "title": "Business Forecasting", "units": "4"}
+{"dept": "MGT", "code": "MGTF 406", "title": "Behavioral Finance", "units": "4"}
+{"dept": "MGT", "code": "MGTF 407", "title": "Valuation in Corporate Finance", "units": "4"}
+{"dept": "MGT", "code": "MGTF 408", "title": "Real Estate Finance", "units": "4"}
+{"dept": "MGT", "code": "MGTF 409", "title": "Mergers, Acquisitions, and Corporate Restructuring", "units": "4"}
+{"dept": "MGT", "code": "MGTF 410", "title": "New Venture Finance", "units": "4"}
+{"dept": "MGT", "code": "MGTF 412", "title": "Financial Statement Analysis", "units": "4"}
+{"dept": "MGT", "code": "MGTF 432", "title": "Portfolio Theory in Practice", "units": "4"}
+{"dept": "MGT", "code": "MGTF 401", "title": "Financial Accounting", "units": "4"}
+{"dept": "MGT", "code": "MGTF 402", "title": "Investment Analysis", "units": "4"}
+{"dept": "MGT", "code": "MGTF 403", "title": "Advanced Financial Risk Management", "units": "4"}
+{"dept": "MGT", "code": "MGTF 404", "title": "Financial Econometrics and Empirical Methods", "units": "4"}
+{"dept": "MGT", "code": "MGTF 405", "title": "Business Forecasting", "units": "4"}
+{"dept": "MGT", "code": "MGTF 406", "title": "Behavioral Finance", "units": "4"}
+{"dept": "MGT", "code": "MGTF 407", "title": "Valuation in Corporate Finance", "units": "4"}
+{"dept": "MGT", "code": "MGTF 408", "title": "Real Estate Finance", "units": "4"}
+{"dept": "MGT", "code": "MGTF 409", "title": "Mergers, Acquisitions, and Corporate Restructuring", "units": "4"}
+{"dept": "MGT", "code": "MGTF 410", "title": "New Venture Finance", "units": "4"}
+{"dept": "MGT", "code": "MGTF 411", "title": "Stochastic Calculus and Continuous Time Finance", "units": "4"}
+{"dept": "MGT", "code": "MGTF 412", "title": "Financial Statement Analysis", "units": "4"}
+{"dept": "MGT", "code": "MGTF 413", "title": "Computational Finance Methods", "units": "4"}
+{"dept": "MGT", "code": "MGTF 414", "title": "Analyzing Large Data", "units": "4"}
+{"dept": "MGT", "code": "MGTF 415", "title": "Collecting and Analyzing Financial Data", "units": "4"}
+{"dept": "MGT", "code": "MGTF 416", "title": "Professional Seminars in Finance", "units": "1"}
+{"dept": "MGT", "code": "MGTF 417", "title": "Professional Communications in Finance", "units": "1"}
+{"dept": "MGT", "code": "MGTF 418", "title": "Preparing for the CFA Exam", "units": "2"}
+{"dept": "MGT", "code": "MGTF 420", "title": "Money and Banking", "units": "4"}
+{"dept": "MGT", "code": "MGTF 430", "title": "Asset Management", "units": "4"}
+{"dept": "MGT", "code": "MGTF 432", "title": "Portfolio Theory in Practice", "units": "4"}
+{"dept": "MGT", "code": "MGTF 458", "title": "Financial Innovations for Economic Development", "units": "4"}
+{"dept": "MGT", "code": "MGTF 490", "title": "Capstone: Applied Finance Project", "units": "4"}
+{"dept": "MGT", "code": "MGTF 495", "title": "Special Topics in Finance", "units": "2\u20134"}
+{"dept": "MGT", "code": "MGTA 401", "title": "Professional Seminar", "units": "1"}
+{"dept": "MGT", "code": "MGTA 414", "title": "Web Data Analytics", "units": "2"}
+{"dept": "MGT", "code": "MGTA 415", "title": "Analyzing Unstructured Data", "units": "4"}
+{"dept": "MGT", "code": "MGTA 451", "title": "Business Analytics in Marketing, Finance, and Operations", "units": "4"}
+{"dept": "MGT", "code": "MGTA 452", "title": "Collecting and Analyzing Large Data", "units": "4"}
+{"dept": "MGT", "code": "MGTA 453", "title": "Business Analytics", "units": "4"}
+{"dept": "MGT", "code": "MGTA 454", "title": "Business Analytics Capstone Project", "units": "4"}
+{"dept": "MGT", "code": "MGTA 454A", "title": "Business Analytics Capstone Project I", "units": "2"}
+{"dept": "MGT", "code": "MGTA 454B", "title": "Business Analytics Capstone Project II", "units": "2"}
+{"dept": "MGT", "code": "MGTA 455", "title": "Customer Analytics", "units": "4"}
+{"dept": "MGT", "code": "MGTA 456", "title": "Supply Chain Analytics", "units": "4"}
+{"dept": "MGT", "code": "MGTA 457", "title": "Business Intelligence Systems", "units": "2"}
+{"dept": "MGT", "code": "MGTA 458", "title": "Experiments in Firms", "units": "4"}
+{"dept": "MGT", "code": "MGTA 459", "title": "Managerial Judgment and Decision-Making", "units": "4"}
+{"dept": "MGT", "code": "MGTA 460", "title": "Business Analytics Project Management", "units": "2"}
+{"dept": "MGT", "code": "MGTA 461", "title": "Web Mining and Recommender Systems", "units": "4"}
+{"dept": "MGT", "code": "MGTA 462", "title": "Big Data Technology and Business", "units": "4"}
+{"dept": "MGT", "code": "MGTA 479", "title": "Pricing Analytics", "units": "4"}
+{"dept": "MGT", "code": "MGTP 401", "title": "Professional Seminar", "units": "1"}
+{"dept": "MGT", "code": "MGTP 414", "title": "Business Law", "units": "4"}
+{"dept": "MGT", "code": "MGTP 416", "title": "Ethics in Accounting and Business", "units": "4"}
+{"dept": "MGT", "code": "MGTP 421", "title": "Internal Control over Financial Reporting", "units": "4"}
+{"dept": "MGT", "code": "MGTP 422", "title": "Systems, Processes, and Technology for Accounting", "units": "4"}
+{"dept": "MGT", "code": "MGTP 424", "title": "Professional Research and Communication for Accountants", "units": "4"}
+{"dept": "MGT", "code": "MGTP 429", "title": "Advanced Topics in Accounting and Auditing", "units": "4"}
+{"dept": "MGT", "code": "MGTP 431", "title": "Not-for-profit and Government Accounting", "units": "4"}
+{"dept": "MGT", "code": "MGTP 432", "title": "Advanced Auditing and Forensic Accounting", "units": "4"}
+{"dept": "MGT", "code": "MGTP 433", "title": "Current Issues in the Practice and Regulation of Auditing", "units": "4"}
+{"dept": "MGT", "code": "MGTP 434", "title": "Financial Statement Analysis", "units": "4"}
+{"dept": "MGT", "code": "MGTP 441", "title": "Corporate Valuation and Forecasting", "units": "4"}
+{"dept": "MGT", "code": "MGTP 443", "title": "Global Taxation and Business Strategy", "units": "4"}
+{"dept": "MGT", "code": "MGTP 444", "title": "Issues in Financial Reporting for Global Business: Mergers, Acquisitions, and Complex Financial Structures", "units": "4"}
+{"dept": "MGT", "code": "MGTP 451", "title": "Accounting Data Analytics", "units": "4"}
+{"dept": "MGT", "code": "MGTP 452", "title": "Strategic Cost Management and Technology", "units": "4"}
+{"dept": "MGT", "code": "MGTP 459", "title": "Special Topics in Taxation", "units": "2 or 4"}
+{"dept": "MGT", "code": "MGTP 495", "title": "Special Topic in Accounting", "units": "2 or 4"}
+{"dept": "MGT", "code": "MGT 208A", "title": "Introduction to Management Research A", "units": "4"}
+{"dept": "MGT", "code": "MGT 208B", "title": "Introduction to Management Research B", "units": "4"}
+{"dept": "MGT", "code": "MGT 208C", "title": "Introduction to Management Research C", "units": "4"}
+{"dept": "MGT", "code": "MGT 225", "title": "Behavioral Economics", "units": "4"}
+{"dept": "MGT", "code": "MGT 226", "title": "Theory of Industrial Organization and Business Strategy", "units": "4"}
+{"dept": "MGT", "code": "MGT 227", "title": "Topics in Behavioral Economics Research", "units": "4"}
+{"dept": "MGT", "code": "MGT 228", "title": "Experiments in Organizations", "units": "4"}
+{"dept": "MGT", "code": "MGT 245", "title": "Theory of Technology and Operations Management", "units": "4"}
+{"dept": "MGT", "code": "MGT 246", "title": "Research in Management and Technology Strategy", "units": "4"}
+{"dept": "MGT", "code": "MGT 248", "title": "Topics in Innovation and Operations Management Research", "units": "4"}
+{"dept": "MGT", "code": "MGT 249", "title": "Topics in Technology Strategy and Information Systems Research", "units": "4"}
+{"dept": "MGT", "code": "MGT 255", "title": "Psychology and Decision Making", "units": "4"}
+{"dept": "MGT", "code": "MGT 256", "title": "Consumer Behavior Research", "units": "4"}
+{"dept": "MGT", "code": "MGT 257", "title": "Behavior in Organizations", "units": "4"}
+{"dept": "MGT", "code": "MGT 258", "title": "Topics in Social Psychology", "units": "4"}
+{"dept": "MGT", "code": "MGT 259", "title": "Topics in Management", "units": "4"}
+{"dept": "MGT", "code": "MGT 260", "title": "Quantitative Methods in Marketing", "units": "4"}
+{"dept": "MGT", "code": "MGT 262", "title": "Topics in Marketing Research", "units": "4"}
+{"dept": "MGT", "code": "MGT 285", "title": "Financial Economics", "units": "4"}
+{"dept": "MGT", "code": "MGT 286", "title": "Continuous-Time Finance", "units": "4"}
+{"dept": "MGT", "code": "MGT 287", "title": "Empirical Finance", "units": "4"}
+{"dept": "MGT", "code": "MGT 289", "title": "Topics in Financial Economics Research", "units": "4"}
+{"dept": "MGT", "code": "MGT 293A", "title": "Literature Review and Critique Paper", "units": "4"}
+{"dept": "MGT", "code": "MGT 293B", "title": "Literature Review and Critique Presentation", "units": "4"}
+{"dept": "MGT", "code": "MGT 293C", "title": "Original Research Paper", "units": "4"}
+{"dept": "MGT", "code": "MGT 293D", "title": "Original Research Presentation", "units": "4"}
+{"dept": "MGT", "code": "MGT 296", "title": "Dissertation", "units": "4\u201312"}
+{"dept": "MGT", "code": "MGT 299", "title": "Advanced Field Advising", "units": "4"}

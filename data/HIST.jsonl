@@ -1,0 +1,450 @@
+{"dept": "HIST", "code": "HILD 2A-B-C", "title": ". United States", "units": "4-4-4"}
+{"dept": "HIST", "code": "HILD 7A-B-C", "title": ". Race and Ethnicity in the United States", "units": "4-4-4"}
+{"dept": "HIST", "code": "HILD 7A", "title": "Race and Ethnicity in the United States", "units": "4"}
+{"dept": "HIST", "code": "HILD 7B", "title": "Race and Ethnicity in the United States", "units": "4"}
+{"dept": "HIST", "code": "HILD 7C", "title": "Race and Ethnicity in the United States", "units": "4"}
+{"dept": "HIST", "code": "HILD 7GS", "title": "Race and Ethnicity in the Global World", "units": "4"}
+{"dept": "HIST", "code": "HILD 8GS", "title": "Race and Ethnicity in the United States", "units": "4"}
+{"dept": "HIST", "code": "HILD 10", "title": "East Asia: The Great Tradition", "units": "4"}
+{"dept": "HIST", "code": "HILD 11", "title": "East Asia and the West, 1279\u20131911", "units": "4"}
+{"dept": "HIST", "code": "HILD 12", "title": "Twentieth-Century East Asia", "units": "4"}
+{"dept": "HIST", "code": "HILD 14", "title": "Film and History in Latin America", "units": "4"}
+{"dept": "HIST", "code": "HILD 20", "title": "World History I: Ancient to Medieval", "units": "4"}
+{"dept": "HIST", "code": "HILD 20R", "title": "World History I: Ancient to Medieval", "units": "4"}
+{"dept": "HIST", "code": "HILD 30", "title": "History of Public Health", "units": "4"}
+{"dept": "HIST", "code": "HILD 40", "title": "Anthropocene 1: The Neolithic", "units": "4"}
+{"dept": "HIST", "code": "HILD 41", "title": "Anthropocene 2: The Columbian Exchange, 1400\u20131750", "units": "4"}
+{"dept": "HIST", "code": "HILD 42", "title": "Anthropocene 3: The Industrial Revolutions", "units": "4"}
+{"dept": "HIST", "code": "HILD 43", "title": "Anthropocene 4: The Great Acceleration, 1945\u2013Present", "units": "4"}
+{"dept": "HIST", "code": "HILD 50", "title": "Introduction to Law and Society", "units": "4"}
+{"dept": "HIST", "code": "HIAF 111", "title": "Modern Africa since 1880", "units": "4"}
+{"dept": "HIST", "code": "HIAF 112", "title": "West Africa since 1880", "units": "4"}
+{"dept": "HIST", "code": "HIAF 113", "title": "Small Wars and the Global Order: Africa and Asia", "units": "4"}
+{"dept": "HIST", "code": "HIAF 120", "title": "History of South Africa", "units": "4"}
+{"dept": "HIST", "code": "HIAF 123", "title": "West Africa from Earliest Times to 1800", "units": "4"}
+{"dept": "HIST", "code": "HIAF 161", "title": "Special Topics in African History", "units": "4"}
+{"dept": "HIST", "code": "HIAF 199", "title": "Independent Study in African History", "units": "4"}
+{"dept": "HIST", "code": "HIAF 261", "title": "Special Topics in African History", "units": "4"}
+{"dept": "HIST", "code": "HIEA 111", "title": "Japan: Twelfth- to Mid-Nineteenth Centuries", "units": "4"}
+{"dept": "HIST", "code": "HIEA 112", "title": "Japan: From the Mid-Nineteenth Century through the US Occupation", "units": "4"}
+{"dept": "HIST", "code": "HIEA 113", "title": "The Fifteen-Year War in Asia and the Pacific", "units": "4"}
+{"dept": "HIST", "code": "HIEA 114", "title": "Postwar Japan", "units": "4"}
+{"dept": "HIST", "code": "HIEA 115", "title": "Social and Cultural History of Twentieth-Century Japan", "units": "4"}
+{"dept": "HIST", "code": "HIEA 116", "title": "Japan-U.S. Relations", "units": "4"}
+{"dept": "HIST", "code": "HIEA 117", "title": "Ghosts in Japan", "units": "4"}
+{"dept": "HIST", "code": "HIEA 122", "title": "Late Imperial Chinese Culture and Society", "units": "4"}
+{"dept": "HIST", "code": "HIEA 123", "title": "China under the Ming Dynasty", "units": "1368\u20131644"}
+{"dept": "HIST", "code": "HIEA 124", "title": "Life in Ming China", "units": "1369\u20131644"}
+{"dept": "HIST", "code": "HIEA 125", "title": "Women and Gender in East Asia", "units": "4"}
+{"dept": "HIST", "code": "HIEA 126", "title": "The Silk Road in Chinese and Japanese History", "units": "4"}
+{"dept": "HIST", "code": "HIEA 129", "title": "Faces of the Chinese Past", "units": "4"}
+{"dept": "HIST", "code": "HIEA 130", "title": "End of the Chinese Empire, 1800\u20131911", "units": "4"}
+{"dept": "HIST", "code": "HIEA 131", "title": "China in War and Revolution, 1911\u20131949", "units": "4"}
+{"dept": "HIST", "code": "HIEA 132", "title": "Mao\u2019s China, 1949\u20131976", "units": "4"}
+{"dept": "HIST", "code": "HIEA 133", "title": "Twentieth-Century China: Cultural History", "units": "4"}
+{"dept": "HIST", "code": "HIEA 134", "title": "History of Thought and Religion in China: Confucianism", "units": "4"}
+{"dept": "HIST", "code": "HIEA 137", "title": "Women and the Family in Chinese History", "units": "4"}
+{"dept": "HIST", "code": "HIEA 138", "title": "Women and the Chinese Revolution", "units": "4"}
+{"dept": "HIST", "code": "HIEA 139GS", "title": "An Introduction to Southeast Asia", "units": "circa 800\u20131900"}
+{"dept": "HIST", "code": "HIEA 140", "title": "China since 1978", "units": "4"}
+{"dept": "HIST", "code": "HIEA 144", "title": "Topics in East Asian History", "units": "4"}
+{"dept": "HIST", "code": "HIEA 150", "title": "Modern Korea, 1800\u20131945", "units": "4"}
+{"dept": "HIST", "code": "HIEA 151", "title": "The Two Koreas, 1945\u2013Present", "units": "4"}
+{"dept": "HIST", "code": "HIEA 152", "title": "History and Cultures of the Korean Diaspora", "units": "4"}
+{"dept": "HIST", "code": "HIEA 153", "title": "Social and Cultural History of Twentieth-Century Korea", "units": "4"}
+{"dept": "HIST", "code": "HIEA 154", "title": "Korean History Through Film", "units": "4"}
+{"dept": "HIST", "code": "HIEA 155", "title": "China and the Environment", "units": "4"}
+{"dept": "HIST", "code": "HIEA 163", "title": ". Cinema and Society in Twentieth-Century China", "units": "4"}
+{"dept": "HIST", "code": "HIEA 164", "title": ". Seminar in Late Imperial Chinese History", "units": "4"}
+{"dept": "HIST", "code": "HIEA 166", "title": ". Creating Ming Histories", "units": "4"}
+{"dept": "HIST", "code": "HIEA 168", "title": ". Topics in Classical and Medieval Chinese History", "units": "4"}
+{"dept": "HIST", "code": "HIEA 170", "title": "Love and Marriage in Chinese History", "units": "4"}
+{"dept": "HIST", "code": "HIEA 171", "title": ". Society and Culture in Premodern China", "units": "4"}
+{"dept": "HIST", "code": "HIEA 180", "title": "Topics in Modern Korean History", "units": "4"}
+{"dept": "HIST", "code": "HIEA 190M", "title": "Special Topics in East Asian Modern History", "units": "4"}
+{"dept": "HIST", "code": "HIEA 198", "title": "Directed Group Study", "units": "4"}
+{"dept": "HIST", "code": "HIEA 199", "title": "Independent Study in East Asian History", "units": "4"}
+{"dept": "HIST", "code": "HIEA 270", "title": "Love and Marriage in Chinese History", "units": "4"}
+{"dept": "HIST", "code": "HIEA 280", "title": "Topics in Modern Korean History", "units": "4"}
+{"dept": "HIST", "code": "HIEA 292", "title": "Chinese Classics Reading Group", "units": "4"}
+{"dept": "HIST", "code": "HIEU 102", "title": "Roman History", "units": "4"}
+{"dept": "HIST", "code": "HIEU 102A", "title": "Ancient Roman Civilization", "units": "4"}
+{"dept": "HIST", "code": "HIEU 103", "title": "Decline and Fall of the Roman Empire", "units": "4"}
+{"dept": "HIST", "code": "HIEU 104", "title": "Byzantine Empire", "units": "4"}
+{"dept": "HIST", "code": "HIEU 105", "title": "The Early Christian Church", "units": "4"}
+{"dept": "HIST", "code": "HIEU 105S", "title": "Devotions, Doctrines, and Divisions: Religion in Early Modern European Society", "units": "4"}
+{"dept": "HIST", "code": "HIEU 106", "title": "Egypt, Greece, and Rome", "units": "4"}
+{"dept": "HIST", "code": "HIEU 106GS", "title": "Constantinople: Imperial Capital", "units": "4"}
+{"dept": "HIST", "code": "HIEU 107", "title": "Pagan Europe and its Christian Aftermath", "units": "4"}
+{"dept": "HIST", "code": "HIEU 108", "title": "Sex and Politics in the Ancient World", "units": "4"}
+{"dept": "HIST", "code": "HIEU 109", "title": "Blood, Soil, Boundaries: Nationalism in Europe", "units": "4"}
+{"dept": "HIST", "code": "HIEU 111", "title": "Europe in the Middle Ages", "units": "4"}
+{"dept": "HIST", "code": "HIEU 112S", "title": "Ancient Explorers", "units": "4"}
+{"dept": "HIST", "code": "HIEU 113", "title": "The History of the Russian Empire, 1775\u20131917", "units": "4"}
+{"dept": "HIST", "code": "HIEU 114", "title": "The History of the Soviet Union and Russia, 1917 to the Present", "units": "4"}
+{"dept": "HIST", "code": "HIEU 114GS", "title": "Athens: A City in History", "units": "4"}
+{"dept": "HIST", "code": "HIEU 115", "title": "The Pursuit of the Millennium", "units": "4"}
+{"dept": "HIST", "code": "HIEU 116A", "title": "Greece and the Balkans in the Age of Ottoman Expansion", "units": "4"}
+{"dept": "HIST", "code": "HIEU 116B", "title": "Greece and the Balkans in the Age of Nationalism", "units": "4"}
+{"dept": "HIST", "code": "HIEU 116C", "title": "Greece and the Balkans during the Twentieth Century", "units": "4"}
+{"dept": "HIST", "code": "HIEU 116CD", "title": "Greece and the Balkans during the Twentieth Century", "units": "4"}
+{"dept": "HIST", "code": "HIEU 117A", "title": "Greece and the Balkans in the Age of Nationalism", "units": "4"}
+{"dept": "HIST", "code": "HIEU 117B", "title": "Greece and the Balkans during the Twentieth Century", "units": "4"}
+{"dept": "HIST", "code": "HIEU 118", "title": "Americanization in Europe", "units": "4"}
+{"dept": "HIST", "code": "HIEU 119", "title": "Death and Afterlife in the Middle Ages", "units": "4"}
+{"dept": "HIST", "code": "HIEU 120", "title": "The Renaissance in Italy", "units": "4"}
+{"dept": "HIST", "code": "HIEU 121GS", "title": "Scotland and the English Civil War, 1601\u20131689", "units": "4"}
+{"dept": "HIST", "code": "HIEU 122", "title": "Ancient Greece in the Archaic Period", "units": "4"}
+{"dept": "HIST", "code": "HIEU 123", "title": "Ancient Greece in the Classical Period", "units": "4"}
+{"dept": "HIST", "code": "HIEU 123GS", "title": "Origins of Law and Religious Freedom in England and America, 1530\u20131971", "units": "4"}
+{"dept": "HIST", "code": "HIEU 124", "title": "The Age of Alexander: Hellenistic History from Alexander the Great to Cleopatra", "units": "?"}
+{"dept": "HIST", "code": "HIEU 124GS", "title": "The City Italy", "units": "4"}
+{"dept": "HIST", "code": "HIEU 125", "title": "Reformation Europe", "units": "4"}
+{"dept": "HIST", "code": "HIEU 128", "title": "Europe since 1945", "units": "4"}
+{"dept": "HIST", "code": "HIEU 129", "title": "Paris, Past and Present", "units": "4"}
+{"dept": "HIST", "code": "HIEU 130", "title": "Europe in the Eighteenth Century", "units": "4"}
+{"dept": "HIST", "code": "HIEU 131", "title": "The French Revolution: 1789\u20131814", "units": "4"}
+{"dept": "HIST", "code": "HIEU 134", "title": "The Formation of the Russian Empire, 800\u20131855", "units": "4"}
+{"dept": "HIST", "code": "HIEU 135", "title": "Sun, Sea, Sand, and Sex:\u00a0Tourism and Tourists in the Contemporary World", "units": "4"}
+{"dept": "HIST", "code": "HIEU 135GS", "title": "Sun, Sea, Sand, and Sex: Tourism and Tourists in the Contemporary World", "units": "4"}
+{"dept": "HIST", "code": "HIEU 136B", "title": "European Society and Social Thought, 1870\u20131989", "units": "4"}
+{"dept": "HIST", "code": "HIEU 137", "title": "History of Colonialism: From New Imperialism to Decolonization", "units": "4"}
+{"dept": "HIST", "code": "HIEU 139", "title": "Sex and Gender from the Renaissance to the French Revolution", "units": "4"}
+{"dept": "HIST", "code": "HIEU 140", "title": "History of Women and Gender in Europe: From the French Revolution to the Present", "units": "4"}
+{"dept": "HIST", "code": "HIEU 140GS", "title": "Art and Society in Nineteenth-Century London", "units": "4"}
+{"dept": "HIST", "code": "HIEU 141", "title": "European Diplomatic History, 1870\u20131945", "units": "4"}
+{"dept": "HIST", "code": "HIEU 142", "title": "European Intellectual History, 1780\u20131870", "units": "4"}
+{"dept": "HIST", "code": "HIEU 143", "title": "European Intellectual History, 1870\u20131945", "units": "4"}
+{"dept": "HIST", "code": "HIEU 144", "title": "Topics in European History", "units": "4"}
+{"dept": "HIST", "code": "HIEU 145", "title": "The Holocaust as Public History", "units": "4"}
+{"dept": "HIST", "code": "HIEU 146", "title": "Fascism, Communism, and the Crisis of Liberal Democracy: Europe 1919\u20131945", "units": "4"}
+{"dept": "HIST", "code": "HIEU 146S", "title": "The Meaning of Life in the Modern World: Existentialism, Fascism, and Genocide", "units": "4"}
+{"dept": "HIST", "code": "HIEU 147", "title": "Europe and the World I, 1808\u20131918", "units": "4"}
+{"dept": "HIST", "code": "HIEU 148", "title": "Europe and the World II, 1918\u2013Present", "units": "4"}
+{"dept": "HIST", "code": "HIEU 149", "title": "Land of Three Faiths: Jews, Muslims, and Christians in Medieval Spain and Portugal", "units": "4"}
+{"dept": "HIST", "code": "HIEU 150", "title": "Modern British History", "units": "4"}
+{"dept": "HIST", "code": "HIEU 151", "title": "Spain since 1808", "units": "4"}
+{"dept": "HIST", "code": "HIEU 151GS", "title": "History of Modern Spain, 1808\u2013Present", "units": "4"}
+{"dept": "HIST", "code": "HIEU 152", "title": "The Worst of Times: Everyday Life in Authoritarian and Dictatorial Societies", "units": "4"}
+{"dept": "HIST", "code": "HIEU 153", "title": "Topics in Modern European History", "units": "4"}
+{"dept": "HIST", "code": "HIEU 154", "title": "Modern German History: From Bismarck to Hitler", "units": "4"}
+{"dept": "HIST", "code": "HIEU 154GS", "title": "Modern Germany: From Bismarck to Hitler", "units": "4"}
+{"dept": "HIST", "code": "HIEU 154XL", "title": "HIEU 154 Foreign Language Section", "units": "4"}
+{"dept": "HIST", "code": "HIEU 158", "title": "Why Hitler? How Auschwitz?", "units": "4"}
+{"dept": "HIST", "code": "HIEU 159", "title": "Three Centuries of Zionism, 1648\u20131948", "units": "4"}
+{"dept": "HIST", "code": "HIEU 159S", "title": "Three Centuries of Zionism 1648\u20131948", "units": "4"}
+{"dept": "HIST", "code": "HIEU 160", "title": "Topics in Ancient Greek History", "units": "4"}
+{"dept": "HIST", "code": "HIEU 161", "title": ". Topics in Roman History", "units": "4"}
+{"dept": "HIST", "code": "HIEU 162", "title": ". Topics in Byzantine History", "units": "4"}
+{"dept": "HIST", "code": "HIEU 163", "title": ". Special Topics in Medieval History", "units": "4"}
+{"dept": "HIST", "code": "HIEU 164", "title": ". Special Topics in Early Modern Europe", "units": "4"}
+{"dept": "HIST", "code": "HIEU 166", "title": "Living on the Edge: Mediterranean Environmental History", "units": "4"}
+{"dept": "HIST", "code": "HIEU 167", "title": ". Special Topics in the Social History of Early Modern Europe", "units": "4"}
+{"dept": "HIST", "code": "HIEU 171", "title": ". Special Topics in Twentieth-Century Europe", "units": "4"}
+{"dept": "HIST", "code": "HIEU 172", "title": ". Comparative European Fascism", "units": "4"}
+{"dept": "HIST", "code": "HIEU 174", "title": ". The Holocaust: A Psychological Approach", "units": "4"}
+{"dept": "HIST", "code": "HIEU 176", "title": ". Politics in the Jewish Past", "units": "4"}
+{"dept": "HIST", "code": "HIEU 178", "title": ". Soviet History", "units": "4"}
+{"dept": "HIST", "code": "HIEU 181", "title": ". Immigration, Ethnicity, and Identity in Contemporary European Society", "units": "4"}
+{"dept": "HIST", "code": "HIEU 182", "title": ". The Muslim Experience in Contemporary European Society", "units": "4"}
+{"dept": "HIST", "code": "HIEU 183", "title": ". Social History and Anthropology of the Mediterranean", "units": "4"}
+{"dept": "HIST", "code": "HIEU 184", "title": ". Yugoslavia: Before, During, and After", "units": "4"}
+{"dept": "HIST", "code": "HIEU 198", "title": "Directed Group Study", "units": "1, 2, 3, 4"}
+{"dept": "HIST", "code": "HIEU 199", "title": "Independent Study in European History", "units": "4"}
+{"dept": "HIST", "code": "HIEU 260", "title": "Topics in Ancient Greek History", "units": "4"}
+{"dept": "HIST", "code": "HIGL 101", "title": "Jews, Christians, and Muslims", "units": "4"}
+{"dept": "HIST", "code": "HIGL 104", "title": "The Jews and Judaism in the Ancient and Medieval Worlds", "units": "4"}
+{"dept": "HIST", "code": "HIGL 114", "title": "History of Modern Vietnam", "units": "4"}
+{"dept": "HIST", "code": "HIGL 127", "title": "Sport in the Modern World", "units": "4"}
+{"dept": "HIST", "code": "HILA 100", "title": "Conquest and Empire: The Americas", "units": "4"}
+{"dept": "HIST", "code": "HILA 100D", "title": "Latin America: Colonial Transformation", "units": "4"}
+{"dept": "HIST", "code": "HILA 101", "title": "Nation-State Formation, Ethnicity, and Violence in Latin America", "units": "4"}
+{"dept": "HIST", "code": "HILA 102", "title": "Latin America in the Twentieth Century", "units": "4"}
+{"dept": "HIST", "code": "HILA 102D", "title": "Latin America in the Twentieth Century", "units": "4"}
+{"dept": "HIST", "code": "HILA 103", "title": "Revolution in Modern Latin America", "units": "4"}
+{"dept": "HIST", "code": "HILA 104", "title": "Drugs in Latin America", "units": "4"}
+{"dept": "HIST", "code": "HILA 113", "title": "Lord and Peasant in Latin America", "units": "4"}
+{"dept": "HIST", "code": "HILA 113D", "title": "Lord and Peasant in Latin America", "units": "4"}
+{"dept": "HIST", "code": "HILA 114", "title": "Dictatorships in Latin America", "units": "4"}
+{"dept": "HIST", "code": "HILA 114D", "title": "Dictatorship in Latin America", "units": "4"}
+{"dept": "HIST", "code": "HILA 117", "title": "Indians, Blacks, and Whites: Family Relations in Latin America", "units": "4"}
+{"dept": "HIST", "code": "HILA 118", "title": "Subverting Sovereignty: US Aggression in Latin America, 1898\u2013Present", "units": "4"}
+{"dept": "HIST", "code": "HILA 119", "title": "Central America: Popular Struggle, Political Change, and US Intervention", "units": "?"}
+{"dept": "HIST", "code": "HILA 121A", "title": "History of Brazil through 1889", "units": "4"}
+{"dept": "HIST", "code": "HILA 121B", "title": "History of Brazil, 1889 to Present", "units": "4"}
+{"dept": "HIST", "code": "HILA 122", "title": "Cuba: From Colony to Socialist Republic", "units": "4"}
+{"dept": "HIST", "code": "HILA 123", "title": "The Incas and Their Ancestors", "units": "4"}
+{"dept": "HIST", "code": "HILA 124", "title": "The History of Chile 1880\u2013Present", "units": "4"}
+{"dept": "HIST", "code": "HILA 124A", "title": "History of Women and Gender in Latin America", "units": "4"}
+{"dept": "HIST", "code": "HILA 126", "title": "From Columbus to Castro: Caribbean Culture and Society", "units": "4"}
+{"dept": "HIST", "code": "HILA 131", "title": "A History of Mexico", "units": "4"}
+{"dept": "HIST", "code": "HILA 132", "title": "Modern Mexico: From Revolution to Drug War Violence", "units": "4"}
+{"dept": "HIST", "code": "HILA 132D", "title": "Modern Mexico: From Revolution to Drug War Violence", "units": "4"}
+{"dept": "HIST", "code": "HILA 132GS", "title": "Modern Mexico: From Revolution to Drug War Violence", "units": "4"}
+{"dept": "HIST", "code": "HILA 133S", "title": "Guerrillas and Revolution in Latin America", "units": "4"}
+{"dept": "HIST", "code": "HILA 134", "title": "Indians of Colonial Latin America", "units": "4"}
+{"dept": "HIST", "code": "HILA 144", "title": "Topics in Latin American History", "units": "4"}
+{"dept": "HIST", "code": "HILA 145", "title": "People and Nature in Amazonia: An Unwritten History", "units": "4"}
+{"dept": "HIST", "code": "HILA 161", "title": ". History of Women in Latin America", "units": "4"}
+{"dept": "HIST", "code": "HILA 162", "title": ". Special Topics in Latin American History", "units": "4"}
+{"dept": "HIST", "code": "HILA 163", "title": ". The History of Chile 1880\u2013Present", "units": "4"}
+{"dept": "HIST", "code": "HILA 164", "title": ". Women\u2019s Work and Family Life in Latin America", "units": "4"}
+{"dept": "HIST", "code": "HILA 167", "title": ". Scholarship on Latin American History in the Colonial Period", "units": "4"}
+{"dept": "HIST", "code": "HILA 168", "title": ". Scholarship on Latin American History in the Nineteenth Century", "units": "4"}
+{"dept": "HIST", "code": "HILA 169", "title": ". Scholarship on Latin American History in the Twentieth Century", "units": "4"}
+{"dept": "HIST", "code": "HILA 171", "title": ". Topics in Latin American History Since 1910", "units": "4"}
+{"dept": "HIST", "code": "HILA 198", "title": "Directed Group Study", "units": "4"}
+{"dept": "HIST", "code": "HILA 199", "title": "Independent Study in Latin American History", "units": "4"}
+{"dept": "HIST", "code": "HINE 100", "title": "The Hebrew Bible and History", "units": "4"}
+{"dept": "HIST", "code": "HINE 101", "title": "The Religion of Ancient Israel", "units": "4"}
+{"dept": "HIST", "code": "HINE 108", "title": "The Middle East before Islam", "units": "4"}
+{"dept": "HIST", "code": "HINE 109", "title": "History of the Middle East", "units": "1200\u20131800"}
+{"dept": "HIST", "code": "HINE 110", "title": "Jesus, the Gospels, and History", "units": "4"}
+{"dept": "HIST", "code": "HINE 112A", "title": "Great Stories from the Hebrew Bible", "units": "4"}
+{"dept": "HIST", "code": "HINE 112AL", "title": "Great Stories from the Hebrew Bible/Foreign Language", "units": "1"}
+{"dept": "HIST", "code": "HINE 112B", "title": "Great Poems from the Hebrew Bible", "units": "4"}
+{"dept": "HIST", "code": "HINE 112BL", "title": "Great Poems from the Hebrew Bible/Foreign Language", "units": "1"}
+{"dept": "HIST", "code": "HINE 113", "title": "Ancient Near East Mythology", "units": "4"}
+{"dept": "HIST", "code": "HINE 114", "title": "History of the Islamic Middle East", "units": "4"}
+{"dept": "HIST", "code": "HINE 115", "title": "Death and Dying in Antiquity", "units": "4"}
+{"dept": "HIST", "code": "HINE 116", "title": "The Ottoman Empire, Iran and Egypt", "units": "1798\u20131914"}
+{"dept": "HIST", "code": "HINE 118", "title": "The Middle East in the Twentieth Century", "units": "4"}
+{"dept": "HIST", "code": "HINE 119", "title": "US Mid-East Policy Post-WWII", "units": "4"}
+{"dept": "HIST", "code": "HINE 120", "title": "The Middle East in the New Century", "units": "4"}
+{"dept": "HIST", "code": "HINE 125", "title": "Jews in the Greek and Roman World", "units": "4"}
+{"dept": "HIST", "code": "HINE 126", "title": "Iranian Revolution in Historical Perspective", "units": "4"}
+{"dept": "HIST", "code": "HINE 127", "title": "History of Modern Turkey", "units": "4"}
+{"dept": "HIST", "code": "HINE 128", "title": "History of the Middle East: The Early Medieval Period, 500\u20131000", "units": "4"}
+{"dept": "HIST", "code": "HINE 129", "title": "History of the Middle East: The Late Medieval Period, 1000\u20131500", "units": "4"}
+{"dept": "HIST", "code": "HINE 135GS", "title": "Introduction to Contemporary Israeli Society and Culture", "units": "4"}
+{"dept": "HIST", "code": "HINE 136GS", "title": "Zionism and Post Zionism", "units": "4"}
+{"dept": "HIST", "code": "HINE 144", "title": "Topics in Middle Eastern History", "units": "4"}
+{"dept": "HIST", "code": "HINE 145", "title": "Islam and Science: The History of Science in the Middle East", "units": "600\u20131950"}
+{"dept": "HIST", "code": "HINE 160", "title": ". Special Topics in the Bible and Ancient Near East", "units": "4"}
+{"dept": "HIST", "code": "HINE 162", "title": ". Anthropology and the Hebrew Bible", "units": "4"}
+{"dept": "HIST", "code": "HINE 165", "title": ". The Colonial Mandates in the Middle East", "units": "4"}
+{"dept": "HIST", "code": "HINE 166", "title": ". Nationalism in the Middle East", "units": "4"}
+{"dept": "HIST", "code": "HINE 170", "title": ". Special Topics in Jewish History", "units": "4"}
+{"dept": "HIST", "code": "HINE 171", "title": ". Topics in Early Judaism and Christianity", "units": "4"}
+{"dept": "HIST", "code": "HINE 186", "title": ". Special Topics in Middle Eastern History", "units": "4"}
+{"dept": "HIST", "code": "HINE 198", "title": "Directed Group Study", "units": "4"}
+{"dept": "HIST", "code": "HINE 199", "title": "Independent Study in Near Eastern History", "units": "4"}
+{"dept": "HIST", "code": "HISC 102", "title": "Technology in World History", "units": "4"}
+{"dept": "HIST", "code": "HISC 103", "title": "Gender and Science in Historical Perspective", "units": "4"}
+{"dept": "HIST", "code": "HISC 104", "title": "History of Popular Science", "units": "4"}
+{"dept": "HIST", "code": "HISC 105", "title": "History of Environmentalism", "units": "4"}
+{"dept": "HIST", "code": "HISC 106", "title": "The Scientific Revolution", "units": "4"}
+{"dept": "HIST", "code": "HISC 107", "title": "The Emergence of Modern Science", "units": "4"}
+{"dept": "HIST", "code": "HISC 108", "title": "Life Sciences in the Twentieth Century", "units": "4"}
+{"dept": "HIST", "code": "HISC 109", "title": "Invention of Tropical Disease", "units": "4"}
+{"dept": "HIST", "code": "HISC 110", "title": "Historical Encounters of Science and Religion", "units": "4"}
+{"dept": "HIST", "code": "HISC 111", "title": "The Atomic Bomb and the Atomic Age", "units": "4"}
+{"dept": "HIST", "code": "HISC 115", "title": "History of Modern Medicine", "units": "4"}
+{"dept": "HIST", "code": "HISC 116", "title": "History of Bioethics", "units": "4"}
+{"dept": "HIST", "code": "HISC 117", "title": "History of the Neurosciences", "units": "4"}
+{"dept": "HIST", "code": "HISC 118", "title": "History of Sexology", "units": "4"}
+{"dept": "HIST", "code": "HISC 119", "title": "Biology and Society", "units": "4"}
+{"dept": "HIST", "code": "HISC 120A", "title": "Technology in America I", "units": "4"}
+{"dept": "HIST", "code": "HISC 131", "title": "Science, Technology, and Law", "units": "4"}
+{"dept": "HIST", "code": "HISC 132", "title": "Israel\u2014Start-up Nation", "units": "4"}
+{"dept": "HIST", "code": "HISC 132GS", "title": "Israel\u2014Start-up Nation", "units": "4"}
+{"dept": "HIST", "code": "HISC 163", "title": ". History, Science, and Politics of Climate Change", "units": "4"}
+{"dept": "HIST", "code": "HISC 165", "title": "Topics in Twentieth-Century Science and Culture", "units": "4"}
+{"dept": "HIST", "code": "HISC 167", "title": ". Gender and Science", "units": "4"}
+{"dept": "HIST", "code": "HISC 173", "title": ". Seminar on Darwin and Darwinisms", "units": "4"}
+{"dept": "HIST", "code": "HISC 174", "title": ". History of Localization of Brain Function", "units": "4"}
+{"dept": "HIST", "code": "HISC 175", "title": ". The Historical Sciences in the Nineteenth Century", "units": "4"}
+{"dept": "HIST", "code": "HISC 176", "title": "History of Medicine in East and Southeast Asia", "units": "4"}
+{"dept": "HIST", "code": "HISC 180", "title": ". Science and Public Policy", "units": "4"}
+{"dept": "HIST", "code": "HISC 198", "title": "Directed Group Study", "units": "4"}
+{"dept": "HIST", "code": "HISC 199", "title": "Independent Study in the History of Science", "units": "4"}
+{"dept": "HIST", "code": "HISC 276", "title": "History of Medicine in East and Southeast Asia", "units": "4"}
+{"dept": "HIST", "code": "HITO 87", "title": "Special First-year Student Seminar", "units": "1"}
+{"dept": "HIST", "code": "HITO 99", "title": "Independent Study on History Topics", "units": "1, 2, 3, 4"}
+{"dept": "HIST", "code": "HITO 100", "title": "The Craft of History", "units": "4"}
+{"dept": "HIST", "code": "HITO 103S", "title": "Gnosis and Gnosticism", "units": "4"}
+{"dept": "HIST", "code": "HITO 105", "title": "Jewish Modernity from 1648 to 1948", "units": "4"}
+{"dept": "HIST", "code": "HITO 106", "title": "Love and Family in the Jewish Past", "units": "4"}
+{"dept": "HIST", "code": "HITO 107", "title": "Holocaust Video Production", "units": "4"}
+{"dept": "HIST", "code": "HITO 115", "title": ". The Global Cold War", "units": "4"}
+{"dept": "HIST", "code": "HITO 115S", "title": "Myth, History, and Archaeology", "units": "4"}
+{"dept": "HIST", "code": "HITO 116", "title": "Car Wars: A Global History of the World since 1900 through Cars", "units": "4"}
+{"dept": "HIST", "code": "HITO 117", "title": "World History 1200\u20131800", "units": "4"}
+{"dept": "HIST", "code": "HITO 119", "title": "Human Rights l: Introduction to Human Rights and Global Justice", "units": "4"}
+{"dept": "HIST", "code": "HITO 123", "title": "The Global History of Soccer", "units": "4"}
+{"dept": "HIST", "code": "HITO 124", "title": "Mystical Traditions", "units": "4"}
+{"dept": "HIST", "code": "HITO 126", "title": "A History of Childhood", "units": "4"}
+{"dept": "HIST", "code": "HITO 133", "title": "War and Society: The Second World War", "units": "4"}
+{"dept": "HIST", "code": "HITO 133D", "title": "War and Society: The Second World War", "units": "4"}
+{"dept": "HIST", "code": "HITO 134", "title": "International Law\u2014War Crimes and Genocide", "units": "4"}
+{"dept": "HIST", "code": "HITO 136", "title": "Jews and African Americans:\u00a0Slavery, Diaspora, Ghetto", "units": "4"}
+{"dept": "HIST", "code": "HITO 140", "title": "History of Emotions", "units": "4"}
+{"dept": "HIST", "code": "HITO 150GS", "title": "The Scottish Enlightenment and the Founding of the United States", "units": "4"}
+{"dept": "HIST", "code": "HITO 155", "title": "Race, Sport, and Inequality in the Twentieth Century", "units": "4"}
+{"dept": "HIST", "code": "HITO 156", "title": "Diversity, Equity, and Inclusion in the United States and Europe: Multiple Multiculturalisms", "units": "4"}
+{"dept": "HIST", "code": "HITO 156GS", "title": "Diversity, Equity, and Inclusion in the United States and Europe: Multiple Multiculturalisms", "units": "4"}
+{"dept": "HIST", "code": "HITO 160GS", "title": "Globalization and Diaspora", "units": "4"}
+{"dept": "HIST", "code": "HITO 164", "title": ". Jews and Other Ethnics in the American Past", "units": "4"}
+{"dept": "HIST", "code": "HITO 165", "title": ". Topics\u2014LGBT History", "units": "4"}
+{"dept": "HIST", "code": "HITO 166", "title": ". Death Penalty Global Perspectives since 1492", "units": "4"}
+{"dept": "HIST", "code": "HITO 167", "title": ". Global History of Sports in the Cold War", "units": "4"}
+{"dept": "HIST", "code": "HITO 168", "title": ". The U.S. and Germany from the 1890s to the 1960s: Transitional Relations and Competing Modernities", "units": "4"}
+{"dept": "HIST", "code": "HITO 172", "title": ". War in the Twentieth Century: A Psychological Approach", "units": "4"}
+{"dept": "HIST", "code": "HITO 178", "title": ". A History of Seafaring in the Age of Sail", "units": "4"}
+{"dept": "HIST", "code": "HITO 180", "title": ". Housing in the Developing World", "units": "4"}
+{"dept": "HIST", "code": "HITO 192", "title": "Senior Seminar in History", "units": "1"}
+{"dept": "HIST", "code": "HITO 194", "title": "History Honors", "units": "4"}
+{"dept": "HIST", "code": "HITO 195", "title": "The Honors Essay", "units": "4"}
+{"dept": "HIST", "code": "HITO 196", "title": "Honors Seminar", "units": "4"}
+{"dept": "HIST", "code": "HITO 198", "title": "Directed Group Study", "units": "1\u20134"}
+{"dept": "HIST", "code": "HITO 199", "title": "Independent Study in Historical Topics", "units": "4"}
+{"dept": "HIST", "code": "HITO 274", "title": "The Foundations of Constitutional Law", "units": "4"}
+{"dept": "HIST", "code": "HIUS 103", "title": "The United States and the Pacific World", "units": "4"}
+{"dept": "HIST", "code": "HIUS 104", "title": "The Revolutionary Atlantic", "units": "4"}
+{"dept": "HIST", "code": "HIUS 106A", "title": "American Foreign Relations, to 1900", "units": "4"}
+{"dept": "HIST", "code": "HIUS 106B", "title": "American Foreign Relations, since 1900", "units": "4"}
+{"dept": "HIST", "code": "HIUS 106S", "title": "Apocalyptic Judaism", "units": "4"}
+{"dept": "HIST", "code": "HIUS 108A", "title": "History of Native Americans in the United States I", "units": "4"}
+{"dept": "HIST", "code": "HIUS 108B", "title": "History of Native Americans in the United States II", "units": "4"}
+{"dept": "HIST", "code": "HIUS 110", "title": "America and the World: Revolution to World War I", "units": "4"}
+{"dept": "HIST", "code": "HIUS 111", "title": "America and the World: World War I to the Present", "units": "4"}
+{"dept": "HIST", "code": "HIUS 112", "title": "The US Civil War", "units": "4"}
+{"dept": "HIST", "code": "HIUS 113", "title": "History of Mexican America", "units": "4"}
+{"dept": "HIST", "code": "HIUS 114A", "title": "California History 1542\u20131850", "units": "4"}
+{"dept": "HIST", "code": "HIUS 114B", "title": "California History, 1850\u2013Present", "units": "4"}
+{"dept": "HIST", "code": "HIUS 115", "title": "History of Sexuality in the United States", "units": "4"}
+{"dept": "HIST", "code": "HIUS 117", "title": "History of Los Angeles", "units": "4"}
+{"dept": "HIST", "code": "HIUS 118", "title": "How Jews Became American", "units": "4"}
+{"dept": "HIST", "code": "HIUS 119", "title": "Colonialism and Militarism in Hawaii", "units": "4"}
+{"dept": "HIST", "code": "HIUS 119GS", "title": "Colonialism and Militarism in Hawaii", "units": "4"}
+{"dept": "HIST", "code": "HIUS 120", "title": "Peace Movements in America", "units": "4"}
+{"dept": "HIST", "code": "HIUS 120D", "title": "Race and Oral History in San Diego", "units": "4"}
+{"dept": "HIST", "code": "HIUS 122", "title": "History and Hollywood: America and the Movies since the Great Depression", "units": "4"}
+{"dept": "HIST", "code": "HIUS 123", "title": "History of New York City", "units": "4"}
+{"dept": "HIST", "code": "HIUS 124", "title": "Asian American History", "units": "4"}
+{"dept": "HIST", "code": "HIUS 125", "title": "Asian American Social Movements", "units": "4"}
+{"dept": "HIST", "code": "HIUS 125GS", "title": "Asian American Social Movements", "units": "4"}
+{"dept": "HIST", "code": "HIUS 126", "title": "The History of Race in the United States", "units": "4"}
+{"dept": "HIST", "code": "HIUS 128", "title": "African American Legal History", "units": "4"}
+{"dept": "HIST", "code": "HIUS 129", "title": "The History of Race and Ethnicity in American Cities", "units": "4"}
+{"dept": "HIST", "code": "HIUS 130", "title": "Cultural History from 1607 to 1865", "units": "4"}
+{"dept": "HIST", "code": "HIUS 131", "title": "Cultural History from 1865 to 1917", "units": "4"}
+{"dept": "HIST", "code": "HIUS 131D", "title": "Cultural History from the Civil War to the Present", "units": "4"}
+{"dept": "HIST", "code": "HIUS 132S", "title": "The Civil War and Reconstruction in Popular Culture", "units": "4"}
+{"dept": "HIST", "code": "HIUS 133", "title": "The Golden Age of Piracy", "units": "4"}
+{"dept": "HIST", "code": "HIUS 133GS", "title": "The Golden Age of Piracy", "units": "4"}
+{"dept": "HIST", "code": "HIUS 134", "title": "From Bebop to Hip-Hop: African American Cultural History since 1945", "units": "4"}
+{"dept": "HIST", "code": "HIUS 135", "title": "The Atlantic World, 1492\u20131803", "units": "4"}
+{"dept": "HIST", "code": "HIUS 136", "title": "Citizenship and Civil Rights in the Twentieth Century", "units": "4"}
+{"dept": "HIST", "code": "HIUS 137", "title": "Mining and American History", "units": "4"}
+{"dept": "HIST", "code": "HIUS 139", "title": "African American History in the Twentieth Century", "units": "4"}
+{"dept": "HIST", "code": "HIUS 140", "title": "Economic History of the United States I", "units": "4"}
+{"dept": "HIST", "code": "HIUS 141", "title": "Economic History of the United States II", "units": "4"}
+{"dept": "HIST", "code": "HIUS 142A", "title": "United States in the Twentieth Century, 1900\u20131945", "units": "4"}
+{"dept": "HIST", "code": "HIUS 142B", "title": "United States in the Twentieth Century, 1945 to the Present", "units": "4"}
+{"dept": "HIST", "code": "HIUS 143", "title": "The Built Environment in the Twentieth Century", "units": "4"}
+{"dept": "HIST", "code": "HIUS 143GS", "title": "The Built Environment in the Twentieth Century", "units": "4"}
+{"dept": "HIST", "code": "HIUS 144", "title": "Topics in US History", "units": "4"}
+{"dept": "HIST", "code": "HIUS 145", "title": "From New Era to New Deal", "units": "4"}
+{"dept": "HIST", "code": "HIUS 146", "title": "Race, Riots, and Violence in the U.S.", "units": "4"}
+{"dept": "HIST", "code": "HIUS 148", "title": "The American City in the Twentieth Century", "units": "4"}
+{"dept": "HIST", "code": "HIUS 149", "title": "The United States in the 1960s", "units": "4"}
+{"dept": "HIST", "code": "HIUS 150", "title": "American Legal History to 1865", "units": "4"}
+{"dept": "HIST", "code": "HIUS 151", "title": "American Legal History since 1865", "units": "4"}
+{"dept": "HIST", "code": "HIUS 152A", "title": "A Constitutional History of the United States to 1865", "units": "4"}
+{"dept": "HIST", "code": "HIUS 152B", "title": "A Constitutional History of the United States since 1865", "units": "4"}
+{"dept": "HIST", "code": "HIUS 153", "title": "American Political Trials", "units": "4"}
+{"dept": "HIST", "code": "HIUS 155", "title": "From Zoot Suits to Hip-Hop: Race and Popular Culture since World War II", "units": "4"}
+{"dept": "HIST", "code": "HIUS 155A", "title": "Religion and Law in American History: Foundations to the Civil War", "units": "4"}
+{"dept": "HIST", "code": "HIUS 155B", "title": "Religion and Law in American History: Civil War to the Present", "units": "4"}
+{"dept": "HIST", "code": "HIUS 156", "title": "American Women, American Womanhood", "units": "4"}
+{"dept": "HIST", "code": "HIUS 156D", "title": "American Women, American Womanhood", "units": "4"}
+{"dept": "HIST", "code": "HIUS 157", "title": "American Women, American Womanhood 1870 to Present", "units": "4"}
+{"dept": "HIST", "code": "HIUS 158", "title": "Social and Economic History of the Southwest I", "units": "4"}
+{"dept": "HIST", "code": "HIUS 159", "title": "Social and Economic History of the Southwest II", "units": "4"}
+{"dept": "HIST", "code": "HIUS 160", "title": ". Colloquium on the American Empire", "units": "4"}
+{"dept": "HIST", "code": "HIUS 162", "title": ". The American West", "units": "4"}
+{"dept": "HIST", "code": "HIUS 167", "title": "/ETHN 180. Topics in Mexican American History", "units": "4"}
+{"dept": "HIST", "code": "HIUS 168", "title": ". Race, Resistance, and Cultural Politics", "units": "4"}
+{"dept": "HIST", "code": "HIUS 169", "title": ". Topics in American Legal and Constitutional History", "units": "4"}
+{"dept": "HIST", "code": "HIUS 174", "title": "Race Wars in American Culture", "units": "4"}
+{"dept": "HIST", "code": "HIUS 176", "title": ". Race and Sexual Politics", "units": "4"}
+{"dept": "HIST", "code": "HIUS 178", "title": "The Atlantic World, 1400\u20131800", "units": "4"}
+{"dept": "HIST", "code": "HIUS 180", "title": "/ETHN 134. Immigration and Ethnicity in Modern American Society", "units": "4"}
+{"dept": "HIST", "code": "HIUS 181", "title": ". Topics in Twentieth Century United States History", "units": "4"}
+{"dept": "HIST", "code": "HIUS 182", "title": "Special Topics in Intellectual History", "units": "4"}
+{"dept": "HIST", "code": "HIUS 183", "title": "Topics in African American History", "units": "4"}
+{"dept": "HIST", "code": "HIUS 185", "title": ". In the Public Interest", "units": "4"}
+{"dept": "HIST", "code": "HIUS 186", "title": "Topics in US Economic History", "units": "4"}
+{"dept": "HIST", "code": "HIUS 188", "title": ". Topics in Culture and Politics", "units": "4"}
+{"dept": "HIST", "code": "HIUS 198", "title": "Directed Group Study", "units": "4"}
+{"dept": "HIST", "code": "HIUS 199", "title": "Independent Study in United States History", "units": "4"}
+{"dept": "HIST", "code": "HIUS 265", "title": "The Problem with Freedom", "units": "4"}
+{"dept": "HIST", "code": "HIUS 274", "title": "Race Wars in American Culture", "units": "4"}
+{"dept": "HIST", "code": "HIUS 286", "title": "Topics in US Economic History", "units": "4"}
+{"dept": "HIST", "code": "HIGR 200", "title": "History and Theory", "units": "4"}
+{"dept": "HIST", "code": "HIGR 201", "title": "Topical Graduate Seminar", "units": "4"}
+{"dept": "HIST", "code": "HIGR 203", "title": "Madness and Society", "units": "4"}
+{"dept": "HIST", "code": "HIGR 204", "title": "History of Capitalism", "units": "4"}
+{"dept": "HIST", "code": "HIGR 205", "title": "Historical Scholarship on Women and Gender", "units": "4"}
+{"dept": "HIST", "code": "HIGR 206", "title": "Histories of the Body", "units": "4"}
+{"dept": "HIST", "code": "HIGR 207", "title": "Nationalism, Colonialism, and Race", "units": "4"}
+{"dept": "HIST", "code": "HIGR 208", "title": "Graduate Professional Development", "units": "4"}
+{"dept": "HIST", "code": "HIGR 209", "title": "Historical Pedagogy", "units": "4"}
+{"dept": "HIST", "code": "HIGR 210", "title": "Historical Scholarship on Modern Chinese History", "units": "4"}
+{"dept": "HIST", "code": "HIGR 211", "title": "Historical Scholarship on Modern Japanese History", "units": "4"}
+{"dept": "HIST", "code": "HIGR 212", "title": "Historical Scholarship on Modern East Asian History", "units": "4"}
+{"dept": "HIST", "code": "HIGR 214", "title": "Historical Scholarship on Modern Korean History", "units": "4"}
+{"dept": "HIST", "code": "HIGR 215A-B", "title": ". Research Seminar in Modern Chinese History", "units": "4-4"}
+{"dept": "HIST", "code": "HIGR 216A-B", "title": ". Research Seminar in Modern Japanese History", "units": "4-4"}
+{"dept": "HIST", "code": "HIGR 217A", "title": "Historical Scholarship on Premodern Chinese History I", "units": "4"}
+{"dept": "HIST", "code": "HIGR 217B", "title": "Historical Scholarship on Premodern Chinese History II", "units": "4"}
+{"dept": "HIST", "code": "HIGR 217C", "title": "Historical Scholarship on Premodern Chinese History III", "units": "4"}
+{"dept": "HIST", "code": "HIGR 218A", "title": "Graduate Seminar in Premodern Chinese History", "units": "4"}
+{"dept": "HIST", "code": "HIGR 218B", "title": "Graduate Seminar in Premodern Chinese History", "units": "4"}
+{"dept": "HIST", "code": "HIGR 219A-B", "title": ". Research Seminar in Modern Korean History", "units": "4-4"}
+{"dept": "HIST", "code": "HIGR 220", "title": "Historical Scholarship on European History, 1500\u20131715", "units": "4"}
+{"dept": "HIST", "code": "HIGR 221", "title": "Historical Scholarship on European History, 1715\u20131850", "units": "4"}
+{"dept": "HIST", "code": "HIGR 222", "title": "Historical Scholarship on European History, since 1850", "units": "4"}
+{"dept": "HIST", "code": "HIGR 223A-B", "title": ". Research Seminar in Medieval History", "units": "4-4"}
+{"dept": "HIST", "code": "HIGR 224", "title": "Readings in Twentieth-Century German History", "units": "4"}
+{"dept": "HIST", "code": "HIGR 225", "title": "Readings in Modern Russian History", "units": "4"}
+{"dept": "HIST", "code": "HIGR 226", "title": "Readings in Modern Spanish History", "units": "4"}
+{"dept": "HIST", "code": "HIGR 227A-B", "title": ". Seminar in Spanish History", "units": "4-4"}
+{"dept": "HIST", "code": "HIGR 228", "title": "Historical Scholarship on Greece and the Balkans, 1768\u20131923", "units": "4"}
+{"dept": "HIST", "code": "HIGR 229", "title": "Historical Scholarship on Greece and the Balkans, 1923\u20132000", "units": "4"}
+{"dept": "HIST", "code": "HIGR 230A-B", "title": ". Research Seminar in European History", "units": "4-4"}
+{"dept": "HIST", "code": "HIGR 234", "title": "Eastern Mediterranean Archaeology: New Perspectives", "units": "4"}
+{"dept": "HIST", "code": "HIGR 236A-B", "title": ". Research Seminar in History of Science", "units": "4-4"}
+{"dept": "HIST", "code": "HIGR 238", "title": "Introduction to Science Studies", "units": "4"}
+{"dept": "HIST", "code": "HIGR 239", "title": "Seminar in Science Studies", "units": "4"}
+{"dept": "HIST", "code": "HIGR 240", "title": "Colloquium in Science Studies Part I", "units": "4"}
+{"dept": "HIST", "code": "HIGR 241", "title": "Introduction to Science Studies Part II", "units": "4"}
+{"dept": "HIST", "code": "HIGR 244", "title": "Introduction to Sound Studies", "units": "4"}
+{"dept": "HIST", "code": "HIGR 245", "title": "Revolution, Empire, and State Violence in Latin America and the Caribbean", "units": "4"}
+{"dept": "HIST", "code": "HIGR 247A-B", "title": ". Research Seminar in Colonial Latin America", "units": "4-4"}
+{"dept": "HIST", "code": "HIGR 248A-B", "title": ". Research Seminar in Latin America, National Period", "units": "4-4"}
+{"dept": "HIST", "code": "HIGR 249", "title": "Topics in Colonial Latin America", "units": "4"}
+{"dept": "HIST", "code": "HIGR 252", "title": "History, Social Evolution, and Intellectuals in the Andes: Mari\u00e1tegui, Haya de la Torre, and Arguedas", "units": "4"}
+{"dept": "HIST", "code": "HIGR 254", "title": "Historical Scholarship in Ancient History", "units": "4"}
+{"dept": "HIST", "code": "HIGR 255", "title": "Readings in Ancient Greek History", "units": "4"}
+{"dept": "HIST", "code": "HIGR 256", "title": "Readings in Ancient Roman History", "units": "4"}
+{"dept": "HIST", "code": "HIGR 258", "title": "Historical Scholarship in Medieval History", "units": "4"}
+{"dept": "HIST", "code": "HIGR 259", "title": "Special Topics in Ancient History", "units": "4"}
+{"dept": "HIST", "code": "HIGR 260A-B", "title": ". Research Seminar in Ancient History", "units": "4-4"}
+{"dept": "HIST", "code": "HIGR 264", "title": "Topics in Pre-Islamic Jewish History", "units": "4"}
+{"dept": "HIST", "code": "HIGR 265A-B-C", "title": ". Historical Scholarship on American History", "units": "4-4-4"}
+{"dept": "HIST", "code": "HIGR 267A-B", "title": ". Research Seminar in United States History", "units": "4-4"}
+{"dept": "HIST", "code": "HIGR 274A", "title": "Historical Scholarship on the Early Modern Middle East", "units": "4"}
+{"dept": "HIST", "code": "HIGR 274B", "title": "Historical Scholarship on Modern Middle East, Nineteenth and Twentieth Centuries", "units": "4"}
+{"dept": "HIST", "code": "HIGR 274C", "title": "Historical Scholarship on Modern Middle East, Colonial, National, and Postcolonial Eras", "units": "4"}
+{"dept": "HIST", "code": "HIGR 275A-B", "title": ". Research Seminar in Middle Eastern History", "units": "4-4"}
+{"dept": "HIST", "code": "HIGR 280", "title": "Global History: Approaches to the Early Modern Era", "units": "4"}
+{"dept": "HIST", "code": "HIGR 281", "title": "Global History: Approaches to the Modern Era", "units": "4"}
+{"dept": "HIST", "code": "HIGR 282", "title": "Topics in Global History", "units": "4"}
+{"dept": "HIST", "code": "HIGR 295", "title": "Thesis Seminar", "units": "4"}
+{"dept": "HIST", "code": "HIGR 298", "title": "Directed Reading", "units": "1\u201312"}
+{"dept": "HIST", "code": "HIGR 299", "title": "PhD Thesis Direction", "units": "1\u201312"}
+{"dept": "HIST", "code": "HIGR 500", "title": "Apprentice Teaching in History", "units": "1\u20134"}
+{"dept": "HIST", "code": "HIGR 502", "title": "Apprentice Teaching in Culture, Art, and Technology", "units": "CAT"}
+{"dept": "HIST", "code": "HIGR 505", "title": "Apprentice Teaching in Jewish Studies", "units": "4"}

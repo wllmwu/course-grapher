@@ -1,0 +1,129 @@
+{"dept": "PHIL", "code": "PHIL 1", "title": "Introduction to Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 10", "title": "Introduction to Logic", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 12", "title": "Scientific Reasoning", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 13", "title": "Introduction to Philosophy: Ethics", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 14", "title": "Introduction to Philosophy: The Nature of Reality", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 15", "title": "Introduction to Philosophy: Knowledge and Its Limits", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 16", "title": "Science Fiction and Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 24", "title": "Science and Pseudoscience", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 25", "title": "Science, Philosophy, and the Big Questions", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 26", "title": "Science, Society, and Values", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 27", "title": "Ethics and Society", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 28", "title": "Ethics and Society II", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 31", "title": "Introduction to Ancient Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 32", "title": "Philosophy and the Rise of Modern Science", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 33", "title": "Philosophy between Reason and Despair", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 35", "title": "Philosophy in the Americas", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 50", "title": "Law and Society", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 87", "title": "First-year Student Seminar", "units": "1"}
+{"dept": "PHIL", "code": "PHIL 90", "title": "Basic Problem in Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 100", "title": "Plato", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 101", "title": "Aristotle", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 102", "title": "Hellenistic Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 105", "title": "Topics in Early Modern Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 106", "title": "Kant", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 107", "title": "Hegel", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 108", "title": "Nineteenth-Century Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 109", "title": "History of Analytic Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 110", "title": "History of Philosophy: Ancient", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 111", "title": "History of Philosophy: Early Modern", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 112", "title": "History of Philosophy: Late Modern", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 115", "title": "Philosophical Methods Seminar", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 120", "title": "Symbolic Logic I", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 122", "title": "Advanced Topics in Logic", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 123", "title": "Philosophy of Logic", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 124", "title": "Philosophy of Mathematics", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 125", "title": "Probability and Decision Theory", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 130", "title": "Metaphysics", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 131", "title": "Topics in Metaphysics", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 132", "title": "Epistemology", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 134", "title": "Philosophy of Language", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 136", "title": "Philosophy of Mind", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 137", "title": "Moral Psychology", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 138", "title": "Responsibility", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 139", "title": "Global Justice", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 140", "title": "Free Will", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 141", "title": "The Meaning of Life", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 142", "title": "Philosophy of Emotion", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 143", "title": "Philosophy of Perception", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 145", "title": "Philosophy of Science", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 146", "title": "Philosophy of Physics", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 147", "title": "Philosophy of Biology", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 148", "title": "Philosophy and the Environment", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 149", "title": "Philosophy of Psychology", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 150", "title": "Philosophy of the Cognitive Sciences", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 151", "title": "Philosophy of Neuroscience", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 152", "title": "Philosophy of Social Science", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 155", "title": "Mexican Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 156", "title": "Latinx Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 158", "title": "Topics in Chinese Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 159", "title": "Metaethics", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 160", "title": "Ethical Theory", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 161", "title": "Topics in the History of Ethics", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 162", "title": "Contemporary Moral Issues", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 163", "title": "Biomedical Ethics", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 164", "title": "Technology and Human Values", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 165", "title": "Freedom, Equality, and the Law", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 166", "title": "Classics in Political Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 167", "title": "Contemporary Political Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 168", "title": "Philosophy of Law", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 169", "title": "Feminism and Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 170", "title": "Philosophy and Race", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 171", "title": "Topics in Philosophy of Law", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 172", "title": "Topics in Political Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 173", "title": "Topics in Bioethics", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 174", "title": "Data Ethics", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 175", "title": "Aesthetics", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 177", "title": "Philosophy and Literature", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 178", "title": "Topics in German Philosophy Translation\u2014Intermediate", "units": "2"}
+{"dept": "PHIL", "code": "PHIL 179", "title": "Topics in German Philosophy Translation\u2014Advanced", "units": "2"}
+{"dept": "PHIL", "code": "PHIL 180", "title": "Phenomenology", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 181", "title": "Existentialism", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 183", "title": "Topics in Continental Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 185", "title": "Philosophy of Religion", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 191A", "title": "Philosophy Honors", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 191B", "title": "The Honors Essay", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 195", "title": "Introduction to Teaching Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 199", "title": "Directed Individual Study", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 200", "title": "Proseminar", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 201A", "title": "Core Course in History", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 202", "title": "Core Course in Ethics", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 204A", "title": "Core Course in Philosophy of Science", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 205A", "title": "Core Course in Metaphysics", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 206A", "title": "Core Course in Epistemology", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 207", "title": "Core Course in Philosophy of Mind", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 208", "title": "Core Course in Philosophy of Language", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 209A", "title": "Introduction to Science Studies: Part I", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 209B", "title": "Seminar in Science Studies", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 209C", "title": "Colloquium in Science Studies", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 209D", "title": "Introduction to Science Studies Part II", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 210", "title": "Greek Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 214", "title": "Early Modern Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 215", "title": "Eighteenth-Century Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 218", "title": "Contemporary Analytical Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 230", "title": "Metaphysics", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 232", "title": "Epistemology", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 234", "title": "Philosophy of Language", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 236", "title": "Philosophy of Mind", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 245", "title": "Philosophy of Science", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 250A", "title": "Philosophy of the Cognitive Sciences", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 260", "title": "Ethics", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 267", "title": "Political Philosophy", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 271", "title": "Agency and Responsibility Reading Group", "units": "1\u20132"}
+{"dept": "PHIL", "code": "PHIL 275", "title": "German Philosophy Reading Group", "units": "1\u20132"}
+{"dept": "PHIL", "code": "PHIL 276", "title": "German Translation Workshop", "units": "1\u20132"}
+{"dept": "PHIL", "code": "PHIL 277", "title": "Phenomenology Reading Group", "units": "1\u20132"}
+{"dept": "PHIL", "code": "PHIL 278", "title": "Topics and Methods in Contemporary Philosophy", "units": "1\u20132"}
+{"dept": "PHIL", "code": "PHIL 280", "title": "Philosophy of Science Topics and Methods", "units": "1\u20132"}
+{"dept": "PHIL", "code": "PHIL 281", "title": "History of Philosophy Research and Methods", "units": "1\u20132"}
+{"dept": "PHIL", "code": "PHIL 282", "title": "Topics and Methods in Ethics", "units": "1\u20132"}
+{"dept": "PHIL", "code": "PHIL 284", "title": "Philosophy of Biology Research Group", "units": "1\u20132"}
+{"dept": "PHIL", "code": "PHIL 285", "title": "Seminar on Special Topics", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 286", "title": "Philosophy of Physics Reading Group", "units": "1\u20132"}
+{"dept": "PHIL", "code": "PHIL 287", "title": "Greek Reading Group", "units": "1\u20132"}
+{"dept": "PHIL", "code": "PHIL 288", "title": "Latin Reading Group", "units": "1\u20132"}
+{"dept": "PHIL", "code": "PHIL 290", "title": "Directed Independent Study", "units": "4"}
+{"dept": "PHIL", "code": "PHIL 292", "title": "Writing Workshop", "units": "1\u20133"}
+{"dept": "PHIL", "code": "PHIL 295", "title": "Research Topics", "units": "1\u201312"}
+{"dept": "PHIL", "code": "PHIL 299", "title": "Thesis Research", "units": "1\u201312"}
+{"dept": "PHIL", "code": "PHIL 500", "title": "Apprentice Teaching", "units": "1\u20134"}

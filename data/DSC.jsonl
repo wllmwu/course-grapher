@@ -1,0 +1,35 @@
+{"dept": "DSC", "code": "DSC 10", "title": "Principles of Data Science", "units": "4"}
+{"dept": "DSC", "code": "DSC 20", "title": "Programming and Basic Data Structures for Data Science", "units": "4"}
+{"dept": "DSC", "code": "DSC 30", "title": "Data Structures and Algorithms for Data Science", "units": "4"}
+{"dept": "DSC", "code": "DSC 40A", "title": "Theoretical Foundations of Data Science I", "units": "4"}
+{"dept": "DSC", "code": "DSC 40B", "title": "Theoretical Foundations of Data Science II", "units": "4"}
+{"dept": "DSC", "code": "DSC 80", "title": "The Practice and Application of Data Science", "units": "4"}
+{"dept": "DSC", "code": "DSC 90", "title": "Seminar in Data Science", "units": "2"}
+{"dept": "DSC", "code": "DSC 95", "title": "Tutor Apprenticeship in Data Science", "units": "2"}
+{"dept": "DSC", "code": "DSC 96", "title": "Workshop in Data Science", "units": "2"}
+{"dept": "DSC", "code": "DSC 97", "title": "Internship in Data Science", "units": "2 or 4"}
+{"dept": "DSC", "code": "DSC 98", "title": "Directed Group Study in Data Science", "units": "2 or 4"}
+{"dept": "DSC", "code": "DSC 99", "title": "Independent Study in Data Science", "units": "2 or 4"}
+{"dept": "DSC", "code": "DSC 100", "title": "Introduction to Data Management", "units": "4"}
+{"dept": "DSC", "code": "DSC 102", "title": "Systems for Scalable Analytics", "units": "4"}
+{"dept": "DSC", "code": "DSC 104", "title": "Beyond Relational Data Management", "units": "4"}
+{"dept": "DSC", "code": "DSC 106", "title": "Introduction to Data Visualization", "units": "4"}
+{"dept": "DSC", "code": "DSC 120", "title": "Signal Processing for Data Analysis", "units": "4"}
+{"dept": "DSC", "code": "DSC 148", "title": "Introduction to Data Mining", "units": "4"}
+{"dept": "DSC", "code": "DSC 140A", "title": "Probabilistic Modeling and Machine Learning", "units": "4"}
+{"dept": "DSC", "code": "DSC 155", "title": "Hidden Data in Random Matrices", "units": "4"}
+{"dept": "DSC", "code": "DSC 160", "title": "Data Science and the Arts", "units": "4"}
+{"dept": "DSC", "code": "DSC 161", "title": "Text as Data", "units": "4"}
+{"dept": "DSC", "code": "DSC 167", "title": "Fairness and Algorithmic Decision-Making", "units": "4"}
+{"dept": "DSC", "code": "DSC 170", "title": "Spatial Data Science and Applications", "units": "4"}
+{"dept": "DSC", "code": "DSC 180A", "title": "Data Science Project I", "units": "4"}
+{"dept": "DSC", "code": "DSC 180B", "title": "Data Science Project II", "units": "4"}
+{"dept": "DSC", "code": "DSC 190", "title": "Topics in Data Science", "units": "4"}
+{"dept": "DSC", "code": "DSC 191", "title": "Seminar in Data Science", "units": "1 or 2"}
+{"dept": "DSC", "code": "DSC 197", "title": "Data Science Internship", "units": "1\u20134"}
+{"dept": "DSC", "code": "DSC 198", "title": "Directed Group Study in Data Science", "units": "2 or 4"}
+{"dept": "DSC", "code": "DSC 199", "title": "Independent Study for Data Science Undergraduates", "units": "2 or 4"}
+{"dept": "DSC", "code": "DSC 290", "title": "Seminar in Data Science", "units": "1 or 2"}
+{"dept": "DSC", "code": "DSC 291", "title": "Topics in Data Science", "units": "4"}
+{"dept": "DSC", "code": "DSC 500", "title": "Teaching Assistantship", "units": "2 or 4"}
+{"dept": "DSC", "code": "DSC 599", "title": "Teaching Methods in Data Science", "units": "2"}

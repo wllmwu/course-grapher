@@ -1,0 +1,224 @@
+{"dept": "MATH", "code": "MATH 2", "title": "Introduction to College Mathematics", "units": "4"}
+{"dept": "MATH", "code": "MATH 3C", "title": "Precalculus", "units": "4"}
+{"dept": "MATH", "code": "MATH 4C", "title": "Precalculus for Science and Engineering", "units": "4"}
+{"dept": "MATH", "code": "MATH 10A", "title": "Calculus I", "units": "4"}
+{"dept": "MATH", "code": "MATH 10B", "title": "Calculus II", "units": "4"}
+{"dept": "MATH", "code": "MATH 10C", "title": "Calculus III", "units": "4"}
+{"dept": "MATH", "code": "MATH 11", "title": "Calculus-Based Introductory Probability and Statistics", "units": "5"}
+{"dept": "MATH", "code": "MATH 15A", "title": "Introduction to Discrete Mathematics", "units": "4"}
+{"dept": "MATH", "code": "MATH 18", "title": "Linear Algebra", "units": "4"}
+{"dept": "MATH", "code": "MATH 20A", "title": "Calculus for Science and Engineering", "units": "4"}
+{"dept": "MATH", "code": "MATH 20B", "title": "Calculus for Science and Engineering", "units": "4"}
+{"dept": "MATH", "code": "MATH 20C", "title": "Calculus and Analytic Geometry for Science and Engineering", "units": "4"}
+{"dept": "MATH", "code": "MATH 20D", "title": "Introduction to Differential Equations", "units": "4"}
+{"dept": "MATH", "code": "MATH 20E", "title": "Vector Calculus", "units": "4"}
+{"dept": "MATH", "code": "MATH 31AH", "title": "Honors Linear Algebra", "units": "4"}
+{"dept": "MATH", "code": "MATH 31BH", "title": "Honors Multivariable Calculus", "units": "4"}
+{"dept": "MATH", "code": "MATH 31CH", "title": "Honors Vector Calculus", "units": "4"}
+{"dept": "MATH", "code": "MATH 87", "title": "First-year Student Seminar", "units": "1"}
+{"dept": "MATH", "code": "MATH 95", "title": "Introduction to Teaching Math", "units": "2"}
+{"dept": "MATH", "code": "MATH 96", "title": "Putnam Seminar", "units": "1"}
+{"dept": "MATH", "code": "MATH 99R", "title": "Independent Study", "units": "1"}
+{"dept": "MATH", "code": "MATH 100A", "title": "Abstract Algebra I", "units": "4"}
+{"dept": "MATH", "code": "MATH 100B", "title": "Abstract Algebra II", "units": "4"}
+{"dept": "MATH", "code": "MATH 100C", "title": "Abstract Algebra III", "units": "4"}
+{"dept": "MATH", "code": "MATH 102", "title": "Applied Linear Algebra", "units": "4"}
+{"dept": "MATH", "code": "MATH 103A", "title": "Modern Algebra I", "units": "4"}
+{"dept": "MATH", "code": "MATH 103B", "title": "Modern Algebra II", "units": "4"}
+{"dept": "MATH", "code": "MATH 104A", "title": "Number Theory I", "units": "4"}
+{"dept": "MATH", "code": "MATH 104B", "title": "Number Theory II", "units": "4"}
+{"dept": "MATH", "code": "MATH 104C", "title": "Number Theory III", "units": "4"}
+{"dept": "MATH", "code": "MATH 105", "title": "Basic Number Theory", "units": "4"}
+{"dept": "MATH", "code": "MATH 106", "title": "Introduction to Algebraic Geometry", "units": "4"}
+{"dept": "MATH", "code": "MATH 109", "title": "Mathematical Reasoning", "units": "4"}
+{"dept": "MATH", "code": "MATH 110", "title": "Introduction to Partial Differential Equations", "units": "4"}
+{"dept": "MATH", "code": "MATH 111A", "title": "Mathematical Modeling I", "units": "4"}
+{"dept": "MATH", "code": "MATH 111B", "title": "Mathematical Modeling II", "units": "4"}
+{"dept": "MATH", "code": "MATH 112A", "title": "Introduction to Mathematical Biology I", "units": "4"}
+{"dept": "MATH", "code": "MATH 112B", "title": "Introduction to Mathematical Biology II", "units": "4"}
+{"dept": "MATH", "code": "MATH 114", "title": "Introduction to Computational Stochastics", "units": "4"}
+{"dept": "MATH", "code": "MATH 120A", "title": "Elements of Complex Analysis", "units": "4"}
+{"dept": "MATH", "code": "MATH 120B", "title": "Applied Complex Analysis", "units": "4"}
+{"dept": "MATH", "code": "MATH 121A", "title": "Foundations of Teaching and Learning Mathematics I", "units": "4"}
+{"dept": "MATH", "code": "MATH 121B", "title": "Foundations of Teaching and Learning Math II", "units": "4"}
+{"dept": "MATH", "code": "MATH 130", "title": "Differential Equations and Dynamical Systems", "units": "4"}
+{"dept": "MATH", "code": "MATH 140A", "title": "Foundations of Real Analysis I", "units": "4"}
+{"dept": "MATH", "code": "MATH 140B", "title": "Foundations of Real Analysis II", "units": "4"}
+{"dept": "MATH", "code": "MATH 140C", "title": "Foundations of Real Analysis III", "units": "4"}
+{"dept": "MATH", "code": "MATH 142A", "title": "Introduction to Analysis I", "units": "4"}
+{"dept": "MATH", "code": "MATH 142B", "title": "Introduction to Analysis II", "units": "4"}
+{"dept": "MATH", "code": "MATH 144", "title": "Introduction to Fourier Analysis", "units": "4"}
+{"dept": "MATH", "code": "MATH 146", "title": "Analysis of Ordinary Differential Equations", "units": "4"}
+{"dept": "MATH", "code": "MATH 148", "title": "Analysis of Partial Differential Equations", "units": "4"}
+{"dept": "MATH", "code": "MATH 150A", "title": "Differential Geometry", "units": "4"}
+{"dept": "MATH", "code": "MATH 150B", "title": "Calculus on Manifolds", "units": "4"}
+{"dept": "MATH", "code": "MATH 152", "title": "Applicable Mathematics and Computing", "units": "4"}
+{"dept": "MATH", "code": "MATH 153", "title": "Geometry for Secondary Teachers", "units": "4"}
+{"dept": "MATH", "code": "MATH 154", "title": "Discrete Mathematics and Graph Theory", "units": "4"}
+{"dept": "MATH", "code": "MATH 155A", "title": "Geometric Computer Graphics", "units": "4"}
+{"dept": "MATH", "code": "MATH 155B", "title": "Topics in Computer Graphics", "units": "4"}
+{"dept": "MATH", "code": "MATH 157", "title": "Introduction to Mathematical Software", "units": "4"}
+{"dept": "MATH", "code": "MATH 158", "title": "Extremal Combinatorics and Graph Theory", "units": "4"}
+{"dept": "MATH", "code": "MATH 160A", "title": "Elementary Mathematical Logic I", "units": "4"}
+{"dept": "MATH", "code": "MATH 160B", "title": "Elementary Mathematical Logic II", "units": "4"}
+{"dept": "MATH", "code": "MATH 163", "title": "History of Mathematics", "units": "4"}
+{"dept": "MATH", "code": "MATH 168A", "title": "Topics in Applied Mathematics\u2014Computer Science", "units": "4"}
+{"dept": "MATH", "code": "MATH 170A", "title": "Introduction to Numerical Analysis: Linear Algebra", "units": "4"}
+{"dept": "MATH", "code": "MATH 170B", "title": "Introduction to Numerical Analysis: Approximation and Nonlinear Equations", "units": "4"}
+{"dept": "MATH", "code": "MATH 170C", "title": "Introduction to Numerical Analysis: Ordinary Differential Equations", "units": "4"}
+{"dept": "MATH", "code": "MATH 171A", "title": "Introduction to Numerical Optimization: Linear Programming", "units": "4"}
+{"dept": "MATH", "code": "MATH 171B", "title": "Introduction to Numerical Optimization: Nonlinear Programming", "units": "4"}
+{"dept": "MATH", "code": "MATH 173A", "title": "Optimization Methods for Data Science I", "units": "4"}
+{"dept": "MATH", "code": "MATH 173B", "title": "Optimization Methods for Data Science II", "units": "4"}
+{"dept": "MATH", "code": "MATH 174", "title": "Numerical Methods for Physical Modeling", "units": "4"}
+{"dept": "MATH", "code": "MATH 175", "title": "Numerical Methods for Partial Differential Equations", "units": "4"}
+{"dept": "MATH", "code": "MATH 179", "title": "Projects in Computational and Applied Mathematics", "units": "4"}
+{"dept": "MATH", "code": "MATH 180A", "title": "Introduction to Probability", "units": "4"}
+{"dept": "MATH", "code": "MATH 180B", "title": "Introduction to Stochastic Processes I", "units": "4"}
+{"dept": "MATH", "code": "MATH 180C", "title": "Introduction to Stochastic Processes II", "units": "4"}
+{"dept": "MATH", "code": "MATH 181A", "title": "Introduction to Mathematical Statistics I", "units": "4"}
+{"dept": "MATH", "code": "MATH 181B", "title": "Introduction to Mathematical Statistics II", "units": "4"}
+{"dept": "MATH", "code": "MATH 181C", "title": "Mathematical Statistics\u2014Nonparametric Statistics", "units": "4"}
+{"dept": "MATH", "code": "MATH 181D", "title": "Statistical Learning", "units": "4"}
+{"dept": "MATH", "code": "MATH 181E", "title": "Mathematical Statistics\u2014Time Series", "units": "4"}
+{"dept": "MATH", "code": "MATH 181F", "title": "Sampling Surveys and Experimental Design", "units": "4"}
+{"dept": "MATH", "code": "MATH 182", "title": "Hidden Data in Random Matrices", "units": "4"}
+{"dept": "MATH", "code": "MATH 183", "title": "Statistical Methods", "units": "4"}
+{"dept": "MATH", "code": "MATH 184", "title": "Enumerative Combinatorics", "units": "4"}
+{"dept": "MATH", "code": "MATH 185", "title": "Introduction to Computational Statistics", "units": "4"}
+{"dept": "MATH", "code": "MATH 186", "title": "Probability and Statistics for Bioinformatics", "units": "4"}
+{"dept": "MATH", "code": "MATH 187A", "title": "Introduction to Cryptography", "units": "4"}
+{"dept": "MATH", "code": "MATH 187B", "title": "Mathematics of Modern Cryptography", "units": "4"}
+{"dept": "MATH", "code": "MATH 188", "title": "Algebraic Combinatorics", "units": "4"}
+{"dept": "MATH", "code": "MATH 189", "title": "Exploratory Data Analysis and Inference", "units": "4"}
+{"dept": "MATH", "code": "MATH 190A", "title": "Foundations of Topology I", "units": "4"}
+{"dept": "MATH", "code": "MATH 190B", "title": "Foundations of Topology II", "units": "4"}
+{"dept": "MATH", "code": "MATH 191", "title": "Topics in Topology", "units": "4"}
+{"dept": "MATH", "code": "MATH 193A", "title": "Actuarial Mathematics I", "units": "4"}
+{"dept": "MATH", "code": "MATH 193B", "title": "Actuarial Mathematics II", "units": "4"}
+{"dept": "MATH", "code": "MATH 194", "title": "The Mathematics of Finance", "units": "4"}
+{"dept": "MATH", "code": "MATH 195", "title": "Introduction to Teaching in Mathematics", "units": "4"}
+{"dept": "MATH", "code": "MATH 196", "title": "Student Colloquium", "units": "1"}
+{"dept": "MATH", "code": "MATH 197", "title": "Extracurricular Industry Practicum", "units": "2 or 4"}
+{"dept": "MATH", "code": "MATH 199", "title": "Independent Study for Undergraduates", "units": "2 or 4"}
+{"dept": "MATH", "code": "MATH 199H", "title": "Honors Thesis Research for Undergraduates", "units": "2\u20134"}
+{"dept": "MATH", "code": "MATH 200A", "title": "Algebra I", "units": "4"}
+{"dept": "MATH", "code": "MATH 200B", "title": "Algebra II", "units": "4"}
+{"dept": "MATH", "code": "MATH 200C", "title": "Algebra III", "units": "4"}
+{"dept": "MATH", "code": "MATH 201A", "title": "Basic Topics in Algebra I", "units": "4"}
+{"dept": "MATH", "code": "MATH 202A", "title": "Applied Algebra I", "units": "4"}
+{"dept": "MATH", "code": "MATH 202B", "title": "Applied Algebra II", "units": "4"}
+{"dept": "MATH", "code": "MATH 202C", "title": "Applied Algebra III", "units": "4"}
+{"dept": "MATH", "code": "MATH 203A", "title": "Algebraic Geometry I", "units": "4"}
+{"dept": "MATH", "code": "MATH 203B", "title": "Algebraic Geometry II", "units": "4"}
+{"dept": "MATH", "code": "MATH 203C", "title": "Algebraic Geometry III", "units": "4"}
+{"dept": "MATH", "code": "MATH 204A", "title": "Number Theory I", "units": "4"}
+{"dept": "MATH", "code": "MATH 204B", "title": "Number Theory II", "units": "4"}
+{"dept": "MATH", "code": "MATH 204C", "title": "Number Theory III", "units": "4"}
+{"dept": "MATH", "code": "MATH 205", "title": "Topics in Number Theory", "units": "4"}
+{"dept": "MATH", "code": "MATH 206A", "title": "Topics in Algebraic Geometry", "units": "4"}
+{"dept": "MATH", "code": "MATH 206B", "title": "Further Topics in Algebraic Geometry", "units": "4"}
+{"dept": "MATH", "code": "MATH 207A", "title": "Topics in Algebra", "units": "4"}
+{"dept": "MATH", "code": "MATH 208", "title": "Seminar in Algebraic Geometry", "units": "1"}
+{"dept": "MATH", "code": "MATH 209", "title": "Seminar in Number Theory", "units": "1"}
+{"dept": "MATH", "code": "MATH 210A", "title": "Mathematical Methods in Physics and Engineering", "units": "4"}
+{"dept": "MATH", "code": "MATH 210B", "title": "Mathematical Methods in Physics and Engineering", "units": "4"}
+{"dept": "MATH", "code": "MATH 210C", "title": "Mathematical Methods in Physics and Engineering", "units": "4"}
+{"dept": "MATH", "code": "MATH 211A", "title": "Seminar in Algebra", "units": "1"}
+{"dept": "MATH", "code": "MATH 211B", "title": "Seminar in Group Actions", "units": "1"}
+{"dept": "MATH", "code": "MATH 212A", "title": "Introduction to Mathematical Biology I", "units": "4"}
+{"dept": "MATH", "code": "MATH 212B", "title": "Introduction to Mathematical Biology II", "units": "4"}
+{"dept": "MATH", "code": "MATH 214", "title": "Introduction to Computational Stochastics", "units": "4"}
+{"dept": "MATH", "code": "MATH 216A", "title": "Mathematical Methods in Data Science I", "units": "4"}
+{"dept": "MATH", "code": "MATH 216B", "title": "Mathematical Methods in Data Science II", "units": "4"}
+{"dept": "MATH", "code": "MATH 216C", "title": "Mathematical Methods in Data Science III", "units": "4"}
+{"dept": "MATH", "code": "MATH 217", "title": "Topics in Applied Mathematics", "units": "4"}
+{"dept": "MATH", "code": "MATH 218", "title": "Seminar in Mathematics of Biological Systems", "units": "1"}
+{"dept": "MATH", "code": "MATH 220A-B-C", "title": ". Complex Analysis", "units": "4-4-4"}
+{"dept": "MATH", "code": "MATH 221A", "title": "Topics in Several Complex Variables", "units": "4"}
+{"dept": "MATH", "code": "MATH 221B", "title": "Further Topics in Several Complex Variables", "units": "4"}
+{"dept": "MATH", "code": "MATH 231A", "title": "Partial Differential Equations I", "units": "4"}
+{"dept": "MATH", "code": "MATH 231B", "title": "Partial Differential Equations II", "units": "4"}
+{"dept": "MATH", "code": "MATH 231C", "title": "Partial Differential Equations III", "units": "4"}
+{"dept": "MATH", "code": "MATH 237A", "title": "Topics in Differential Equations", "units": "4"}
+{"dept": "MATH", "code": "MATH 237B", "title": "Further Topics in Differential Equations", "units": "4"}
+{"dept": "MATH", "code": "MATH 240A", "title": "Real Analysis I", "units": "4"}
+{"dept": "MATH", "code": "MATH 240B", "title": "Real Analysis II", "units": "4"}
+{"dept": "MATH", "code": "MATH 240C", "title": "Real Analysis III", "units": "4"}
+{"dept": "MATH", "code": "MATH 241A", "title": "Functional Analysis I", "units": "4"}
+{"dept": "MATH", "code": "MATH 241B", "title": "Functional Analysis II", "units": "4"}
+{"dept": "MATH", "code": "MATH 242", "title": "Topics in Fourier Analysis", "units": "4"}
+{"dept": "MATH", "code": "MATH 243", "title": "Seminar in Functional Analysis", "units": "1"}
+{"dept": "MATH", "code": "MATH 245A", "title": "Convex Analysis and Optimization I", "units": "4"}
+{"dept": "MATH", "code": "MATH 245B", "title": "Convex Analysis and Optimization II", "units": "4"}
+{"dept": "MATH", "code": "MATH 245C", "title": "Convex Analysis and Optimization III", "units": "4"}
+{"dept": "MATH", "code": "MATH 247A", "title": "Topics in Real Analysis", "units": "4"}
+{"dept": "MATH", "code": "MATH 247B", "title": "Further Topics in Real Analysis", "units": "4"}
+{"dept": "MATH", "code": "MATH 248", "title": "Seminar in Real Analysis", "units": "1"}
+{"dept": "MATH", "code": "MATH 250A-B-C", "title": ". Differential Geometry", "units": "4-4-4"}
+{"dept": "MATH", "code": "MATH 251A-B-C", "title": ". Lie Groups", "units": "4-4-4"}
+{"dept": "MATH", "code": "MATH 256", "title": "Seminar in Lie Groups and Lie Algebras", "units": "1"}
+{"dept": "MATH", "code": "MATH 257A", "title": "Topics in Differential Geometry", "units": "4"}
+{"dept": "MATH", "code": "MATH 257B", "title": "Further Topics in Differential Geometry", "units": "4"}
+{"dept": "MATH", "code": "MATH 258", "title": "Seminar in Differential Geometry", "units": "1"}
+{"dept": "MATH", "code": "MATH 259A-B-C", "title": ". Geometrical Physics", "units": "4-4-4"}
+{"dept": "MATH", "code": "MATH 260A", "title": "Mathematical Logic I", "units": "4"}
+{"dept": "MATH", "code": "MATH 260B", "title": "Mathematical Logic II", "units": "4"}
+{"dept": "MATH", "code": "MATH 261A", "title": "Probabilistic Combinatorics and Algorithms", "units": "4"}
+{"dept": "MATH", "code": "MATH 261B", "title": "Probabilistic Combinatorics and Algorithms II", "units": "4"}
+{"dept": "MATH", "code": "MATH 261C", "title": "Probabilistic Combinatorics and Algorithms III", "units": "4"}
+{"dept": "MATH", "code": "MATH 262A", "title": "Topics in Combinatorial Mathematics", "units": "4"}
+{"dept": "MATH", "code": "MATH 262B", "title": "Further Topics in Combinatorial Mathematics", "units": "4"}
+{"dept": "MATH", "code": "MATH 264A-B-C", "title": ". Combinatorics", "units": "4-4-4"}
+{"dept": "MATH", "code": "MATH 267A", "title": "Topics in Mathematical Logic", "units": "4"}
+{"dept": "MATH", "code": "MATH 267B", "title": "Further Topics in Mathematical Logic", "units": "4"}
+{"dept": "MATH", "code": "MATH 268", "title": "Seminar in Logic", "units": "1"}
+{"dept": "MATH", "code": "MATH 269", "title": "Seminar in Combinatorics", "units": "1"}
+{"dept": "MATH", "code": "MATH 270A", "title": "Numerical Linear Algebra", "units": "4"}
+{"dept": "MATH", "code": "MATH 270B", "title": "Numerical Approximation and Nonlinear Equations", "units": "4"}
+{"dept": "MATH", "code": "MATH 270C", "title": "Numerical Ordinary Differential Equations", "units": "4"}
+{"dept": "MATH", "code": "MATH 271A-B-C", "title": ". Numerical Optimization", "units": "4-4-4"}
+{"dept": "MATH", "code": "MATH 272A", "title": "Numerical Partial Differential Equations I", "units": "4"}
+{"dept": "MATH", "code": "MATH 272B", "title": "Numerical Partial Differential Equations II", "units": "4"}
+{"dept": "MATH", "code": "MATH 272C", "title": "Numerical Partial Differential Equations III", "units": "4"}
+{"dept": "MATH", "code": "MATH 273A", "title": "Advanced Techniques in Computational Mathematics I", "units": "4"}
+{"dept": "MATH", "code": "MATH 273B", "title": "Advanced Techniques in Computational Mathematics II", "units": "4"}
+{"dept": "MATH", "code": "MATH 273C", "title": "Advanced Techniques in Computational Mathematics III", "units": "4"}
+{"dept": "MATH", "code": "MATH 274", "title": "Numerical Methods for Physical Modeling", "units": "4"}
+{"dept": "MATH", "code": "MATH 275", "title": "Numerical Methods for Partial Differential Equations", "units": "4"}
+{"dept": "MATH", "code": "MATH 276", "title": "Numerical Analysis in Multiscale Biology", "units": "4"}
+{"dept": "MATH", "code": "MATH 277A", "title": "Topics in Computational and Applied Mathematics", "units": "4"}
+{"dept": "MATH", "code": "MATH 278A", "title": "Seminar in Computational and Applied Mathematics", "units": "1"}
+{"dept": "MATH", "code": "MATH 278B", "title": "Seminar in Mathematics of Information, Data, and Signals", "units": "1"}
+{"dept": "MATH", "code": "MATH 278C", "title": "Seminar in Optimization", "units": "1"}
+{"dept": "MATH", "code": "MATH 279", "title": "Projects in Computational and Applied Mathematics", "units": "4"}
+{"dept": "MATH", "code": "MATH 280A", "title": "Probability Theory I", "units": "4"}
+{"dept": "MATH", "code": "MATH 280B", "title": "Probability Theory II", "units": "4"}
+{"dept": "MATH", "code": "MATH 280C", "title": "Probability Theory III", "units": "4"}
+{"dept": "MATH", "code": "MATH 281A", "title": "Mathematical Statistics", "units": "4"}
+{"dept": "MATH", "code": "MATH 281B", "title": "Mathematical Statistics", "units": "4"}
+{"dept": "MATH", "code": "MATH 281C", "title": "Mathematical Statistics", "units": "4"}
+{"dept": "MATH", "code": "MATH 282A", "title": "Applied Statistics I", "units": "4"}
+{"dept": "MATH", "code": "MATH 282B", "title": "Applied Statistics II", "units": "4"}
+{"dept": "MATH", "code": "MATH 283", "title": "Statistical Methods in Bioinformatics", "units": "4"}
+{"dept": "MATH", "code": "MATH 284", "title": "Lifetime Data Analysis", "units": "4"}
+{"dept": "MATH", "code": "MATH 285", "title": "Stochastic Processes", "units": "4"}
+{"dept": "MATH", "code": "MATH 286", "title": "Stochastic Differential Equations", "units": "4"}
+{"dept": "MATH", "code": "MATH 287A", "title": "Time Series Analysis", "units": "4"}
+{"dept": "MATH", "code": "MATH 287B", "title": "Multivariate Analysis", "units": "4"}
+{"dept": "MATH", "code": "MATH 287C", "title": "Advanced Time Series Analysis", "units": "4"}
+{"dept": "MATH", "code": "MATH 287D", "title": "Statistical Learning", "units": "4"}
+{"dept": "MATH", "code": "MATH 288", "title": "Seminar in Probability and Statistics", "units": "1"}
+{"dept": "MATH", "code": "MATH 289A", "title": "Topics in Probability and Statistics", "units": "4"}
+{"dept": "MATH", "code": "MATH 289B", "title": "Further Topics in Probability and Statistics", "units": "4"}
+{"dept": "MATH", "code": "MATH 289C", "title": "Exploratory Data Analysis and Inference", "units": "4"}
+{"dept": "MATH", "code": "MATH 290A-B-C", "title": ". Topology", "units": "4-4-4"}
+{"dept": "MATH", "code": "MATH 291A", "title": "Topics in Topology", "units": "4"}
+{"dept": "MATH", "code": "MATH 291B", "title": "Further Topics in Topology", "units": "4"}
+{"dept": "MATH", "code": "MATH 292", "title": "Seminar in Topology", "units": "1"}
+{"dept": "MATH", "code": "MATH 294", "title": "The Mathematics of Finance", "units": "4"}
+{"dept": "MATH", "code": "MATH 295", "title": "Special Topics in Mathematics", "units": "1 to 4"}
+{"dept": "MATH", "code": "MATH 296", "title": "Graduate Student Colloquium", "units": "1"}
+{"dept": "MATH", "code": "MATH 297", "title": "Mathematics Graduate Research Internship", "units": "2\u20134"}
+{"dept": "MATH", "code": "MATH 299", "title": "Reading and Research", "units": "1 to 12"}
+{"dept": "MATH", "code": "MATH 500", "title": "Teaching Assistant Training", "units": "2 or 4"}
