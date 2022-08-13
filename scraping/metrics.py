@@ -4,6 +4,7 @@ class ScrapingMetrics:
         self.metrics = {
             'departments': 0,
             'courses': 0,
+            'sequence_listings': 0,
             'code_match_failures': 0,
             'ignored_crosslistings': 0,
             'missing_units': 0,
@@ -14,6 +15,9 @@ class ScrapingMetrics:
 
     def add_courses(self, n):
         self.metrics['courses'] += n
+
+    def inc_sequence_listings(self):
+        self.metrics['sequence_listings'] += 1
 
     def inc_code_match_failures(self):
         self.metrics['code_match_failures'] += 1
@@ -30,6 +34,9 @@ class ScrapingMetrics:
     def get_courses(self):
         return self.metrics['courses']
 
+    def get_sequence_listings(self):
+        return self.metrics['sequence_listings']
+
     def get_code_match_failures(self):
         return self.metrics['code_match_failures']
 
@@ -45,6 +52,8 @@ class ScrapingMetrics:
               (self.get_departments(), self.get_courses()))
         print('%d courses were crosslisted (instances besides the first were skipped).' %
               self.get_ignored_crosslistings())
+        print('%d courses were sequence listings.' %
+              self.get_sequence_listings())
         print('Failed to parse course code %d times.' %
               self.get_code_match_failures())
         print('Unit count was missing %d times.' % self.get_missing_units())

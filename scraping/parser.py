@@ -2,11 +2,15 @@ import re
 
 
 _course_code_matcher = re.compile(
-    r'(?P<subject>[A-Z]{2,})\)? (?P<number>[0-9]+[A-Z]*)(?P<ignore>/[A-Z]{2,} [0-9]+[A-Z]*)*[^-]')
+    r'(?P<subject>[A-Z]{2,}) (?P<number>[0-9]+[A-Z]*)(?P<ignore>/[A-Z]{2,} [0-9]+[A-Z]*)*[.: ]')
 _crosslisted_same_number_matcher = re.compile(
     r'(?P<subject>[A-Z]{2,})(?P<ignore>/[A-Z]{2,})+ (?P<number>[0-9]+[A-Z]*)')
 _crosslisted_same_department_matcher = re.compile(
     r'(?P<subject>[A-Z]{2,}) (?P<number>[0-9]+[A-Z]*)(?P<ignore>/[0-9]+[A-Z]*)+')
+_sequence_matcher = re.compile(
+    r'(?P<subject>[A-Z]{2,}) (?P<number>[0-9]+[A-Z]*([-\u2013][0-9A-Z]+)+)(?P<ignore>)')
+_linguistics_matcher = re.compile(
+    r'Linguistics(/[A-Za-z ]+)? \((?P<subject>[A-Z]{2,})\) (?P<number>[0-9]+[A-Z]*)(?P<ignore>)')
 _units_matcher = re.compile(r'\((?P<units>.+?)\)')
 
 
@@ -24,13 +28,20 @@ class CourseInfoParser:
         if code_match is None:
             code_match = _crosslisted_same_department_matcher.match(title_line)
         if code_match is None:
+            code_match = _sequence_matcher.match(title_line)
+            if code_match is not None:
+                self.logger.info('Found sequence listing in "%s"', title_line)
+                self.metrics.inc_sequence_listings()
+        if code_match is None:
+            code_match = _linguistics_matcher.match(title_line)
+        if code_match is None:
             self.logger.error(
                 'Failed to match course code in "%s"', title_line)
             self.metrics.inc_code_match_failures()
             return None
         subject, number, ignore = code_match.group(
             'subject', 'number', 'ignore')
-        if ignore is not None:
+        if ignore:
             self.logger.warning('Ignored crosslisting(s) in "%s"', title_line)
             self.metrics.inc_ignored_crosslistings()
         title_start = code_match.end()
@@ -45,5 +56,5 @@ class CourseInfoParser:
             units = '?'
             title_end = len(title_line)
 
-        title = title_line[title_start:title_end].strip(' .:')
+        title = title_line[title_start:title_end].strip()
         return (subject, number, title, units)
