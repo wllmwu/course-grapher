@@ -11,8 +11,10 @@ _units_matcher = re.compile(r'\((?P<units>.+?)\)')
 
 
 class CourseInfoParser:
-    def __init__(self, logger):
+    def __init__(self, logger, metrics):
+        super().__init__()
         self.logger = logger
+        self.metrics = metrics
 
     def parse_course(self, title_line):
         title_line = title_line.strip()
@@ -24,11 +26,13 @@ class CourseInfoParser:
         if code_match is None:
             self.logger.error(
                 'Failed to match course code in "%s"', title_line)
+            self.metrics.inc_code_match_failures()
             return None
         subject, number, ignore = code_match.group(
             'subject', 'number', 'ignore')
         if ignore is not None:
             self.logger.warning('Ignored crosslisting(s) in "%s"', title_line)
+            self.metrics.inc_ignored_crosslistings()
         title_start = code_match.end()
 
         units_match = _units_matcher.search(title_line)
@@ -37,6 +41,7 @@ class CourseInfoParser:
             title_end = units_match.start()
         else:
             self.logger.warning('Missing units in "%s"', title_line)
+            self.metrics.inc_missing_units()
             units = '?'
             title_end = len(title_line)
 

@@ -1,3 +1,4 @@
+from metrics import ScrapingMetrics
 from parser import CourseInfoParser
 from pipeline import PerDepartmentExportPipeline
 import scrapy
@@ -19,12 +20,17 @@ class CatalogSpider(scrapy.Spider):
 
     def __init__(self, name=None, **kwargs):
         super().__init__(name, **kwargs)
-        self.parser = CourseInfoParser(self.logger)
+        self.metrics = ScrapingMetrics()
+        self.parser = CourseInfoParser(self.logger, self.metrics)
+
+    def closed(self, reason):
+        self.metrics.pretty_print()
 
     def parse(self, response):
         selectors = response.xpath(
             '//span[@class="courseFacLink"]/a[text()[contains(.,"courses")]]/@href')
         self.logger.info('Found %d department course pages', len(selectors))
+        self.metrics.set_departments(len(selectors))
         for link in selectors.getall():
             yield response.follow(link, callback=self.parse_courses)
 
@@ -37,6 +43,7 @@ class CatalogSpider(scrapy.Spider):
         # ).xpath('string()')
         self.logger.info('Found %d courses in department %s',
                          len(name_selectors), dept)
+        self.metrics.add_courses(len(name_selectors))
         for line in name_selectors.getall():
             result = self.parser.parse_course(line)
             if result is not None:
