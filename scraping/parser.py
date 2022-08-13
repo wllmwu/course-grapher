@@ -2,7 +2,7 @@ import re
 
 
 _course_code_matcher = re.compile(
-    r'(?P<subject>[A-Z]{2,}) (?P<number>[0-9]+[A-Z]*)(?P<ignore>/[A-Z]{2,} [0-9]+[A-Z]*)*')
+    r'(?P<subject>[A-Z]{2,})\)? (?P<number>[0-9]+[A-Z]*)(?P<ignore>/[A-Z]{2,} [0-9]+[A-Z]*)*[^-]')
 _crosslisted_same_number_matcher = re.compile(
     r'(?P<subject>[A-Z]{2,})(?P<ignore>/[A-Z]{2,})+ (?P<number>[0-9]+[A-Z]*)')
 _crosslisted_same_department_matcher = re.compile(
