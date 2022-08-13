@@ -1,0 +1,178 @@
+{"dept": "SOC", "code": "SOCI 1", "title": "Introduction to Sociology", "units": "4"}
+{"dept": "SOC", "code": "SOCI 2", "title": "The Study of Society", "units": "4"}
+{"dept": "SOC", "code": "SOCI 10", "title": "American Society: Social Structure and Culture in the U.S.", "units": "4"}
+{"dept": "SOC", "code": "SOCI 20", "title": "Social Change in the Modern World", "units": "4"}
+{"dept": "SOC", "code": "SOCI 30", "title": "Science, Technology, and Society", "units": "4"}
+{"dept": "SOC", "code": "SOCI 40", "title": "Sociology of Health-Care Issues", "units": "4"}
+{"dept": "SOC", "code": "SOCI 50", "title": "Introduction to Law and Society", "units": "4"}
+{"dept": "SOC", "code": "SOCI 60", "title": "The Practice of Social Research", "units": "4"}
+{"dept": "SOC", "code": "SOCI 70", "title": "General Sociology for Premedical Students", "units": "4"}
+{"dept": "SOC", "code": "SOCI 87", "title": "First-year Student Seminar", "units": "1"}
+{"dept": "SOC", "code": "SOCI 98", "title": "Directed Group Study", "units": "4"}
+{"dept": "SOC", "code": "SOCI 99", "title": "Independent Study", "units": "4"}
+{"dept": "SOC", "code": "SOCI 100", "title": "Classical Sociological Theory", "units": "4"}
+{"dept": "SOC", "code": "SOCI 102", "title": "Network Data and Methods", "units": "4"}
+{"dept": "SOC", "code": "SOCI 103M", "title": "Computer Applications to Data Management in Sociology", "units": "4"}
+{"dept": "SOC", "code": "SOCI 104", "title": "Field Research: Methods of Participant Observation", "units": "4"}
+{"dept": "SOC", "code": "SOCI 104Q", "title": "Qualitative Interviewing", "units": "4"}
+{"dept": "SOC", "code": "SOCI 105", "title": "Ethnographic Film: Media Methods", "units": "6"}
+{"dept": "SOC", "code": "SOCI 106", "title": "Comparative and Historical Methods", "units": "4"}
+{"dept": "SOC", "code": "SOCI 106M", "title": "Holocaust Diaries", "units": "4"}
+{"dept": "SOC", "code": "SOCI 107", "title": "Epidemiological Methods: Statistical Study of Disease", "units": "4"}
+{"dept": "SOC", "code": "SOCI 108", "title": "Survey Research Design", "units": "4"}
+{"dept": "SOC", "code": "SOCI 109", "title": "Analysis of Sociological Data", "units": "4"}
+{"dept": "SOC", "code": "SOCI 109M", "title": "Research Reporting", "units": "4"}
+{"dept": "SOC", "code": "SOCI 110", "title": "Qualitative Research in Educational Settings", "units": "4"}
+{"dept": "SOC", "code": "SOCI 111", "title": "Local Lives, Global Problems", "units": "4"}
+{"dept": "SOC", "code": "SOCI 112", "title": "Social Psychology", "units": "4"}
+{"dept": "SOC", "code": "SOCI 113", "title": "Sociology of the AIDS Epidemic", "units": "4"}
+{"dept": "SOC", "code": "SOCI 114", "title": "Just a Joke?: Sociology of Humor", "units": "4"}
+{"dept": "SOC", "code": "SOCI 115", "title": "Social Problems", "units": "4"}
+{"dept": "SOC", "code": "SOCI 116", "title": "Gender and Language in Society", "units": "4"}
+{"dept": "SOC", "code": "SOCI 117", "title": "Language, Culture, and Education", "units": "4"}
+{"dept": "SOC", "code": "SOCI 118", "title": "Sociology of Gender", "units": "4"}
+{"dept": "SOC", "code": "SOCI 118E", "title": "Sociology of Language", "units": "4"}
+{"dept": "SOC", "code": "SOCI 119", "title": "Sociology of Sexuality and Sexual Identities", "units": "4"}
+{"dept": "SOC", "code": "SOCI 120", "title": "Sociology Through Literature", "units": "4"}
+{"dept": "SOC", "code": "SOCI 120T", "title": "Special Topics in Culture, Language, and Social Interaction", "units": "4"}
+{"dept": "SOC", "code": "SOCI 121", "title": "Economy and Society", "units": "4"}
+{"dept": "SOC", "code": "SOCI 122", "title": "Social Networks", "units": "4"}
+{"dept": "SOC", "code": "SOCI 123", "title": "Japanese Culture Inside/Out: A Transnational Perspective", "units": "4"}
+{"dept": "SOC", "code": "SOCI 124", "title": "The Good Society", "units": "4"}
+{"dept": "SOC", "code": "SOCI 125", "title": "Sociology of Immigration", "units": "4"}
+{"dept": "SOC", "code": "SOCI 126", "title": "Social Organization of Education", "units": "4"}
+{"dept": "SOC", "code": "SOCI 127", "title": "Immigration, Race, and Ethnicity", "units": "4"}
+{"dept": "SOC", "code": "SOCI 128", "title": "Religion and Popular Culture in East Asia", "units": "4"}
+{"dept": "SOC", "code": "SOCI 129", "title": "The Family", "units": "4"}
+{"dept": "SOC", "code": "SOCI 130", "title": "Population and Society", "units": "4"}
+{"dept": "SOC", "code": "SOCI 131", "title": "Sociology of Youth", "units": "4"}
+{"dept": "SOC", "code": "SOCI 132", "title": "Gender and Work", "units": "4"}
+{"dept": "SOC", "code": "SOCI 133", "title": "Immigration in Comparative Perspective", "units": "4"}
+{"dept": "SOC", "code": "SOCI 134", "title": "The Making of Modern Medicine", "units": "4"}
+{"dept": "SOC", "code": "SOCI 135", "title": "Medical Sociology", "units": "4"}
+{"dept": "SOC", "code": "SOCI 136", "title": "Data and Society", "units": "4"}
+{"dept": "SOC", "code": "SOCI 136E", "title": "Sociology of Mental Illness: A Historical Approach", "units": "4"}
+{"dept": "SOC", "code": "SOCI 136F", "title": "Sociology of Mental Illness in Contemporary Society", "units": "4"}
+{"dept": "SOC", "code": "SOCI 137", "title": "Sociology of Food", "units": "4"}
+{"dept": "SOC", "code": "SOCI 138", "title": "Genetics and Society", "units": "4"}
+{"dept": "SOC", "code": "SOCI 139", "title": "Social Inequality: Class, Race, and Gender", "units": "4"}
+{"dept": "SOC", "code": "SOCI 140", "title": "Sociology of Law", "units": "4"}
+{"dept": "SOC", "code": "SOCI 140F", "title": "Law and the Workplace", "units": "4"}
+{"dept": "SOC", "code": "SOCI 140K", "title": "Law and Society in China", "units": "4"}
+{"dept": "SOC", "code": "SOCI 141", "title": "Crime and Society", "units": "4"}
+{"dept": "SOC", "code": "SOCI 142", "title": "Social Deviance", "units": "4"}
+{"dept": "SOC", "code": "SOCI 143", "title": "Suicide", "units": "4"}
+{"dept": "SOC", "code": "SOCI 144", "title": "Forms of Social Control", "units": "4"}
+{"dept": "SOC", "code": "SOCI 145", "title": "Violence and Society", "units": "4"}
+{"dept": "SOC", "code": "SOCI 146", "title": "Criminal Punishment", "units": "4"}
+{"dept": "SOC", "code": "SOCI 147", "title": "Organizations, Society, and Social Justice", "units": "4"}
+{"dept": "SOC", "code": "SOCI 148", "title": "Political Sociology", "units": "4"}
+{"dept": "SOC", "code": "SOCI 148E", "title": "Inequality and Jobs", "units": "4"}
+{"dept": "SOC", "code": "SOCI 148GS", "title": "Political Sociology", "units": "4"}
+{"dept": "SOC", "code": "SOCI 149", "title": "Sociology of the Environment", "units": "4"}
+{"dept": "SOC", "code": "SOCI 150", "title": "Madness and the Movies", "units": "4"}
+{"dept": "SOC", "code": "SOCI 151", "title": "Social Movement from Civil Rights to Black Lives Matter", "units": "4"}
+{"dept": "SOC", "code": "SOCI 152", "title": "Social Inequality and Public Policy", "units": "4"}
+{"dept": "SOC", "code": "SOCI 153", "title": "Urban Sociology", "units": "4"}
+{"dept": "SOC", "code": "SOCI 154", "title": "Religious Institutions in America", "units": "4"}
+{"dept": "SOC", "code": "SOCI 155", "title": "The City of San Diego", "units": "4"}
+{"dept": "SOC", "code": "SOCI 156", "title": "Sociology of Religion", "units": "4"}
+{"dept": "SOC", "code": "SOCI 157", "title": "Religion in Contemporary Society", "units": "4"}
+{"dept": "SOC", "code": "SOCI 158", "title": "Islam in the Modern World", "units": "4"}
+{"dept": "SOC", "code": "SOCI 159", "title": "Special Topics in Social Organizations and Institutions", "units": "4"}
+{"dept": "SOC", "code": "SOCI 160", "title": "Sociology of Culture", "units": "4"}
+{"dept": "SOC", "code": "SOCI 160E", "title": "Law and Culture", "units": "4"}
+{"dept": "SOC", "code": "SOCI 161", "title": "Sociology of the Life Course", "units": "4"}
+{"dept": "SOC", "code": "SOCI 162", "title": "Popular Culture", "units": "4"}
+{"dept": "SOC", "code": "SOCI 163", "title": "Migration and the Law", "units": "4"}
+{"dept": "SOC", "code": "SOCI 165", "title": "Predicting the Future from Tarot Cards to Computer Algorithms", "units": "4"}
+{"dept": "SOC", "code": "SOCI 165A", "title": "American News Media", "units": "4"}
+{"dept": "SOC", "code": "SOCI 166", "title": "Sociology of Knowledge", "units": "4"}
+{"dept": "SOC", "code": "SOCI 167", "title": "Science and War", "units": "4"}
+{"dept": "SOC", "code": "SOCI 168", "title": "Marxism", "units": "4"}
+{"dept": "SOC", "code": "SOCI 168E", "title": "Sociology of Science", "units": "4"}
+{"dept": "SOC", "code": "SOCI 169", "title": "Citizenship, Community, and Culture", "units": "4"}
+{"dept": "SOC", "code": "SOCI 170", "title": "Gender and Science", "units": "4"}
+{"dept": "SOC", "code": "SOCI 171", "title": "Technology and Science", "units": "4"}
+{"dept": "SOC", "code": "SOCI 172", "title": "Films and Society", "units": "4"}
+{"dept": "SOC", "code": "SOCI 173", "title": "Sociology of Health, Illness, and Medicine", "units": "4"}
+{"dept": "SOC", "code": "SOCI 175", "title": "Nationality and Citizenship", "units": "4"}
+{"dept": "SOC", "code": "SOCI 176", "title": "Transnational Japan Research Practicum", "units": "4"}
+{"dept": "SOC", "code": "SOCI 177", "title": "International Terrorism", "units": "4"}
+{"dept": "SOC", "code": "SOCI 178", "title": "The Holocaust", "units": "4"}
+{"dept": "SOC", "code": "SOCI 179", "title": "Social Change", "units": "4"}
+{"dept": "SOC", "code": "SOCI 180", "title": "Social Movements and Social Protest", "units": "4"}
+{"dept": "SOC", "code": "SOCI 181", "title": "Modern Western Society", "units": "4"}
+{"dept": "SOC", "code": "SOCI 182", "title": "Ethnicity and Indigenous Peoples in Latin America", "units": "4"}
+{"dept": "SOC", "code": "SOCI 183", "title": "The Geography of American Opportunity", "units": "4"}
+{"dept": "SOC", "code": "SOCI 184", "title": "Gender and Film", "units": "4"}
+{"dept": "SOC", "code": "SOCI 185", "title": "Globalization and Social Development", "units": "4"}
+{"dept": "SOC", "code": "SOCI 185GS", "title": "Globalization and Social Development", "units": "4"}
+{"dept": "SOC", "code": "SOCI 187", "title": "African Societies through Film", "units": "4"}
+{"dept": "SOC", "code": "SOCI 187E", "title": "The Sixties", "units": "4"}
+{"dept": "SOC", "code": "SOCI 188D", "title": "Latin America: Society and Politics", "units": "4"}
+{"dept": "SOC", "code": "SOCI 188E", "title": "Community and Social Change in Africa", "units": "4"}
+{"dept": "SOC", "code": "SOCI 188F", "title": "Modern Jewish Societies and Israeli Society", "units": "4"}
+{"dept": "SOC", "code": "SOCI 188G", "title": "Chinese Society", "units": "4"}
+{"dept": "SOC", "code": "SOCI 188GS", "title": "Change in Modern South Africa", "units": "4"}
+{"dept": "SOC", "code": "SOCI 188I", "title": "The Israeli-Palestinian Conflict", "units": "4"}
+{"dept": "SOC", "code": "SOCI 188J", "title": "Change in Modern South Africa", "units": "4"}
+{"dept": "SOC", "code": "SOCI 188K", "title": "American Society", "units": "4"}
+{"dept": "SOC", "code": "SOCI 188M", "title": "Social Movements in Latin America", "units": "4"}
+{"dept": "SOC", "code": "SOCI 188O", "title": "Settlements and Peacemaking in Israel", "units": "4"}
+{"dept": "SOC", "code": "SOCI 189", "title": "Special Topics in Comparative-Historical Sociology", "units": "4"}
+{"dept": "SOC", "code": "SOCI 192", "title": "Senior Seminar in Sociology", "units": "1"}
+{"dept": "SOC", "code": "SOCI 194", "title": "Research Seminar in Washington, DC", "units": "4"}
+{"dept": "SOC", "code": "SOCI 196A", "title": "Honors Seminar: Advanced Studies in Sociology", "units": "4"}
+{"dept": "SOC", "code": "SOCI 196B", "title": "Honors Seminar: Supervised Thesis Research", "units": "4"}
+{"dept": "SOC", "code": "SOCI 198", "title": "Directed Group Study", "units": "4"}
+{"dept": "SOC", "code": "SOCI 198RA", "title": "Research Apprenticeship", "units": "4"}
+{"dept": "SOC", "code": "SOCI 199", "title": "Independent Study", "units": "4"}
+{"dept": "SOC", "code": "SOCG 200", "title": "Introductory Methods/Epistemology", "units": "4"}
+{"dept": "SOC", "code": "SOCG 201", "title": "Classical Sociology Theory", "units": "4"}
+{"dept": "SOC", "code": "SOCG 202", "title": "Contemporary Sociological Theory", "units": "4"}
+{"dept": "SOC", "code": "SOCG 203", "title": "Field Methods", "units": "4"}
+{"dept": "SOC", "code": "SOCG 204", "title": "Text and Discourse Analysis", "units": "4"}
+{"dept": "SOC", "code": "SOCG 205", "title": "Quantitative Methods I", "units": "4"}
+{"dept": "SOC", "code": "SOCG 206", "title": "Quantitative Methods II", "units": "4"}
+{"dept": "SOC", "code": "SOCG 207", "title": "Comparative-Historical Methods", "units": "4"}
+{"dept": "SOC", "code": "SOCG 208A", "title": "Graduate Student Seminar", "units": "1"}
+{"dept": "SOC", "code": "SOCG 208B", "title": "Graduate Student Seminar", "units": "1"}
+{"dept": "SOC", "code": "SOCG 209", "title": "Social Networks", "units": "4"}
+{"dept": "SOC", "code": "SOCG 211", "title": "Introduction to Computational Social Science", "units": "4"}
+{"dept": "SOC", "code": "SOCG 212", "title": "Social Stratification", "units": "4"}
+{"dept": "SOC", "code": "SOCG 214", "title": "Urban Sociology", "units": "4"}
+{"dept": "SOC", "code": "SOCG 216", "title": "Sociology of Culture", "units": "4"}
+{"dept": "SOC", "code": "SOCG 222", "title": "Social Movements", "units": "4"}
+{"dept": "SOC", "code": "SOCG 225", "title": "Comparative Political Economy", "units": "4"}
+{"dept": "SOC", "code": "SOCG 226", "title": "Political Sociology", "units": "4"}
+{"dept": "SOC", "code": "SOCG 227", "title": "Ethnographic Film: Media Methods", "units": "6"}
+{"dept": "SOC", "code": "SOCG 230", "title": "Advanced Approaches to Sociological Theory", "units": "4"}
+{"dept": "SOC", "code": "SOCG 232", "title": "Advanced Issues in the Sociology of Knowledge", "units": "4"}
+{"dept": "SOC", "code": "SOCG 234", "title": "Intellectual Foundation of the Study of Science, Technology, and Medicine", "units": "4"}
+{"dept": "SOC", "code": "SOCG 238", "title": "Survey of the Sociology of Scientific Knowledge", "units": "4"}
+{"dept": "SOC", "code": "SOCG 243", "title": "Sociology of Social Control", "units": "4"}
+{"dept": "SOC", "code": "SOCG 244", "title": "Sociology of Race and Ethnicity", "units": "4"}
+{"dept": "SOC", "code": "SOCG 245", "title": "Gender, Work, and the Economy", "units": "4"}
+{"dept": "SOC", "code": "SOCG 246", "title": "The Welfare State", "units": "4"}
+{"dept": "SOC", "code": "SOCG 247", "title": "Madness and Society", "units": "4"}
+{"dept": "SOC", "code": "SOCG 252", "title": "Research Practicum I", "units": "4"}
+{"dept": "SOC", "code": "SOCG 253", "title": "Research Practicum II", "units": "4"}
+{"dept": "SOC", "code": "SOCG 255A", "title": "Introduction to Science Studies", "units": "4"}
+{"dept": "SOC", "code": "SOCG 255B", "title": "Seminar in Science Studies", "units": "4"}
+{"dept": "SOC", "code": "SOCG 255C", "title": "Colloquium in Science Studies", "units": "4"}
+{"dept": "SOC", "code": "SOCG 255D", "title": "Advanced Approaches to Science Studies", "units": "4"}
+{"dept": "SOC", "code": "SOCG 258", "title": "Institutional Change in the Contemporary World; Latin American Societies in a Comparative Perspective", "units": "4"}
+{"dept": "SOC", "code": "SOCG 263", "title": "Graduate Seminar in the Sociology of Art", "units": "4"}
+{"dept": "SOC", "code": "SOCG 264", "title": "Economic Sociology", "units": "4"}
+{"dept": "SOC", "code": "SOCG 267", "title": "Sociology of Gender", "units": "4"}
+{"dept": "SOC", "code": "SOCG 269", "title": "The Citizenship Debates", "units": "4"}
+{"dept": "SOC", "code": "SOCG 270", "title": "Sociology of Education", "units": "4"}
+{"dept": "SOC", "code": "SOCG 278", "title": "Immigration, Assimilation, and Identity", "units": "4"}
+{"dept": "SOC", "code": "SOCG 282", "title": "Immigration and Citizen", "units": "4"}
+{"dept": "SOC", "code": "SOCG 284", "title": "Contemporary Biomedicine", "units": "4"}
+{"dept": "SOC", "code": "SOCG 288", "title": "Knowledge Capitalism", "units": "4"}
+{"dept": "SOC", "code": "SOCG 290", "title": "Graduate Seminar", "units": "4"}
+{"dept": "SOC", "code": "SOCG 298", "title": "Independent Study", "units": "1\u20138"}
+{"dept": "SOC", "code": "SOCG 299", "title": "Thesis Research", "units": "1\u201312"}
+{"dept": "SOC", "code": "SOCG 500", "title": "Apprentice Teaching", "units": "2\u20134"}

@@ -1,0 +1,93 @@
+{"dept": "FMPH", "code": "FMPH 40", "title": "Introduction to Public Health", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 50", "title": "Primary Care and Public Health", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 101", "title": "Epidemiology", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 102", "title": "Biostatistics in Public Health", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 110", "title": "Health Behavior and Chronic Diseases", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 120", "title": "Health Policies for Healthy Lifestyles", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 130", "title": "Environmental and Occupational Health", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 155", "title": "Qualitative Research for Global Public Health", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 161", "title": "Clinical Nutrition in Public Health", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 171", "title": "Field Epidemiology and Outbreak Investigations", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 191", "title": "Topics in Public Health", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 193", "title": "Public Capstone I", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 194", "title": "Public Capstone II", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 195", "title": "Instruction in Public Health", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 196A", "title": "Public Health Honors Practicum I", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 196B", "title": "Public Health Honors Practicum II", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 196C", "title": "Public Health Honors Practicum III", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 198", "title": "Directed Group Study", "units": "1\u20134"}
+{"dept": "FMPH", "code": "FMPH 199", "title": "Independent Study", "units": "2\u20134"}
+{"dept": "FMPH", "code": "FMPH 221", "title": "Biostatistical Methods I", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 222", "title": "Biostatistical Methods II", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 223", "title": "Analysis of Longitudinal Data", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 224", "title": "Clinical Trials and Experimental Design", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 225", "title": "Advanced Topics in Biostatistical Inference", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 226", "title": "Statistical Methods for Observational Studies", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 227", "title": "Applied Multivariate Statistical Analysis", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 241", "title": "Biostatistics Rotation", "units": "3"}
+{"dept": "FMPH", "code": "FMPH 242", "title": "Advanced Topics in Biostatistics", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 243A", "title": "Practicum in Biostatistics A", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 243B", "title": "Practicum in Biostatistics B", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 243C", "title": "Practicum in Biostatistics C", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 244A", "title": "Foundations in Biostatistics A", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 244B", "title": "Foundations in Biostatistics B", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 277", "title": "Health Policy, Technology, and Public Health", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 290", "title": "Biostatistics Journal Club and Seminar", "units": "1"}
+{"dept": "FMPH", "code": "FMPH 291", "title": "Special Topics in Public Health", "units": "1\u20134"}
+{"dept": "FMPH", "code": "FMPH 299", "title": "Dissertation Research", "units": "1\u201312"}
+{"dept": "FMPH", "code": "FMPH 400", "title": "Introduction to Biostatistics", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 401", "title": "Introduction to Epidemiology", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 402", "title": "Introduction to Health Behavior", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 403", "title": "Public Health Research Methods", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 404", "title": "Introduction to Environmental and Occupational Health", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 405", "title": "Introduction to Health Policy", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 406", "title": "Scientific Writing", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 410", "title": "Health Behavior Interventions", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 411", "title": "Program Optimization and Evaluation", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 412", "title": "Health Promotion and Communication", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 413", "title": "Ethics in Public Health Research and Practice", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 415", "title": "Advanced Epidemiologic Methods", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 417", "title": "Cardiovascular Disease Epidemiology", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 418", "title": "Infectious Diseases: Epidemiologic Methods and Emerging Trends", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 419", "title": "Biostatistics II", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 425", "title": "Epidemiology of Public Mental Health", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 426", "title": "Public Mental and Behavior Health and Addiction", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 427", "title": "Mental Health Across the Life Course", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 428", "title": "Dissemination and Implementation, Policy, and Health Services in Mental Health", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 430", "title": "Technology and Precision Health", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 431", "title": "Public Health Informatics", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 440", "title": "Introduction to Health Economics", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 441", "title": "The Organization and Financing of the US Health Care System", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 460", "title": "Human-Centered Design and Public Health", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 461", "title": "Current Issues in Public Health", "units": "2"}
+{"dept": "FMPH", "code": "FMPH 462", "title": "Non-Communicable Diseases and Global Health", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 491", "title": "Special Topics in Public Health", "units": "1\u20134"}
+{"dept": "FMPH", "code": "FMPH 495", "title": "Master\u2019s Capstone/Thesis Independent Study", "units": "2"}
+{"dept": "FMPH", "code": "FMPH 496", "title": "Public Health Practicum", "units": "4"}
+{"dept": "FMPH", "code": "FMPH 498", "title": "Independent Study", "units": "1\u201312"}
+{"dept": "FMPH", "code": "FMPH 499", "title": "Public Health Master\u2019s Capstone/Thesis", "units": "1\u201312"}
+{"dept": "FMPH", "code": "FPM 231", "title": "Exposure Assessment and Biomarkers in Epidemiology", "units": "2"}
+{"dept": "FMPH", "code": "FPM 233", "title": "Clinical Nutrition", "units": "2"}
+{"dept": "FMPH", "code": "FPM 237", "title": "Microarray Technology and Informatics", "units": "2"}
+{"dept": "FMPH", "code": "FPM 238", "title": "Introduction to Clinical Family Medicine", "units": "1\u20137"}
+{"dept": "FMPH", "code": "FPM 244", "title": "Clinical and Public Health Elective, Baja California, Mexico", "units": "2"}
+{"dept": "FMPH", "code": "FPM 246", "title": "Occupational/Environmental Health", "units": "2"}
+{"dept": "FMPH", "code": "FPM 247", "title": "Clinical Epidemiology Seminar", "units": "2"}
+{"dept": "FMPH", "code": "FPM 257", "title": "Cancer: Cause and Prevention", "units": "2"}
+{"dept": "FMPH", "code": "FPM 258A", "title": "Public Health Doctoral Lecture Series I", "units": "2"}
+{"dept": "FMPH", "code": "FPM 258B", "title": "Public Health Doctoral Lecture Series II", "units": "2"}
+{"dept": "FMPH", "code": "FPM 258C", "title": "Public Health Doctoral Lecture Series III", "units": "2"}
+{"dept": "FMPH", "code": "FPM 259A", "title": "Applied Epidemiology\u2014Scientific Analysis", "units": "4"}
+{"dept": "FMPH", "code": "FPM 259B", "title": "Applied Epidemiology\u2014Scientific Writing", "units": "4"}
+{"dept": "FMPH", "code": "FPM 259C", "title": "Applied Epidemiology\u2014Scientific Presentations", "units": "4"}
+{"dept": "FMPH", "code": "FPM 270", "title": "Cultural Perceptions of Health and Disease", "units": "4"}
+{"dept": "FMPH", "code": "FPM 272", "title": "Community Advocacy", "units": "4"}
+{"dept": "FMPH", "code": "FPM 276", "title": "Health Behavior Interventions I", "units": "4"}
+{"dept": "FMPH", "code": "FPM 277", "title": "Health Behavior Interventions II", "units": "4"}
+{"dept": "FMPH", "code": "FPM 278", "title": "Scale Development for Behavioral Health Measurement", "units": "4"}
+{"dept": "FMPH", "code": "FPM 280A", "title": "Practicum in Health Behavior I", "units": "4"}
+{"dept": "FMPH", "code": "FPM 280B", "title": "Practicum in Health Behavior II", "units": "4"}
+{"dept": "FMPH", "code": "FPM 280C", "title": "Practicum in Health Behavior III", "units": "4"}
+{"dept": "FMPH", "code": "FPM 286", "title": "Free Clinic II", "units": "2 or 4"}
+{"dept": "FMPH", "code": "FPM 288", "title": "Introduction to Qualitative Research Methods", "units": "4"}
+{"dept": "FMPH", "code": "FPM 291", "title": "Dissemination and Implementation Science in Health: An Introduction", "units": "4"}
