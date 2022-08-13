@@ -1,10 +1,6 @@
+from parser import CourseInfoParser
 from pipeline import PerDepartmentExportPipeline
-import re
 import scrapy
-
-
-course_info_matcher = re.compile(
-    r'^\s*(?P<code>.+?)\.\s*(?P<title>.+?)\s*\((?P<units>.+?)\)')
 
 
 class CatalogSpider(scrapy.Spider):
@@ -21,15 +17,15 @@ class CatalogSpider(scrapy.Spider):
         }
     }
 
+    def __init__(self, name=None, **kwargs):
+        super().__init__(name, **kwargs)
+        self.parser = CourseInfoParser(self.logger)
+
     def parse(self, response):
         selectors = response.xpath(
             '//span[@class="courseFacLink"]/a[text()[contains(.,"courses")]]/@href')
         self.logger.info('Found %d department course pages', len(selectors))
-        i = 0
         for link in selectors.getall():
-            if i >= 30:
-                break
-            i += 1
             yield response.follow(link, callback=self.parse_courses)
 
     def parse_courses(self, response):
@@ -42,30 +38,16 @@ class CatalogSpider(scrapy.Spider):
         self.logger.info('Found %d courses in department %s',
                          len(name_selectors), dept)
         for line in name_selectors.getall():
-            match = course_info_matcher.match(line)
-            if match is None:
-                self.logger.error('Failed to match course info: "%s"', line)
-                continue
-            code, title, units = match.group('code', 'title', 'units')
-            code = self._remove_cross_listings(code)
-            yield {
-                'dept': dept,
-                'code': code,
-                'title': title,
-                'units': units
-            }
+            result = self.parser.parse_course(line)
+            if result is not None:
+                subject, number, title, units = result
+                yield {
+                    'dept': dept,
+                    'code': f'{subject} {number}',
+                    'title': title,
+                    'units': units
+                }
 
     def _department_from_url(self, url):
         start, end = url.rfind('/') + 1, url.rfind('.')
         return url[start:end].upper()
-
-    def _remove_cross_listings(self, code):
-        index = code.find('/')
-        if index == -1:
-            return code
-        self.logger.warning('Ignored cross-listing: %s', code)
-        # code may look like "ABC 101/DEF 102" or "ABC/DEF 101" or "ABC 101/201"
-        new_code = code[:index]
-        if re.search(r'\d', new_code) is None:
-            new_code += code[code.rfind(' '):]
-        return new_code
