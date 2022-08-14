@@ -8,6 +8,8 @@ class ScrapingMetrics:
             'code_match_failures': 0,
             'ignored_crosslistings': 0,
             'missing_units': 0,
+            'missing_descriptions': 0,
+            'extra_descriptions': 0,
         }
 
     def set_departments(self, n):
@@ -28,6 +30,12 @@ class ScrapingMetrics:
     def inc_missing_units(self):
         self.metrics['missing_units'] += 1
 
+    def add_missing_descriptions(self, n):
+        self.metrics['missing_descriptions'] += n
+
+    def add_extra_descriptions(self, n):
+        self.metrics['extra_descriptions'] += n
+
     def get_departments(self):
         return self.metrics['departments']
 
@@ -46,6 +54,12 @@ class ScrapingMetrics:
     def get_missing_units(self):
         return self.metrics['missing_units']
 
+    def get_missing_descriptions(self):
+        return self.metrics['missing_descriptions']
+
+    def get_extra_descriptions(self):
+        return self.metrics['extra_descriptions']
+
     def pretty_print(self):
         print('Scraping statistics:')
         print('Found %d departments, %d courses.' %
@@ -57,3 +71,7 @@ class ScrapingMetrics:
         print('Failed to parse course code %d times.' %
               self.get_code_match_failures())
         print('Unit count was missing %d times.' % self.get_missing_units())
+        print('Failed to find a description for %d courses' %
+              self.get_missing_descriptions())
+        print('Failed to find a course for %d descriptions' %
+              self.get_extra_descriptions())

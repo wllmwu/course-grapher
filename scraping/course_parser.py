@@ -12,6 +12,11 @@ _sequence_matcher = re.compile(
 _linguistics_matcher = re.compile(
     r'Linguistics(/[A-Za-z ]+)? \((?P<subject>[A-Z]{2,})\) (?P<number>[0-9]+[A-Z]*)(?P<ignore>)')
 _units_matcher = re.compile(r'\((?P<units>.+?)\)')
+_prerequisites_matcher = re.compile(
+    r'([Pp]re|[Cc]o)-?requisites: (?P<prereqs>.+)')
+_delimiter_matcher = re.compile(r'[\.;]')
+_recommended_matcher = re.compile(r'[Rr]ecommended')
+_single_code_matcher = re.compile(r'[A-Z]{2,} [0-9]+[A-Z]*')
 
 
 class CourseInfoParser:
@@ -58,3 +63,41 @@ class CourseInfoParser:
 
         title = title_line[title_start:title_end].strip()
         return (subject, number, title, units)
+
+    def parse_prerequisites(self, description):
+        def prereqs_filter(item):
+            return _single_code_matcher.search(item) is not None and \
+                _recommended_matcher.search(item) is None
+        description = description.strip()
+        prereqs_match = _prerequisites_matcher.search(description)
+        if prereqs_match is None:
+            return None
+        prereqs_str = prereqs_match.group('prereqs')
+        items = _delimiter_matcher.split(prereqs_str)
+        items = filter(prereqs_filter, items)
+
+        prerequisites = []
+        for item in items:
+            and_split = item.split(' and ')
+            for and_component in and_split:
+                alternatives = []
+                or_split = and_component.split(' or ')
+                for or_component in or_split:
+                    if ',' in or_component:
+                        self.logger.error('DEBUG comma in %s', prereqs_str)
+                    course_match = _single_code_matcher.search(or_component)
+                    if course_match is None:
+                        self.logger.error(
+                            'Failed to match course code in "%s" > "%s" > "%s"',
+                            prereqs_str,
+                            and_component,
+                            or_component
+                        )
+                        continue
+                    course = course_match.group()
+                    alternatives.append(course)
+                prerequisites.append(alternatives)
+
+        if len(prerequisites) == 0:
+            return None
+        return prerequisites
