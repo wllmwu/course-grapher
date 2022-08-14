@@ -1,5 +1,5 @@
+from course_parser import CourseInfoParser
 from metrics import ScrapingMetrics
-from parser import CourseInfoParser
 from pipeline import PerDepartmentExportPipeline
 import scrapy
 
