@@ -17,11 +17,14 @@ _units_matcher = re.compile(r'\((?P<units>.+?)\)')
 # _prerequisites_matcher = re.compile(
 #    r'([Pp]re|[Cc]o)-?requisites: .*?(?P<prereqs>[A-Z]{2,} [0-9]+[A-Z]*[^\.;]*)')
 _prerequisites_matcher = re.compile(
-    r'.*Prerequisites: .*?(?P<prereqs>\(?[A-Z]{2,}.*?)(\.|credit|concurrent|\Z)')
-_ignore_grades_matcher = re.compile(r'[Gg]rade of .*? or better|GPA [0-9]')
+    r'.*Prerequisites:[^\.]*?(?P<prereqs>\(?[A-Z]{2,} [0-9]+.*?)(\.|not|credit|restricted|registered|concurrent|corequisite|\Z)')
+_ignore_grades_matcher = re.compile(
+    r'[Gg]rade of .*? or (better|higher)|,? or equivalent|GPA [0-9]')
 # _prerequisites_end_matcher = re.compile(
 #    r'.*[A-Z]{2,} [0-9]+[A-Z]*([-\u2013][0-9A-Z]+| (and|or) [0-9]+[A-Z]*)*')
-_prerequisites_end_matcher = re.compile(r'.*[ -\u2013][0-9A-Z]+\)?')
+#_prerequisites_end_matcher = re.compile(r'.*[ -\u2013][0-9A-Z]+\)?')
+_prerequisites_end_matcher = re.compile(
+    r'.*[A-Z]{2,} [0-9]+[A-Z]*([-\u2013/][0-9A-Z]+|, (and |or )?[0-9A-Z]+| (and|or) [0-9A-Z]+)*\)?')
 _next_conjunction_matcher = re.compile(r'[,;]\s+(?P<conjunction>and|or)')
 _inner_or_comma_list_matcher = re.compile(
     r'\(.+(?P<commas>(, [^,]+)+),? or .+\)')
@@ -93,7 +96,11 @@ class CourseInfoParser:
         requirement, or `None` if there are no prerequisites.
         """
         prereqs_str = self._isolate_prerequisites(description)
+        self.logger.info('PREREQS: %s', prereqs_str)
+        if prereqs_str is None:
+            return None
         prereqs_str = self._replace_commas(prereqs_str)
+        self.logger.info('-------> %s', prereqs_str)
         # find last instance of "prerequisites:"
         # match from after that until first period
         # cut out "credit (for)" or "concurrent (enrollment in)" and anything after
@@ -116,12 +123,14 @@ class CourseInfoParser:
     def _isolate_prerequisites(self, description):
         """
         Returns the substring of `description` spanning all the prerequisite
-        course codes, with extraneous information removed.
+        course codes, with extraneous information removed, or `None` if no such
+        prerequisites are found.
         """
         prereqs_match = _prerequisites_matcher.search(description)
         if prereqs_match is None:
             return None
         prereqs_str = prereqs_match.group('prereqs')
+        self.logger.info('ORIGINL: %s', prereqs_str)
         prereqs_str = _ignore_grades_matcher.sub('', prereqs_str)
         end_match = _prerequisites_end_matcher.search(prereqs_str)
         return prereqs_str[:end_match.end()]
@@ -146,34 +155,37 @@ class CourseInfoParser:
                 subs[i] = sub
         comma_positions = []
         while i < len(s):
+            if re.match(r'\s', s[i]) is not None and s[i] != ' ':
+                self.logger.info(
+                    '!! Found non-ASCII space character at position %d in "%s"', i, s)
             if s[i] == ',':
                 following_match = _next_conjunction_matcher.match(s[i:])
                 if following_match is None:
                     comma_positions.append(i)
                 else:
                     conjunction = following_match.group('conjunction')
-                    set_substitutions(comma_positions, f' {conjunction} ')
+                    set_substitutions(comma_positions, f' {conjunction}')
                     comma_positions.clear()
                     subs[i] = ''
                 i += 1
             elif s[i] == '(':
                 i = self._replace_commas_helper(s, i + 1, subs)
             elif s[i] == ')':
-                set_substitutions(comma_positions, ' or ')
+                set_substitutions(comma_positions, ' or')
                 return i + 1
             elif s[i] == ';':
-                set_substitutions(comma_positions, ' or ')
+                set_substitutions(comma_positions, ' and')
                 comma_positions.clear()
                 following_match = _next_conjunction_matcher.match(s[i:])
                 if following_match is None:
-                    subs[i] = ' and '
+                    subs[i] = ' and'
                 else:
                     subs[i] = ''
                 i += 1
             else:
                 i += 1
         if len(comma_positions) > 0:
-            set_substitutions(comma_positions, ' and ')
+            set_substitutions(comma_positions, ' and')
         return i
 
         # expand shorthand course codes where subjects or numbers are omitted

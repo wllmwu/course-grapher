@@ -61,11 +61,12 @@ class CatalogSpider(scrapy.Spider):
             if course_info is not None:
                 subject, number, title, units = course_info
                 prerequisites = None
+                self.logger.info('%s %s', subject, number)
                 if i < num_descriptions:
                     prerequisites = self.parser.parse_prerequisites(
                         description_selectors[i].get())
-                    self.logger.info('Prerequisites for %s %s: %s',
-                                     subject, number, prerequisites)
+                    # self.logger.info('Prerequisites for %s %s: %s',
+                    #                  subject, number, prerequisites)
                 # yield {
                 #     'dept': dept,
                 #     'code': f'{subject} {number}',
