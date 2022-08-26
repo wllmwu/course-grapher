@@ -15,15 +15,16 @@ _linguistics_matcher = re.compile(
 _units_matcher = re.compile(r'\((?P<units>.+?)\)')
 
 _prerequisites_matcher = re.compile(
-    r'.*Prerequisites:[^\.]*?(?P<prereqs>\(?([A-Z]{3,}|SE) [0-9]+.*?)(\.|not|credit|restricted|concurrent|corequisite|[A-Z]{2,} [0-9]+[A-Z]* (must|should) be taken|\Z)')
+    r'.*Prerequisites:[^\.]*?(?P<prereqs>\(?(for )?([A-Z]{3,}|SE) [0-9]+.*?)(\.|not|credit|restricted|concurrent|corequisite|[A-Z]{2,} [0-9]+[A-Z]* (must|should) be taken|\Z)')
 _false_positive_matcher = re.compile(
     r'([Gg]rade|[Ss]core) of .*? or (better|higher)|[A-D][-\u2013+]? or (better|higher)|,? or equivalent|GPA [0-9]|ACT|MBA|\(?(for|prior)[^,;]*\)?')
 _prerequisites_end_matcher = re.compile(
     r'.*[A-Z]{2,} [0-9]+[A-Z]*(([-\u2013/]|, (and |or )?| (and|or) )([0-9]+[A-Z]*|[A-Z]{,2}(?![a-z])))*\)?')
 _next_conjunction_matcher = re.compile(r'[,;]\s+(?P<conjunction>and|or)')
 _conjunction_matcher = re.compile(r'\s(and|or)\s')
-_omitted_subject_matcher = re.compile(
-    r'(?P<subject>[A-Z]{2,}) [0-9]+[A-Z]*( (and|or) [0-9]+[A-Z]*)+')
+_next_subject_matcher = re.compile(
+    r'(?P<subject>[A-Z]{3,}|SE)(?P<number> [0-9]+[A-Z]*)?')
+_next_number_matcher = re.compile(r' [0-9]+[A-Z]*')
 
 
 class CourseInfoParser:
@@ -115,14 +116,20 @@ class CourseInfoParser:
         contains only full course codes (subject and number, no shorthand),
         conjunctions (including constructs like "two of the following courses"),
         parentheses, and possibly some leftover text which won't affect parsing.
+        It should not contain commas, semicolons, or slashes, as those will have
+        been replaced by conjunctions, but it may still contain certain special
+        characters like en dashes and non-breaking spaces.
         """
         reqs_str = self._normalize_conjunctions(reqs_str)
+        reqs_str = self._expand_shorthand(reqs_str)
         return reqs_str
 
     def _normalize_conjunctions(self, reqs_str):
         """
         Returns `reqs_str` with all commas, semicolons, and slashes replaced
-        by the appropriate conjunctions (`and`/`or`).
+        by the appropriate conjunctions (`and`/`or`). Also replaces certain
+        special characters with their ASCII counterparts to simplify later
+        steps.
         """
         substitutions = [None] * len(reqs_str)
         i = 0
@@ -133,11 +140,51 @@ class CourseInfoParser:
                 reqs_str = splice(reqs_str, substitutions[i], i, i + 1)
         return reqs_str
 
+    def _expand_shorthand(self, reqs_str):
+        """
+        Returns `reqs_str` with abbreviated course codes expanded to their full
+        forms (subject and number). Shortened codes may have subject or number
+        omitted, or may represent a sequence of courses.
+        """
+        # insert omitted subjects and numbers
+        last_subject = ''
+        number_insert_positions = []
+        i = 0
+        while i < len(reqs_str):
+            subject_match = _next_subject_matcher.match(reqs_str, i)
+            if subject_match is not None:
+                last_subject = subject_match.group('subject')
+                number = subject_match.group('number')
+                if number is None:
+                    i += len(last_subject)
+                    number_insert_positions.append(i)
+                else:
+                    if len(number_insert_positions) > 0:
+                        # rare case
+                        for pos in number_insert_positions:
+                            reqs_str = splice(reqs_str, f' {number}', pos)
+                            i += len(number) + 1
+                        number_insert_positions.clear()
+                    i += len(subject_match.group())
+                continue
+            number_match = _next_number_matcher.match(reqs_str, i)
+            if number_match is not None:
+                reqs_str = splice(reqs_str, f' {last_subject}', i)
+                i += len(number_match.group()) + len(last_subject) + 1
+
+        # expand sequences
+
+        return reqs_str
+
     def _conjunctions_helper(self, s, i, subs):
         """
         Walks through `s` starting from index `i` and adds any newly found
         substitutions to `subs`. Works recursively within parentheses. Returns
         the next index after where the algorithm stops.
+
+        To simplify later steps, also adds substitutions for en dashes and
+        non-breaking spaces, replacing them with hyphens and ASCII spaces
+        respectively.
         """
         def set_substitutions(positions, sub):
             for i in positions:
@@ -147,7 +194,7 @@ class CourseInfoParser:
         should_remove_parenthesis = False
         while i < len(s):
             if s[i] == ',':
-                following_match = _next_conjunction_matcher.match(s[i:])
+                following_match = _next_conjunction_matcher.match(s, i)
                 if following_match is None:
                     comma_positions.append(i)
                 else:
@@ -155,21 +202,19 @@ class CourseInfoParser:
                     set_substitutions(comma_positions, f' {conjunction}')
                     comma_positions.clear()
                     subs[i] = ''
-                i += 1
             elif s[i] == '/':
                 subs[i] = ' or '
             elif s[i] == '(':
                 if s[i + 1:].startswith('or'):
                     subs[i] = ''
                     should_remove_parenthesis = True
-                    i += 1
                 else:
                     i = self._conjunctions_helper(s, i + 1, subs)
+                    continue
             elif s[i] == ')':
                 if should_remove_parenthesis:
                     subs[i] = ''
                     should_remove_parenthesis = False
-                    i += 1
                 else:
                     set_substitutions(comma_positions, ' or')
                     return i + 1
@@ -186,16 +231,18 @@ class CourseInfoParser:
                             conjunction = matches[0]
                 set_substitutions(comma_positions, f' {conjunction}')
                 comma_positions.clear()
-                following_match = _next_conjunction_matcher.match(s[i:])
+                following_match = _next_conjunction_matcher.match(s, i)
                 if following_match is None:
                     subs[i] = ' and'
                     last_semicolon_position = i
                 else:
                     subs[i] = ''
                     last_semicolon_position = i + len(following_match.group())
-                i += 1
-            else:
-                i += 1
+            elif s[i] == '\u2013':
+                subs[i] = '-'
+            elif s[i] == '\u00a0':
+                subs[i] = ' '
+            i += 1
         if len(comma_positions) > 0:
             set_substitutions(comma_positions, ' and')
         return i
