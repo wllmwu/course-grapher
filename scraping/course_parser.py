@@ -14,18 +14,14 @@ _linguistics_matcher = re.compile(
     r'Linguistics(/[A-Za-z ]+)? \((?P<subject>[A-Z]{2,})\) (?P<number>[0-9]+[A-Z]*)(?P<ignore>)')
 _units_matcher = re.compile(r'\((?P<units>.+?)\)')
 
-# _prerequisites_matcher = re.compile(
-#    r'([Pp]re|[Cc]o)-?requisites: .*?(?P<prereqs>[A-Z]{2,} [0-9]+[A-Z]*[^\.;]*)')
 _prerequisites_matcher = re.compile(
-    r'.*Prerequisites:[^\.]*?(?P<prereqs>\(?[A-Z]{2,} [0-9]+.*?)(\.|not|credit|restricted|registered|concurrent|corequisite|\Z)')
+    r'.*Prerequisites:[^\.]*?(?P<prereqs>\(?([A-Z]{3,}|SE) [0-9]+.*?)(\.|not|credit|restricted|concurrent|corequisite|[A-Z]{2,} [0-9]+[A-Z]* (must|should) be taken|\Z)')
 _ignore_grades_matcher = re.compile(
-    r'[Gg]rade of .*? or (better|higher)|,? or equivalent|GPA [0-9]')
-# _prerequisites_end_matcher = re.compile(
-#    r'.*[A-Z]{2,} [0-9]+[A-Z]*([-\u2013][0-9A-Z]+| (and|or) [0-9]+[A-Z]*)*')
-#_prerequisites_end_matcher = re.compile(r'.*[ -\u2013][0-9A-Z]+\)?')
+    r'([Gg]rade|[Ss]core) of .*? or (better|higher)|[A-D][-\u2013+]? or (better|higher)|,? or equivalent|GPA [0-9]|ACT|MBA')
 _prerequisites_end_matcher = re.compile(
-    r'.*[A-Z]{2,} [0-9]+[A-Z]*([-\u2013/][0-9A-Z]+|, (and |or )?[0-9A-Z]+| (and|or) [0-9A-Z]+)*\)?')
+    r'.*[A-Z]{2,} [0-9]+[A-Z]*(([-\u2013/]|, (and |or )?| (and|or) )[0-9A-Z]+(?![a-z]))*\)?')
 _next_conjunction_matcher = re.compile(r'[,;]\s+(?P<conjunction>and|or)')
+_conjunction_matcher = re.compile(r'\s(and|or)\s')
 _inner_or_comma_list_matcher = re.compile(
     r'\(.+(?P<commas>(, [^,]+)+),? or .+\)')
 _omitted_subject_matcher = re.compile(
@@ -99,7 +95,9 @@ class CourseInfoParser:
         self.logger.info('PREREQS: %s', prereqs_str)
         if prereqs_str is None:
             return None
-        prereqs_str = self._replace_commas(prereqs_str)
+        else:
+            self.metrics.inc_with_prerequisites()
+        prereqs_str = self._normalize_conjunctions(prereqs_str)
         self.logger.info('-------> %s', prereqs_str)
         # find last instance of "prerequisites:"
         # match from after that until first period
@@ -135,25 +133,32 @@ class CourseInfoParser:
         end_match = _prerequisites_end_matcher.search(prereqs_str)
         return prereqs_str[:end_match.end()]
 
-    def _replace_commas(self, prereqs_str):
+    def _normalize_conjunctions(self, prereqs_str):
         """
-        Returns `prereqs_str` with all commas and semicolons replaced by the
-        appropriate conjunctions (`and`/`or`).
+        Returns `prereqs_str` with all commas, semicolons, and slashes replaced
+        by the appropriate conjunctions (`and`/`or`).
         """
         substitutions = [None] * len(prereqs_str)
         i = 0
         while i < len(prereqs_str):
-            i = self._replace_commas_helper(prereqs_str, i, substitutions)
+            i = self._normalize_helper(prereqs_str, i, substitutions)
         for i in reversed(range(len(substitutions))):
             if substitutions[i] is not None:
                 prereqs_str = splice(prereqs_str, substitutions[i], i, i + 1)
         return prereqs_str
 
-    def _replace_commas_helper(self, s, i, subs):
+    def _normalize_helper(self, s, i, subs):
+        """
+        Walks through `s` starting from index `i` and adds any newly found
+        substitutions to `subs`. Works recursively within parentheses. Returns
+        the next index after where the algorithm stops.
+        """
         def set_substitutions(positions, sub):
             for i in positions:
                 subs[i] = sub
         comma_positions = []
+        last_semicolon_position = 0
+        should_remove_parenthesis = False
         while i < len(s):
             if re.match(r'\s', s[i]) is not None and s[i] != ' ':
                 self.logger.info(
@@ -168,19 +173,43 @@ class CourseInfoParser:
                     comma_positions.clear()
                     subs[i] = ''
                 i += 1
+            elif s[i] == '/':
+                subs[i] = ' or '
             elif s[i] == '(':
-                i = self._replace_commas_helper(s, i + 1, subs)
+                if s[i + 1:].startswith('or'):
+                    subs[i] = ''
+                    should_remove_parenthesis = True
+                    i += 1
+                else:
+                    i = self._normalize_helper(s, i + 1, subs)
             elif s[i] == ')':
-                set_substitutions(comma_positions, ' or')
-                return i + 1
+                if should_remove_parenthesis:
+                    subs[i] = ''
+                    should_remove_parenthesis = False
+                    i += 1
+                else:
+                    set_substitutions(comma_positions, ' or')
+                    return i + 1
             elif s[i] == ';':
-                set_substitutions(comma_positions, ' and')
+                conjunction = 'and'
+                last_comma_index = s.rfind(',', last_semicolon_position, i)
+                if last_comma_index != -1:
+                    match = _conjunction_matcher.search(
+                        s, last_semicolon_position, last_comma_index)
+                    if match is None:
+                        matches = _conjunction_matcher.findall(
+                            s, last_comma_index, i)
+                        if len(matches) == 1:
+                            conjunction = matches[0]
+                set_substitutions(comma_positions, f' {conjunction}')
                 comma_positions.clear()
                 following_match = _next_conjunction_matcher.match(s[i:])
                 if following_match is None:
                     subs[i] = ' and'
+                    last_semicolon_position = i
                 else:
                     subs[i] = ''
+                    last_semicolon_position = i + len(following_match.group())
                 i += 1
             else:
                 i += 1
