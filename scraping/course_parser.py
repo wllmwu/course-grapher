@@ -16,20 +16,14 @@ _units_matcher = re.compile(r'\((?P<units>.+?)\)')
 
 _prerequisites_matcher = re.compile(
     r'.*Prerequisites:[^\.]*?(?P<prereqs>\(?([A-Z]{3,}|SE) [0-9]+.*?)(\.|not|credit|restricted|concurrent|corequisite|[A-Z]{2,} [0-9]+[A-Z]* (must|should) be taken|\Z)')
-_ignore_grades_matcher = re.compile(
-    r'([Gg]rade|[Ss]core) of .*? or (better|higher)|[A-D][-\u2013+]? or (better|higher)|,? or equivalent|GPA [0-9]|ACT|MBA')
+_false_positive_matcher = re.compile(
+    r'([Gg]rade|[Ss]core) of .*? or (better|higher)|[A-D][-\u2013+]? or (better|higher)|,? or equivalent|GPA [0-9]|ACT|MBA|\(?(for|prior)[^,;]*\)?')
 _prerequisites_end_matcher = re.compile(
-    r'.*[A-Z]{2,} [0-9]+[A-Z]*(([-\u2013/]|, (and |or )?| (and|or) )[0-9A-Z]+(?![a-z]))*\)?')
+    r'.*[A-Z]{2,} [0-9]+[A-Z]*(([-\u2013/]|, (and |or )?| (and|or) )([0-9]+[A-Z]*|[A-Z]{,2}(?![a-z])))*\)?')
 _next_conjunction_matcher = re.compile(r'[,;]\s+(?P<conjunction>and|or)')
 _conjunction_matcher = re.compile(r'\s(and|or)\s')
-_inner_or_comma_list_matcher = re.compile(
-    r'\(.+(?P<commas>(, [^,]+)+),? or .+\)')
 _omitted_subject_matcher = re.compile(
     r'(?P<subject>[A-Z]{2,}) [0-9]+[A-Z]*( (and|or) [0-9]+[A-Z]*)+')
-
-_delimiter_matcher = re.compile(r'[\.;]')
-_recommended_matcher = re.compile(r'[Rr]ecommended')
-_single_code_matcher = re.compile(r'[A-Z]{2,} [0-9]+[A-Z]*')
 
 
 class CourseInfoParser:
@@ -92,31 +86,13 @@ class CourseInfoParser:
         requirement, or `None` if there are no prerequisites.
         """
         prereqs_str = self._isolate_prerequisites(description)
-        self.logger.info('PREREQS: %s', prereqs_str)
         if prereqs_str is None:
             return None
         else:
+            self.logger.info('PREREQS: %s', prereqs_str)
             self.metrics.inc_with_prerequisites()
-        prereqs_str = self._normalize_conjunctions(prereqs_str)
+        prereqs_str = self._normalize_string(prereqs_str)
         self.logger.info('-------> %s', prereqs_str)
-        # find last instance of "prerequisites:"
-        # match from after that until first period
-        # cut out "credit (for)" or "concurrent (enrollment in)" and anything after
-        # remove instances of "grade of __ or better" and "gpa (of) __"
-        # match from first to last course code
-        # eliminate commas and semicolons...
-        # for each comma:
-        # > walk forward, remembering positions of any more commas, until reach a comma immediately followed by a conjunction, a (, a ), a ;, or end of line
-        # > if reached an oxford comma, then replace all found commas with the conjunction and continue
-        # > else if reached (, then perform this loop inside the parenthesis, then continue walking after the closing )
-        # > else if reached ), then replace all found commas with or
-        # > else if reached ;, then replace all found commas with or and replace the ; with the immediately following conjunction (use and if not present)
-        # > else if reached end of line, then replace all found commas with and
-        # expand shorthand...
-        # > walk through string
-        # > if find "subject and/or subject number", insert number after first subject
-        # > if find "subject number and/or number...", insert subject before each number after the first
-        # expand sequences...
 
     def _isolate_prerequisites(self, description):
         """
@@ -129,25 +105,35 @@ class CourseInfoParser:
             return None
         prereqs_str = prereqs_match.group('prereqs')
         self.logger.info('ORIGINL: %s', prereqs_str)
-        prereqs_str = _ignore_grades_matcher.sub('', prereqs_str)
+        prereqs_str = _false_positive_matcher.sub('', prereqs_str)
         end_match = _prerequisites_end_matcher.search(prereqs_str)
         return prereqs_str[:end_match.end()]
 
-    def _normalize_conjunctions(self, prereqs_str):
+    def _normalize_string(self, reqs_str):
         """
-        Returns `prereqs_str` with all commas, semicolons, and slashes replaced
+        Normalizes `reqs_str` and returns the result. A normalized string
+        contains only full course codes (subject and number, no shorthand),
+        conjunctions (including constructs like "two of the following courses"),
+        parentheses, and possibly some leftover text which won't affect parsing.
+        """
+        reqs_str = self._normalize_conjunctions(reqs_str)
+        return reqs_str
+
+    def _normalize_conjunctions(self, reqs_str):
+        """
+        Returns `reqs_str` with all commas, semicolons, and slashes replaced
         by the appropriate conjunctions (`and`/`or`).
         """
-        substitutions = [None] * len(prereqs_str)
+        substitutions = [None] * len(reqs_str)
         i = 0
-        while i < len(prereqs_str):
-            i = self._normalize_helper(prereqs_str, i, substitutions)
+        while i < len(reqs_str):
+            i = self._conjunctions_helper(reqs_str, i, substitutions)
         for i in reversed(range(len(substitutions))):
             if substitutions[i] is not None:
-                prereqs_str = splice(prereqs_str, substitutions[i], i, i + 1)
-        return prereqs_str
+                reqs_str = splice(reqs_str, substitutions[i], i, i + 1)
+        return reqs_str
 
-    def _normalize_helper(self, s, i, subs):
+    def _conjunctions_helper(self, s, i, subs):
         """
         Walks through `s` starting from index `i` and adds any newly found
         substitutions to `subs`. Works recursively within parentheses. Returns
@@ -160,9 +146,6 @@ class CourseInfoParser:
         last_semicolon_position = 0
         should_remove_parenthesis = False
         while i < len(s):
-            if re.match(r'\s', s[i]) is not None and s[i] != ' ':
-                self.logger.info(
-                    '!! Found non-ASCII space character at position %d in "%s"', i, s)
             if s[i] == ',':
                 following_match = _next_conjunction_matcher.match(s[i:])
                 if following_match is None:
@@ -181,7 +164,7 @@ class CourseInfoParser:
                     should_remove_parenthesis = True
                     i += 1
                 else:
-                    i = self._normalize_helper(s, i + 1, subs)
+                    i = self._conjunctions_helper(s, i + 1, subs)
             elif s[i] == ')':
                 if should_remove_parenthesis:
                     subs[i] = ''
@@ -216,71 +199,3 @@ class CourseInfoParser:
         if len(comma_positions) > 0:
             set_substitutions(comma_positions, ' and')
         return i
-
-        # expand shorthand course codes where subjects or numbers are omitted
-
-        # expand course sequences
-
-        '''
-        description = description.strip()
-        prereqs_match = _prerequisites_matcher.search(description)
-        if prereqs_match is None:
-            return None
-        prereqs_str = prereqs_match.group('prereqs')
-        end_match = _prerequisites_end_matcher.search(prereqs_str)
-        prereqs_str = prereqs_str[:end_match.end()]
-        if '-' in prereqs_str or '\u2013' in prereqs_str:
-            self.logger.error('Dash in "%s"', prereqs_str)
-
-        if ',' in prereqs_str:
-            search_start = 0
-            inner_or_match = _inner_or_comma_list_matcher.search(prereqs_str)
-            while inner_or_match is not None:
-                start, end = inner_or_match.start(), inner_or_match.end()
-                or_list = inner_or_match.group()
-                or_list = or_list.replace(',', ' or')
-                prereqs_str = splice(prereqs_str, or_list, start, end)
-                search_start = start + len(or_list)
-                inner_or_match = _inner_or_comma_list_matcher.search(
-                    prereqs_str, search_start)
-            prereqs_str = prereqs_str.replace(',', ' and')
-
-        search_start = 0
-        omitted_subject_match = _omitted_subject_matcher.search(prereqs_str)
-        while omitted_subject_match is not None:
-            start, end = omitted_subject_match.start(), omitted_subject_match.end()
-            omitted_subject_list = omitted_subject_match.group()
-            subject = omitted_subject_match.group('subject')
-            omitted_subject_list = omitted_subject_list.replace(
-                'and', f'and {subject}')
-            omitted_subject_list = omitted_subject_list.replace(
-                'or', f'or {subject}')
-            prereqs_str = splice(prereqs_str, omitted_subject_list, start, end)
-            search_start = start + len(omitted_subject_list)
-            omitted_subject_match = _omitted_subject_matcher.search(
-                prereqs_str, search_start)
-
-        prerequisites = []
-        and_split = prereqs_str.split('and')
-        for and_component in and_split:
-            alternatives = []
-            or_split = and_component.split('or')
-            for or_component in or_split:
-                code_match = _single_code_matcher.search(or_component)
-                if code_match is None:
-                    self.logger.error(
-                        'Failed to match a course code in "%s" > "%s" > "%s"',
-                        prereqs_str,
-                        and_component,
-                        or_component
-                    )
-                    continue
-                code = code_match.group()
-                alternatives.append(code)
-            # if len(alternatives) > 0:
-            prerequisites.append(alternatives)
-
-        if len(prerequisites) == 0:
-            return None
-        return prerequisites
-        '''
