@@ -19,7 +19,9 @@ _prerequisites_matcher = re.compile(
 _false_positive_matcher = re.compile(
     r'([Gg]rade|[Ss]core) of .*? or (better|higher)|[A-D][-\u2013+]? or (better|higher)|,? or equivalent|GPA [0-9]|ACT|MBA|\(?(for|prior)[^,;]*\)?')
 _prerequisites_end_matcher = re.compile(
-    r'.*[A-Z]{2,} [0-9]+[A-Z]*(([-\u2013/]|, (and |or )?| (and|or) )([0-9]+[A-Z]*|[A-Z]{,2}(?![A-z])))*\)?')
+    r'.*[A-Z]{2,} [0-9]+[A-Z]*(([-\u2013/]|, (and |or )?| (and|or) )([0-9]+[A-Z]*|[A-Z]{1,2}(?![0-9A-z])))*\)?')
+_standard_form_matcher = re.compile(
+    r'^\(?[A-Z]{2,} [0-9]+[A-Z]*( (and|or) \(?[A-Z]{2,} [0-9]+[A-Z]*\)?)*$')
 _next_conjunction_matcher = re.compile(r'[,;]\s+(?P<conjunction>and|or)')
 _conjunction_matcher = re.compile(r'\s(and|or)\s')
 _subject_or_number_matcher = re.compile(
@@ -110,6 +112,8 @@ class CourseInfoParser:
         self.logger.info('ORIGINL: %s', prereqs_str)
         prereqs_str = _false_positive_matcher.sub('', prereqs_str)
         end_match = _prerequisites_end_matcher.search(prereqs_str)
+        if end_match is None:
+            return None
         return prereqs_str[:end_match.end()]
 
     def _normalize_string(self, reqs_str):
@@ -122,6 +126,8 @@ class CourseInfoParser:
         been replaced by conjunctions, but it may still contain certain special
         characters like en dashes and non-breaking spaces.
         """
+        if _standard_form_matcher.fullmatch(reqs_str):
+            return reqs_str
         reqs_str = self._normalize_conjunctions(reqs_str)
         self.logger.info('CONJUNC> %s', reqs_str)
         reqs_str = self._normalize_course_codes(reqs_str)
