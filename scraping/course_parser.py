@@ -1,4 +1,7 @@
+from logging import Logger
+from metrics import ScrapingMetrics
 import re
+from typing import List, Literal, Tuple, TypedDict
 from utils import splice
 
 
@@ -33,12 +36,12 @@ _sequence_end_matcher = re.compile(
 
 
 class CourseInfoParser:
-    def __init__(self, logger, metrics):
+    def __init__(self, logger: Logger, metrics: ScrapingMetrics) -> None:
         super().__init__()
         self.logger = logger
         self.metrics = metrics
 
-    def parse_course(self, title_line):
+    def parse_course(self, title_line: str) -> Tuple[str, str, str, str]:
         """
         Extract a course's code (subject and number), title, and units from its
         title line in the catalog. Returns a tuple containing the subject,
@@ -84,7 +87,7 @@ class CourseInfoParser:
         title = title_line[title_start:title_end].strip()
         return (subject, number, title, units)
 
-    def parse_prerequisites(self, description):
+    def parse_prerequisites(self, description: str) -> None:
         """
         Extracts prerequisite information from a course's description in the
         catalog. Returns a list of lists of course code strings, where each list
@@ -99,7 +102,7 @@ class CourseInfoParser:
             self.metrics.inc_with_prerequisites()
         prereqs_str = self._normalize_string(prereqs_str)
 
-    def _isolate_prerequisites(self, description):
+    def _isolate_prerequisites(self, description: str) -> str | None:
         """
         Returns the substring of `description` spanning all the prerequisite
         course codes, with extraneous information removed, or `None` if no such
@@ -116,7 +119,7 @@ class CourseInfoParser:
             return None
         return prereqs_str[:end_match.end()]
 
-    def _normalize_string(self, reqs_str):
+    def _normalize_string(self, reqs_str: str) -> str:
         """
         Normalizes `reqs_str` and returns the result. A normalized string
         contains only full course codes (subject and number, no shorthand),
@@ -133,7 +136,7 @@ class CourseInfoParser:
         reqs_str = self._normalize_course_codes(reqs_str)
         return reqs_str
 
-    def _normalize_conjunctions(self, reqs_str):
+    def _normalize_conjunctions(self, reqs_str: str) -> str:
         """
         Returns `reqs_str` with all commas, semicolons, and slashes replaced
         by the appropriate conjunctions (`and`/`or`). Also replaces certain
@@ -149,7 +152,7 @@ class CourseInfoParser:
                 reqs_str = splice(reqs_str, substitutions[i], i, i + 1)
         return reqs_str
 
-    def _normalize_course_codes(self, reqs_str):
+    def _normalize_course_codes(self, reqs_str: str) -> str:
         """
         Returns `reqs_str` with abbreviated course codes expanded to their full
         forms (subject and number). Shortened codes may have subject omitted, or
@@ -162,7 +165,7 @@ class CourseInfoParser:
         self.logger.info('SEQUENC> %s', reqs_str)
         return reqs_str
 
-    def _conjunctions_helper(self, s, i, subs):
+    def _conjunctions_helper(self, s: str, i: int, subs: List[str | None]) -> int:
         """
         Walks through `s` starting from index `i` and adds any newly found
         substitutions to `subs`. Works recursively within parentheses. Returns
@@ -172,7 +175,7 @@ class CourseInfoParser:
         non-breaking spaces, replacing them with hyphens and ASCII spaces
         respectively.
         """
-        def set_substitutions(positions, sub):
+        def set_substitutions(positions: List[int], sub: str) -> None:
             for i in positions:
                 subs[i] = sub
         comma_positions = []
@@ -233,7 +236,7 @@ class CourseInfoParser:
             set_substitutions(comma_positions, ' and')
         return i
 
-    def _fill_incomplete_codes(self, reqs_str):
+    def _fill_incomplete_codes(self, reqs_str: str) -> str:
         """
         Inserts missing subjects and digits into incomplete course codes in
         `reqs_str` and returns the result. Currently ignores cases where the
@@ -241,7 +244,7 @@ class CourseInfoParser:
         updated course codes, including the one with the original subject, in
         parentheses.
         """
-        def insert_parentheses(left_pos, right_pos):
+        def insert_parentheses(left_pos: int, right_pos: int) -> str:
             return splice(
                 reqs_str,
                 f'({reqs_str[left_pos:right_pos]})',
@@ -286,7 +289,7 @@ class CourseInfoParser:
                 left_paren_position, right_paren_position)
         return reqs_str
 
-    def _expand_code_sequences(self, reqs_str):
+    def _expand_code_sequences(self, reqs_str: str) -> str:
         """
         Replaces each course code sequence in `reqs_str` with a list of courses
         in the sequence, enclosed in parentheses, and returns the result.
@@ -329,3 +332,25 @@ class CourseInfoParser:
             reqs_str = splice(reqs_str, f'({expanded})', i, j)
             i += len(expanded) + 2
         return reqs_str
+
+
+ReqsType = Literal['all', 'one', 'two']
+ReqsList = List[str | 'PrerequisiteSet']
+
+
+class ReqsDict(TypedDict):
+    type: str
+    courses: List[str | 'ReqsDict']
+
+
+class PrerequisiteSet:
+    def __init__(self, type: ReqsType, reqs: ReqsList) -> None:
+        super().__init__()
+        self.type = type
+        self.reqs = reqs
+
+    def consolidate(self) -> None:
+        pass
+
+    def to_dict(self) -> ReqsDict:
+        pass
