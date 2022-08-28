@@ -8,7 +8,7 @@ _crosslisted_same_number_matcher = re.compile(
     r'(?P<subject>[A-Z]{2,})(?P<ignore>/[A-Z]{2,})+ (?P<number>[0-9]+[A-Z]*)')
 _crosslisted_same_department_matcher = re.compile(
     r'(?P<subject>[A-Z]{2,}) (?P<number>[0-9]+[A-Z]*)(?P<ignore>/[0-9]+[A-Z]*)+')
-_sequence_matcher = re.compile(
+_title_sequence_matcher = re.compile(
     r'(?P<subject>[A-Z]{2,}) (?P<number>[0-9]+[A-Z]*([-\u2013][0-9A-Z]+)+)(?P<ignore>)')
 _linguistics_matcher = re.compile(
     r'Linguistics(/[A-Za-z ]+)? \((?P<subject>[A-Z]{2,})\) (?P<number>[0-9]+[A-Z]*)(?P<ignore>)')
@@ -19,12 +19,15 @@ _prerequisites_matcher = re.compile(
 _false_positive_matcher = re.compile(
     r'([Gg]rade|[Ss]core) of .*? or (better|higher)|[A-D][-\u2013+]? or (better|higher)|,? or equivalent|GPA [0-9]|ACT|MBA|\(?(for|prior)[^,;]*\)?')
 _prerequisites_end_matcher = re.compile(
-    r'.*[A-Z]{2,} [0-9]+[A-Z]*(([-\u2013/]|, (and |or )?| (and|or) )([0-9]+[A-Z]*|[A-Z]{,2}(?![a-z])))*\)?')
+    r'.*[A-Z]{2,} [0-9]+[A-Z]*(([-\u2013/]|, (and |or )?| (and|or) )([0-9]+[A-Z]*|[A-Z]{,2}(?![A-z])))*\)?')
 _next_conjunction_matcher = re.compile(r'[,;]\s+(?P<conjunction>and|or)')
 _conjunction_matcher = re.compile(r'\s(and|or)\s')
-_next_subject_matcher = re.compile(
-    r'(?P<subject>[A-Z]{3,}|SE)(?P<number> [0-9]+[A-Z]*)?')
-_next_number_matcher = re.compile(r' [0-9]+[A-Z]*')
+_subject_or_number_matcher = re.compile(
+    r'(?P<subject>[A-Z]{2,}) (?P<digits_1>[0-9]+)[A-Z]*| (?P<number>(?P<digits_2>[0-9]+)[A-Z]*[^ ]*|([A-RT-Z][A-Z]?|S[A-DF-Z]?)(?![A-z]))')
+_sequence_start_matcher = re.compile(
+    r'(?P<subject>[A-Z]{2,}) (?P<digits>[0-9]+)(?P<letters>[A-Z]*)(?=-)')
+_sequence_end_matcher = re.compile(
+    r'-(([A-Z]{3,}|SE) )?(?P<end_digits>[0-9]*)(?P<end_letters>[A-Z]*)')
 
 
 class CourseInfoParser:
@@ -48,7 +51,7 @@ class CourseInfoParser:
         if code_match is None:
             code_match = _crosslisted_same_department_matcher.match(title_line)
         if code_match is None:
-            code_match = _sequence_matcher.match(title_line)
+            code_match = _title_sequence_matcher.match(title_line)
             if code_match is not None:
                 self.logger.info('Found sequence listing in "%s"', title_line)
                 self.metrics.inc_sequence_listings()
@@ -93,7 +96,6 @@ class CourseInfoParser:
             self.logger.info('PREREQS: %s', prereqs_str)
             self.metrics.inc_with_prerequisites()
         prereqs_str = self._normalize_string(prereqs_str)
-        self.logger.info('-------> %s', prereqs_str)
 
     def _isolate_prerequisites(self, description):
         """
@@ -121,7 +123,8 @@ class CourseInfoParser:
         characters like en dashes and non-breaking spaces.
         """
         reqs_str = self._normalize_conjunctions(reqs_str)
-        reqs_str = self._expand_shorthand(reqs_str)
+        self.logger.info('CONJUNC> %s', reqs_str)
+        reqs_str = self._normalize_course_codes(reqs_str)
         return reqs_str
 
     def _normalize_conjunctions(self, reqs_str):
@@ -140,40 +143,17 @@ class CourseInfoParser:
                 reqs_str = splice(reqs_str, substitutions[i], i, i + 1)
         return reqs_str
 
-    def _expand_shorthand(self, reqs_str):
+    def _normalize_course_codes(self, reqs_str):
         """
         Returns `reqs_str` with abbreviated course codes expanded to their full
-        forms (subject and number). Shortened codes may have subject or number
-        omitted, or may represent a sequence of courses.
+        forms (subject and number). Shortened codes may have subject omitted, or
+        may represent a sequence of courses. In rare cases, the number is
+        omitted and only the subject is present; these are currently ignored.
         """
-        # insert omitted subjects and numbers
-        last_subject = ''
-        number_insert_positions = []
-        i = 0
-        while i < len(reqs_str):
-            subject_match = _next_subject_matcher.match(reqs_str, i)
-            if subject_match is not None:
-                last_subject = subject_match.group('subject')
-                number = subject_match.group('number')
-                if number is None:
-                    i += len(last_subject)
-                    number_insert_positions.append(i)
-                else:
-                    if len(number_insert_positions) > 0:
-                        # rare case
-                        for pos in number_insert_positions:
-                            reqs_str = splice(reqs_str, f' {number}', pos)
-                            i += len(number) + 1
-                        number_insert_positions.clear()
-                    i += len(subject_match.group())
-                continue
-            number_match = _next_number_matcher.match(reqs_str, i)
-            if number_match is not None:
-                reqs_str = splice(reqs_str, f' {last_subject}', i)
-                i += len(number_match.group()) + len(last_subject) + 1
-
-        # expand sequences
-
+        reqs_str = self._fill_incomplete_codes(reqs_str)
+        self.logger.info('FILLED > %s', reqs_str)
+        reqs_str = self._expand_code_sequences(reqs_str)
+        self.logger.info('SEQUENC> %s', reqs_str)
         return reqs_str
 
     def _conjunctions_helper(self, s, i, subs):
@@ -246,3 +226,100 @@ class CourseInfoParser:
         if len(comma_positions) > 0:
             set_substitutions(comma_positions, ' and')
         return i
+
+    def _fill_incomplete_codes(self, reqs_str):
+        """
+        Inserts missing subjects and digits into incomplete course codes in
+        `reqs_str` and returns the result. Currently ignores cases where the
+        subject is present but not the number. Also encloses each group of
+        updated course codes, including the one with the original subject, in
+        parentheses.
+        """
+        def insert_parentheses(left_pos, right_pos):
+            return splice(
+                reqs_str,
+                f'({reqs_str[left_pos:right_pos]})',
+                left_pos,
+                right_pos
+            )
+        last_subject = ''
+        last_digits = ''
+        left_paren_position = right_paren_position = -1
+        inserted_subjects_count = 0
+        i = 0
+        while i < len(reqs_str):
+            match = _subject_or_number_matcher.search(reqs_str, i)
+            if match is None:
+                break
+            subject, number = match.group('subject', 'number')
+            i = match.start()
+            if subject:
+                last_subject = subject
+                last_digits = match.group('digits_1')
+                if inserted_subjects_count > 0:
+                    reqs_str = insert_parentheses(
+                        left_paren_position, right_paren_position)
+                    i += 2
+                inserted_subjects_count = 0
+                left_paren_position = i
+            elif number:
+                digits = match.group('digits_2')
+                if digits:
+                    last_digits = digits
+                    reqs_str = splice(reqs_str, f' {last_subject}', i)
+                    i += len(last_subject) + 1
+                else:
+                    reqs_str = splice(
+                        reqs_str, f'{last_subject} {last_digits}', i + 1)
+                    i += len(last_subject) + len(last_digits) + 1
+                inserted_subjects_count += 1
+            i += len(match.group())
+            right_paren_position = i
+        if inserted_subjects_count > 0:
+            reqs_str = insert_parentheses(
+                left_paren_position, right_paren_position)
+        return reqs_str
+
+    def _expand_code_sequences(self, reqs_str):
+        """
+        Replaces each course code sequence in `reqs_str` with a list of courses
+        in the sequence, enclosed in parentheses, and returns the result.
+        """
+        i = 0
+        while i < len(reqs_str):
+            start_match = _sequence_start_matcher.search(reqs_str, i)
+            if start_match is None:
+                break
+            expanded = start_match.group()
+            subject, digits, letters = start_match.group(
+                'subject', 'digits', 'letters')
+            i, j = start_match.span()
+            while True:
+                end_match = _sequence_end_matcher.match(reqs_str, j)
+                if end_match is None:
+                    break
+                end_digits, end_letters = end_match.group(
+                    'end_digits', 'end_letters')
+                if end_digits and end_digits != digits:
+                    if letters or end_letters:
+                        expanded += f' and {subject} {end_digits}{end_letters}'
+                    else:
+                        start_number, end_number = int(digits), int(end_digits)
+                        for num in range(start_number + 1, end_number + 1):
+                            expanded += f' and {subject} {num}'
+                    digits = end_digits
+                    letters = end_letters
+                elif end_letters:
+                    if not letters or len(end_letters) != len(letters):
+                        expanded += f' and {subject} {digits}{end_letters}'
+                    else:
+                        start_letter, end_letter = letters[0], end_letters[0]
+                        for x in range(ord(start_letter) + 1, ord(end_letter)):
+                            next_letters = f'{chr(x)}{letters[1:]}'
+                            expanded += f' and {subject} {digits}{next_letters}'
+                        expanded += f' and {subject} {digits}{end_letters}'
+                    letters = end_letters
+                j = end_match.end()
+            reqs_str = splice(reqs_str, f'({expanded})', i, j)
+            i += len(expanded) + 2
+        return reqs_str
