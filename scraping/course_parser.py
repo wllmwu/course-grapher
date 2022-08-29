@@ -1,7 +1,7 @@
 from logging import Logger
 from metrics import ScrapingMetrics
+from prerequisite_set import PrerequisiteSet, ReqsDict
 import re
-from typing import List, Literal, Tuple, TypedDict
 from utils import splice
 
 
@@ -41,7 +41,7 @@ class CourseInfoParser:
         self.logger = logger
         self.metrics = metrics
 
-    def parse_course(self, title_line: str) -> Tuple[str, str, str, str]:
+    def parse_course(self, title_line: str) -> tuple[str, str, str, str]:
         """
         Extract a course's code (subject and number), title, and units from its
         title line in the catalog. Returns a tuple containing the subject,
@@ -87,7 +87,7 @@ class CourseInfoParser:
         title = title_line[title_start:title_end].strip()
         return (subject, number, title, units)
 
-    def parse_prerequisites(self, description: str) -> None:
+    def parse_prerequisites(self, description: str) -> ReqsDict | None:
         """
         Extracts prerequisite information from a course's description in the
         catalog. Returns a list of lists of course code strings, where each list
@@ -165,7 +165,7 @@ class CourseInfoParser:
         self.logger.info('SEQUENC> %s', reqs_str)
         return reqs_str
 
-    def _conjunctions_helper(self, s: str, i: int, subs: List[str | None]) -> int:
+    def _conjunctions_helper(self, s: str, i: int, subs: list[str | None]) -> int:
         """
         Walks through `s` starting from index `i` and adds any newly found
         substitutions to `subs`. Works recursively within parentheses. Returns
@@ -175,7 +175,7 @@ class CourseInfoParser:
         non-breaking spaces, replacing them with hyphens and ASCII spaces
         respectively.
         """
-        def set_substitutions(positions: List[int], sub: str) -> None:
+        def set_substitutions(positions: list[int], sub: str) -> None:
             for i in positions:
                 subs[i] = sub
         comma_positions = []
@@ -332,25 +332,3 @@ class CourseInfoParser:
             reqs_str = splice(reqs_str, f'({expanded})', i, j)
             i += len(expanded) + 2
         return reqs_str
-
-
-ReqsType = Literal['all', 'one', 'two']
-ReqsList = List[str | 'PrerequisiteSet']
-
-
-class ReqsDict(TypedDict):
-    type: str
-    courses: List[str | 'ReqsDict']
-
-
-class PrerequisiteSet:
-    def __init__(self, type: ReqsType, reqs: ReqsList) -> None:
-        super().__init__()
-        self.type = type
-        self.reqs = reqs
-
-    def consolidate(self) -> None:
-        pass
-
-    def to_dict(self) -> ReqsDict:
-        pass
