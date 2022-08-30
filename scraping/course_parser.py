@@ -12,27 +12,27 @@ _crosslisted_same_number_matcher = re.compile(
 _crosslisted_same_department_matcher = re.compile(
     r'(?P<subject>[A-Z]{2,}) (?P<number>[0-9]+[A-Z]*)(?P<ignore>/[0-9]+[A-Z]*)+')
 _title_sequence_matcher = re.compile(
-    r'(?P<subject>[A-Z]{2,}) (?P<number>[0-9]+[A-Z]*([-\u2013][0-9A-Z]+)+)(?P<ignore>)')
+    r'(?P<subject>[A-Z]{2,}) (?P<number>[0-9]+[A-Z]*(?:[-\u2013][0-9A-Z]+)+)(?P<ignore>)')
 _linguistics_matcher = re.compile(
-    r'Linguistics(/[A-Za-z ]+)? \((?P<subject>[A-Z]{2,})\) (?P<number>[0-9]+[A-Z]*)(?P<ignore>)')
+    r'Linguistics(?:/[A-Za-z ]+)? \((?P<subject>[A-Z]{2,})\) (?P<number>[0-9]+[A-Z]*)(?P<ignore>)')
 _units_matcher = re.compile(r'\((?P<units>.+?)\)')
 
 _prerequisites_matcher = re.compile(
-    r'.*Prerequisites:[^\.]*?(?P<prereqs>\(?(for )?([A-Z]{3,}|SE) [0-9]+.*?)(\.|not|credit|restricted|concurrent|corequisite|[A-Z]{2,} [0-9]+[A-Z]* (must|should) be taken|\Z)')
+    r'.*Prerequisites:[^\.]*?(?P<prereqs>\(?(?:for )?(?:[A-Z]{3,}|SE) [0-9]+.*?)(?:\.|not|credit|restricted|concurrent|corequisite|[A-Z]{2,} [0-9]+[A-Z]* (?:must|should) be taken|\Z)')
 _false_positive_matcher = re.compile(
-    r'([Gg]rade|[Ss]core) of .*? or (better|higher)|[A-D][-\u2013+]? or (better|higher)|,? or equivalent|GPA [0-9]|ACT|MBA|\(?(for|prior)[^,;]*\)?')
+    r'(?:[Gg]rade|[Ss]core) of .*? or (?:better|higher)|[A-D][-\u2013+]? or (?:better|higher)|,? or equivalent|GPA [0-9]|ACT|MBA|\(?(?:for|prior)[^,;]*\)?')
 _prerequisites_end_matcher = re.compile(
-    r'.*[A-Z]{2,} [0-9]+[A-Z]*(([-\u2013/]|, (and |or )?| (and|or) )([0-9]+[A-Z]*|[A-Z]{1,2}(?![0-9A-z])))*\)?')
+    r'.*[A-Z]{2,} [0-9]+[A-Z]*(?:(?:[-\u2013/]|, (?:and |or )?| (?:and|or) )(?:[0-9]+[A-Z]*|[A-Z]{1,2}(?![0-9A-z])))*\)?')
 _standard_form_matcher = re.compile(
-    r'^\(?[A-Z]{2,} [0-9]+[A-Z]*( (and|or) \(?[A-Z]{2,} [0-9]+[A-Z]*\)?)*$')
+    r'^\(?[A-Z]{2,} [0-9]+[A-Z]*(?: (?:and|or) \(?[A-Z]{2,} [0-9]+[A-Z]*\)?)*$')
 _next_conjunction_matcher = re.compile(r'[,;]\s+(?P<conjunction>and|or)')
 _conjunction_matcher = re.compile(r'\s(and|or)\s')
 _subject_or_number_matcher = re.compile(
-    r'(?P<subject>[A-Z]{2,}) (?P<digits_1>[0-9]+)[A-Z]*| (?P<number>(?P<digits_2>[0-9]+)[A-Z]*[^ ]*|([A-RT-Z][A-Z]?|S[A-DF-Z]?)(?![A-z]))')
+    r'(?P<subject>[A-Z]{2,}) (?P<digits_1>[0-9]+)[A-Z]*| (?P<number>(?P<digits_2>[0-9]+)[A-Z]*[^ ]*|(?:[A-RT-Z][A-Z]?|S[A-DF-Z]?)(?![A-z]))')
 _sequence_start_matcher = re.compile(
     r'(?P<subject>[A-Z]{2,}) (?P<digits>[0-9]+)(?P<letters>[A-Z]*)(?=-)')
 _sequence_end_matcher = re.compile(
-    r'-(([A-Z]{3,}|SE) )?(?P<end_digits>[0-9]*)(?P<end_letters>[A-Z]*)')
+    r'-(?:(?:[A-Z]{3,}|SE) )?(?P<end_digits>[0-9]*)(?P<end_letters>[A-Z]*)')
 
 
 class CourseInfoParser:
