@@ -1,6 +1,6 @@
 from logging import Logger
 from metrics import ScrapingMetrics
-from prerequisite_set import PrerequisiteSet, ReqsDict
+from prerequisites_tree import ReqsDict
 import re
 from utils import splice
 
