@@ -27,6 +27,7 @@ _standard_form_matcher = re.compile(
     r'^\(?[A-Z]{2,} [0-9]+[A-Z]*(?: (?:and|or) \(?[A-Z]{2,} [0-9]+[A-Z]*\)?)*$')
 _next_conjunction_matcher = re.compile(r'[,;]\s+(?P<conjunction>and|or)')
 _conjunction_matcher = re.compile(r'\s(and|or)\s')
+_and_synonyms_matcher = re.compile(r'in addition to')
 _subject_or_number_matcher = re.compile(
     r'(?P<subject>[A-Z]{2,}) (?P<digits_1>[0-9]+)[A-Z]*| (?P<number>(?P<digits_2>[0-9]+)[A-Z]*[^ ]*|(?:[A-RT-Z][A-Z]?|S[A-DF-Z]?)(?![A-z]))')
 _sequence_start_matcher = re.compile(
@@ -233,6 +234,14 @@ class CourseInfoParser:
                 subs[i] = '-'
             elif s[i] == '\u00a0':
                 subs[i] = ' '
+            else:
+                and_syn_match = _and_synonyms_matcher.match(s, i)
+                if and_syn_match is not None:
+                    subs[i] = 'and'
+                    for j in range(i + 1, and_syn_match.end()):
+                        subs[j] = ''
+                    i = and_syn_match.end()
+                    continue
             i += 1
         if len(comma_positions) > 0:
             set_substitutions(comma_positions, ' and')

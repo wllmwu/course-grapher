@@ -20,10 +20,10 @@ class ReqsDict(TypedDict):
 # <expr3> ::= (<expr1>)
 #           | <code>
 #           | [one|two] <expr3s...>
-_expr_1_matcher = re.compile(r'\band\b|(?P<end>\))')
-_expr_2_matcher = re.compile(r'\bor\b|(?P<end>(?=\band\b)|\))')
+_expr_1_matcher = re.compile(r'\band\b|(?P<end>(?=\)))')
+_expr_2_matcher = re.compile(r'\bor\b|(?P<end>(?=\band\b|\)))')
 _expr_3_matcher = re.compile(
-    r'(?P<code>[A-Z]{2,} [0-9]+[A-Z]*)|(?P<paren>\()|(?P<one_of>\bone\b)|(?P<two_of>\btwo\b)|(?P<end>(?=\bor\b)|(?=\band\b)|\))')
+    r'(?P<code>[A-Z]{2,} [0-9]+[A-Z]*)|(?P<paren>\()|(?P<one_of>\bone\b)|(?P<two_of>\btwo\b)|(?P<end>(?=\bor\b|\band\b|\)))')
 
 
 class PrerequisitesNode:
@@ -148,7 +148,10 @@ class PrerequisitesTreeGenerator:
         if code:
             return (code, i)
         elif match.group('paren'):
-            return self._parse_expr_1(reqs_str, i)
+            child, i = self._parse_expr_1(reqs_str, i)
+            while i < len(reqs_str) and reqs_str[i] != ')':
+                i += 1
+            return (child, i + 1)
         else:
             # "one/two of the following" - assume it takes up the entire rest of
             # the string, with no sub-expressions
