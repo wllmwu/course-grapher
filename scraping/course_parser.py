@@ -5,38 +5,65 @@ import re
 from utils import splice
 
 
+# matches the course code in a title line from the catalog
 _course_code_matcher = re.compile(
     r'(?P<subject>[A-Z]{2,}) (?P<number>[0-9]+[A-Z]*)(?P<ignore>/[A-Z]{2,} [0-9]+[A-Z]*)*[.: ]')
+# matches a special case where courses are crosslisted with the same number
 _crosslisted_same_number_matcher = re.compile(
     r'(?P<subject>[A-Z]{2,})(?P<ignore>/[A-Z]{2,})+ (?P<number>[0-9]+[A-Z]*)')
-_crosslisted_same_department_matcher = re.compile(
+# matches a special case where courses are crosslisted in the same subject
+_crosslisted_same_subject_matcher = re.compile(
     r'(?P<subject>[A-Z]{2,}) (?P<number>[0-9]+[A-Z]*)(?P<ignore>/[0-9]+[A-Z]*)+')
+# matches a special case where a listing describes a sequence of courses
 _title_sequence_matcher = re.compile(
     r'(?P<subject>[A-Z]{2,}) (?P<number>[0-9]+[A-Z]*(?:[-\u2013][0-9A-Z]+)+)(?P<ignore>)')
+# matches special cases in the linguistics department
 _linguistics_matcher = re.compile(
     r'Linguistics(?:/[A-Za-z ]+)? \((?P<subject>[A-Z]{2,})\) (?P<number>[0-9]+[A-Z]*)(?P<ignore>)')
+# matches the unit count in a title line
 _units_matcher = re.compile(r'\((?P<units>.+?)\)')
 
+# matches the entire prerequisites section of a course description
 _prerequisites_matcher = re.compile(
     r'.*Prerequisites:[^\.]*?(?P<prereqs>\(?(?:for )?(?:[A-Z]{3,}|SE) [0-9]+.*?)(?:\.|not|credit|restricted|concurrent|corequisite|[A-Z]{2,} [0-9]+[A-Z]* (?:must|should) be taken|\Z)')
+# matches potential false positives for removal from the string
 _false_positive_matcher = re.compile(
     r'(?:[Gg]rade|[Ss]core) of .*? or (?:better|higher)|[A-D][-\u2013+]? or (?:better|higher)|,? or equivalent|GPA [0-9]|ACT|MBA|\(?(?:for|prior)[^,;]*\)?')
+# matches the last course code in the prerequisites section, accounting for
+# potential abbreviations/shorthand
 _prerequisites_end_matcher = re.compile(
     r'.*[A-Z]{2,} [0-9]+[A-Z]*(?:(?:[-\u2013/]|, (?:and |or )?| (?:and|or) )(?:[0-9]+[A-Z]*|[A-Z]{1,2}(?![0-9A-z])))*\)?')
+# matches "standard form", consisting only of complete course codes separated
+# by "and" or "or" and potentially with parentheses, to check whether an early
+# stop is possible
 _standard_form_matcher = re.compile(
     r'^\(?[A-Z]{2,} [0-9]+[A-Z]*(?: (?:and|or) \(?[A-Z]{2,} [0-9]+[A-Z]*\)?)*$')
+# matches the conjunction immediately following a comma or semicolon, if present
 _next_conjunction_matcher = re.compile(r'[,;]\s+(?P<conjunction>and|or)')
+# matches "and" or "or" tokens
 _conjunction_matcher = re.compile(r'\s(and|or)\s')
+# matches terms which are synonymous with "and" for replacement
 _and_synonyms_matcher = re.compile(r'in addition to')
+# matches a course code subject and number or just a number, for insertion of
+# a subject into codes where it is omitted
 _subject_or_number_matcher = re.compile(
     r'(?P<subject>[A-Z]{2,}) (?P<digits_1>[0-9]+)[A-Z]*| (?P<number>(?P<digits_2>[0-9]+)[A-Z]*[^ ]*|(?:[A-RT-Z][A-Z]?|S[A-DF-Z]?)(?![A-z]))')
+# matches the beginning of a course code sequence so it can be expanded into
+# full course codes
 _sequence_start_matcher = re.compile(
     r'(?P<subject>[A-Z]{2,}) (?P<digits>[0-9]+)(?P<letters>[A-Z]*)(?=-)')
+# matches the end of a course code sequence
 _sequence_end_matcher = re.compile(
     r'-(?:(?:[A-Z]{3,}|SE) )?(?P<end_digits>[0-9]*)(?P<end_letters>[A-Z]*)')
 
 
 class CourseInfoParser:
+    """
+    Parses course listings from the catalog into usable data formats. Use the
+    `parse_course()` method for title lines and `parse_prerequisites()` for
+    prerequisite information in descriptions.
+    """
+
     def __init__(self, logger: Logger, metrics: ScrapingMetrics) -> None:
         super().__init__()
         self.logger = logger
@@ -45,7 +72,7 @@ class CourseInfoParser:
 
     def parse_course(self, title_line: str) -> tuple[str, str, str, str]:
         """
-        Extract a course's code (subject and number), title, and units from its
+        Extracts a course's code (subject and number), title, and units from its
         title line in the catalog. Returns a tuple containing the subject,
         number, title, and units as strings in that order if parsing succeeded,
         or `None` if it failed. Sometimes the units are missing in the catalog,
@@ -56,7 +83,7 @@ class CourseInfoParser:
         if code_match is None:
             code_match = _crosslisted_same_number_matcher.match(title_line)
         if code_match is None:
-            code_match = _crosslisted_same_department_matcher.match(title_line)
+            code_match = _crosslisted_same_subject_matcher.match(title_line)
         if code_match is None:
             code_match = _title_sequence_matcher.match(title_line)
             if code_match is not None:
@@ -175,7 +202,7 @@ class CourseInfoParser:
         the next index after where the algorithm stops.
 
         To simplify later steps, also adds substitutions for en dashes and
-        non-breaking spaces, replacing them with hyphens and ASCII spaces
+        non-breaking spaces, replacing them with hyphens and regular spaces
         respectively.
         """
         def set_substitutions(positions: list[int], sub: str) -> None:
