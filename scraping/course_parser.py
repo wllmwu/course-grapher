@@ -1,6 +1,6 @@
 from logging import Logger
 from metrics import ScrapingMetrics
-from prerequisites_tree import ReqsDict
+from prerequisites_tree import PrerequisitesTreeGenerator, ReqsDict
 import re
 from utils import splice
 
@@ -40,6 +40,7 @@ class CourseInfoParser:
         super().__init__()
         self.logger = logger
         self.metrics = metrics
+        self.tree_generator = PrerequisitesTreeGenerator(self.logger)
 
     def parse_course(self, title_line: str) -> tuple[str, str, str, str]:
         """
@@ -101,6 +102,7 @@ class CourseInfoParser:
             self.logger.info('PREREQS: %s', prereqs_str)
             self.metrics.inc_with_prerequisites()
         prereqs_str = self._normalize_string(prereqs_str)
+        return self.tree_generator.from_string(prereqs_str)
 
     def _isolate_prerequisites(self, description: str) -> str | None:
         """
