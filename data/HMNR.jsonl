@@ -1,2 +1,2 @@
-{"dept": "HMNR", "code": "HMNR 100", "title": "Introduction to Human Rights and Global Justice", "units": "4"}
-{"dept": "HMNR", "code": "HMNR 101", "title": "Human Rights II: Contemporary Issues", "units": "4"}
+{"code": "HMNR 100", "title": "Introduction to Human Rights and Global Justice", "units": "4", "prereqs": null}
+{"code": "HMNR 101", "title": "Human Rights II: Contemporary Issues", "units": "4", "prereqs": null}

@@ -1,169 +1,169 @@
-{"dept": "CSE", "code": "CSE 3", "title": "Fluency in Information Technology", "units": "4"}
-{"dept": "CSE", "code": "CSE 4GS", "title": "Mathematical Beauty in Rome", "units": "4"}
-{"dept": "CSE", "code": "CSE 6GS", "title": "Mathematical Beauty in Rome Lab", "units": "4"}
-{"dept": "CSE", "code": "CSE 6R", "title": "Introduction to Computer Science and Object-Oriented Programming: Python", "units": "4"}
-{"dept": "CSE", "code": "CSE 8A", "title": "Introduction to Programming and Computational Problem-Solving I", "units": "4"}
-{"dept": "CSE", "code": "CSE 8B", "title": "Introduction to Programming and Computational Problem-Solving II", "units": "4"}
-{"dept": "CSE", "code": "CSE 11", "title": "Introduction to Programming and Computational Problem-Solving: Accelerated Pace", "units": "4"}
-{"dept": "CSE", "code": "CSE 12", "title": "Basic Data Structures and Object-Oriented Design", "units": "4"}
-{"dept": "CSE", "code": "CSE 15L", "title": "Software Tools and Techniques Laboratory", "units": "2"}
-{"dept": "CSE", "code": "CSE 20", "title": "Discrete Mathematics", "units": "4"}
-{"dept": "CSE", "code": "CSE 21", "title": "Mathematics for Algorithms and Systems", "units": "4"}
-{"dept": "CSE", "code": "CSE 30", "title": "Computer Organization and Systems Programming", "units": "4"}
-{"dept": "CSE", "code": "CSE 42", "title": "Building and Programming Electronic Devices", "units": "2"}
-{"dept": "CSE", "code": "CSE 86", "title": "C++ for Java Programmers", "units": "2"}
-{"dept": "CSE", "code": "CSE 87", "title": "First-year Student Seminar", "units": "1"}
-{"dept": "CSE", "code": "CSE 90", "title": "Undergraduate Seminar", "units": "1"}
-{"dept": "CSE", "code": "CSE 91", "title": "Perspectives in Computer Science and Engineering", "units": "2"}
-{"dept": "CSE", "code": "CSE 99", "title": "Independent Study in Computer Science and Engineering", "units": "4"}
-{"dept": "CSE", "code": "CSE 100", "title": "Advanced Data Structures", "units": "4"}
-{"dept": "CSE", "code": "CSE 101", "title": "Design and Analysis of Algorithms", "units": "4"}
-{"dept": "CSE", "code": "CSE 103", "title": "A Practical Introduction to Probability and Statistics", "units": "4"}
-{"dept": "CSE", "code": "CSE 105", "title": "Theory of Computability", "units": "4"}
-{"dept": "CSE", "code": "CSE 106", "title": "Discrete and Continuous Optimization", "units": "4"}
-{"dept": "CSE", "code": "CSE 107", "title": "Introduction to Modern Cryptography", "units": "4"}
-{"dept": "CSE", "code": "CSE 109", "title": "Introduction to Programming Contests", "units": "2"}
-{"dept": "CSE", "code": "CSE 110", "title": "Software Engineering", "units": "4"}
-{"dept": "CSE", "code": "CSE 112", "title": "Advanced Software Engineering", "units": "4"}
-{"dept": "CSE", "code": "CSE 113", "title": "Errors, Defects, and Failures", "units": "4"}
-{"dept": "CSE", "code": "CSE 118", "title": "Ubiquitous Computing", "units": "4"}
-{"dept": "CSE", "code": "CSE 120", "title": "Principles of Computer Operating Systems", "units": "4"}
-{"dept": "CSE", "code": "CSE 123", "title": "Computer Networks", "units": "4"}
-{"dept": "CSE", "code": "CSE 124", "title": "Networked Services", "units": "4"}
-{"dept": "CSE", "code": "CSE 125", "title": "Software System Design and Implementation", "units": "4"}
-{"dept": "CSE", "code": "CSE 127", "title": "Introduction to Computer Security", "units": "4"}
-{"dept": "CSE", "code": "CSE 130", "title": "Programming Languages: Principles and Paradigms", "units": "4"}
-{"dept": "CSE", "code": "CSE 131", "title": "Compiler Construction", "units": "4"}
-{"dept": "CSE", "code": "CSE 132A", "title": "Database System Principles", "units": "4"}
-{"dept": "CSE", "code": "CSE 132B", "title": "Database Systems Applications", "units": "4"}
-{"dept": "CSE", "code": "CSE 132C", "title": "Database System Implementation", "units": "4"}
-{"dept": "CSE", "code": "CSE 134B", "title": "Web Client Languages", "units": "4"}
-{"dept": "CSE", "code": "CSE 135", "title": "Online Database Analytics Applications", "units": "4"}
-{"dept": "CSE", "code": "CSE 136", "title": "Enterprise-Class Web Applications", "units": "4"}
-{"dept": "CSE", "code": "CSE 140", "title": "Components and Design Techniques for Digital Systems", "units": "4"}
-{"dept": "CSE", "code": "CSE 140L", "title": "Digital Systems Laboratory", "units": "2"}
-{"dept": "CSE", "code": "CSE 141", "title": "Introduction to Computer Architecture", "units": "4"}
-{"dept": "CSE", "code": "CSE 141L", "title": "Project in Computer Architecture", "units": "2"}
-{"dept": "CSE", "code": "CSE 142", "title": "Introduction to Computer Architecture: A Software Perspective", "units": "4"}
-{"dept": "CSE", "code": "CSE 142L", "title": "Software Project for Computer Architecture", "units": "2"}
-{"dept": "CSE", "code": "CSE 143", "title": "Microelectronic System Design", "units": "4"}
-{"dept": "CSE", "code": "CSE 145", "title": "Embedded System Design Project", "units": "4"}
-{"dept": "CSE", "code": "CSE 148", "title": "Advanced Processor Architecture Design Project", "units": "4"}
-{"dept": "CSE", "code": "CSE 150A", "title": "Introduction to Artificial Intelligence: Probabilistic Reasoning and Decision-Making", "units": "4"}
-{"dept": "CSE", "code": "CSE 150B", "title": "Introduction to Artificial Intelligence: Search and Reasoning", "units": "4"}
-{"dept": "CSE", "code": "CSE 151A", "title": "Introduction to Machine Learning", "units": "4"}
-{"dept": "CSE", "code": "CSE 151B", "title": "Deep Learning", "units": "4"}
-{"dept": "CSE", "code": "CSE 152A", "title": "Introduction to Computer Vision I", "units": "4"}
-{"dept": "CSE", "code": "CSE 152B", "title": "Introduction to Computer Vision II", "units": "4"}
-{"dept": "CSE", "code": "CSE 156", "title": "Statistical Natural Language Processing", "units": "4"}
-{"dept": "CSE", "code": "CSE 158", "title": "Recommender Systems and Web Mining", "units": "4"}
-{"dept": "CSE", "code": "CSE 158R", "title": "Recommender Systems and Web Mining", "units": "4"}
-{"dept": "CSE", "code": "CSE 160", "title": "Introduction to Parallel Computing", "units": "4"}
-{"dept": "CSE", "code": "CSE 163", "title": "Advanced Computer Graphics", "units": "4"}
-{"dept": "CSE", "code": "CSE 165", "title": "3-D User Interaction", "units": "4"}
-{"dept": "CSE", "code": "CSE 166", "title": "Image Processing", "units": "4"}
-{"dept": "CSE", "code": "CSE 167", "title": "Computer Graphics", "units": "4"}
-{"dept": "CSE", "code": "CSE 168", "title": "Computer Graphics II: Rendering", "units": "4"}
-{"dept": "CSE", "code": "CSE 169", "title": "Computer Animation", "units": "4"}
-{"dept": "CSE", "code": "CSE 170", "title": "Interaction Design", "units": "5"}
-{"dept": "CSE", "code": "CSE 175", "title": "Successful Entrepreneurship for Engineers", "units": "4"}
-{"dept": "CSE", "code": "CSE 176A", "title": "Health Care Robotics", "units": "4"}
-{"dept": "CSE", "code": "CSE 176E", "title": "Robot Systems Design and Implementation", "units": "4"}
-{"dept": "CSE", "code": "CSE 180", "title": "Biology Meets Computing", "units": "4"}
-{"dept": "CSE", "code": "CSE 180R", "title": "Biology Meets Computing", "units": "4"}
-{"dept": "CSE", "code": "CSE 181", "title": "Molecular Sequence Analysis", "units": "4"}
-{"dept": "CSE", "code": "CSE 182", "title": "Biological Databases", "units": "4"}
-{"dept": "CSE", "code": "CSE 184", "title": "Computational Molecular Biology", "units": "4"}
-{"dept": "CSE", "code": "CSE 185", "title": "Advanced Bioinformatics Laboratory", "units": "4"}
-{"dept": "CSE", "code": "CSE 190", "title": "Topics in Computer Science and Engineering", "units": "4"}
-{"dept": "CSE", "code": "CSE 191", "title": "Seminar in CSE", "units": "1\u20134"}
-{"dept": "CSE", "code": "CSE 192", "title": "Senior Seminar in Computer Science and Engineering", "units": "1"}
-{"dept": "CSE", "code": "CSE 193", "title": "Introduction to Computer Science Research", "units": "4"}
-{"dept": "CSE", "code": "CSE 194", "title": "Race, Gender, and Computing", "units": "4"}
-{"dept": "CSE", "code": "CSE 195", "title": "Teaching", "units": "4"}
-{"dept": "CSE", "code": "CSE 197", "title": "Field Study in Computer Science and Engineering", "units": "4"}
-{"dept": "CSE", "code": "CSE 198", "title": "Directed Group Study", "units": "2 or 4"}
-{"dept": "CSE", "code": "CSE 199", "title": "Independent Study for Undergraduates", "units": "2 or 4"}
-{"dept": "CSE", "code": "CSE 199H", "title": "CSE Honors Thesis Research for Undergraduates", "units": "4"}
-{"dept": "CSE", "code": "CSE 200", "title": "Computability and Complexity", "units": "4"}
-{"dept": "CSE", "code": "CSE 201A", "title": "Advanced Complexity", "units": "4"}
-{"dept": "CSE", "code": "CSE 202", "title": "Algorithm Design and Analysis", "units": "4"}
-{"dept": "CSE", "code": "CSE 203A", "title": "Advanced Algorithms", "units": "4"}
-{"dept": "CSE", "code": "CSE 203B", "title": "Convex Optimization Formulations and Algorithms", "units": "4"}
-{"dept": "CSE", "code": "CSE 205A", "title": "Logic in Computer Science", "units": "4"}
-{"dept": "CSE", "code": "CSE 206A", "title": "Lattice Algorithms and Applications", "units": "4"}
-{"dept": "CSE", "code": "CSE 207", "title": "Modern Cryptography", "units": "4"}
-{"dept": "CSE", "code": "CSE 208", "title": "Advanced Cryptography", "units": "4"}
-{"dept": "CSE", "code": "CSE 209A", "title": "Topics/Seminar in Algorithms, Complexity, and Logic", "units": "1\u20134"}
-{"dept": "CSE", "code": "CSE 209B", "title": "Topics/Seminar in Cryptography", "units": "1\u20134"}
-{"dept": "CSE", "code": "CSE 210", "title": "Principles of Software Engineering", "units": "4"}
-{"dept": "CSE", "code": "CSE 211", "title": "Software Testing and Analysis", "units": "4"}
-{"dept": "CSE", "code": "CSE 216", "title": "Research Topics in Human-Computer Interaction", "units": "4"}
-{"dept": "CSE", "code": "CSE 218", "title": "Advanced Topics in Software Engineering", "units": "4"}
-{"dept": "CSE", "code": "CSE 219", "title": "Design at Large", "units": "1"}
-{"dept": "CSE", "code": "CSE 221", "title": "Operating Systems", "units": "4"}
-{"dept": "CSE", "code": "CSE 222A", "title": "Computer Communication Networks", "units": "4"}
-{"dept": "CSE", "code": "CSE 222B", "title": "Internet Algorithmics", "units": "4"}
-{"dept": "CSE", "code": "CSE 223B", "title": "Distributed Computing and Systems", "units": "4"}
-{"dept": "CSE", "code": "CSE 224", "title": "Graduate Networked Systems", "units": "4"}
-{"dept": "CSE", "code": "CSE 227", "title": "Computer Security", "units": "4"}
-{"dept": "CSE", "code": "CSE 229A", "title": "Topics/Seminar in Computer Systems", "units": "1\u20134"}
-{"dept": "CSE", "code": "CSE 229C", "title": "Topics/Seminar in Computer Security", "units": "1\u20134"}
-{"dept": "CSE", "code": "CSE 230", "title": "Principles of Programming Languages", "units": "4"}
-{"dept": "CSE", "code": "CSE 231", "title": "Advanced Compiler Design", "units": "4"}
-{"dept": "CSE", "code": "CSE 232", "title": "Principles of Database Systems", "units": "4"}
-{"dept": "CSE", "code": "CSE 232B", "title": "Database System Implementation", "units": "4"}
-{"dept": "CSE", "code": "CSE 233", "title": "Database Theory", "units": "4"}
-{"dept": "CSE", "code": "CSE 237A", "title": "Introduction to Embedded Computing", "units": "4"}
-{"dept": "CSE", "code": "CSE 237B", "title": "Software for Embedded Systems", "units": "4"}
-{"dept": "CSE", "code": "CSE 237C", "title": "Validation and Testing of Embedded Systems", "units": "4"}
-{"dept": "CSE", "code": "CSE 237D", "title": "Design Automation and Prototyping for Embedded Systems", "units": "4"}
-{"dept": "CSE", "code": "CSE 239A", "title": "Topics/Seminar in Databases", "units": "1\u20134"}
-{"dept": "CSE", "code": "CSE 239B", "title": "Topics/Seminar in Programming Languages", "units": "1\u20132"}
-{"dept": "CSE", "code": "CSE 240A", "title": "Principles of Computer Architecture", "units": "4"}
-{"dept": "CSE", "code": "CSE 240B", "title": "Parallel Computer Architecture", "units": "4"}
-{"dept": "CSE", "code": "CSE 240C", "title": "Advanced Microarchitecture", "units": "4"}
-{"dept": "CSE", "code": "CSE 241A", "title": "VLSI Integration of Computing Circuitry", "units": "4"}
-{"dept": "CSE", "code": "CSE 243A", "title": "Introduction to Synthesis Methodologies in VLSI CAD", "units": "4"}
-{"dept": "CSE", "code": "CSE 244A", "title": "VLSI Test", "units": "4"}
-{"dept": "CSE", "code": "CSE 245", "title": "Computer Aided Circuit Simulation and Verification", "units": "4"}
-{"dept": "CSE", "code": "CSE 248", "title": "Algorithmic and Optimization Foundations for VLSI CAD", "units": "4"}
-{"dept": "CSE", "code": "CSE 249A", "title": "Topics/Seminar in Computer Architecture", "units": "1\u20134"}
-{"dept": "CSE", "code": "CSE 249B", "title": "Topics/Seminar in VLSI", "units": "1\u20134"}
-{"dept": "CSE", "code": "CSE 250A", "title": "Principles of Artificial Intelligence: Probabilistic Reasoning and Learning", "units": "4"}
-{"dept": "CSE", "code": "CSE 251A", "title": "Principles of Machine Learning: Learning Algorithms", "units": "4"}
-{"dept": "CSE", "code": "CSE 251B", "title": "Principles of Machine Learning: Neural Networks for Pattern Recognition", "units": "4"}
-{"dept": "CSE", "code": "CSE 251C", "title": "Principles of Machine Learning: Machine Learning Theory", "units": "4"}
-{"dept": "CSE", "code": "CSE 252A", "title": "Computer Vision I", "units": "4"}
-{"dept": "CSE", "code": "CSE 252B", "title": "Computer Vision II", "units": "4"}
-{"dept": "CSE", "code": "CSE 252C", "title": "Selected Topics in Vision and Learning", "units": "1\u20134"}
-{"dept": "CSE", "code": "CSE 252D", "title": "Advanced Computer Vision", "units": "4"}
-{"dept": "CSE", "code": "CSE 254", "title": "Statistical Learning", "units": "4"}
-{"dept": "CSE", "code": "CSE 255", "title": "Data Mining and Predictive Analytics", "units": "4"}
-{"dept": "CSE", "code": "CSE 256", "title": "Statistical Natural Language Processing", "units": "4"}
-{"dept": "CSE", "code": "CSE 257", "title": "Search and Optimization", "units": "4"}
-{"dept": "CSE", "code": "CSE 258", "title": "Recommender Systems and Web Mining", "units": "4"}
-{"dept": "CSE", "code": "CSE 258A", "title": "Cognitive Modeling", "units": "4"}
-{"dept": "CSE", "code": "CSE 259", "title": "Seminar in Artificial Intelligence", "units": "1"}
-{"dept": "CSE", "code": "CSE 260", "title": "Parallel Computation", "units": "4"}
-{"dept": "CSE", "code": "CSE 262", "title": "System Support for Applications of Parallel Computation", "units": "4"}
-{"dept": "CSE", "code": "CSE 272", "title": "Advanced Image Synthesis", "units": "4"}
-{"dept": "CSE", "code": "CSE 274", "title": "Selected Topics in Graphics", "units": "2\u20134"}
-{"dept": "CSE", "code": "CSE 276A", "title": "Introduction to Robotics", "units": "4"}
-{"dept": "CSE", "code": "CSE 276B", "title": "Human Robot Interaction", "units": "4"}
-{"dept": "CSE", "code": "CSE 276C", "title": "Mathematics for Robotics", "units": "4"}
-{"dept": "CSE", "code": "CSE 276D", "title": "Healthcare Robotics", "units": "4"}
-{"dept": "CSE", "code": "CSE 276E", "title": "Robot Systems Design and Implementation", "units": "4"}
-{"dept": "CSE", "code": "CSE 280A", "title": "Algorithms in Computational Biology", "units": "4"}
-{"dept": "CSE", "code": "CSE 282", "title": "Bioinformatics II: Sequence and Structure Analysis\u2014Methods and Applications", "units": "4"}
-{"dept": "CSE", "code": "CSE 283", "title": "Bioinformatics III: Functional Genomics", "units": "4"}
-{"dept": "CSE", "code": "CSE 284", "title": "Personal Genomics for Bioinformaticians", "units": "4"}
-{"dept": "CSE", "code": "CSE 290", "title": "Seminar in Computer Science and Engineering", "units": "1\u20134"}
-{"dept": "CSE", "code": "CSE 291", "title": "Topics in Computer Science and Engineering", "units": "1\u20134"}
-{"dept": "CSE", "code": "CSE 292", "title": "Faculty Research Seminar", "units": "1"}
-{"dept": "CSE", "code": "CSE 293", "title": "Special Project in Computer Science and Engineering", "units": "1\u201312"}
-{"dept": "CSE", "code": "CSE 294", "title": "Research Meeting in CSE", "units": "2"}
-{"dept": "CSE", "code": "CSE 298", "title": "Independent Study", "units": "1\u201316"}
-{"dept": "CSE", "code": "CSE 299", "title": "Research", "units": "1\u201316"}
-{"dept": "CSE", "code": "CSE 500", "title": "Teaching Assistantship", "units": "2\u20134"}
-{"dept": "CSE", "code": "CSE 599", "title": "Teaching Methods in Computer Science", "units": "2"}
+{"code": "CSE 3", "title": "Fluency in Information Technology", "units": "4", "prereqs": null}
+{"code": "CSE 4GS", "title": "Mathematical Beauty in Rome", "units": "4", "prereqs": {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}}
+{"code": "CSE 6GS", "title": "Mathematical Beauty in Rome Lab", "units": "4", "prereqs": {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}}
+{"code": "CSE 6R", "title": "Introduction to Computer Science and Object-Oriented Programming: Python", "units": "4", "prereqs": null}
+{"code": "CSE 8A", "title": "Introduction to Programming and Computational Problem-Solving I", "units": "4", "prereqs": null}
+{"code": "CSE 8B", "title": "Introduction to Programming and Computational Problem-Solving II", "units": "4", "prereqs": "CSE 8A"}
+{"code": "CSE 11", "title": "Introduction to Programming and Computational Problem-Solving: Accelerated Pace", "units": "4", "prereqs": null}
+{"code": "CSE 12", "title": "Basic Data Structures and Object-Oriented Design", "units": "4", "prereqs": {"type": "one", "courses": ["CSE 8B", "CSE 11"]}}
+{"code": "CSE 15L", "title": "Software Tools and Techniques Laboratory", "units": "2", "prereqs": {"type": "one", "courses": ["CSE 8B", "CSE 11"]}}
+{"code": "CSE 20", "title": "Discrete Mathematics", "units": "4", "prereqs": {"type": "one", "courses": ["CSE 11", "CSE 6R", "CSE 8A", "CSE 8B", "ECE 15"]}}
+{"code": "CSE 21", "title": "Mathematics for Algorithms and Systems", "units": "4", "prereqs": {"type": "one", "courses": ["CSE 20", "MATH 15A", "MATH 31CH"]}}
+{"code": "CSE 30", "title": "Computer Organization and Systems Programming", "units": "4", "prereqs": {"type": "all", "courses": ["CSE 12", "CSE 15L"]}}
+{"code": "CSE 42", "title": "Building and Programming Electronic Devices", "units": "2", "prereqs": null}
+{"code": "CSE 86", "title": "C++ for Java Programmers", "units": "2", "prereqs": "CSE 12"}
+{"code": "CSE 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
+{"code": "CSE 90", "title": "Undergraduate Seminar", "units": "1", "prereqs": null}
+{"code": "CSE 91", "title": "Perspectives in Computer Science and Engineering", "units": "2", "prereqs": null}
+{"code": "CSE 99", "title": "Independent Study in Computer Science and Engineering", "units": "4", "prereqs": null}
+{"code": "CSE 100", "title": "Advanced Data Structures", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CSE 21", "MATH 154", "MATH 184"]}, "CSE 12", "CSE 15L", {"type": "one", "courses": ["CSE 30", "ECE 15"]}]}}
+{"code": "CSE 101", "title": "Design and Analysis of Algorithms", "units": "4", "prereqs": "CSE 100"}
+{"code": "CSE 103", "title": "A Practical Introduction to Probability and Statistics", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 20A", "MATH 20B", {"type": "one", "courses": ["CSE 21", "MATH 154", "MATH 184", "MATH 184A"]}]}}
+{"code": "CSE 105", "title": "Theory of Computability", "units": "4", "prereqs": {"type": "all", "courses": ["CSE 12", "CSE 15L", {"type": "one", "courses": ["CSE 20", "MATH 109", "MATH 15A", "MATH 31CH"]}, {"type": "one", "courses": ["CSE 21", "MATH 100A", "MATH 103A", "MATH 154", "MATH 184", "MATH 184A"]}]}}
+{"code": "CSE 106", "title": "Discrete and Continuous Optimization", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, {"type": "one", "courses": ["MATH 20C", "MATH 31BH"]}, {"type": "one", "courses": ["CSE 21", "DSC 40B", "MATH 154", "MATH 184", "MATH 184A"]}]}}
+{"code": "CSE 107", "title": "Introduction to Modern Cryptography", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 184", "CSE 21", "MATH 154"]}, "CSE 101", "CSE 105"]}}
+{"code": "CSE 109", "title": "Introduction to Programming Contests", "units": "2", "prereqs": "CSE 30"}
+{"code": "CSE 110", "title": "Software Engineering", "units": "4", "prereqs": "CSE 100"}
+{"code": "CSE 112", "title": "Advanced Software Engineering", "units": "4", "prereqs": "CSE 110"}
+{"code": "CSE 113", "title": "Errors, Defects, and Failures", "units": "4", "prereqs": {"type": "all", "courses": ["CSE 12", "CSE 21"]}}
+{"code": "CSE 118", "title": "Ubiquitous Computing", "units": "4", "prereqs": {"type": "one", "courses": ["CSE 131", "CSE 132B", "COGS 102C", "COGS 121", "COGS 184", "COMT 111B", "COMT 115", "ECE 111", "ECE 118", "ECE 191", "ECE 192", "ICAM 160B"]}}
+{"code": "CSE 120", "title": "Principles of Computer Operating Systems", "units": "4", "prereqs": {"type": "all", "courses": ["CSE 30", "CSE 101", "CSE 110"]}}
+{"code": "CSE 123", "title": "Computer Networks", "units": "4", "prereqs": {"type": "all", "courses": ["CSE 30", "CSE 101", "CSE 110"]}}
+{"code": "CSE 124", "title": "Networked Services", "units": "4", "prereqs": {"type": "all", "courses": ["CSE 30", "CSE 101", "CSE 110"]}}
+{"code": "CSE 125", "title": "Software System Design and Implementation", "units": "4", "prereqs": null}
+{"code": "CSE 127", "title": "Introduction to Computer Security", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CSE 21", "MATH 154", "MATH 184", "MATH 184A"]}, {"type": "one", "courses": ["CSE 120", "CSE 123", "CSE 124"]}]}}
+{"code": "CSE 130", "title": "Programming Languages: Principles and Paradigms", "units": "4", "prereqs": {"type": "all", "courses": ["CSE 12", "CSE 100", "CSE 105"]}}
+{"code": "CSE 131", "title": "Compiler Construction", "units": "4", "prereqs": {"type": "all", "courses": ["CSE 100", "CSE 105", "CSE 130"]}}
+{"code": "CSE 132A", "title": "Database System Principles", "units": "4", "prereqs": "CSE 100"}
+{"code": "CSE 132B", "title": "Database Systems Applications", "units": "4", "prereqs": "CSE 132A"}
+{"code": "CSE 132C", "title": "Database System Implementation", "units": "4", "prereqs": {"type": "one", "courses": ["CSE 132A", "DSC 102"]}}
+{"code": "CSE 134B", "title": "Web Client Languages", "units": "4", "prereqs": "CSE 100"}
+{"code": "CSE 135", "title": "Online Database Analytics Applications", "units": "4", "prereqs": "CSE 100"}
+{"code": "CSE 136", "title": "Enterprise-Class Web Applications", "units": "4", "prereqs": "CSE 135"}
+{"code": "CSE 140", "title": "Components and Design Techniques for Digital Systems", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CSE 20", "MATH 109", "MATH 15A", "MATH 31CH"]}, "CSE 30"]}}
+{"code": "CSE 140L", "title": "Digital Systems Laboratory", "units": "2", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CSE 20", "MATH 109", "MATH 15A", "MATH 31CH"]}, "CSE 30"]}}
+{"code": "CSE 141", "title": "Introduction to Computer Architecture", "units": "4", "prereqs": {"type": "all", "courses": ["CSE 30", "CSE 140", "CSE 140L"]}}
+{"code": "CSE 141L", "title": "Project in Computer Architecture", "units": "2", "prereqs": {"type": "all", "courses": ["CSE 30", "CSE 140", "CSE 140L"]}}
+{"code": "CSE 142", "title": "Introduction to Computer Architecture: A Software Perspective", "units": "4", "prereqs": {"type": "all", "courses": ["CSE 30", "CSE 100"]}}
+{"code": "CSE 142L", "title": "Software Project for Computer Architecture", "units": "2", "prereqs": {"type": "all", "courses": ["CSE 30", "CSE 100"]}}
+{"code": "CSE 143", "title": "Microelectronic System Design", "units": "4", "prereqs": {"type": "one", "courses": ["CSE 140", "CSE 170A", "ECE 81"]}}
+{"code": "CSE 145", "title": "Embedded System Design Project", "units": "4", "prereqs": null}
+{"code": "CSE 148", "title": "Advanced Processor Architecture Design Project", "units": "4", "prereqs": {"type": "all", "courses": ["CSE 141", "CSE 141L"]}}
+{"code": "CSE 150A", "title": "Introduction to Artificial Intelligence: Probabilistic Reasoning and Decision-Making", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CSE 12", "DSC 40B"]}, {"type": "one", "courses": ["CSE 15L", "DSC 80"]}, {"type": "one", "courses": ["COGS 118D", "CSE 103", "ECE 109", "ECON 120A", "MATH 180A", "MATH 183"]}, "MATH 20A", {"type": "one", "courses": ["MATH 18", "MATH 31AH"]}]}}
+{"code": "CSE 150B", "title": "Introduction to Artificial Intelligence: Search and Reasoning", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CSE 12", "DSC 40B"]}, {"type": "one", "courses": ["CSE 15L", "DSC 80"]}, {"type": "one", "courses": ["COGS 118D", "CSE 103", "ECE 109", "ECON 120A", "MATH 180A", "MATH 183"]}, "CSE 100"]}}
+{"code": "CSE 151A", "title": "Introduction to Machine Learning", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CSE 12", "DSC 40B"]}, {"type": "one", "courses": ["CSE 15L", "DSC 80"]}, {"type": "one", "courses": ["COGS 118D", "CSE 103", "ECE 109", "ECON 120A", "MATH 181A", "MATH 183"]}, {"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, {"type": "one", "courses": ["MATH 20C", "MATH 31BH"]}]}}
+{"code": "CSE 151B", "title": "Deep Learning", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 20C", "MATH 31BH"]}, {"type": "one", "courses": ["BENG 134", "COGS 118D", "CSE 103", "ECE 109", "ECON 120A", "MAE 108", "MATH 181A", "MATH 183", "MATH 186"]}]}}
+{"code": "CSE 152A", "title": "Introduction to Computer Vision I", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, {"type": "one", "courses": ["CSE 12", "DSC 30"]}, {"type": "one", "courses": ["CSE 15L", "DSC 80"]}]}}
+{"code": "CSE 152B", "title": "Introduction to Computer Vision II", "units": "4", "prereqs": {"type": "one", "courses": ["CSE 152A", "CSE 152"]}}
+{"code": "CSE 156", "title": "Statistical Natural Language Processing", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 20C", "MATH 31BH"]}, {"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, {"type": "one", "courses": ["COGS 118A", "CSE 150", "CSE 151"]}]}}
+{"code": "CSE 158", "title": "Recommender Systems and Web Mining", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CSE 12", "DSC 40B"]}, {"type": "one", "courses": ["CSE 15L", "DSC 80"]}, {"type": "one", "courses": ["BENG 100", "BENG 134", "COGS 118D", "CSE 103", "ECE 109", "ECON 120A", "MATH 180A", "MATH 181A", "MATH 183", "MATH 186"]}]}}
+{"code": "CSE 158R", "title": "Recommender Systems and Web Mining", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CSE 12", "DSC 40B"]}, {"type": "one", "courses": ["CSE 15L", "DSC 80"]}, {"type": "one", "courses": ["BENG 100", "BENG 134", "COGS 118D", "CSE 103", "ECE 109", "ECON 120A", "MATH 180A", "MATH 181A", "MATH 183", "MATH 186"]}]}}
+{"code": "CSE 160", "title": "Introduction to Parallel Computing", "units": "4", "prereqs": "CSE 100"}
+{"code": "CSE 163", "title": "Advanced Computer Graphics", "units": "4", "prereqs": "CSE 167"}
+{"code": "CSE 165", "title": "3-D User Interaction", "units": "4", "prereqs": "CSE 167"}
+{"code": "CSE 166", "title": "Image Processing", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["DSC 40B", "MATH 18", "MATH 31AH"]}, {"type": "one", "courses": ["CSE 100", "DSC 80"]}]}}
+{"code": "CSE 167", "title": "Computer Graphics", "units": "4", "prereqs": "CSE 100"}
+{"code": "CSE 168", "title": "Computer Graphics II: Rendering", "units": "4", "prereqs": "CSE 167"}
+{"code": "CSE 169", "title": "Computer Animation", "units": "4", "prereqs": "CSE 167"}
+{"code": "CSE 170", "title": "Interaction Design", "units": "5", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["COGS 108", "CSE 12", "DSC 30"]}, {"type": "one", "courses": ["COGS 1", "COGS 10", "DSGN 1", "ENG 100D"]}]}}
+{"code": "CSE 175", "title": "Successful Entrepreneurship for Engineers", "units": "4", "prereqs": null}
+{"code": "CSE 176A", "title": "Health Care Robotics", "units": "4", "prereqs": {"type": "one", "courses": ["CSE 110", "CSE 170", "COGS 120"]}}
+{"code": "CSE 176E", "title": "Robot Systems Design and Implementation", "units": "4", "prereqs": null}
+{"code": "CSE 180", "title": "Biology Meets Computing", "units": "4", "prereqs": "BILD 1"}
+{"code": "CSE 180R", "title": "Biology Meets Computing", "units": "4", "prereqs": {"type": "one", "courses": ["BILD 1", "BILD 4", "CSE 3", "CSE 7", "CSE 8A", "CSE 8B", "CSE 11"]}}
+{"code": "CSE 181", "title": "Molecular Sequence Analysis", "units": "4", "prereqs": {"type": "all", "courses": ["CSE 100", "CSE 101", {"type": "one", "courses": ["BIMM 100", "CHEM 114C"]}]}}
+{"code": "CSE 182", "title": "Biological Databases", "units": "4", "prereqs": "CSE 100"}
+{"code": "CSE 184", "title": "Computational Molecular Biology", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["BIMM 181", "BENG 181", "CSE 181"]}, {"type": "one", "courses": ["BENG 182", "BIMM 182", "CSE 182", "CHEM 182"]}]}}
+{"code": "CSE 185", "title": "Advanced Bioinformatics Laboratory", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CSE 11", "CSE 8B"]}, "CSE 12", {"type": "one", "courses": ["MATH 20C", "MATH 31BH"]}, "BILD 1", {"type": "one", "courses": ["BIEB 123", "BILD 4", "BIMM 101", "CHEM 109"]}]}}
+{"code": "CSE 190", "title": "Topics in Computer Science and Engineering", "units": "4", "prereqs": null}
+{"code": "CSE 191", "title": "Seminar in CSE", "units": "1\u20134", "prereqs": null}
+{"code": "CSE 192", "title": "Senior Seminar in Computer Science and Engineering", "units": "1", "prereqs": null}
+{"code": "CSE 193", "title": "Introduction to Computer Science Research", "units": "4", "prereqs": null}
+{"code": "CSE 194", "title": "Race, Gender, and Computing", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CSE 12", "ECE 35"]}, {"type": "one", "courses": ["CAT 3", "DOC 3", "HUM 2", "MCWP 50", "MCWP 50R", "MMW 13", "SYN 2", "WCWP 10B"]}]}}
+{"code": "CSE 195", "title": "Teaching", "units": "4", "prereqs": null}
+{"code": "CSE 197", "title": "Field Study in Computer Science and Engineering", "units": "4", "prereqs": null}
+{"code": "CSE 198", "title": "Directed Group Study", "units": "2 or 4", "prereqs": null}
+{"code": "CSE 199", "title": "Independent Study for Undergraduates", "units": "2 or 4", "prereqs": null}
+{"code": "CSE 199H", "title": "CSE Honors Thesis Research for Undergraduates", "units": "4", "prereqs": null}
+{"code": "CSE 200", "title": "Computability and Complexity", "units": "4", "prereqs": "CSE 105"}
+{"code": "CSE 201A", "title": "Advanced Complexity", "units": "4", "prereqs": null}
+{"code": "CSE 202", "title": "Algorithm Design and Analysis", "units": "4", "prereqs": "CSE 101"}
+{"code": "CSE 203A", "title": "Advanced Algorithms", "units": "4", "prereqs": "CSE 202"}
+{"code": "CSE 203B", "title": "Convex Optimization Formulations and Algorithms", "units": "4", "prereqs": null}
+{"code": "CSE 205A", "title": "Logic in Computer Science", "units": "4", "prereqs": "CSE 200"}
+{"code": "CSE 206A", "title": "Lattice Algorithms and Applications", "units": "4", "prereqs": {"type": "all", "courses": ["CSE 202", "CSE 200"]}}
+{"code": "CSE 207", "title": "Modern Cryptography", "units": "4", "prereqs": "CSE 202"}
+{"code": "CSE 208", "title": "Advanced Cryptography", "units": "4", "prereqs": {"type": "all", "courses": ["CSE 202", "CSE 200", "CSE 207"]}}
+{"code": "CSE 209A", "title": "Topics/Seminar in Algorithms, Complexity, and Logic", "units": "1\u20134", "prereqs": null}
+{"code": "CSE 209B", "title": "Topics/Seminar in Cryptography", "units": "1\u20134", "prereqs": null}
+{"code": "CSE 210", "title": "Principles of Software Engineering", "units": "4", "prereqs": {"type": "all", "courses": ["CSE 100", "CSE 131A", "CSE 120"]}}
+{"code": "CSE 211", "title": "Software Testing and Analysis", "units": "4", "prereqs": null}
+{"code": "CSE 216", "title": "Research Topics in Human-Computer Interaction", "units": "4", "prereqs": null}
+{"code": "CSE 218", "title": "Advanced Topics in Software Engineering", "units": "4", "prereqs": null}
+{"code": "CSE 219", "title": "Design at Large", "units": "1", "prereqs": null}
+{"code": "CSE 221", "title": "Operating Systems", "units": "4", "prereqs": {"type": "all", "courses": ["CSE 120", "CSE 121"]}}
+{"code": "CSE 222A", "title": "Computer Communication Networks", "units": "4", "prereqs": "CSE 123A"}
+{"code": "CSE 222B", "title": "Internet Algorithmics", "units": "4", "prereqs": {"type": "one", "courses": ["CSE 123A", "CSE 222A"]}}
+{"code": "CSE 223B", "title": "Distributed Computing and Systems", "units": "4", "prereqs": {"type": "all", "courses": ["CSE 221", "CSE 222A"]}}
+{"code": "CSE 224", "title": "Graduate Networked Systems", "units": "4", "prereqs": null}
+{"code": "CSE 227", "title": "Computer Security", "units": "4", "prereqs": "CSE 221"}
+{"code": "CSE 229A", "title": "Topics/Seminar in Computer Systems", "units": "1\u20134", "prereqs": null}
+{"code": "CSE 229C", "title": "Topics/Seminar in Computer Security", "units": "1\u20134", "prereqs": null}
+{"code": "CSE 230", "title": "Principles of Programming Languages", "units": "4", "prereqs": "CSE 130"}
+{"code": "CSE 231", "title": "Advanced Compiler Design", "units": "4", "prereqs": {"type": "all", "courses": ["CSE 100", "CSE 131A", "CSE 131B"]}}
+{"code": "CSE 232", "title": "Principles of Database Systems", "units": "4", "prereqs": "CSE 100"}
+{"code": "CSE 232B", "title": "Database System Implementation", "units": "4", "prereqs": "CSE 232"}
+{"code": "CSE 233", "title": "Database Theory", "units": "4", "prereqs": "CSE 200"}
+{"code": "CSE 237A", "title": "Introduction to Embedded Computing", "units": "4", "prereqs": null}
+{"code": "CSE 237B", "title": "Software for Embedded Systems", "units": "4", "prereqs": "CSE 237A"}
+{"code": "CSE 237C", "title": "Validation and Testing of Embedded Systems", "units": "4", "prereqs": "CSE 237A"}
+{"code": "CSE 237D", "title": "Design Automation and Prototyping for Embedded Systems", "units": "4", "prereqs": "CSE 237A"}
+{"code": "CSE 239A", "title": "Topics/Seminar in Databases", "units": "1\u20134", "prereqs": null}
+{"code": "CSE 239B", "title": "Topics/Seminar in Programming Languages", "units": "1\u20132", "prereqs": null}
+{"code": "CSE 240A", "title": "Principles of Computer Architecture", "units": "4", "prereqs": "CSE 141"}
+{"code": "CSE 240B", "title": "Parallel Computer Architecture", "units": "4", "prereqs": null}
+{"code": "CSE 240C", "title": "Advanced Microarchitecture", "units": "4", "prereqs": null}
+{"code": "CSE 241A", "title": "VLSI Integration of Computing Circuitry", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CSE 165", "ECE 260A"]}, {"type": "one", "courses": ["CSE 140", "ECE 111"]}]}}
+{"code": "CSE 243A", "title": "Introduction to Synthesis Methodologies in VLSI CAD", "units": "4", "prereqs": null}
+{"code": "CSE 244A", "title": "VLSI Test", "units": "4", "prereqs": null}
+{"code": "CSE 245", "title": "Computer Aided Circuit Simulation and Verification", "units": "4", "prereqs": "CSE 241A"}
+{"code": "CSE 248", "title": "Algorithmic and Optimization Foundations for VLSI CAD", "units": "4", "prereqs": {"type": "one", "courses": ["CSE 241A", "CSE 242A"]}}
+{"code": "CSE 249A", "title": "Topics/Seminar in Computer Architecture", "units": "1\u20134", "prereqs": null}
+{"code": "CSE 249B", "title": "Topics/Seminar in VLSI", "units": "1\u20134", "prereqs": null}
+{"code": "CSE 250A", "title": "Principles of Artificial Intelligence: Probabilistic Reasoning and Learning", "units": "4", "prereqs": null}
+{"code": "CSE 251A", "title": "Principles of Machine Learning: Learning Algorithms", "units": "4", "prereqs": null}
+{"code": "CSE 251B", "title": "Principles of Machine Learning: Neural Networks for Pattern Recognition", "units": "4", "prereqs": null}
+{"code": "CSE 251C", "title": "Principles of Machine Learning: Machine Learning Theory", "units": "4", "prereqs": null}
+{"code": "CSE 252A", "title": "Computer Vision I", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 10D", "MATH 20A", "MATH 20B", "MATH 20C", "MATH 20D", "MATH 20E", "MATH 20F"]}}
+{"code": "CSE 252B", "title": "Computer Vision II", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 10D", "MATH 20A", "MATH 20B", "MATH 20C", "MATH 20D", "MATH 20E", "MATH 20F"]}}
+{"code": "CSE 252C", "title": "Selected Topics in Vision and Learning", "units": "1\u20134", "prereqs": {"type": "all", "courses": ["CSE 252", "CSE 250B"]}}
+{"code": "CSE 252D", "title": "Advanced Computer Vision", "units": "4", "prereqs": null}
+{"code": "CSE 254", "title": "Statistical Learning", "units": "4", "prereqs": null}
+{"code": "CSE 255", "title": "Data Mining and Predictive Analytics", "units": "4", "prereqs": null}
+{"code": "CSE 256", "title": "Statistical Natural Language Processing", "units": "4", "prereqs": null}
+{"code": "CSE 257", "title": "Search and Optimization", "units": "4", "prereqs": null}
+{"code": "CSE 258", "title": "Recommender Systems and Web Mining", "units": "4", "prereqs": null}
+{"code": "CSE 258A", "title": "Cognitive Modeling", "units": "4", "prereqs": null}
+{"code": "CSE 259", "title": "Seminar in Artificial Intelligence", "units": "1", "prereqs": null}
+{"code": "CSE 260", "title": "Parallel Computation", "units": "4", "prereqs": null}
+{"code": "CSE 262", "title": "System Support for Applications of Parallel Computation", "units": "4", "prereqs": null}
+{"code": "CSE 272", "title": "Advanced Image Synthesis", "units": "4", "prereqs": null}
+{"code": "CSE 274", "title": "Selected Topics in Graphics", "units": "2\u20134", "prereqs": null}
+{"code": "CSE 276A", "title": "Introduction to Robotics", "units": "4", "prereqs": null}
+{"code": "CSE 276B", "title": "Human Robot Interaction", "units": "4", "prereqs": null}
+{"code": "CSE 276C", "title": "Mathematics for Robotics", "units": "4", "prereqs": null}
+{"code": "CSE 276D", "title": "Healthcare Robotics", "units": "4", "prereqs": null}
+{"code": "CSE 276E", "title": "Robot Systems Design and Implementation", "units": "4", "prereqs": null}
+{"code": "CSE 280A", "title": "Algorithms in Computational Biology", "units": "4", "prereqs": "CSE 202"}
+{"code": "CSE 282", "title": "Bioinformatics II: Sequence and Structure Analysis\u2014Methods and Applications", "units": "4", "prereqs": null}
+{"code": "CSE 283", "title": "Bioinformatics III: Functional Genomics", "units": "4", "prereqs": {"type": "one", "courses": ["BENG 202", "CSE 282"]}}
+{"code": "CSE 284", "title": "Personal Genomics for Bioinformaticians", "units": "4", "prereqs": null}
+{"code": "CSE 290", "title": "Seminar in Computer Science and Engineering", "units": "1\u20134", "prereqs": null}
+{"code": "CSE 291", "title": "Topics in Computer Science and Engineering", "units": "1\u20134", "prereqs": null}
+{"code": "CSE 292", "title": "Faculty Research Seminar", "units": "1", "prereqs": null}
+{"code": "CSE 293", "title": "Special Project in Computer Science and Engineering", "units": "1\u201312", "prereqs": null}
+{"code": "CSE 294", "title": "Research Meeting in CSE", "units": "2", "prereqs": null}
+{"code": "CSE 298", "title": "Independent Study", "units": "1\u201316", "prereqs": null}
+{"code": "CSE 299", "title": "Research", "units": "1\u201316", "prereqs": null}
+{"code": "CSE 500", "title": "Teaching Assistantship", "units": "2\u20134", "prereqs": null}
+{"code": "CSE 599", "title": "Teaching Methods in Computer Science", "units": "2", "prereqs": null}

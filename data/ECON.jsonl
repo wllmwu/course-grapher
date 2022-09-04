@@ -1,157 +1,157 @@
-{"dept": "ECON", "code": "ECON 1", "title": "Principles of Microeconomics", "units": "4"}
-{"dept": "ECON", "code": "ECON 2", "title": "Market Imperfections and Policy", "units": "4"}
-{"dept": "ECON", "code": "ECON 3", "title": "Principles of Macroeconomics", "units": "4"}
-{"dept": "ECON", "code": "ECON 4", "title": "Financial Accounting", "units": "4"}
-{"dept": "ECON", "code": "ECON 5", "title": "Data Analytics for the Social Sciences", "units": "4"}
-{"dept": "ECON", "code": "ECON 87", "title": "First-year Student Seminar", "units": "1"}
-{"dept": "ECON", "code": "ECON 100A", "title": "Microeconomics A", "units": "4"}
-{"dept": "ECON", "code": "ECON 100B", "title": "Microeconomics B", "units": "4"}
-{"dept": "ECON", "code": "ECON 100C", "title": "Microeconomics C", "units": "4"}
-{"dept": "ECON", "code": "ECON 100AH", "title": "Honors Microeconomics A", "units": "1"}
-{"dept": "ECON", "code": "ECON 100BH", "title": "Honors Microeconomics B", "units": "1"}
-{"dept": "ECON", "code": "ECON 100CH", "title": "Honors Microeconomics C", "units": "1"}
-{"dept": "ECON", "code": "ECON 101", "title": "International Trade", "units": "4"}
-{"dept": "ECON", "code": "ECON 102", "title": "Globalization", "units": "4"}
-{"dept": "ECON", "code": "ECON 102T", "title": "Advanced Topic in Globalization", "units": "2"}
-{"dept": "ECON", "code": "ECON 103", "title": "International Monetary Relations", "units": "4"}
-{"dept": "ECON", "code": "ECON 105", "title": "Industrial Organization and Firm Strategy", "units": "4"}
-{"dept": "ECON", "code": "ECON 106", "title": "International Economic Agreements", "units": "4"}
-{"dept": "ECON", "code": "ECON 107", "title": "Economic Regulation and Antitrust Policy", "units": "4"}
-{"dept": "ECON", "code": "ECON 109", "title": "Game Theory", "units": "4"}
-{"dept": "ECON", "code": "ECON 109T", "title": "Advanced Topics in Game Theory", "units": "2"}
-{"dept": "ECON", "code": "ECON 110A", "title": "Long Run Macroeconomics", "units": "4"}
-{"dept": "ECON", "code": "ECON 110B", "title": "Short Run Macroeconomics", "units": "4"}
-{"dept": "ECON", "code": "ECON 110AH", "title": "Honors Macroeconomics A", "units": "1"}
-{"dept": "ECON", "code": "ECON 110BH", "title": "Honors Macroeconomics B", "units": "1"}
-{"dept": "ECON", "code": "ECON 111", "title": "Monetary Economics", "units": "4"}
-{"dept": "ECON", "code": "ECON 112", "title": "Macroeconomic Data Analysis", "units": "4"}
-{"dept": "ECON", "code": "ECON 113", "title": "Mathematical Economics", "units": "4"}
-{"dept": "ECON", "code": "ECON 116", "title": "Economic Development", "units": "4"}
-{"dept": "ECON", "code": "ECON 117", "title": "Economic Growth", "units": "4"}
-{"dept": "ECON", "code": "ECON 118", "title": "Law and Economics: Torts, Property, and Crime", "units": "4"}
-{"dept": "ECON", "code": "ECON 119", "title": "Law and Economics: Contracts and Corporations", "units": "4"}
-{"dept": "ECON", "code": "ECON 120A", "title": "Econometrics A", "units": "4"}
-{"dept": "ECON", "code": "ECON 120B", "title": "Econometrics B", "units": "4"}
-{"dept": "ECON", "code": "ECON 120C", "title": "Econometrics C", "units": "4"}
-{"dept": "ECON", "code": "ECON 120AH", "title": "Honors Econometrics A", "units": "1"}
-{"dept": "ECON", "code": "ECON 120BH", "title": "Honors Econometrics B", "units": "1"}
-{"dept": "ECON", "code": "ECON 120CH", "title": "Honors Econometrics C", "units": "1"}
-{"dept": "ECON", "code": "ECON 121", "title": "Applied Econometrics and Data Analysis", "units": "4"}
-{"dept": "ECON", "code": "ECON 122", "title": "Econometric Theory", "units": "4"}
-{"dept": "ECON", "code": "ECON 125", "title": "Demographic Analysis and Forecasting", "units": "4"}
-{"dept": "ECON", "code": "ECON 129", "title": "Cities, Inequality, Innovation", "units": "4"}
-{"dept": "ECON", "code": "ECON 130", "title": "Public Policy", "units": "4"}
-{"dept": "ECON", "code": "ECON 131", "title": "Economics of the Environment", "units": "4"}
-{"dept": "ECON", "code": "ECON 132", "title": "Energy Economics", "units": "4"}
-{"dept": "ECON", "code": "ECON 134", "title": "The US Social Safety Net", "units": "4"}
-{"dept": "ECON", "code": "ECON 135", "title": "Urban Economics", "units": "4"}
-{"dept": "ECON", "code": "ECON 136", "title": "Human Resources", "units": "4"}
-{"dept": "ECON", "code": "ECON 137", "title": "Corruption", "units": "4"}
-{"dept": "ECON", "code": "ECON 138", "title": "Economics of Discrimination", "units": "4"}
-{"dept": "ECON", "code": "ECON 139", "title": "Labor Economics", "units": "4"}
-{"dept": "ECON", "code": "ECON 140", "title": "Economics of Health Producers", "units": "4"}
-{"dept": "ECON", "code": "ECON 141", "title": "Economics of Health Consumers", "units": "4"}
-{"dept": "ECON", "code": "ECON 142", "title": "Behavioral Economics", "units": "4"}
-{"dept": "ECON", "code": "ECON 143", "title": "Experimental Economics", "units": "4"}
-{"dept": "ECON", "code": "ECON 144", "title": "Economics of Conservation", "units": "4"}
-{"dept": "ECON", "code": "ECON 145", "title": "Economics of Ocean Resources", "units": "4"}
-{"dept": "ECON", "code": "ECON 146", "title": "Economic Stabilization", "units": "4"}
-{"dept": "ECON", "code": "ECON 147", "title": "Economics of Education", "units": "4"}
-{"dept": "ECON", "code": "ECON 150", "title": "Public Economics: Taxation", "units": "4"}
-{"dept": "ECON", "code": "ECON 151", "title": "Public Economics: Expenditures I", "units": "4"}
-{"dept": "ECON", "code": "ECON 152", "title": "Public Economics: Expenditures II", "units": "4"}
-{"dept": "ECON", "code": "ECON 158", "title": "Economic History of the United States I", "units": "4"}
-{"dept": "ECON", "code": "ECON 159", "title": "Economic History of the United States II", "units": "4"}
-{"dept": "ECON", "code": "ECON 162", "title": "Economics of Mexico", "units": "4"}
-{"dept": "ECON", "code": "ECON 164", "title": "The Indian Economy", "units": "4"}
-{"dept": "ECON", "code": "ECON 164T", "title": "Advanced Topics in the Indian Economy", "units": "2"}
-{"dept": "ECON", "code": "ECON 165", "title": "Middle East Economics", "units": "4"}
-{"dept": "ECON", "code": "ECON 165T", "title": "Advanced Topics in Middle East Economics", "units": "2"}
-{"dept": "ECON", "code": "ECON 167", "title": "Economics of China", "units": "4"}
-{"dept": "ECON", "code": "ECON 168", "title": "Economics of Modern Israel", "units": "4"}
-{"dept": "ECON", "code": "ECON 169", "title": "Economics of Korea", "units": "4"}
-{"dept": "ECON", "code": "ECON 171", "title": "Decisions Under Uncertainty", "units": "4"}
-{"dept": "ECON", "code": "ECON 172A", "title": "Operations Research A", "units": "4"}
-{"dept": "ECON", "code": "ECON 172B", "title": "Operations Research B", "units": "4"}
-{"dept": "ECON", "code": "ECON 173A", "title": "Financial Markets", "units": "4"}
-{"dept": "ECON", "code": "ECON 173B", "title": "Corporate Finance", "units": "4"}
-{"dept": "ECON", "code": "ECON 174", "title": "Financial Risk Management", "units": "4"}
-{"dept": "ECON", "code": "ECON 176", "title": "Marketing", "units": "4"}
-{"dept": "ECON", "code": "ECON 178", "title": "Economic and Business Forecasting", "units": "4"}
-{"dept": "ECON", "code": "ECON 181", "title": "Topics in Economics", "units": "4"}
-{"dept": "ECON", "code": "ECON 182", "title": "Topics in Microeconomics", "units": "4"}
-{"dept": "ECON", "code": "ECON 183", "title": "Topics in Macroeconomics", "units": "4"}
-{"dept": "ECON", "code": "ECON 191A", "title": "Senior Essay Seminar A", "units": "4"}
-{"dept": "ECON", "code": "ECON 191B", "title": "Senior Essay Seminar B", "units": "4"}
-{"dept": "ECON", "code": "ECON 195", "title": "Introduction to Teaching Economics", "units": "4"}
-{"dept": "ECON", "code": "ECON 198", "title": "Directed Group Study", "units": "2 or 4"}
-{"dept": "ECON", "code": "ECON 199", "title": "Independent Study", "units": "2 or 4"}
-{"dept": "ECON", "code": "ECON 200A", "title": "Microeconomics A", "units": "4"}
-{"dept": "ECON", "code": "ECON 200B", "title": "Microeconomics B", "units": "4"}
-{"dept": "ECON", "code": "ECON 200C", "title": "Microeconomics C", "units": "4"}
-{"dept": "ECON", "code": "ECON 201", "title": "Advanced Economic Theory", "units": "4"}
-{"dept": "ECON", "code": "ECON 202A-B-C", "title": ". Workshop in Economic Theory", "units": "0\u20134/0\u20134/0\u20134"}
-{"dept": "ECON", "code": "ECON 204", "title": "Contract Theory", "units": "4"}
-{"dept": "ECON", "code": "ECON 205", "title": "Mathematics for Economists", "units": "4"}
-{"dept": "ECON", "code": "ECON 206", "title": "Decisions", "units": "4"}
-{"dept": "ECON", "code": "ECON 208", "title": "Games and Information", "units": "4"}
-{"dept": "ECON", "code": "ECON 210A", "title": "Macroeconomics A", "units": "4"}
-{"dept": "ECON", "code": "ECON 210B", "title": "Macroeconomics B", "units": "4"}
-{"dept": "ECON", "code": "ECON 210C", "title": "Macroeconomics C", "units": "4"}
-{"dept": "ECON", "code": "ECON 210D", "title": "Monetary Economics and Business Cycles", "units": "4"}
-{"dept": "ECON", "code": "ECON 211", "title": "Advanced Macroeconomics", "units": "4-4-4"}
-{"dept": "ECON", "code": "ECON 212A-B-C", "title": ". Workshop in Macroeconomics", "units": "0\u20134/0\u20134/0\u20134"}
-{"dept": "ECON", "code": "ECON 213", "title": "Advanced Macroeconomic Theory", "units": "4"}
-{"dept": "ECON", "code": "ECON 214", "title": "Applied Macroeconomics", "units": "4"}
-{"dept": "ECON", "code": "ECON 215", "title": "Macroeconomic Policy", "units": "4"}
-{"dept": "ECON", "code": "ECON 216", "title": "Computation for Macroeconomics", "units": "4"}
-{"dept": "ECON", "code": "ECON 217", "title": "Real Frictions and Financial Frictions", "units": "4"}
-{"dept": "ECON", "code": "ECON 219", "title": "Readings in Macroeconomics", "units": "4"}
-{"dept": "ECON", "code": "ECON 220A", "title": "Econometrics A", "units": "4"}
-{"dept": "ECON", "code": "ECON 220B", "title": "Econometrics B", "units": "4"}
-{"dept": "ECON", "code": "ECON 220C", "title": "Econometrics C", "units": "4"}
-{"dept": "ECON", "code": "ECON 220D", "title": "Econometrics D", "units": "4"}
-{"dept": "ECON", "code": "ECON 220E", "title": "Econometrics E", "units": "4"}
-{"dept": "ECON", "code": "ECON 220F", "title": "Econometrics F", "units": "4"}
-{"dept": "ECON", "code": "ECON 221", "title": "Advanced Econometrics", "units": "4"}
-{"dept": "ECON", "code": "ECON 222A-B-C", "title": ". Workshop in Econometrics", "units": "4-4-4"}
-{"dept": "ECON", "code": "ECON 225", "title": "Forecasting", "units": "4"}
-{"dept": "ECON", "code": "ECON 226", "title": "Bayesian and Numerical Methods", "units": "4"}
-{"dept": "ECON", "code": "ECON 227", "title": "Nonparametric and Semiparametric Models", "units": "4"}
-{"dept": "ECON", "code": "ECON 228", "title": "Nonstandard Inference", "units": "4"}
-{"dept": "ECON", "code": "ECON 230", "title": "Public Economics: Taxation", "units": "4"}
-{"dept": "ECON", "code": "ECON 231", "title": "Public Economics: Public Goods and Externalities", "units": "4"}
-{"dept": "ECON", "code": "ECON 232", "title": "Public Economics: Redistribution and Social Insurance", "units": "4"}
-{"dept": "ECON", "code": "ECON 233", "title": "Public Economics of Health Care", "units": "4"}
-{"dept": "ECON", "code": "ECON 235A-B-C", "title": ". Workshop in Applied Economics", "units": "0\u20134/0\u20134/0\u20134"}
-{"dept": "ECON", "code": "ECON 237", "title": "Political Economy: Microeconomic Perspectives", "units": "4"}
-{"dept": "ECON", "code": "ECON 241", "title": "Microeconomics of Development", "units": "4"}
-{"dept": "ECON", "code": "ECON 242", "title": "Macroeconomics of Development", "units": "4"}
-{"dept": "ECON", "code": "ECON 243", "title": "Organizational Economics of Development", "units": "4"}
-{"dept": "ECON", "code": "ECON 245", "title": "International Trade", "units": "4"}
-{"dept": "ECON", "code": "ECON 246", "title": "International Macroeconomics", "units": "4"}
-{"dept": "ECON", "code": "ECON 247", "title": "Empirical Topics in International Economics", "units": "4"}
-{"dept": "ECON", "code": "ECON 249A", "title": "International Development Workshop I", "units": "1\u20134"}
-{"dept": "ECON", "code": "ECON 249C", "title": "International Development Workshop III", "units": "1\u20134"}
-{"dept": "ECON", "code": "ECON 250", "title": "Labor Economics", "units": "4"}
-{"dept": "ECON", "code": "ECON 260", "title": "Industrial Organization: Firms", "units": "4"}
-{"dept": "ECON", "code": "ECON 261", "title": "Industrial Organization: Markets", "units": "4"}
-{"dept": "ECON", "code": "ECON 262", "title": "Behavioral Game Theory", "units": "4"}
-{"dept": "ECON", "code": "ECON 263", "title": "Modeling Behavioral Economics", "units": "4"}
-{"dept": "ECON", "code": "ECON 264", "title": "Experimental Economics", "units": "4"}
-{"dept": "ECON", "code": "ECON 265", "title": "Alternative Choice Theory", "units": "4"}
-{"dept": "ECON", "code": "ECON 266", "title": "Economics of Natural Resources", "units": "4"}
-{"dept": "ECON", "code": "ECON 267", "title": "Topics in Environmental and Resource Economics", "units": "4"}
-{"dept": "ECON", "code": "ECON 268", "title": "Energy and Environmental Economics", "units": "4"}
-{"dept": "ECON", "code": "ECON 270", "title": "Finance\u2014Core Asset Pricing", "units": "4"}
-{"dept": "ECON", "code": "ECON 272", "title": "Finance\u2014Theory and Testing of Intertemporal Asset Pricing Models", "units": "4"}
-{"dept": "ECON", "code": "ECON 280", "title": "Computation", "units": "2"}
-{"dept": "ECON", "code": "ECON 281", "title": "Special Topics in Economics", "units": "4"}
-{"dept": "ECON", "code": "ECON 284", "title": "Becoming an Economist", "units": "2"}
-{"dept": "ECON", "code": "ECON 285", "title": "Precandidacy Presentation", "units": "2"}
-{"dept": "ECON", "code": "ECON 286", "title": "Graduate Research Presentation Workshop", "units": "3"}
-{"dept": "ECON", "code": "ECON 291", "title": "Advanced Field Advising", "units": "4"}
-{"dept": "ECON", "code": "ECON 296", "title": "Original Research Paper", "units": "1\u201312"}
-{"dept": "ECON", "code": "ECON 297", "title": "Independent Study", "units": "1\u20135"}
-{"dept": "ECON", "code": "ECON 299", "title": "Research in Economics for Dissertation", "units": "1\u201312"}
-{"dept": "ECON", "code": "ECON 500A-B-C", "title": ". Teaching Methods in Economics", "units": "4-4-4"}
+{"code": "ECON 1", "title": "Principles of Microeconomics", "units": "4", "prereqs": null}
+{"code": "ECON 2", "title": "Market Imperfections and Policy", "units": "4", "prereqs": "ECON 1"}
+{"code": "ECON 3", "title": "Principles of Macroeconomics", "units": "4", "prereqs": "ECON 1"}
+{"code": "ECON 4", "title": "Financial Accounting", "units": "4", "prereqs": null}
+{"code": "ECON 5", "title": "Data Analytics for the Social Sciences", "units": "4", "prereqs": null}
+{"code": "ECON 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
+{"code": "ECON 100A", "title": "Microeconomics A", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 1", {"type": "one", "courses": ["MATH 10C", "MATH 20C", "MATH 31BH"]}]}}
+{"code": "ECON 100B", "title": "Microeconomics B", "units": "4", "prereqs": "ECON 100A"}
+{"code": "ECON 100C", "title": "Microeconomics C", "units": "4", "prereqs": "ECON 100B"}
+{"code": "ECON 100AH", "title": "Honors Microeconomics A", "units": "1", "prereqs": null}
+{"code": "ECON 100BH", "title": "Honors Microeconomics B", "units": "1", "prereqs": null}
+{"code": "ECON 100CH", "title": "Honors Microeconomics C", "units": "1", "prereqs": null}
+{"code": "ECON 101", "title": "International Trade", "units": "4", "prereqs": {"type": "one", "courses": ["ECON 100B", "ECON 102"]}}
+{"code": "ECON 102", "title": "Globalization", "units": "4", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": [{"type": "one", "courses": ["ECON 1", "ECON 100B"]}, {"type": "one", "courses": ["ECON 2", "ECON 3"]}]}, "MATH 20C"]}}
+{"code": "ECON 102T", "title": "Advanced Topic in Globalization", "units": "2", "prereqs": null}
+{"code": "ECON 103", "title": "International Monetary Relations", "units": "4", "prereqs": {"type": "one", "courses": ["ECON 102", "ECON 110B", "ECON 173A"]}}
+{"code": "ECON 105", "title": "Industrial Organization and Firm Strategy", "units": "4", "prereqs": "ECON 100C"}
+{"code": "ECON 106", "title": "International Economic Agreements", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 100B", "ECON 102"]}}
+{"code": "ECON 107", "title": "Economic Regulation and Antitrust Policy", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["ECON 2", "ECON 100B"]}, {"type": "one", "courses": ["MATH 10C", "MATH 20C", "MATH 31BH"]}]}}
+{"code": "ECON 109", "title": "Game Theory", "units": "4", "prereqs": {"type": "one", "courses": ["ECON 100C", "MATH 31CH", "MATH 109", {"type": "all", "courses": ["CSE 20", "MATH 20"]}]}}
+{"code": "ECON 109T", "title": "Advanced Topics in Game Theory", "units": "2", "prereqs": null}
+{"code": "ECON 110A", "title": "Long Run Macroeconomics", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 1", "ECON 3", {"type": "one", "courses": ["MATH 10C", "MATH 20C", "MATH 31BH"]}]}}
+{"code": "ECON 110B", "title": "Short Run Macroeconomics", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 1", "ECON 3", {"type": "one", "courses": ["MATH 10C", "MATH 20C", "MATH 31BH"]}]}}
+{"code": "ECON 110AH", "title": "Honors Macroeconomics A", "units": "1", "prereqs": null}
+{"code": "ECON 110BH", "title": "Honors Macroeconomics B", "units": "1", "prereqs": null}
+{"code": "ECON 111", "title": "Monetary Economics", "units": "4", "prereqs": "ECON 110B"}
+{"code": "ECON 112", "title": "Macroeconomic Data Analysis", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 110B", {"type": "one", "courses": ["ECON 120B", "MATH 181B"]}]}}
+{"code": "ECON 113", "title": "Mathematical Economics", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["ECON 100C", "MATH 140A", "MATH 142A"]}, {"type": "one", "courses": ["MATH 18", "MATH 31AH"]}]}}
+{"code": "ECON 116", "title": "Economic Development", "units": "4", "prereqs": {"type": "one", "courses": ["ECON 2", "ECON 100B"]}}
+{"code": "ECON 117", "title": "Economic Growth", "units": "4", "prereqs": "ECON 100A"}
+{"code": "ECON 118", "title": "Law and Economics: Torts, Property, and Crime", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["ECON 2", "ECON 100A"]}, {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}]}}
+{"code": "ECON 119", "title": "Law and Economics: Contracts and Corporations", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["ECON 2", "ECON 100A"]}, {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}]}}
+{"code": "ECON 120A", "title": "Econometrics A", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 1", {"type": "one", "courses": ["MATH 10C", "MATH 20C", "MATH 31BH"]}]}}
+{"code": "ECON 120B", "title": "Econometrics B", "units": "4", "prereqs": {"type": "one", "courses": ["ECON 120A", "ECE 109", "MAE 108", "MATH 180A", "MATH 183", "MATH 186"]}}
+{"code": "ECON 120C", "title": "Econometrics C", "units": "4", "prereqs": {"type": "one", "courses": ["ECON 120B", "MATH 181B"]}}
+{"code": "ECON 120AH", "title": "Honors Econometrics A", "units": "1", "prereqs": null}
+{"code": "ECON 120BH", "title": "Honors Econometrics B", "units": "1", "prereqs": null}
+{"code": "ECON 120CH", "title": "Honors Econometrics C", "units": "1", "prereqs": null}
+{"code": "ECON 121", "title": "Applied Econometrics and Data Analysis", "units": "4", "prereqs": "ECON 120C"}
+{"code": "ECON 122", "title": "Econometric Theory", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["ECON 120B", "MATH 181B"]}, {"type": "one", "courses": ["MATH 18", "MATH 31AH"]}]}}
+{"code": "ECON 125", "title": "Demographic Analysis and Forecasting", "units": "4", "prereqs": {"type": "one", "courses": ["ECON 120B", "MATH 181B"]}}
+{"code": "ECON 129", "title": "Cities, Inequality, Innovation", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 110A", {"type": "one", "courses": ["ECON 120A", "ECE 109", "MAE 108", "MATH 180A", "MATH 183", "MATH 186"]}]}}
+{"code": "ECON 130", "title": "Public Policy", "units": "4", "prereqs": {"type": "one", "courses": ["ECON 2", "ECON 100A"]}}
+{"code": "ECON 131", "title": "Economics of the Environment", "units": "4", "prereqs": {"type": "one", "courses": ["ECON 2", "ECON 100A"]}}
+{"code": "ECON 132", "title": "Energy Economics", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 1", {"type": "one", "courses": ["ECON 2", "ECON 3", "ECON 100A", "ECON 131", "ESYS 103", "MAE 124"]}, {"type": "one", "courses": ["MATH 10C", "MATH 20C", "MATH 31BH"]}]}}
+{"code": "ECON 134", "title": "The US Social Safety Net", "units": "4", "prereqs": "ECON 100A"}
+{"code": "ECON 135", "title": "Urban Economics", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["ECON 2", "ECON 100A"]}, {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}]}}
+{"code": "ECON 136", "title": "Human Resources", "units": "4", "prereqs": "ECON 100B"}
+{"code": "ECON 137", "title": "Corruption", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 100C", "ECON 120C"]}}
+{"code": "ECON 138", "title": "Economics of Discrimination", "units": "4", "prereqs": "ECON 1"}
+{"code": "ECON 139", "title": "Labor Economics", "units": "4", "prereqs": {"type": "one", "courses": ["ECON 2", "ECON 100B"]}}
+{"code": "ECON 140", "title": "Economics of Health Producers", "units": "4", "prereqs": {"type": "one", "courses": ["ECON 2", "ECON 100B"]}}
+{"code": "ECON 141", "title": "Economics of Health Consumers", "units": "4", "prereqs": "ECON 100C"}
+{"code": "ECON 142", "title": "Behavioral Economics", "units": "4", "prereqs": "ECON 109"}
+{"code": "ECON 143", "title": "Experimental Economics", "units": "4", "prereqs": "ECON 100C"}
+{"code": "ECON 144", "title": "Economics of Conservation", "units": "4", "prereqs": {"type": "one", "courses": ["ECON 2", "ECON 100A"]}}
+{"code": "ECON 145", "title": "Economics of Ocean Resources", "units": "4", "prereqs": {"type": "one", "courses": ["ECON 2", "ECON 100A"]}}
+{"code": "ECON 146", "title": "Economic Stabilization", "units": "4", "prereqs": "ECON 110B"}
+{"code": "ECON 147", "title": "Economics of Education", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["ECON 2", "ECON 100A"]}, {"type": "one", "courses": ["ECON 120B", "MATH 181B"]}]}}
+{"code": "ECON 150", "title": "Public Economics: Taxation", "units": "4", "prereqs": "ECON 100C"}
+{"code": "ECON 151", "title": "Public Economics: Expenditures I", "units": "4", "prereqs": "ECON 100C"}
+{"code": "ECON 152", "title": "Public Economics: Expenditures II", "units": "4", "prereqs": "ECON 100C"}
+{"code": "ECON 158", "title": "Economic History of the United States I", "units": "4", "prereqs": null}
+{"code": "ECON 159", "title": "Economic History of the United States II", "units": "4", "prereqs": null}
+{"code": "ECON 162", "title": "Economics of Mexico", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 1", "ECON 3"]}}
+{"code": "ECON 164", "title": "The Indian Economy", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 1", "ECON 3"]}}
+{"code": "ECON 164T", "title": "Advanced Topics in the Indian Economy", "units": "2", "prereqs": null}
+{"code": "ECON 165", "title": "Middle East Economics", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 1", "ECON 3"]}}
+{"code": "ECON 165T", "title": "Advanced Topics in Middle East Economics", "units": "2", "prereqs": null}
+{"code": "ECON 167", "title": "Economics of China", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 1", "ECON 3"]}}
+{"code": "ECON 168", "title": "Economics of Modern Israel", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 1", "ECON 3"]}}
+{"code": "ECON 169", "title": "Economics of Korea", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 3", "ECON 100A"]}}
+{"code": "ECON 171", "title": "Decisions Under Uncertainty", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 100A", {"type": "one", "courses": ["ECON 120A", "ECE 109", "MATH 180A", "MATH 183", "MATH 186"]}]}}
+{"code": "ECON 172A", "title": "Operations Research A", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 100A", {"type": "one", "courses": ["ECON 120A", "ECE 109", "MATH 180A", "MATH 183", "MATH 186"]}, {"type": "one", "courses": ["MATH 18", "MATH 31AH"]}]}}
+{"code": "ECON 172B", "title": "Operations Research B", "units": "4", "prereqs": {"type": "one", "courses": ["ECON 172A", "MATH 171A"]}}
+{"code": "ECON 173A", "title": "Financial Markets", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 100A", {"type": "one", "courses": ["ECON 120B", "MATH 181B"]}, {"type": "one", "courses": ["MATH 18", "MATH 31AH"]}]}}
+{"code": "ECON 173B", "title": "Corporate Finance", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["ECON 4", "MGT 4"]}, "ECON 173A"]}}
+{"code": "ECON 174", "title": "Financial Risk Management", "units": "4", "prereqs": "ECON 173A"}
+{"code": "ECON 176", "title": "Marketing", "units": "4", "prereqs": "ECON 120C"}
+{"code": "ECON 178", "title": "Economic and Business Forecasting", "units": "4", "prereqs": "ECON 120C"}
+{"code": "ECON 181", "title": "Topics in Economics", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 1", "ECON 3"]}}
+{"code": "ECON 182", "title": "Topics in Microeconomics", "units": "4", "prereqs": "ECON 100C"}
+{"code": "ECON 183", "title": "Topics in Macroeconomics", "units": "4", "prereqs": "ECON 110B"}
+{"code": "ECON 191A", "title": "Senior Essay Seminar A", "units": "4", "prereqs": null}
+{"code": "ECON 191B", "title": "Senior Essay Seminar B", "units": "4", "prereqs": null}
+{"code": "ECON 195", "title": "Introduction to Teaching Economics", "units": "4", "prereqs": null}
+{"code": "ECON 198", "title": "Directed Group Study", "units": "2 or 4", "prereqs": null}
+{"code": "ECON 199", "title": "Independent Study", "units": "2 or 4", "prereqs": null}
+{"code": "ECON 200A", "title": "Microeconomics A", "units": "4", "prereqs": null}
+{"code": "ECON 200B", "title": "Microeconomics B", "units": "4", "prereqs": "ECON 200A"}
+{"code": "ECON 200C", "title": "Microeconomics C", "units": "4", "prereqs": "ECON 200B"}
+{"code": "ECON 201", "title": "Advanced Economic Theory", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 207", "ECON 213"]}}
+{"code": "ECON 202A-B-C", "title": ". Workshop in Economic Theory", "units": "0\u20134/0\u20134/0\u20134", "prereqs": "ECON 207"}
+{"code": "ECON 204", "title": "Contract Theory", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 200A", "ECON 200B", "ECON 200C"]}}
+{"code": "ECON 205", "title": "Mathematics for Economists", "units": "4", "prereqs": null}
+{"code": "ECON 206", "title": "Decisions", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 200A", "ECON 200B", "ECON 200C"]}}
+{"code": "ECON 208", "title": "Games and Information", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 200A", "ECON 200B", "ECON 200C"]}}
+{"code": "ECON 210A", "title": "Macroeconomics A", "units": "4", "prereqs": null}
+{"code": "ECON 210B", "title": "Macroeconomics B", "units": "4", "prereqs": "ECON 210A"}
+{"code": "ECON 210C", "title": "Macroeconomics C", "units": "4", "prereqs": "ECON 210B"}
+{"code": "ECON 210D", "title": "Monetary Economics and Business Cycles", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 210A", "ECON 210B", "ECON 210C"]}}
+{"code": "ECON 211", "title": "Advanced Macroeconomics", "units": "4-4-4", "prereqs": {"type": "all", "courses": ["ECON 210A", "ECON 210B", "ECON 210C"]}}
+{"code": "ECON 212A-B-C", "title": ". Workshop in Macroeconomics", "units": "0\u20134/0\u20134/0\u20134", "prereqs": "ECON 210C"}
+{"code": "ECON 213", "title": "Advanced Macroeconomic Theory", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 210A", "ECON 210B", "ECON 210C"]}}
+{"code": "ECON 214", "title": "Applied Macroeconomics", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 210A", "ECON 210B", "ECON 210C"]}}
+{"code": "ECON 215", "title": "Macroeconomic Policy", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 210A", "ECON 210B", "ECON 210C"]}}
+{"code": "ECON 216", "title": "Computation for Macroeconomics", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 210A", "ECON 210B", "ECON 210C"]}}
+{"code": "ECON 217", "title": "Real Frictions and Financial Frictions", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 210A", "ECON 210B", "ECON 210C"]}}
+{"code": "ECON 219", "title": "Readings in Macroeconomics", "units": "4", "prereqs": null}
+{"code": "ECON 220A", "title": "Econometrics A", "units": "4", "prereqs": null}
+{"code": "ECON 220B", "title": "Econometrics B", "units": "4", "prereqs": "ECON 220A"}
+{"code": "ECON 220C", "title": "Econometrics C", "units": "4", "prereqs": "ECON 220B"}
+{"code": "ECON 220D", "title": "Econometrics D", "units": "4", "prereqs": "ECON 220C"}
+{"code": "ECON 220E", "title": "Econometrics E", "units": "4", "prereqs": "ECON 220D"}
+{"code": "ECON 220F", "title": "Econometrics F", "units": "4", "prereqs": "ECON 220E"}
+{"code": "ECON 221", "title": "Advanced Econometrics", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 220A", "ECON 220B", "ECON 220C", "ECON 220D", "ECON 220E"]}}
+{"code": "ECON 222A-B-C", "title": ". Workshop in Econometrics", "units": "4-4-4", "prereqs": null}
+{"code": "ECON 225", "title": "Forecasting", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 220A", "ECON 220B", "ECON 220C", "ECON 220D", "ECON 220E"]}}
+{"code": "ECON 226", "title": "Bayesian and Numerical Methods", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 220A", "ECON 220B", "ECON 220C", "ECON 220D", "ECON 220E"]}}
+{"code": "ECON 227", "title": "Nonparametric and Semiparametric Models", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 220A", "ECON 220B", "ECON 220C", "ECON 220D", "ECON 220E"]}}
+{"code": "ECON 228", "title": "Nonstandard Inference", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 220A", "ECON 220B", "ECON 220C", "ECON 220D", "ECON 220E"]}}
+{"code": "ECON 230", "title": "Public Economics: Taxation", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 200A", "ECON 200B", "ECON 200C", "ECON 220A", "ECON 220B", "ECON 220C"]}}
+{"code": "ECON 231", "title": "Public Economics: Public Goods and Externalities", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 200A", "ECON 200B", "ECON 200C", "ECON 220A", "ECON 220B", "ECON 220C"]}}
+{"code": "ECON 232", "title": "Public Economics: Redistribution and Social Insurance", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 200A", "ECON 200B", "ECON 200C", "ECON 220A", "ECON 220B", "ECON 220C"]}}
+{"code": "ECON 233", "title": "Public Economics of Health Care", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 200A", "ECON 200B", "ECON 200C", "ECON 220A", "ECON 220B", "ECON 220C"]}}
+{"code": "ECON 235A-B-C", "title": ". Workshop in Applied Economics", "units": "0\u20134/0\u20134/0\u20134", "prereqs": null}
+{"code": "ECON 237", "title": "Political Economy: Microeconomic Perspectives", "units": "4", "prereqs": null}
+{"code": "ECON 241", "title": "Microeconomics of Development", "units": "4", "prereqs": null}
+{"code": "ECON 242", "title": "Macroeconomics of Development", "units": "4", "prereqs": null}
+{"code": "ECON 243", "title": "Organizational Economics of Development", "units": "4", "prereqs": null}
+{"code": "ECON 245", "title": "International Trade", "units": "4", "prereqs": null}
+{"code": "ECON 246", "title": "International Macroeconomics", "units": "4", "prereqs": null}
+{"code": "ECON 247", "title": "Empirical Topics in International Economics", "units": "4", "prereqs": null}
+{"code": "ECON 249A", "title": "International Development Workshop I", "units": "1\u20134", "prereqs": null}
+{"code": "ECON 249C", "title": "International Development Workshop III", "units": "1\u20134", "prereqs": null}
+{"code": "ECON 250", "title": "Labor Economics", "units": "4", "prereqs": null}
+{"code": "ECON 260", "title": "Industrial Organization: Firms", "units": "4", "prereqs": "ECON 220C"}
+{"code": "ECON 261", "title": "Industrial Organization: Markets", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 200C", "ECON 220C"]}}
+{"code": "ECON 262", "title": "Behavioral Game Theory", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 200A", "ECON 200B", "ECON 200C"]}}
+{"code": "ECON 263", "title": "Modeling Behavioral Economics", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 200A", "ECON 200B", "ECON 200C"]}}
+{"code": "ECON 264", "title": "Experimental Economics", "units": "4", "prereqs": null}
+{"code": "ECON 265", "title": "Alternative Choice Theory", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 200A", "ECON 200B", "ECON 200C"]}}
+{"code": "ECON 266", "title": "Economics of Natural Resources", "units": "4", "prereqs": null}
+{"code": "ECON 267", "title": "Topics in Environmental and Resource Economics", "units": "4", "prereqs": null}
+{"code": "ECON 268", "title": "Energy and Environmental Economics", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 200A", "ECON 200B", "ECON 200C"]}}
+{"code": "ECON 270", "title": "Finance\u2014Core Asset Pricing", "units": "4", "prereqs": null}
+{"code": "ECON 272", "title": "Finance\u2014Theory and Testing of Intertemporal Asset Pricing Models", "units": "4", "prereqs": null}
+{"code": "ECON 280", "title": "Computation", "units": "2", "prereqs": null}
+{"code": "ECON 281", "title": "Special Topics in Economics", "units": "4", "prereqs": null}
+{"code": "ECON 284", "title": "Becoming an Economist", "units": "2", "prereqs": null}
+{"code": "ECON 285", "title": "Precandidacy Presentation", "units": "2", "prereqs": null}
+{"code": "ECON 286", "title": "Graduate Research Presentation Workshop", "units": "3", "prereqs": "ECON 285"}
+{"code": "ECON 291", "title": "Advanced Field Advising", "units": "4", "prereqs": null}
+{"code": "ECON 296", "title": "Original Research Paper", "units": "1\u201312", "prereqs": null}
+{"code": "ECON 297", "title": "Independent Study", "units": "1\u20135", "prereqs": null}
+{"code": "ECON 299", "title": "Research in Economics for Dissertation", "units": "1\u201312", "prereqs": null}
+{"code": "ECON 500A-B-C", "title": ". Teaching Methods in Economics", "units": "4-4-4", "prereqs": null}

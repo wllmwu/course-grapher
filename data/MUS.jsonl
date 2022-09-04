@@ -1,133 +1,133 @@
-{"dept": "MUS", "code": "MUS 1A", "title": "Fundamentals of Music A", "units": "4"}
-{"dept": "MUS", "code": "MUS 1B", "title": "Fundamentals of Music B", "units": "4"}
-{"dept": "MUS", "code": "MUS 1C", "title": "Fundamentals of Music C", "units": "4"}
-{"dept": "MUS", "code": "MUS 2A-B-C", "title": ". Basic Musicianship", "units": "4-4-4"}
-{"dept": "MUS", "code": "MUS 2AK-BK-CK", "title": ". Basic Keyboard", "units": "2-2-2"}
-{"dept": "MUS", "code": "MUS 2JK", "title": "Jazz Keyboard", "units": "2"}
-{"dept": "MUS", "code": "MUS 4", "title": "Introduction to Western Music", "units": "4"}
-{"dept": "MUS", "code": "MUS 5", "title": "Sound in Time", "units": "4"}
-{"dept": "MUS", "code": "MUS 6", "title": "Electronic Music", "units": "4"}
-{"dept": "MUS", "code": "MUS 7", "title": "Music, Science, and Computers", "units": "4"}
-{"dept": "MUS", "code": "MUS 8", "title": "American Music: Jazz Cultures", "units": "4"}
-{"dept": "MUS", "code": "MUS 9", "title": "Symphony", "units": "4"}
-{"dept": "MUS", "code": "MUS 11", "title": "Folk Music", "units": "4"}
-{"dept": "MUS", "code": "MUS 12", "title": "Opera", "units": "4"}
-{"dept": "MUS", "code": "MUS 13", "title": "Worlds of Music", "units": "4"}
-{"dept": "MUS", "code": "MUS 14", "title": "Contemporary Music", "units": "4"}
-{"dept": "MUS", "code": "MUS 15", "title": "Popular Music", "units": "4"}
-{"dept": "MUS", "code": "MUS 16", "title": "The Beatles", "units": "4"}
-{"dept": "MUS", "code": "MUS 17", "title": "Hip-Hop", "units": "4"}
-{"dept": "MUS", "code": "MUS 18", "title": "Klezmer Music", "units": "4"}
-{"dept": "MUS", "code": "MUS 19", "title": "Blacktronika: Afrofuturism in Electronic Music", "units": "4"}
-{"dept": "MUS", "code": "MUS 20", "title": "Exploring the Musical Mind", "units": "4"}
-{"dept": "MUS", "code": "MUS 32", "title": "Instrumental/Vocal Instruction", "units": "2"}
-{"dept": "MUS", "code": "MUS 32G", "title": "Group Instrumental Instruction", "units": "2"}
-{"dept": "MUS", "code": "MUS 32V", "title": "Vocal Instruction", "units": "1"}
-{"dept": "MUS", "code": "MUS 32VM", "title": "Vocal Master Class", "units": "1"}
-{"dept": "MUS", "code": "MUS 33A", "title": "Introduction to Composition I", "units": "4"}
-{"dept": "MUS", "code": "MUS 33B", "title": "Introduction to Composition II", "units": "4"}
-{"dept": "MUS", "code": "MUS 33C", "title": "Introduction to Composition III", "units": "4"}
-{"dept": "MUS", "code": "MUS 43", "title": "Department Seminar", "units": "1"}
-{"dept": "MUS", "code": "MUS 80", "title": "Special Topics in Music", "units": "1\u20134 "}
-{"dept": "MUS", "code": "MUS 87", "title": "First-year Student Seminar", "units": "1"}
-{"dept": "MUS", "code": "MUS 95", "title": "Ensemble Performance", "units": "2"}
-{"dept": "MUS", "code": "MUS 101A", "title": "Music Theory and Practice I", "units": "4"}
-{"dept": "MUS", "code": "MUS 101B", "title": "Music Theory and Practice II", "units": "4"}
-{"dept": "MUS", "code": "MUS 101C", "title": "Music Theory and Practice III", "units": "4"}
-{"dept": "MUS", "code": "MUS 102", "title": "Topics in Music Theory", "units": "4"}
-{"dept": "MUS", "code": "MUS 103A", "title": "Seminar in Composition I", "units": "4"}
-{"dept": "MUS", "code": "MUS 103B", "title": "Seminar in Composition II", "units": "4"}
-{"dept": "MUS", "code": "MUS 103C", "title": "Seminar in Composition III", "units": "4"}
-{"dept": "MUS", "code": "MUS 103D-E-F", "title": ". Honors Seminar in Composition", "units": "4-4-4"}
-{"dept": "MUS", "code": "MUS 105", "title": "Jazz Composition", "units": "4"}
-{"dept": "MUS", "code": "MUS 106", "title": "Topics in Musical Analysis", "units": "4"}
-{"dept": "MUS", "code": "MUS 107", "title": "Critical Studies Seminar", "units": "4"}
-{"dept": "MUS", "code": "MUS 110", "title": "Introduction to Ethnomusicology Seminar", "units": "4"}
-{"dept": "MUS", "code": "MUS 111", "title": "Topics/World Music Traditions", "units": "4"}
-{"dept": "MUS", "code": "MUS 112", "title": "Topics in European Music Before 1750", "units": "4"}
-{"dept": "MUS", "code": "MUS 113", "title": "Topics in Classic, Romantic, and Modern Music", "units": "4"}
-{"dept": "MUS", "code": "MUS 114", "title": "Music of the Twentieth Century", "units": "4"}
-{"dept": "MUS", "code": "MUS 115", "title": "Women in Music", "units": "4"}
-{"dept": "MUS", "code": "MUS 116", "title": "Popular Music Studies Seminar", "units": "4"}
-{"dept": "MUS", "code": "MUS 120A", "title": "History of Music in Western Culture I", "units": "4"}
-{"dept": "MUS", "code": "MUS 120B", "title": "History of Music in Western Culture II", "units": "4"}
-{"dept": "MUS", "code": "MUS 120C", "title": "History of Music in Western Culture III", "units": "4"}
-{"dept": "MUS", "code": "MUS 126", "title": "Blues: An Oral Tradition", "units": "4"}
-{"dept": "MUS", "code": "MUS 127", "title": "Discover Jazz", "units": "4"}
-{"dept": "MUS", "code": "MUS 128", "title": "Principles and Practice of Conducting", "units": "4"}
-{"dept": "MUS", "code": "MUS 130", "title": "Chamber Music Performance", "units": "2\u20134/0"}
-{"dept": "MUS", "code": "MUS 131", "title": "Advanced Improvisation Performance", "units": "4/0"}
-{"dept": "MUS", "code": "MUS 132", "title": "Proseminar in Music Performance", "units": "4"}
-{"dept": "MUS", "code": "MUS 132C", "title": "Vocal Coaching", "units": "4"}
-{"dept": "MUS", "code": "MUS 132R", "title": "Recital Preparation", "units": "4"}
-{"dept": "MUS", "code": "MUS 132V", "title": "Proseminar in Vocal Instruction", "units": "4"}
-{"dept": "MUS", "code": "MUS 133", "title": "Projects in New Music Performance", "units": "4"}
-{"dept": "MUS", "code": "MUS 134", "title": "Symphonic Orchestra", "units": "4"}
-{"dept": "MUS", "code": "MUS 137A", "title": "Jazz Theory and Improvisation", "units": "4"}
-{"dept": "MUS", "code": "MUS 137B", "title": "Jazz Theory and Improvisation", "units": "4"}
-{"dept": "MUS", "code": "MUS 137C", "title": "Jazz Theory and Improvisation", "units": "4"}
-{"dept": "MUS", "code": "MUS 137D", "title": "Seminar in Jazz Studies I", "units": "4"}
-{"dept": "MUS", "code": "MUS 137E", "title": "Seminar in Jazz Studies II", "units": "4"}
-{"dept": "MUS", "code": "MUS 137F", "title": "Seminar in Jazz Studies III", "units": "4"}
-{"dept": "MUS", "code": "MUS 143", "title": "Department Seminar", "units": "1"}
-{"dept": "MUS", "code": "MUS 150", "title": "Jazz and the Music of the African Diaspora: Special Topics Seminar", "units": "4"}
-{"dept": "MUS", "code": "MUS 151", "title": "Race, Culture, and Social Change", "units": "4"}
-{"dept": "MUS", "code": "MUS 152", "title": "Hip Hop: The Politics of Culture", "units": "4"}
-{"dept": "MUS", "code": "MUS 153", "title": "African Americans and the Mass Media", "units": "4"}
-{"dept": "MUS", "code": "MUS 160A", "title": "Senior Project in Computing Arts I", "units": "4"}
-{"dept": "MUS", "code": "MUS 160B", "title": "Senior Project in Computing Arts II", "units": "4"}
-{"dept": "MUS", "code": "MUS 170", "title": "Musical Acoustics", "units": "4"}
-{"dept": "MUS", "code": "MUS 171", "title": "Computer Music I", "units": "4"}
-{"dept": "MUS", "code": "MUS 172", "title": "Computer Music II", "units": "4"}
-{"dept": "MUS", "code": "MUS 173", "title": "Electronic Music Production and Composition", "units": "4"}
-{"dept": "MUS", "code": "MUS 174A", "title": "Audio/MlDI Studio Techniques I", "units": "4"}
-{"dept": "MUS", "code": "MUS 174B", "title": "Audio/MlDI Studio Techniques II", "units": "4"}
-{"dept": "MUS", "code": "MUS 174C", "title": "Audio/MlDI Studio Techniques III", "units": "4"}
-{"dept": "MUS", "code": "MUS 175", "title": "Musical Psychoacoustics", "units": "4"}
-{"dept": "MUS", "code": "MUS 176", "title": "Music Technology Seminar", "units": "4"}
-{"dept": "MUS", "code": "MUS 177", "title": "Music Programming", "units": "4"}
-{"dept": "MUS", "code": "MUS 192", "title": "Senior Seminar in Music", "units": "1"}
-{"dept": "MUS", "code": "MUS 195", "title": "Instructional Assistance", "units": "2"}
-{"dept": "MUS", "code": "MUS 198", "title": "Directed Group Study", "units": "1\u20134"}
-{"dept": "MUS", "code": "MUS 199", "title": "Independent Study", "units": "1\u20134"}
-{"dept": "MUS", "code": "MUS 200", "title": "Contemporary Chamber Opera Performance", "units": "4"}
-{"dept": "MUS", "code": "MUS 201A-B-C-D-E-F", "title": ". Projects in New Music Performance", "units": "1\u20134, 1\u20134, 1\u20134, 1\u20134, 1\u20134, 1\u20134"}
-{"dept": "MUS", "code": "MUS 202", "title": "Advanced Projects in Performance", "units": "1\u20134"}
-{"dept": "MUS", "code": "MUS 203A", "title": "Advanced Projects in Composition", "units": "6"}
-{"dept": "MUS", "code": "MUS 203B", "title": "Advanced Projects in Composition", "units": "6"}
-{"dept": "MUS", "code": "MUS 203C", "title": "Advanced Projects in Composition", "units": "6"}
-{"dept": "MUS", "code": "MUS 203D", "title": "Advanced Projects in Composition", "units": "1\u20134"}
-{"dept": "MUS", "code": "MUS 204", "title": "Focus on Composition", "units": "2"}
-{"dept": "MUS", "code": "MUS 205", "title": "Focus on Integrative Studies", "units": "2"}
-{"dept": "MUS", "code": "MUS 206", "title": "Experimental Studies Seminar", "units": "4"}
-{"dept": "MUS", "code": "MUS 207", "title": "Theoretical Studies Seminar", "units": "4"}
-{"dept": "MUS", "code": "MUS 209", "title": "Advanced Music Theory and Practice", "units": "4"}
-{"dept": "MUS", "code": "MUS 210", "title": "Musical Analysis", "units": "4"}
-{"dept": "MUS", "code": "MUS 211", "title": "Introduction to Ethnomusicology", "units": "2"}
-{"dept": "MUS", "code": "MUS 212", "title": "Introduction to System Inquiry", "units": "2"}
-{"dept": "MUS", "code": "MUS 213", "title": "Introduction to Critical Studies", "units": "2"}
-{"dept": "MUS", "code": "MUS 214", "title": "Introduction to Creative Practices", "units": "2"}
-{"dept": "MUS", "code": "MUS 228", "title": "Conducting", "units": "4"}
-{"dept": "MUS", "code": "MUS 229", "title": "Seminar in Orchestration", "units": "4"}
-{"dept": "MUS", "code": "MUS 230", "title": "Chamber Music Performance", "units": "4"}
-{"dept": "MUS", "code": "MUS 232", "title": "Proseminar in Music Performance", "units": "1\u20134"}
-{"dept": "MUS", "code": "MUS 234", "title": "Symphonic Orchestra", "units": "4"}
-{"dept": "MUS", "code": "MUS 245", "title": "Focus on Performance", "units": "2"}
-{"dept": "MUS", "code": "MUS 251", "title": "Integrative Studies Seminar in Ethnomusicology", "units": "4"}
-{"dept": "MUS", "code": "MUS 252", "title": "Integrative Studies Seminar in Systems Inquiry", "units": "4"}
-{"dept": "MUS", "code": "MUS 253", "title": "Integrative Studies Seminar in Critical Studies", "units": "4"}
-{"dept": "MUS", "code": "MUS 254", "title": "Integrative Studies Seminar in Creative Practice", "units": "4"}
-{"dept": "MUS", "code": "MUS 267", "title": "Advanced Music Technology Seminar", "units": "4"}
-{"dept": "MUS", "code": "MUS 270A", "title": "Digital Audio Processing", "units": "4"}
-{"dept": "MUS", "code": "MUS 270B", "title": "Musical Cognitive Science", "units": "4"}
-{"dept": "MUS", "code": "MUS 270C", "title": "Compositional Algorithms", "units": "4"}
-{"dept": "MUS", "code": "MUS 270D", "title": "Advanced Projects in Computer Music", "units": "4"}
-{"dept": "MUS", "code": "MUS 271A", "title": "Survey of Electronic Music Techniques I", "units": "4"}
-{"dept": "MUS", "code": "MUS 271B", "title": "Survey of Electronic Music Techniques II", "units": "4"}
-{"dept": "MUS", "code": "MUS 271C", "title": "Survey of Electronic Music Techniques III", "units": "4"}
-{"dept": "MUS", "code": "MUS 272", "title": "Seminar in Live Computer Music", "units": "4"}
-{"dept": "MUS", "code": "MUS 296", "title": "Directed Group Research in Performance", "units": "4"}
-{"dept": "MUS", "code": "MUS 298", "title": "Directed Research", "units": "1\u20134"}
-{"dept": "MUS", "code": "MUS 299", "title": "Advanced Research Projects and Independent Study", "units": "1\u201312"}
-{"dept": "MUS", "code": "MUS 500", "title": "Apprentice Teaching", "units": "1\u20134"}
-{"dept": "MUS", "code": "MUS 501", "title": "Apprentice Teaching\u2014Nondepartmental", "units": "4"}
+{"code": "MUS 1A", "title": "Fundamentals of Music A", "units": "4", "prereqs": null}
+{"code": "MUS 1B", "title": "Fundamentals of Music B", "units": "4", "prereqs": "MUS 1A"}
+{"code": "MUS 1C", "title": "Fundamentals of Music C", "units": "4", "prereqs": "MUS 1B"}
+{"code": "MUS 2A-B-C", "title": ". Basic Musicianship", "units": "4-4-4", "prereqs": null}
+{"code": "MUS 2AK-BK-CK", "title": ". Basic Keyboard", "units": "2-2-2", "prereqs": {"type": "all", "courses": ["MUS 2A", "MUS 2B", "MUS 2C"]}}
+{"code": "MUS 2JK", "title": "Jazz Keyboard", "units": "2", "prereqs": {"type": "all", "courses": ["MUS 2AK", "MUS 2BK"]}}
+{"code": "MUS 4", "title": "Introduction to Western Music", "units": "4", "prereqs": null}
+{"code": "MUS 5", "title": "Sound in Time", "units": "4", "prereqs": null}
+{"code": "MUS 6", "title": "Electronic Music", "units": "4", "prereqs": null}
+{"code": "MUS 7", "title": "Music, Science, and Computers", "units": "4", "prereqs": null}
+{"code": "MUS 8", "title": "American Music: Jazz Cultures", "units": "4", "prereqs": null}
+{"code": "MUS 9", "title": "Symphony", "units": "4", "prereqs": null}
+{"code": "MUS 11", "title": "Folk Music", "units": "4", "prereqs": null}
+{"code": "MUS 12", "title": "Opera", "units": "4", "prereqs": null}
+{"code": "MUS 13", "title": "Worlds of Music", "units": "4", "prereqs": null}
+{"code": "MUS 14", "title": "Contemporary Music", "units": "4", "prereqs": null}
+{"code": "MUS 15", "title": "Popular Music", "units": "4", "prereqs": null}
+{"code": "MUS 16", "title": "The Beatles", "units": "4", "prereqs": null}
+{"code": "MUS 17", "title": "Hip-Hop", "units": "4", "prereqs": null}
+{"code": "MUS 18", "title": "Klezmer Music", "units": "4", "prereqs": null}
+{"code": "MUS 19", "title": "Blacktronika: Afrofuturism in Electronic Music", "units": "4", "prereqs": null}
+{"code": "MUS 20", "title": "Exploring the Musical Mind", "units": "4", "prereqs": null}
+{"code": "MUS 32", "title": "Instrumental/Vocal Instruction", "units": "2", "prereqs": null}
+{"code": "MUS 32G", "title": "Group Instrumental Instruction", "units": "2", "prereqs": null}
+{"code": "MUS 32V", "title": "Vocal Instruction", "units": "1", "prereqs": null}
+{"code": "MUS 32VM", "title": "Vocal Master Class", "units": "1", "prereqs": {"type": "one", "courses": ["MUS 32V", "MUS 132V", "MUS 132C"]}}
+{"code": "MUS 33A", "title": "Introduction to Composition I", "units": "4", "prereqs": "MUS 2C"}
+{"code": "MUS 33B", "title": "Introduction to Composition II", "units": "4", "prereqs": "MUS 33A"}
+{"code": "MUS 33C", "title": "Introduction to Composition III", "units": "4", "prereqs": "MUS 33B"}
+{"code": "MUS 43", "title": "Department Seminar", "units": "1", "prereqs": null}
+{"code": "MUS 80", "title": "Special Topics in Music", "units": "1\u20134 ", "prereqs": null}
+{"code": "MUS 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
+{"code": "MUS 95", "title": "Ensemble Performance", "units": "2", "prereqs": null}
+{"code": "MUS 101A", "title": "Music Theory and Practice I", "units": "4", "prereqs": {"type": "all", "courses": ["MUS 2C", "MUS 2CK"]}}
+{"code": "MUS 101B", "title": "Music Theory and Practice II", "units": "4", "prereqs": "MUS 2C"}
+{"code": "MUS 101C", "title": "Music Theory and Practice III", "units": "4", "prereqs": "MUS 101B"}
+{"code": "MUS 102", "title": "Topics in Music Theory", "units": "4", "prereqs": "MUS 101B"}
+{"code": "MUS 103A", "title": "Seminar in Composition I", "units": "4", "prereqs": "MUS 33C"}
+{"code": "MUS 103B", "title": "Seminar in Composition II", "units": "4", "prereqs": "MUS 103A"}
+{"code": "MUS 103C", "title": "Seminar in Composition III", "units": "4", "prereqs": "MUS 103B"}
+{"code": "MUS 103D-E-F", "title": ". Honors Seminar in Composition", "units": "4-4-4", "prereqs": {"type": "all", "courses": ["MUS 103A", "MUS 103B", "MUS 103C"]}}
+{"code": "MUS 105", "title": "Jazz Composition", "units": "4", "prereqs": {"type": "all", "courses": ["MUS 101A", "MUS 101B"]}}
+{"code": "MUS 106", "title": "Topics in Musical Analysis", "units": "4", "prereqs": "MUS 2C"}
+{"code": "MUS 107", "title": "Critical Studies Seminar", "units": "4", "prereqs": "MUS 120C"}
+{"code": "MUS 110", "title": "Introduction to Ethnomusicology Seminar", "units": "4", "prereqs": null}
+{"code": "MUS 111", "title": "Topics/World Music Traditions", "units": "4", "prereqs": null}
+{"code": "MUS 112", "title": "Topics in European Music Before 1750", "units": "4", "prereqs": {"type": "one", "courses": ["MUS 4", {"type": "all", "courses": ["MUS 8", "MUS 9", "MUS 10"]}, "MUS 120"]}}
+{"code": "MUS 113", "title": "Topics in Classic, Romantic, and Modern Music", "units": "4", "prereqs": {"type": "one", "courses": ["MUS 4", {"type": "all", "courses": ["MUS 8", "MUS 9", "MUS 10"]}, "MUS 120"]}}
+{"code": "MUS 114", "title": "Music of the Twentieth Century", "units": "4", "prereqs": null}
+{"code": "MUS 115", "title": "Women in Music", "units": "4", "prereqs": null}
+{"code": "MUS 116", "title": "Popular Music Studies Seminar", "units": "4", "prereqs": null}
+{"code": "MUS 120A", "title": "History of Music in Western Culture I", "units": "4", "prereqs": {"type": "one", "courses": ["MUS 1C", "MUS 2C"]}}
+{"code": "MUS 120B", "title": "History of Music in Western Culture II", "units": "4", "prereqs": "MUS 120A"}
+{"code": "MUS 120C", "title": "History of Music in Western Culture III", "units": "4", "prereqs": "MUS 120B"}
+{"code": "MUS 126", "title": "Blues: An Oral Tradition", "units": "4", "prereqs": null}
+{"code": "MUS 127", "title": "Discover Jazz", "units": "4", "prereqs": null}
+{"code": "MUS 128", "title": "Principles and Practice of Conducting", "units": "4", "prereqs": {"type": "all", "courses": ["MUS 2A", "MUS 2B", "MUS 2C", "MUS 101A", "MUS 101B", "MUS 101C"]}}
+{"code": "MUS 130", "title": "Chamber Music Performance", "units": "2\u20134/0", "prereqs": null}
+{"code": "MUS 131", "title": "Advanced Improvisation Performance", "units": "4/0", "prereqs": null}
+{"code": "MUS 132", "title": "Proseminar in Music Performance", "units": "4", "prereqs": null}
+{"code": "MUS 132C", "title": "Vocal Coaching", "units": "4", "prereqs": "MUS 132V"}
+{"code": "MUS 132R", "title": "Recital Preparation", "units": "4", "prereqs": "MUS 132"}
+{"code": "MUS 132V", "title": "Proseminar in Vocal Instruction", "units": "4", "prereqs": null}
+{"code": "MUS 133", "title": "Projects in New Music Performance", "units": "4", "prereqs": null}
+{"code": "MUS 134", "title": "Symphonic Orchestra", "units": "4", "prereqs": null}
+{"code": "MUS 137A", "title": "Jazz Theory and Improvisation", "units": "4", "prereqs": {"type": "all", "courses": ["MUS 2A", "MUS 2B", "MUS 2C"]}}
+{"code": "MUS 137B", "title": "Jazz Theory and Improvisation", "units": "4", "prereqs": "MUS 137A"}
+{"code": "MUS 137C", "title": "Jazz Theory and Improvisation", "units": "4", "prereqs": "MUS 137B"}
+{"code": "MUS 137D", "title": "Seminar in Jazz Studies I", "units": "4", "prereqs": {"type": "all", "courses": ["MUS 137A", "MUS 137B", "MUS 137C"]}}
+{"code": "MUS 137E", "title": "Seminar in Jazz Studies II", "units": "4", "prereqs": "MUS 137D"}
+{"code": "MUS 137F", "title": "Seminar in Jazz Studies III", "units": "4", "prereqs": "MUS 137E"}
+{"code": "MUS 143", "title": "Department Seminar", "units": "1", "prereqs": null}
+{"code": "MUS 150", "title": "Jazz and the Music of the African Diaspora: Special Topics Seminar", "units": "4", "prereqs": {"type": "one", "courses": ["MUS 126", "ETHN 178", "MUS 127", "ETHN 179"]}}
+{"code": "MUS 151", "title": "Race, Culture, and Social Change", "units": "4", "prereqs": null}
+{"code": "MUS 152", "title": "Hip Hop: The Politics of Culture", "units": "4", "prereqs": null}
+{"code": "MUS 153", "title": "African Americans and the Mass Media", "units": "4", "prereqs": null}
+{"code": "MUS 160A", "title": "Senior Project in Computing Arts I", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 141B", "VIS 145B", "VIS 147B", "MUS 172"]}}
+{"code": "MUS 160B", "title": "Senior Project in Computing Arts II", "units": "4", "prereqs": {"type": "one", "courses": ["MUS 160A", "VIS 160A"]}}
+{"code": "MUS 170", "title": "Musical Acoustics", "units": "4", "prereqs": {"type": "one", "courses": ["MUS 1A", "MUS 2A", "MUS 4"]}}
+{"code": "MUS 171", "title": "Computer Music I", "units": "4", "prereqs": null}
+{"code": "MUS 172", "title": "Computer Music II", "units": "4", "prereqs": "MUS 171"}
+{"code": "MUS 173", "title": "Electronic Music Production and Composition", "units": "4", "prereqs": null}
+{"code": "MUS 174A", "title": "Audio/MlDI Studio Techniques I", "units": "4", "prereqs": "MUS 170"}
+{"code": "MUS 174B", "title": "Audio/MlDI Studio Techniques II", "units": "4", "prereqs": {"type": "all", "courses": ["MUS 170", "MUS 174A"]}}
+{"code": "MUS 174C", "title": "Audio/MlDI Studio Techniques III", "units": "4", "prereqs": {"type": "all", "courses": ["MUS 170", "MUS 174B"]}}
+{"code": "MUS 175", "title": "Musical Psychoacoustics", "units": "4", "prereqs": "MUS 170"}
+{"code": "MUS 176", "title": "Music Technology Seminar", "units": "4", "prereqs": "MUS 172"}
+{"code": "MUS 177", "title": "Music Programming", "units": "4", "prereqs": "MUS 172"}
+{"code": "MUS 192", "title": "Senior Seminar in Music", "units": "1", "prereqs": null}
+{"code": "MUS 195", "title": "Instructional Assistance", "units": "2", "prereqs": null}
+{"code": "MUS 198", "title": "Directed Group Study", "units": "1\u20134", "prereqs": null}
+{"code": "MUS 199", "title": "Independent Study", "units": "1\u20134", "prereqs": null}
+{"code": "MUS 200", "title": "Contemporary Chamber Opera Performance", "units": "4", "prereqs": null}
+{"code": "MUS 201A-B-C-D-E-F", "title": ". Projects in New Music Performance", "units": "1\u20134, 1\u20134, 1\u20134, 1\u20134, 1\u20134, 1\u20134", "prereqs": null}
+{"code": "MUS 202", "title": "Advanced Projects in Performance", "units": "1\u20134", "prereqs": null}
+{"code": "MUS 203A", "title": "Advanced Projects in Composition", "units": "6", "prereqs": null}
+{"code": "MUS 203B", "title": "Advanced Projects in Composition", "units": "6", "prereqs": null}
+{"code": "MUS 203C", "title": "Advanced Projects in Composition", "units": "6", "prereqs": null}
+{"code": "MUS 203D", "title": "Advanced Projects in Composition", "units": "1\u20134", "prereqs": null}
+{"code": "MUS 204", "title": "Focus on Composition", "units": "2", "prereqs": null}
+{"code": "MUS 205", "title": "Focus on Integrative Studies", "units": "2", "prereqs": null}
+{"code": "MUS 206", "title": "Experimental Studies Seminar", "units": "4", "prereqs": null}
+{"code": "MUS 207", "title": "Theoretical Studies Seminar", "units": "4", "prereqs": null}
+{"code": "MUS 209", "title": "Advanced Music Theory and Practice", "units": "4", "prereqs": null}
+{"code": "MUS 210", "title": "Musical Analysis", "units": "4", "prereqs": null}
+{"code": "MUS 211", "title": "Introduction to Ethnomusicology", "units": "2", "prereqs": null}
+{"code": "MUS 212", "title": "Introduction to System Inquiry", "units": "2", "prereqs": null}
+{"code": "MUS 213", "title": "Introduction to Critical Studies", "units": "2", "prereqs": null}
+{"code": "MUS 214", "title": "Introduction to Creative Practices", "units": "2", "prereqs": null}
+{"code": "MUS 228", "title": "Conducting", "units": "4", "prereqs": null}
+{"code": "MUS 229", "title": "Seminar in Orchestration", "units": "4", "prereqs": null}
+{"code": "MUS 230", "title": "Chamber Music Performance", "units": "4", "prereqs": null}
+{"code": "MUS 232", "title": "Proseminar in Music Performance", "units": "1\u20134", "prereqs": null}
+{"code": "MUS 234", "title": "Symphonic Orchestra", "units": "4", "prereqs": null}
+{"code": "MUS 245", "title": "Focus on Performance", "units": "2", "prereqs": null}
+{"code": "MUS 251", "title": "Integrative Studies Seminar in Ethnomusicology", "units": "4", "prereqs": null}
+{"code": "MUS 252", "title": "Integrative Studies Seminar in Systems Inquiry", "units": "4", "prereqs": null}
+{"code": "MUS 253", "title": "Integrative Studies Seminar in Critical Studies", "units": "4", "prereqs": null}
+{"code": "MUS 254", "title": "Integrative Studies Seminar in Creative Practice", "units": "4", "prereqs": null}
+{"code": "MUS 267", "title": "Advanced Music Technology Seminar", "units": "4", "prereqs": "MUS 173"}
+{"code": "MUS 270A", "title": "Digital Audio Processing", "units": "4", "prereqs": null}
+{"code": "MUS 270B", "title": "Musical Cognitive Science", "units": "4", "prereqs": null}
+{"code": "MUS 270C", "title": "Compositional Algorithms", "units": "4", "prereqs": null}
+{"code": "MUS 270D", "title": "Advanced Projects in Computer Music", "units": "4", "prereqs": {"type": "all", "courses": ["MUS 270A", "MUS 270B", "MUS 270C"]}}
+{"code": "MUS 271A", "title": "Survey of Electronic Music Techniques I", "units": "4", "prereqs": null}
+{"code": "MUS 271B", "title": "Survey of Electronic Music Techniques II", "units": "4", "prereqs": "MUS 271A"}
+{"code": "MUS 271C", "title": "Survey of Electronic Music Techniques III", "units": "4", "prereqs": "MUS 271B"}
+{"code": "MUS 272", "title": "Seminar in Live Computer Music", "units": "4", "prereqs": null}
+{"code": "MUS 296", "title": "Directed Group Research in Performance", "units": "4", "prereqs": null}
+{"code": "MUS 298", "title": "Directed Research", "units": "1\u20134", "prereqs": null}
+{"code": "MUS 299", "title": "Advanced Research Projects and Independent Study", "units": "1\u201312", "prereqs": null}
+{"code": "MUS 500", "title": "Apprentice Teaching", "units": "1\u20134", "prereqs": null}
+{"code": "MUS 501", "title": "Apprentice Teaching\u2014Nondepartmental", "units": "4", "prereqs": null}

@@ -1,4 +1,4 @@
-{"dept": "DOC", "code": "DOC 1", "title": "Dimensions of Culture: Diversity", "units": "4"}
-{"dept": "DOC", "code": "DOC 2", "title": "Dimensions of Culture: Justice", "units": "6"}
-{"dept": "DOC", "code": "DOC 3", "title": "Dimensions of Culture: Imagination", "units": "6"}
-{"dept": "DOC", "code": "DOC 100D", "title": "Dimensions of Culture: Promises and Contradictions in US Culture", "units": "4"}
+{"code": "DOC 1", "title": "Dimensions of Culture: Diversity", "units": "4", "prereqs": "AWP 1"}
+{"code": "DOC 2", "title": "Dimensions of Culture: Justice", "units": "6", "prereqs": "DOC 1"}
+{"code": "DOC 3", "title": "Dimensions of Culture: Imagination", "units": "6", "prereqs": "DOC 2"}
+{"code": "DOC 100D", "title": "Dimensions of Culture: Promises and Contradictions in US Culture", "units": "4", "prereqs": null}

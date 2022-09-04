@@ -1,240 +1,240 @@
-{"dept": "VIS", "code": "VIS 1", "title": "Introduction to Art Making: Two-Dimensional Practices", "units": "4"}
-{"dept": "VIS", "code": "VIS 2", "title": "Introduction to Art Making: Motion and Time-Based Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 3", "title": "Introduction to Art Making: Three-Dimensional Practices", "units": "4"}
-{"dept": "VIS", "code": "VIS 7", "title": "Movie Magic: From M\u00e9li\u00e8s to Marvel", "units": "4"}
-{"dept": "VIS", "code": "VIS 8", "title": "Visuality and the African Diaspora", "units": "4"}
-{"dept": "VIS", "code": "VIS 10", "title": "Computing in the Arts Lecture Series", "units": "4"}
-{"dept": "VIS", "code": "VIS 11", "title": "Introduction to Visual Culture", "units": "4"}
-{"dept": "VIS", "code": "VIS 20", "title": "Introduction to Art in Europe and America", "units": "4"}
-{"dept": "VIS", "code": "VIS 21A", "title": "Introduction to the Art of the Americas or Africa and Oceania", "units": "4"}
-{"dept": "VIS", "code": "VIS 21B", "title": "Introduction to Asian Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 21C", "title": "Introduction to African Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 22", "title": "Formations of Modern Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 23", "title": "Seminar in Art History Methods", "units": "4"}
-{"dept": "VIS", "code": "VIS 30", "title": "Introduction to Speculative Design", "units": "4"}
-{"dept": "VIS", "code": "VIS 31", "title": "Undead Media: All Things Zombie", "units": "4"}
-{"dept": "VIS", "code": "VIS 32", "title": "Art, Design, and the Brain", "units": "4"}
-{"dept": "VIS", "code": "VIS 41", "title": "Design Communication", "units": "4"}
-{"dept": "VIS", "code": "VIS 60", "title": "Introduction to Digital Photography", "units": "4"}
-{"dept": "VIS", "code": "VIS 70N", "title": "Introduction to Media", "units": "6"}
-{"dept": "VIS", "code": "VIS 80", "title": "Introduction to the Studio Major", "units": "4"}
-{"dept": "VIS", "code": "VIS 83", "title": "Photographic History", "units": "4"}
-{"dept": "VIS", "code": "VIS 84", "title": "Film History", "units": "4"}
-{"dept": "VIS", "code": "VIS 84B", "title": "Film Aesthetics", "units": "4"}
-{"dept": "VIS", "code": "VIS 85A", "title": "Media History", "units": "4"}
-{"dept": "VIS", "code": "VIS 85B", "title": "Media Aesthetics", "units": "4"}
-{"dept": "VIS", "code": "VIS 87", "title": "First-year Student Seminar", "units": "1"}
-{"dept": "VIS", "code": "VIS 100", "title": "Introduction to Public Culture", "units": "4"}
-{"dept": "VIS", "code": "VIS 100A", "title": "Design of Public Culture", "units": "4"}
-{"dept": "VIS", "code": "VIS 101", "title": "Introduction to Urban Ecologies", "units": "4"}
-{"dept": "VIS", "code": "VIS 101A", "title": "Designing Urban Ecologies", "units": "4"}
-{"dept": "VIS", "code": "VIS 102", "title": "Democratizing the City", "units": "4"}
-{"dept": "VIS", "code": "VIS 103", "title": "Architectural Practices", "units": "4"}
-{"dept": "VIS", "code": "VIS 103A", "title": "Contemporary Arts in South Korea", "units": "4"}
-{"dept": "VIS", "code": "VIS 103B", "title": "Architecture and Urbanism of Korea", "units": "4"}
-{"dept": "VIS", "code": "VIS 103C", "title": "Silk Roads: A Critical Study", "units": "4"}
-{"dept": "VIS", "code": "VIS 105A", "title": "Drawing: Representing the Subject", "units": "4"}
-{"dept": "VIS", "code": "VIS 105B", "title": "Drawing: Practices and Genre", "units": "4"}
-{"dept": "VIS", "code": "VIS 105C", "title": "Drawing: Portfolio Projects", "units": "4"}
-{"dept": "VIS", "code": "VIS 105D", "title": "Art Forms and Chinese Calligraphy", "units": "4"}
-{"dept": "VIS", "code": "VIS 105E", "title": "Chinese Calligraphy as Installation", "units": "4"}
-{"dept": "VIS", "code": "VIS 106A", "title": "Painting: Image Making", "units": "4"}
-{"dept": "VIS", "code": "VIS 106B", "title": "Painting: Practices and Genre", "units": "4"}
-{"dept": "VIS", "code": "VIS 106C", "title": "Painting: Portfolio Projects", "units": "4"}
-{"dept": "VIS", "code": "VIS 107A", "title": "Sculpture: Making the Object", "units": "4"}
-{"dept": "VIS", "code": "VIS 107B", "title": "Sculpture: Practices and Genre", "units": "4"}
-{"dept": "VIS", "code": "VIS 107C", "title": "Sculpture: Portfolio Projects", "units": "4"}
-{"dept": "VIS", "code": "VIS 108", "title": "Advanced Projects in Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 110A", "title": "Contemporary Issues and Practices", "units": "4"}
-{"dept": "VIS", "code": "VIS 110B", "title": "Professional Practice in the Visual Arts", "units": "4"}
-{"dept": "VIS", "code": "VIS 110C", "title": "Proposals, Plans, Presentations", "units": "4"}
-{"dept": "VIS", "code": "VIS 110D", "title": "Visual Narrative", "units": "4"}
-{"dept": "VIS", "code": "VIS 110E", "title": "Art in Public Spaces/Site-Specific Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 110F", "title": "Installation: Cross-Disciplinary Projects", "units": "4"}
-{"dept": "VIS", "code": "VIS 110G", "title": "The Natural and Altered Environment", "units": "4"}
-{"dept": "VIS", "code": "VIS 110H", "title": "Art and Text", "units": "4"}
-{"dept": "VIS", "code": "VIS 110I", "title": "Performing for the Camera", "units": "4"}
-{"dept": "VIS", "code": "VIS 110K", "title": "Digital Studio", "units": "4"}
-{"dept": "VIS", "code": "VIS 110M", "title": "Studio Honors I", "units": "4"}
-{"dept": "VIS", "code": "VIS 110N", "title": "Studio Honors II", "units": "4"}
-{"dept": "VIS", "code": "VIS 112", "title": "Theories and Methods", "units": "4"}
-{"dept": "VIS", "code": "VIS 113AN", "title": "History of Criticism I: Early Modern", "units": "4"}
-{"dept": "VIS", "code": "VIS 113BN", "title": "History of Criticism II: Early Twentieth Century", "units": "1900\u20131950"}
-{"dept": "VIS", "code": "VIS 113CN", "title": "History of Criticism III: Contemporary", "units": "1950\u2013Present"}
-{"dept": "VIS", "code": "VIS 114A", "title": "Landscape and Memory", "units": "4"}
-{"dept": "VIS", "code": "VIS 114B", "title": "The Fragment: Uses and Theories", "units": "4"}
-{"dept": "VIS", "code": "VIS 114GS", "title": "Arts and Visual Culture in China", "units": "4"}
-{"dept": "VIS", "code": "VIS 117E", "title": "Problems in Ethnoaesthetics", "units": "4"}
-{"dept": "VIS", "code": "VIS 117F", "title": "Theorizing the Americas", "units": "4"}
-{"dept": "VIS", "code": "VIS 117G", "title": "Critical Theory and Visual Practice", "units": "4"}
-{"dept": "VIS", "code": "VIS 117I", "title": "Western and Non-Western Rituals and Ceremonies", "units": "4"}
-{"dept": "VIS", "code": "VIS 120A", "title": "Greek Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 120B", "title": "Roman Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 120C", "title": "Late Antique Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 121AN", "title": "Art and Experience in the Middle Ages", "units": "4"}
-{"dept": "VIS", "code": "VIS 121B", "title": "Church and Mosque: Medieval Art and Architecture between Christianity and Islam", "units": "4"}
-{"dept": "VIS", "code": "VIS 121C", "title": "Art and the Bible in the Middle Ages: Sign and Design", "units": "4"}
-{"dept": "VIS", "code": "VIS 121H", "title": "Medieval Multiculturalism", "units": "4"}
-{"dept": "VIS", "code": "VIS 122AN", "title": "Renaissance Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 122B", "title": "Baroque: Painters, Sculptors, Architects", "units": "4"}
-{"dept": "VIS", "code": "VIS 122CN", "title": "Leonardo da Vinci in Context", "units": "4"}
-{"dept": "VIS", "code": "VIS 122D", "title": "Michelangelo", "units": "4"}
-{"dept": "VIS", "code": "VIS 122F", "title": "Leonardo\u2019s La Gioconda", "units": "4"}
-{"dept": "VIS", "code": "VIS 122GS", "title": "The City in Italy", "units": "4"}
-{"dept": "VIS", "code": "VIS 123AN", "title": "Between Spirit and Flesh", "units": "4"}
-{"dept": "VIS", "code": "VIS 123B", "title": "Contemporary Art of the African Diaspora", "units": "4"}
-{"dept": "VIS", "code": "VIS 123C", "title": "Art and Visual Culture of the United States", "units": "4"}
-{"dept": "VIS", "code": "VIS 124BN", "title": "Art and the Enlightenment", "units": "4"}
-{"dept": "VIS", "code": "VIS 124CN", "title": "Nineteenth-Century Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 124D", "title": "Paris, Capital of the Nineteenth Century", "units": "4"}
-{"dept": "VIS", "code": "VIS 124E", "title": "The Production of Nature", "units": "4"}
-{"dept": "VIS", "code": "VIS 124F", "title": "Art in the Age of Revolutions", "units": "4"}
-{"dept": "VIS", "code": "VIS 124G", "title": "Art and Modernity", "units": "4"}
-{"dept": "VIS", "code": "VIS 125A", "title": "Twentieth-Century Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 125BN", "title": "Contemporary Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 125C", "title": "Modern Art in the West, 1850\u20131950", "units": "4"}
-{"dept": "VIS", "code": "VIS 125DN", "title": "Marcel Duchamp", "units": "4"}
-{"dept": "VIS", "code": "VIS 125E", "title": "Faces and Powers", "units": "4"}
-{"dept": "VIS", "code": "VIS 125G", "title": "History of Socially Engaged Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 126AN", "title": "Pre-Columbian Art of Ancient Mexico and Central America", "units": "4"}
-{"dept": "VIS", "code": "VIS 126BN", "title": "The Art and Civilization of the Ancient Maya", "units": "4"}
-{"dept": "VIS", "code": "VIS 126C", "title": "Problems in Mesoamerican Art History", "units": "4"}
-{"dept": "VIS", "code": "VIS 126D", "title": "Problems in Ancient Maya Iconography and Inscriptions", "units": "4"}
-{"dept": "VIS", "code": "VIS 126E", "title": "Indigenisms I: The Making of the Modern, Nineteenth Century to Mid-Twentieth Century", "units": "4"}
-{"dept": "VIS", "code": "VIS 126F", "title": "Indigenisms II: Contemporary Disseminations, Neo-Avantgarde to the Present", "units": "4"}
-{"dept": "VIS", "code": "VIS 126HN", "title": "Pacific Coast American Indian Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 126I", "title": "Southwest American Indian Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 126J", "title": "African and Afro-American Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 126K", "title": "Oceanic Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 126P", "title": "Latin American Art: Modern to Postmodern, 1890\u20131950", "units": "4"}
-{"dept": "VIS", "code": "VIS 126Q", "title": "Latin American Art: Modern to Postmodern, 1950\u2013Present", "units": "4"}
-{"dept": "VIS", "code": "VIS 127B", "title": "Arts of China", "units": "4"}
-{"dept": "VIS", "code": "VIS 127C", "title": "Arts of Modern China", "units": "4"}
-{"dept": "VIS", "code": "VIS 127D", "title": "Early Chinese Painting", "units": "4"}
-{"dept": "VIS", "code": "VIS 127E", "title": "Later Chinese Painting", "units": "4"}
-{"dept": "VIS", "code": "VIS 127F", "title": "Japanese Buddhist Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 127GS", "title": "Issues in Modern and Contemporary Chinese Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 127N", "title": "Twentieth-Century Art in China and Japan", "units": "4"}
-{"dept": "VIS", "code": "VIS 127P", "title": "Arts of Japan", "units": "4"}
-{"dept": "VIS", "code": "VIS 127Q", "title": "Japanese Painting and Prints", "units": "4"}
-{"dept": "VIS", "code": "VIS 128A\u2013E", "title": ". Topics in Art History and Theory", "units": "4"}
-{"dept": "VIS", "code": "VIS 128A", "title": "Topics in Premodern Art History", "units": "4"}
-{"dept": "VIS", "code": "VIS 128B", "title": "Topics in Early Modern Art History", "units": "4"}
-{"dept": "VIS", "code": "VIS 128C", "title": "Topics in Modern Art History", "units": "4"}
-{"dept": "VIS", "code": "VIS 128D", "title": "Topics in Art History of the Americas", "units": "4"}
-{"dept": "VIS", "code": "VIS 128E", "title": "Topics in Art History of Asia", "units": "4"}
-{"dept": "VIS", "code": "VIS 129A\u2013F", "title": ". Seminar in Art Criticism and Theory", "units": "4"}
-{"dept": "VIS", "code": "VIS 129A", "title": "Seminar in Premodern Art History", "units": "4"}
-{"dept": "VIS", "code": "VIS 129B", "title": "Seminar in Early Modern Art History", "units": "4"}
-{"dept": "VIS", "code": "VIS 129C", "title": "Seminar in Modern Art History", "units": "4"}
-{"dept": "VIS", "code": "VIS 129D", "title": "Seminar in Art History of the Americas", "units": "4"}
-{"dept": "VIS", "code": "VIS 129E", "title": "Seminar in Art History of Asia", "units": "4"}
-{"dept": "VIS", "code": "VIS 129F", "title": "Seminar in Art Theory and Criticism", "units": "4"}
-{"dept": "VIS", "code": "VIS 130", "title": "Special Projects in Visual Arts", "units": "4"}
-{"dept": "VIS", "code": "VIS 131", "title": "Special Projects in Media", "units": "4"}
-{"dept": "VIS", "code": "VIS 132", "title": "Installation Production and Studio", "units": "4"}
-{"dept": "VIS", "code": "VIS 133", "title": "Lecture Topics in Speculative Design", "units": "4"}
-{"dept": "VIS", "code": "VIS 133A", "title": "Studio Topics in Speculative Design", "units": "4"}
-{"dept": "VIS", "code": "VIS 135", "title": "Design Research Methods", "units": "4"}
-{"dept": "VIS", "code": "VIS 136A", "title": "Speculative Fiction Seminar", "units": "4"}
-{"dept": "VIS", "code": "VIS 141A", "title": "Computer Programming for the Arts I", "units": "4"}
-{"dept": "VIS", "code": "VIS 141B", "title": "Computer Programming for the Arts II", "units": "4"}
-{"dept": "VIS", "code": "VIS 142", "title": "Practices in Computing Arts", "units": "4"}
-{"dept": "VIS", "code": "VIS 143", "title": "Virtual Environments", "units": "4"}
-{"dept": "VIS", "code": "VIS 145A", "title": "Time- and Process-Based Digital Media I", "units": "4"}
-{"dept": "VIS", "code": "VIS 145B", "title": "Time- and Process-Based Digital Media II", "units": "4"}
-{"dept": "VIS", "code": "VIS 147A", "title": "Electronic Technologies for Art I", "units": "4"}
-{"dept": "VIS", "code": "VIS 147B", "title": "Electronic Technologies for Art II", "units": "4"}
-{"dept": "VIS", "code": "VIS 148", "title": "Visualizing Art Practice", "units": "4"}
-{"dept": "VIS", "code": "VIS 149", "title": "Seminar in Contemporary Computer Topics", "units": "4"}
-{"dept": "VIS", "code": "VIS 150", "title": "Landmarks of World Cinema", "units": "4"}
-{"dept": "VIS", "code": "VIS 150A", "title": "Seminar in Film History and Theory", "units": "4"}
-{"dept": "VIS", "code": "VIS 151", "title": "Experimental Cinema", "units": "4"}
-{"dept": "VIS", "code": "VIS 151A", "title": "Seminar in Media History and Theory", "units": "4"}
-{"dept": "VIS", "code": "VIS 152", "title": "Media in Social Context", "units": "4"}
-{"dept": "VIS", "code": "VIS 152D", "title": "Identity through Transnational Cinemas", "units": "4"}
-{"dept": "VIS", "code": "VIS 155", "title": "Media Artists at Work", "units": "4"}
-{"dept": "VIS", "code": "VIS 156", "title": "Latino American Cinema", "units": "4"}
-{"dept": "VIS", "code": "VIS 157", "title": "Environmentalism in Arts and Media", "units": "4"}
-{"dept": "VIS", "code": "VIS 157D", "title": "US Civil Rights in Art and Media", "units": "4"}
-{"dept": "VIS", "code": "VIS 158A", "title": "Topics in Contemporary Photography", "units": "4"}
-{"dept": "VIS", "code": "VIS 158B", "title": "Photography after 1960", "units": "4"}
-{"dept": "VIS", "code": "VIS 158C", "title": "History of Social Documentary", "units": "4"}
-{"dept": "VIS", "code": "VIS 158D", "title": "Black Subjects and Black Material in Photography", "units": "4"}
-{"dept": "VIS", "code": "VIS 159", "title": "History of Art and Technology", "units": "4"}
-{"dept": "VIS", "code": "VIS 160A", "title": "Senior Project in Computing Arts I", "units": "4"}
-{"dept": "VIS", "code": "VIS 160B", "title": "Senior Project in Computing Arts II", "units": "4"}
-{"dept": "VIS", "code": "VIS 161", "title": "Systems and Networks at Scale", "units": "4"}
-{"dept": "VIS", "code": "VIS 162", "title": "Speculative Science and Design Invention", "units": "4"}
-{"dept": "VIS", "code": "VIS 163", "title": "Design Research and Criticism", "units": "4"}
-{"dept": "VIS", "code": "VIS 164", "title": "Photographic Strategies: Looking and Seeing", "units": "4"}
-{"dept": "VIS", "code": "VIS 165", "title": "Black and White Darkroom", "units": "4"}
-{"dept": "VIS", "code": "VIS 165A", "title": "The Photographic Print", "units": "4"}
-{"dept": "VIS", "code": "VIS 165B", "title": "The Photographer\u2019s Studio", "units": "4"}
-{"dept": "VIS", "code": "VIS 167", "title": "Social Engagement and Photography", "units": "4"}
-{"dept": "VIS", "code": "VIS 168", "title": "Pictorialism and Constructed Reality", "units": "4"}
-{"dept": "VIS", "code": "VIS 169A", "title": "Photography in Exhibition and Artist Books", "units": "4"}
-{"dept": "VIS", "code": "VIS 169B", "title": "Advanced Photographic Print", "units": "4"}
-{"dept": "VIS", "code": "VIS 171", "title": "Digital Cinema: Theory and Practice", "units": "4"}
-{"dept": "VIS", "code": "VIS 172", "title": "Motion Design and Visual Effects", "units": "4"}
-{"dept": "VIS", "code": "VIS 174", "title": "Media Sketchbook", "units": "4"}
-{"dept": "VIS", "code": "VIS 175", "title": "Editing: Theory and Practice", "units": "4"}
-{"dept": "VIS", "code": "VIS 176", "title": "16mm Filmmaking", "units": "4"}
-{"dept": "VIS", "code": "VIS 177", "title": "Scripting Strategies", "units": "4"}
-{"dept": "VIS", "code": "VIS 178", "title": "Sound: Theory and Practice", "units": "4"}
-{"dept": "VIS", "code": "VIS 179", "title": "Intermediate Projects in Media", "units": "4"}
-{"dept": "VIS", "code": "VIS 180A", "title": "Documentary Evidence and the Construction of Authenticity in Current Media Practices", "units": "4"}
-{"dept": "VIS", "code": "VIS 180B", "title": "Fiction and Allegory in Current Media Practices", "units": "4"}
-{"dept": "VIS", "code": "VIS 181", "title": "Advanced Sound and Lighting", "units": "4"}
-{"dept": "VIS", "code": "VIS 182", "title": "Advanced Editing", "units": "4"}
-{"dept": "VIS", "code": "VIS 182A", "title": "Advanced Digital Photography Editing", "units": "4"}
-{"dept": "VIS", "code": "VIS 183A", "title": "Strategies of Self", "units": "4"}
-{"dept": "VIS", "code": "VIS 183B", "title": "Strategies of Alterity", "units": "4"}
-{"dept": "VIS", "code": "VIS 184", "title": "Advanced Scripting", "units": "4"}
-{"dept": "VIS", "code": "VIS 185", "title": "Senior Media Projects", "units": "4"}
-{"dept": "VIS", "code": "VIS 190", "title": "Design Master Studio", "units": "8"}
-{"dept": "VIS", "code": "VIS 194S", "title": "Fantasy in Film", "units": "4"}
-{"dept": "VIS", "code": "VIS 197", "title": "Media Honors Thesis", "units": "4"}
-{"dept": "VIS", "code": "VIS 198", "title": "Directed Group Study", "units": "2\u20134"}
-{"dept": "VIS", "code": "VIS 199", "title": "Special Studies in the Visual Arts", "units": "4"}
-{"dept": "VIS", "code": "VIS 200", "title": "Methods and Theories", "units": "4"}
-{"dept": "VIS", "code": "VIS 201", "title": "Contemporary Critical Issues", "units": "4"}
-{"dept": "VIS", "code": "VIS 202", "title": "Art Practice", "units": "4"}
-{"dept": "VIS", "code": "VIS 203", "title": "Working Critique", "units": "4"}
-{"dept": "VIS", "code": "VIS 204", "title": "Rethinking Art History", "units": "4"}
-{"dept": "VIS", "code": "VIS 205", "title": "Introduction to Graduate Studies in Art Practice", "units": "4"}
-{"dept": "VIS", "code": "VIS 206", "title": "Seminar in Art Practice Research", "units": "4"}
-{"dept": "VIS", "code": "VIS 207", "title": "Working Practice for Art Practice PhDs", "units": "4"}
-{"dept": "VIS", "code": "VIS 208", "title": "Thesis Exhibition", "units": "4"}
-{"dept": "VIS", "code": "VIS 209", "title": "Thesis Writing", "units": "4"}
-{"dept": "VIS", "code": "VIS 211", "title": "Fact and Fiction", "units": "4"}
-{"dept": "VIS", "code": "VIS 212", "title": "History and Memory", "units": "4"}
-{"dept": "VIS", "code": "VIS 213", "title": "Public Space", "units": "4"}
-{"dept": "VIS", "code": "VIS 214", "title": "Performance Strategies", "units": "4"}
-{"dept": "VIS", "code": "VIS 215", "title": "Human Interface", "units": "4"}
-{"dept": "VIS", "code": "VIS 216", "title": "The Object", "units": "4"}
-{"dept": "VIS", "code": "VIS 217", "title": "Communities and Subcultures", "units": "4"}
-{"dept": "VIS", "code": "VIS 218N", "title": "Imaging Selves and Others", "units": "4"}
-{"dept": "VIS", "code": "VIS 219", "title": "Special Topics in Art Practice/Theory", "units": "4"}
-{"dept": "VIS", "code": "VIS 220", "title": "Professional Practice Seminar", "units": "4"}
-{"dept": "VIS", "code": "VIS 234N", "title": "Frames of View", "units": "4"}
-{"dept": "VIS", "code": "VIS 242", "title": "Theories of Media and New Media", "units": "4"}
-{"dept": "VIS", "code": "VIS 243", "title": "Aesthetic Theory", "units": "4"}
-{"dept": "VIS", "code": "VIS 244", "title": "Studies in the Relationship of Theory and Practice", "units": "4"}
-{"dept": "VIS", "code": "VIS 251", "title": "Seminar in Medieval Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 252", "title": "Seminar in Renaissance Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 254", "title": "Seminar in Modern Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 255", "title": "Seminar in Contemporary Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 256", "title": "Seminar in Media and New Media", "units": "4"}
-{"dept": "VIS", "code": "VIS 257", "title": "Seminar in Meso-American Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 258", "title": "Seminar in Chinese Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 259", "title": "Seminar in Latin American Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 260", "title": "Seminar in North American Indian Art", "units": "4"}
-{"dept": "VIS", "code": "VIS 262", "title": "Design Studies", "units": "4"}
-{"dept": "VIS", "code": "VIS 280", "title": "Workshop in Critical Writing", "units": "4"}
-{"dept": "VIS", "code": "VIS 281", "title": "Curatorial Practice", "units": "4"}
-{"dept": "VIS", "code": "VIS 295", "title": "Individual Studies for Graduate Students", "units": "1\u201312"}
-{"dept": "VIS", "code": "VIS 298", "title": "Directed Group Study", "units": "1\u201312"}
-{"dept": "VIS", "code": "VIS 299", "title": "Graduate Research", "units": "1\u20134"}
-{"dept": "VIS", "code": "VIS 500", "title": "Apprentice Teaching", "units": "1\u20134"}
-{"dept": "VIS", "code": "VIS 502", "title": "Graduate Teaching in Visual Arts", "units": "4"}
+{"code": "VIS 1", "title": "Introduction to Art Making: Two-Dimensional Practices", "units": "4", "prereqs": null}
+{"code": "VIS 2", "title": "Introduction to Art Making: Motion and Time-Based Art", "units": "4", "prereqs": null}
+{"code": "VIS 3", "title": "Introduction to Art Making: Three-Dimensional Practices", "units": "4", "prereqs": null}
+{"code": "VIS 7", "title": "Movie Magic: From M\u00e9li\u00e8s to Marvel", "units": "4", "prereqs": null}
+{"code": "VIS 8", "title": "Visuality and the African Diaspora", "units": "4", "prereqs": "AAS 10"}
+{"code": "VIS 10", "title": "Computing in the Arts Lecture Series", "units": "4", "prereqs": null}
+{"code": "VIS 11", "title": "Introduction to Visual Culture", "units": "4", "prereqs": null}
+{"code": "VIS 20", "title": "Introduction to Art in Europe and America", "units": "4", "prereqs": null}
+{"code": "VIS 21A", "title": "Introduction to the Art of the Americas or Africa and Oceania", "units": "4", "prereqs": null}
+{"code": "VIS 21B", "title": "Introduction to Asian Art", "units": "4", "prereqs": null}
+{"code": "VIS 21C", "title": "Introduction to African Art", "units": "4", "prereqs": null}
+{"code": "VIS 22", "title": "Formations of Modern Art", "units": "4", "prereqs": null}
+{"code": "VIS 23", "title": "Seminar in Art History Methods", "units": "4", "prereqs": null}
+{"code": "VIS 30", "title": "Introduction to Speculative Design", "units": "4", "prereqs": null}
+{"code": "VIS 31", "title": "Undead Media: All Things Zombie", "units": "4", "prereqs": null}
+{"code": "VIS 32", "title": "Art, Design, and the Brain", "units": "4", "prereqs": null}
+{"code": "VIS 41", "title": "Design Communication", "units": "4", "prereqs": null}
+{"code": "VIS 60", "title": "Introduction to Digital Photography", "units": "4", "prereqs": null}
+{"code": "VIS 70N", "title": "Introduction to Media", "units": "6", "prereqs": null}
+{"code": "VIS 80", "title": "Introduction to the Studio Major", "units": "4", "prereqs": null}
+{"code": "VIS 83", "title": "Photographic History", "units": "4", "prereqs": null}
+{"code": "VIS 84", "title": "Film History", "units": "4", "prereqs": null}
+{"code": "VIS 84B", "title": "Film Aesthetics", "units": "4", "prereqs": null}
+{"code": "VIS 85A", "title": "Media History", "units": "4", "prereqs": null}
+{"code": "VIS 85B", "title": "Media Aesthetics", "units": "4", "prereqs": null}
+{"code": "VIS 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
+{"code": "VIS 100", "title": "Introduction to Public Culture", "units": "4", "prereqs": null}
+{"code": "VIS 100A", "title": "Design of Public Culture", "units": "4", "prereqs": "VIS 100"}
+{"code": "VIS 101", "title": "Introduction to Urban Ecologies", "units": "4", "prereqs": null}
+{"code": "VIS 101A", "title": "Designing Urban Ecologies", "units": "4", "prereqs": "VIS 101"}
+{"code": "VIS 102", "title": "Democratizing the City", "units": "4", "prereqs": null}
+{"code": "VIS 103", "title": "Architectural Practices", "units": "4", "prereqs": null}
+{"code": "VIS 103A", "title": "Contemporary Arts in South Korea", "units": "4", "prereqs": null}
+{"code": "VIS 103B", "title": "Architecture and Urbanism of Korea", "units": "4", "prereqs": null}
+{"code": "VIS 103C", "title": "Silk Roads: A Critical Study", "units": "4", "prereqs": null}
+{"code": "VIS 105A", "title": "Drawing: Representing the Subject", "units": "4", "prereqs": "VIS 80"}
+{"code": "VIS 105B", "title": "Drawing: Practices and Genre", "units": "4", "prereqs": "VIS 105A"}
+{"code": "VIS 105C", "title": "Drawing: Portfolio Projects", "units": "4", "prereqs": "VIS 105B"}
+{"code": "VIS 105D", "title": "Art Forms and Chinese Calligraphy", "units": "4", "prereqs": "VIS 80"}
+{"code": "VIS 105E", "title": "Chinese Calligraphy as Installation", "units": "4", "prereqs": "VIS 105D"}
+{"code": "VIS 106A", "title": "Painting: Image Making", "units": "4", "prereqs": "VIS 80"}
+{"code": "VIS 106B", "title": "Painting: Practices and Genre", "units": "4", "prereqs": "VIS 106A"}
+{"code": "VIS 106C", "title": "Painting: Portfolio Projects", "units": "4", "prereqs": "VIS 106B"}
+{"code": "VIS 107A", "title": "Sculpture: Making the Object", "units": "4", "prereqs": "VIS 80"}
+{"code": "VIS 107B", "title": "Sculpture: Practices and Genre", "units": "4", "prereqs": "VIS 107A"}
+{"code": "VIS 107C", "title": "Sculpture: Portfolio Projects", "units": "4", "prereqs": "VIS 107B"}
+{"code": "VIS 108", "title": "Advanced Projects in Art", "units": "4", "prereqs": null}
+{"code": "VIS 110A", "title": "Contemporary Issues and Practices", "units": "4", "prereqs": null}
+{"code": "VIS 110B", "title": "Professional Practice in the Visual Arts", "units": "4", "prereqs": null}
+{"code": "VIS 110C", "title": "Proposals, Plans, Presentations", "units": "4", "prereqs": null}
+{"code": "VIS 110D", "title": "Visual Narrative", "units": "4", "prereqs": null}
+{"code": "VIS 110E", "title": "Art in Public Spaces/Site-Specific Art", "units": "4", "prereqs": null}
+{"code": "VIS 110F", "title": "Installation: Cross-Disciplinary Projects", "units": "4", "prereqs": null}
+{"code": "VIS 110G", "title": "The Natural and Altered Environment", "units": "4", "prereqs": null}
+{"code": "VIS 110H", "title": "Art and Text", "units": "4", "prereqs": null}
+{"code": "VIS 110I", "title": "Performing for the Camera", "units": "4", "prereqs": null}
+{"code": "VIS 110K", "title": "Digital Studio", "units": "4", "prereqs": null}
+{"code": "VIS 110M", "title": "Studio Honors I", "units": "4", "prereqs": null}
+{"code": "VIS 110N", "title": "Studio Honors II", "units": "4", "prereqs": "VIS 110M"}
+{"code": "VIS 112", "title": "Theories and Methods", "units": "4", "prereqs": "VIS 23"}
+{"code": "VIS 113AN", "title": "History of Criticism I: Early Modern", "units": "4", "prereqs": "VIS 112"}
+{"code": "VIS 113BN", "title": "History of Criticism II: Early Twentieth Century", "units": "1900\u20131950", "prereqs": null}
+{"code": "VIS 113CN", "title": "History of Criticism III: Contemporary", "units": "1950\u2013Present", "prereqs": null}
+{"code": "VIS 114A", "title": "Landscape and Memory", "units": "4", "prereqs": null}
+{"code": "VIS 114B", "title": "The Fragment: Uses and Theories", "units": "4", "prereqs": null}
+{"code": "VIS 114GS", "title": "Arts and Visual Culture in China", "units": "4", "prereqs": null}
+{"code": "VIS 117E", "title": "Problems in Ethnoaesthetics", "units": "4", "prereqs": null}
+{"code": "VIS 117F", "title": "Theorizing the Americas", "units": "4", "prereqs": null}
+{"code": "VIS 117G", "title": "Critical Theory and Visual Practice", "units": "4", "prereqs": null}
+{"code": "VIS 117I", "title": "Western and Non-Western Rituals and Ceremonies", "units": "4", "prereqs": null}
+{"code": "VIS 120A", "title": "Greek Art", "units": "4", "prereqs": null}
+{"code": "VIS 120B", "title": "Roman Art", "units": "4", "prereqs": null}
+{"code": "VIS 120C", "title": "Late Antique Art", "units": "4", "prereqs": null}
+{"code": "VIS 121AN", "title": "Art and Experience in the Middle Ages", "units": "4", "prereqs": null}
+{"code": "VIS 121B", "title": "Church and Mosque: Medieval Art and Architecture between Christianity and Islam", "units": "4", "prereqs": null}
+{"code": "VIS 121C", "title": "Art and the Bible in the Middle Ages: Sign and Design", "units": "4", "prereqs": null}
+{"code": "VIS 121H", "title": "Medieval Multiculturalism", "units": "4", "prereqs": null}
+{"code": "VIS 122AN", "title": "Renaissance Art", "units": "4", "prereqs": null}
+{"code": "VIS 122B", "title": "Baroque: Painters, Sculptors, Architects", "units": "4", "prereqs": null}
+{"code": "VIS 122CN", "title": "Leonardo da Vinci in Context", "units": "4", "prereqs": null}
+{"code": "VIS 122D", "title": "Michelangelo", "units": "4", "prereqs": {"type": "all", "courses": ["VIS 20", "VIS 21", {"type": "one", "courses": ["VIS 22", "VIS 23"]}]}}
+{"code": "VIS 122F", "title": "Leonardo\u2019s La Gioconda", "units": "4", "prereqs": "VIS 23"}
+{"code": "VIS 122GS", "title": "The City in Italy", "units": "4", "prereqs": null}
+{"code": "VIS 123AN", "title": "Between Spirit and Flesh", "units": "4", "prereqs": null}
+{"code": "VIS 123B", "title": "Contemporary Art of the African Diaspora", "units": "4", "prereqs": null}
+{"code": "VIS 123C", "title": "Art and Visual Culture of the United States", "units": "4", "prereqs": null}
+{"code": "VIS 124BN", "title": "Art and the Enlightenment", "units": "4", "prereqs": null}
+{"code": "VIS 124CN", "title": "Nineteenth-Century Art", "units": "4", "prereqs": null}
+{"code": "VIS 124D", "title": "Paris, Capital of the Nineteenth Century", "units": "4", "prereqs": null}
+{"code": "VIS 124E", "title": "The Production of Nature", "units": "4", "prereqs": null}
+{"code": "VIS 124F", "title": "Art in the Age of Revolutions", "units": "4", "prereqs": null}
+{"code": "VIS 124G", "title": "Art and Modernity", "units": "4", "prereqs": null}
+{"code": "VIS 125A", "title": "Twentieth-Century Art", "units": "4", "prereqs": null}
+{"code": "VIS 125BN", "title": "Contemporary Art", "units": "4", "prereqs": null}
+{"code": "VIS 125C", "title": "Modern Art in the West, 1850\u20131950", "units": "4", "prereqs": null}
+{"code": "VIS 125DN", "title": "Marcel Duchamp", "units": "4", "prereqs": null}
+{"code": "VIS 125E", "title": "Faces and Powers", "units": "4", "prereqs": null}
+{"code": "VIS 125G", "title": "History of Socially Engaged Art", "units": "4", "prereqs": null}
+{"code": "VIS 126AN", "title": "Pre-Columbian Art of Ancient Mexico and Central America", "units": "4", "prereqs": null}
+{"code": "VIS 126BN", "title": "The Art and Civilization of the Ancient Maya", "units": "4", "prereqs": null}
+{"code": "VIS 126C", "title": "Problems in Mesoamerican Art History", "units": "4", "prereqs": null}
+{"code": "VIS 126D", "title": "Problems in Ancient Maya Iconography and Inscriptions", "units": "4", "prereqs": null}
+{"code": "VIS 126E", "title": "Indigenisms I: The Making of the Modern, Nineteenth Century to Mid-Twentieth Century", "units": "4", "prereqs": null}
+{"code": "VIS 126F", "title": "Indigenisms II: Contemporary Disseminations, Neo-Avantgarde to the Present", "units": "4", "prereqs": null}
+{"code": "VIS 126HN", "title": "Pacific Coast American Indian Art", "units": "4", "prereqs": null}
+{"code": "VIS 126I", "title": "Southwest American Indian Art", "units": "4", "prereqs": null}
+{"code": "VIS 126J", "title": "African and Afro-American Art", "units": "4", "prereqs": null}
+{"code": "VIS 126K", "title": "Oceanic Art", "units": "4", "prereqs": null}
+{"code": "VIS 126P", "title": "Latin American Art: Modern to Postmodern, 1890\u20131950", "units": "4", "prereqs": null}
+{"code": "VIS 126Q", "title": "Latin American Art: Modern to Postmodern, 1950\u2013Present", "units": "4", "prereqs": null}
+{"code": "VIS 127B", "title": "Arts of China", "units": "4", "prereqs": null}
+{"code": "VIS 127C", "title": "Arts of Modern China", "units": "4", "prereqs": null}
+{"code": "VIS 127D", "title": "Early Chinese Painting", "units": "4", "prereqs": null}
+{"code": "VIS 127E", "title": "Later Chinese Painting", "units": "4", "prereqs": null}
+{"code": "VIS 127F", "title": "Japanese Buddhist Art", "units": "4", "prereqs": null}
+{"code": "VIS 127GS", "title": "Issues in Modern and Contemporary Chinese Art", "units": "4", "prereqs": null}
+{"code": "VIS 127N", "title": "Twentieth-Century Art in China and Japan", "units": "4", "prereqs": null}
+{"code": "VIS 127P", "title": "Arts of Japan", "units": "4", "prereqs": null}
+{"code": "VIS 127Q", "title": "Japanese Painting and Prints", "units": "4", "prereqs": null}
+{"code": "VIS 128A\u2013E", "title": ". Topics in Art History and Theory", "units": "4", "prereqs": null}
+{"code": "VIS 128A", "title": "Topics in Premodern Art History", "units": "4", "prereqs": null}
+{"code": "VIS 128B", "title": "Topics in Early Modern Art History", "units": "4", "prereqs": null}
+{"code": "VIS 128C", "title": "Topics in Modern Art History", "units": "4", "prereqs": null}
+{"code": "VIS 128D", "title": "Topics in Art History of the Americas", "units": "4", "prereqs": null}
+{"code": "VIS 128E", "title": "Topics in Art History of Asia", "units": "4", "prereqs": null}
+{"code": "VIS 129A\u2013F", "title": ". Seminar in Art Criticism and Theory", "units": "4", "prereqs": "VIS 112"}
+{"code": "VIS 129A", "title": "Seminar in Premodern Art History", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 112", {"type": "two", "courses": ["VIS 113AN", "VIS 129F"]}]}}
+{"code": "VIS 129B", "title": "Seminar in Early Modern Art History", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 112", {"type": "two", "courses": ["VIS 113AN", "VIS 129F"]}]}}
+{"code": "VIS 129C", "title": "Seminar in Modern Art History", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 112", {"type": "two", "courses": ["VIS 113AN", "VIS 129F"]}]}}
+{"code": "VIS 129D", "title": "Seminar in Art History of the Americas", "units": "4", "prereqs": null}
+{"code": "VIS 129E", "title": "Seminar in Art History of Asia", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 112", {"type": "two", "courses": ["VIS 113AN", "VIS 129F"]}]}}
+{"code": "VIS 129F", "title": "Seminar in Art Theory and Criticism", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 112", {"type": "two", "courses": ["VIS 113AN", "VIS 129F"]}]}}
+{"code": "VIS 130", "title": "Special Projects in Visual Arts", "units": "4", "prereqs": null}
+{"code": "VIS 131", "title": "Special Projects in Media", "units": "4", "prereqs": null}
+{"code": "VIS 132", "title": "Installation Production and Studio", "units": "4", "prereqs": null}
+{"code": "VIS 133", "title": "Lecture Topics in Speculative Design", "units": "4", "prereqs": null}
+{"code": "VIS 133A", "title": "Studio Topics in Speculative Design", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 30", "VIS 41"]}}
+{"code": "VIS 135", "title": "Design Research Methods", "units": "4", "prereqs": {"type": "all", "courses": ["VIS 30", "VIS 41"]}}
+{"code": "VIS 136A", "title": "Speculative Fiction Seminar", "units": "4", "prereqs": "VIS 30"}
+{"code": "VIS 141A", "title": "Computer Programming for the Arts I", "units": "4", "prereqs": {"type": "all", "courses": ["VIS 142", {"type": "one", "courses": ["CSE 11", "CSE 8B"]}]}}
+{"code": "VIS 141B", "title": "Computer Programming for the Arts II", "units": "4", "prereqs": "VIS 141A"}
+{"code": "VIS 142", "title": "Practices in Computing Arts", "units": "4", "prereqs": null}
+{"code": "VIS 143", "title": "Virtual Environments", "units": "4", "prereqs": {"type": "all", "courses": ["VIS 142", "CSE 11"]}}
+{"code": "VIS 145A", "title": "Time- and Process-Based Digital Media I", "units": "4", "prereqs": "VIS 142"}
+{"code": "VIS 145B", "title": "Time- and Process-Based Digital Media II", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 145A", "ICAM 102"]}}
+{"code": "VIS 147A", "title": "Electronic Technologies for Art I", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 41", "VIS 70N", "VIS 80"]}}
+{"code": "VIS 147B", "title": "Electronic Technologies for Art II", "units": "4", "prereqs": "VIS 147A"}
+{"code": "VIS 148", "title": "Visualizing Art Practice", "units": "4", "prereqs": null}
+{"code": "VIS 149", "title": "Seminar in Contemporary Computer Topics", "units": "4", "prereqs": null}
+{"code": "VIS 150", "title": "Landmarks of World Cinema", "units": "4", "prereqs": null}
+{"code": "VIS 150A", "title": "Seminar in Film History and Theory", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 83", "VIS 84", "VIS 85A"]}}
+{"code": "VIS 151", "title": "Experimental Cinema", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 22", "VIS 83", "VIS 84", "VIS 85A", "VIS 159"]}}
+{"code": "VIS 151A", "title": "Seminar in Media History and Theory", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 22", "VIS 83", "VIS 84", "VIS 85A", "VIS 159"]}}
+{"code": "VIS 152", "title": "Media in Social Context", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 83", "VIS 84"]}}
+{"code": "VIS 152D", "title": "Identity through Transnational Cinemas", "units": "4", "prereqs": null}
+{"code": "VIS 155", "title": "Media Artists at Work", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 83", "VIS 84", "VIS 85A"]}}
+{"code": "VIS 156", "title": "Latino American Cinema", "units": "4", "prereqs": "VIS 84"}
+{"code": "VIS 157", "title": "Environmentalism in Arts and Media", "units": "4", "prereqs": null}
+{"code": "VIS 157D", "title": "US Civil Rights in Art and Media", "units": "4", "prereqs": null}
+{"code": "VIS 158A", "title": "Topics in Contemporary Photography", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 60", "VIS 83"]}}
+{"code": "VIS 158B", "title": "Photography after 1960", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 22", "VIS 83"]}}
+{"code": "VIS 158C", "title": "History of Social Documentary", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 22", "VIS 83"]}}
+{"code": "VIS 158D", "title": "Black Subjects and Black Material in Photography", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 60", "VIS 83"]}}
+{"code": "VIS 159", "title": "History of Art and Technology", "units": "4", "prereqs": null}
+{"code": "VIS 160A", "title": "Senior Project in Computing Arts I", "units": "4", "prereqs": {"type": "all", "courses": ["VIS 145A", {"type": "one", "courses": ["VIS 141B", "VIS 145B", "VIS 147B", "MUS 172"]}]}}
+{"code": "VIS 160B", "title": "Senior Project in Computing Arts II", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 160A", "MUS 160A"]}}
+{"code": "VIS 161", "title": "Systems and Networks at Scale", "units": "4", "prereqs": "VIS 135"}
+{"code": "VIS 162", "title": "Speculative Science and Design Invention", "units": "4", "prereqs": "VIS 135"}
+{"code": "VIS 163", "title": "Design Research and Criticism", "units": "4", "prereqs": "VIS 161"}
+{"code": "VIS 164", "title": "Photographic Strategies: Looking and Seeing", "units": "4", "prereqs": "VIS 60"}
+{"code": "VIS 165", "title": "Black and White Darkroom", "units": "4", "prereqs": "VIS 60"}
+{"code": "VIS 165A", "title": "The Photographic Print", "units": "4", "prereqs": "VIS 60"}
+{"code": "VIS 165B", "title": "The Photographer\u2019s Studio", "units": "4", "prereqs": "VIS 60"}
+{"code": "VIS 167", "title": "Social Engagement and Photography", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 164", "VIS 165"]}}
+{"code": "VIS 168", "title": "Pictorialism and Constructed Reality", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 164", "VIS 165"]}}
+{"code": "VIS 169A", "title": "Photography in Exhibition and Artist Books", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 165", "VIS 165A", "VIS 165B"]}}
+{"code": "VIS 169B", "title": "Advanced Photographic Print", "units": "4", "prereqs": {"type": "one", "courses": ["VIS 165", "VIS 165A", "VIS 165B"]}}
+{"code": "VIS 171", "title": "Digital Cinema: Theory and Practice", "units": "4", "prereqs": "VIS 174"}
+{"code": "VIS 172", "title": "Motion Design and Visual Effects", "units": "4", "prereqs": "VIS 174"}
+{"code": "VIS 174", "title": "Media Sketchbook", "units": "4", "prereqs": "VIS 70N"}
+{"code": "VIS 175", "title": "Editing: Theory and Practice", "units": "4", "prereqs": "VIS 174"}
+{"code": "VIS 176", "title": "16mm Filmmaking", "units": "4", "prereqs": "VIS 174"}
+{"code": "VIS 177", "title": "Scripting Strategies", "units": "4", "prereqs": "VIS 174"}
+{"code": "VIS 178", "title": "Sound: Theory and Practice", "units": "4", "prereqs": "VIS 174"}
+{"code": "VIS 179", "title": "Intermediate Projects in Media", "units": "4", "prereqs": "VIS 174"}
+{"code": "VIS 180A", "title": "Documentary Evidence and the Construction of Authenticity in Current Media Practices", "units": "4", "prereqs": {"type": "all", "courses": ["VIS 174", {"type": "two", "courses": ["VIS 164", "VIS 165", "VIS 165A", "VIS 165B", "VIS 171", "VIS 172", "VIS 175", "VIS 176", "VIS 177", "VIS 178", "VIS 179"]}]}}
+{"code": "VIS 180B", "title": "Fiction and Allegory in Current Media Practices", "units": "4", "prereqs": {"type": "all", "courses": ["VIS 174", {"type": "two", "courses": ["VIS 164", "VIS 165", "VIS 165A", "VIS 165B", "VIS 171", "VIS 172", "VIS 175", "VIS 176", "VIS 177", "VIS 178", "VIS 179"]}]}}
+{"code": "VIS 181", "title": "Advanced Sound and Lighting", "units": "4", "prereqs": {"type": "all", "courses": ["VIS 174", {"type": "two", "courses": ["VIS 164", "VIS 165", "VIS 165A", "VIS 165B", "VIS 171", "VIS 172", "VIS 175", "VIS 176", "VIS 177", "VIS 178", "VIS 179"]}]}}
+{"code": "VIS 182", "title": "Advanced Editing", "units": "4", "prereqs": {"type": "all", "courses": ["VIS 174", {"type": "two", "courses": ["VIS 164", "VIS 165", "VIS 165A", "VIS 165B", "VIS 171", "VIS 172", "VIS 175", "VIS 176", "VIS 177", "VIS 178", "VIS 179"]}]}}
+{"code": "VIS 182A", "title": "Advanced Digital Photography Editing", "units": "4", "prereqs": {"type": "all", "courses": ["VIS 174", {"type": "two", "courses": ["VIS 164", "VIS 165", "VIS 165A", "VIS 165B", "VIS 171", "VIS 172", "VIS 175", "VIS 176", "VIS 177", "VIS 178", "VIS 179"]}]}}
+{"code": "VIS 183A", "title": "Strategies of Self", "units": "4", "prereqs": {"type": "all", "courses": ["VIS 174", {"type": "two", "courses": ["VIS 164", "VIS 165", "VIS 165A", "VIS 165B", "VIS 171", "VIS 172", "VIS 175", "VIS 176", "VIS 177", "VIS 178", "VIS 179"]}]}}
+{"code": "VIS 183B", "title": "Strategies of Alterity", "units": "4", "prereqs": {"type": "all", "courses": ["VIS 174", {"type": "two", "courses": ["VIS 164", "VIS 165", "VIS 165A", "VIS 165B", "VIS 171", "VIS 172", "VIS 175", "VIS 176", "VIS 177", "VIS 178", "VIS 179"]}]}}
+{"code": "VIS 184", "title": "Advanced Scripting", "units": "4", "prereqs": {"type": "all", "courses": ["VIS 174", {"type": "two", "courses": ["VIS 164", "VIS 165", "VIS 165A", "VIS 165B", "VIS 171", "VIS 172", "VIS 175", "VIS 176", "VIS 177", "VIS 178", "VIS 179"]}]}}
+{"code": "VIS 185", "title": "Senior Media Projects", "units": "4", "prereqs": {"type": "all", "courses": ["VIS 174", {"type": "two", "courses": ["VIS 164", "VIS 165", "VIS 165A", "VIS 165B", "VIS 171", "VIS 172", "VIS 175", "VIS 176", "VIS 177", "VIS 178", "VIS 179"]}]}}
+{"code": "VIS 190", "title": "Design Master Studio", "units": "8", "prereqs": {"type": "all", "courses": ["VIS 135", {"type": "two", "courses": ["VIS 100A", "VIS 101A", "VIS 133A", "VIS 136A", "VIS 161", "VIS 162"]}]}}
+{"code": "VIS 194S", "title": "Fantasy in Film", "units": "4", "prereqs": "VIS 84"}
+{"code": "VIS 197", "title": "Media Honors Thesis", "units": "4", "prereqs": null}
+{"code": "VIS 198", "title": "Directed Group Study", "units": "2\u20134", "prereqs": null}
+{"code": "VIS 199", "title": "Special Studies in the Visual Arts", "units": "4", "prereqs": null}
+{"code": "VIS 200", "title": "Methods and Theories", "units": "4", "prereqs": null}
+{"code": "VIS 201", "title": "Contemporary Critical Issues", "units": "4", "prereqs": null}
+{"code": "VIS 202", "title": "Art Practice", "units": "4", "prereqs": null}
+{"code": "VIS 203", "title": "Working Critique", "units": "4", "prereqs": null}
+{"code": "VIS 204", "title": "Rethinking Art History", "units": "4", "prereqs": null}
+{"code": "VIS 205", "title": "Introduction to Graduate Studies in Art Practice", "units": "4", "prereqs": null}
+{"code": "VIS 206", "title": "Seminar in Art Practice Research", "units": "4", "prereqs": null}
+{"code": "VIS 207", "title": "Working Practice for Art Practice PhDs", "units": "4", "prereqs": null}
+{"code": "VIS 208", "title": "Thesis Exhibition", "units": "4", "prereqs": null}
+{"code": "VIS 209", "title": "Thesis Writing", "units": "4", "prereqs": null}
+{"code": "VIS 211", "title": "Fact and Fiction", "units": "4", "prereqs": null}
+{"code": "VIS 212", "title": "History and Memory", "units": "4", "prereqs": null}
+{"code": "VIS 213", "title": "Public Space", "units": "4", "prereqs": null}
+{"code": "VIS 214", "title": "Performance Strategies", "units": "4", "prereqs": null}
+{"code": "VIS 215", "title": "Human Interface", "units": "4", "prereqs": null}
+{"code": "VIS 216", "title": "The Object", "units": "4", "prereqs": null}
+{"code": "VIS 217", "title": "Communities and Subcultures", "units": "4", "prereqs": null}
+{"code": "VIS 218N", "title": "Imaging Selves and Others", "units": "4", "prereqs": null}
+{"code": "VIS 219", "title": "Special Topics in Art Practice/Theory", "units": "4", "prereqs": null}
+{"code": "VIS 220", "title": "Professional Practice Seminar", "units": "4", "prereqs": null}
+{"code": "VIS 234N", "title": "Frames of View", "units": "4", "prereqs": null}
+{"code": "VIS 242", "title": "Theories of Media and New Media", "units": "4", "prereqs": null}
+{"code": "VIS 243", "title": "Aesthetic Theory", "units": "4", "prereqs": null}
+{"code": "VIS 244", "title": "Studies in the Relationship of Theory and Practice", "units": "4", "prereqs": null}
+{"code": "VIS 251", "title": "Seminar in Medieval Art", "units": "4", "prereqs": null}
+{"code": "VIS 252", "title": "Seminar in Renaissance Art", "units": "4", "prereqs": null}
+{"code": "VIS 254", "title": "Seminar in Modern Art", "units": "4", "prereqs": null}
+{"code": "VIS 255", "title": "Seminar in Contemporary Art", "units": "4", "prereqs": null}
+{"code": "VIS 256", "title": "Seminar in Media and New Media", "units": "4", "prereqs": null}
+{"code": "VIS 257", "title": "Seminar in Meso-American Art", "units": "4", "prereqs": null}
+{"code": "VIS 258", "title": "Seminar in Chinese Art", "units": "4", "prereqs": null}
+{"code": "VIS 259", "title": "Seminar in Latin American Art", "units": "4", "prereqs": null}
+{"code": "VIS 260", "title": "Seminar in North American Indian Art", "units": "4", "prereqs": null}
+{"code": "VIS 262", "title": "Design Studies", "units": "4", "prereqs": null}
+{"code": "VIS 280", "title": "Workshop in Critical Writing", "units": "4", "prereqs": null}
+{"code": "VIS 281", "title": "Curatorial Practice", "units": "4", "prereqs": null}
+{"code": "VIS 295", "title": "Individual Studies for Graduate Students", "units": "1\u201312", "prereqs": null}
+{"code": "VIS 298", "title": "Directed Group Study", "units": "1\u201312", "prereqs": null}
+{"code": "VIS 299", "title": "Graduate Research", "units": "1\u20134", "prereqs": null}
+{"code": "VIS 500", "title": "Apprentice Teaching", "units": "1\u20134", "prereqs": null}
+{"code": "VIS 502", "title": "Graduate Teaching in Visual Arts", "units": "4", "prereqs": null}

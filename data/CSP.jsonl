@@ -1,5 +1,5 @@
-{"dept": "CSP", "code": "SIOC 290S", "title": "Climate Math and Science", "units": "6"}
-{"dept": "CSP", "code": "SIOC 291S", "title": "Introduction to Climate Policy", "units": "6"}
-{"dept": "CSP", "code": "SIOC 293", "title": "Ocean-Atmosphere Processes and Climate Variability", "units": "4"}
-{"dept": "CSP", "code": "SIOC 296", "title": "Climate Science and Policy Forum", "units": "1"}
-{"dept": "CSP", "code": "SIOC 299", "title": "Climate Science and Policy Capstone Project", "units": "6\u201310"}
+{"code": "SIOC 290S", "title": "Climate Math and Science", "units": "6", "prereqs": null}
+{"code": "SIOC 291S", "title": "Introduction to Climate Policy", "units": "6", "prereqs": null}
+{"code": "SIOC 293", "title": "Ocean-Atmosphere Processes and Climate Variability", "units": "4", "prereqs": "SIOC 290S"}
+{"code": "SIOC 296", "title": "Climate Science and Policy Forum", "units": "1", "prereqs": null}
+{"code": "SIOC 299", "title": "Climate Science and Policy Capstone Project", "units": "6\u201310", "prereqs": null}

@@ -1,216 +1,216 @@
-{"dept": "THEA", "code": "TDAC 1", "title": "Introduction to Acting", "units": "4"}
-{"dept": "THEA", "code": "TDAC 101", "title": "Acting I", "units": "4"}
-{"dept": "THEA", "code": "TDAC 102", "title": "Acting II", "units": "4"}
-{"dept": "THEA", "code": "TDAC 103A", "title": "Acting Intensive I", "units": "4"}
-{"dept": "THEA", "code": "TDAC 103B", "title": "Acting Intensive II", "units": "4"}
-{"dept": "THEA", "code": "TDAC 104", "title": "Classical Text", "units": "4"}
-{"dept": "THEA", "code": "TDAC 105", "title": "Rehearsing Shakespeare", "units": "4"}
-{"dept": "THEA", "code": "TDAC 106", "title": "Chekhov Acting", "units": "4"}
-{"dept": "THEA", "code": "TDAC 107", "title": "Improvisation for the Theatre", "units": "4"}
-{"dept": "THEA", "code": "TDAC 108", "title": "Advanced Topics", "units": "4"}
-{"dept": "THEA", "code": "TDAC 109", "title": "Singing for Actors", "units": "4"}
-{"dept": "THEA", "code": "TDAC 110", "title": "Acting for the Camera", "units": "4"}
-{"dept": "THEA", "code": "TDAC 111", "title": "Freeing the Voice", "units": "4"}
-{"dept": "THEA", "code": "TDAC 112", "title": "Senior Seminar in Acting", "units": "4"}
-{"dept": "THEA", "code": "TDAC 115", "title": "Movement for Actors", "units": "4"}
-{"dept": "THEA", "code": "TDAC 120", "title": "Ensemble", "units": "4"}
-{"dept": "THEA", "code": "TDAC 122", "title": "Ensemble: Undergraduate Production", "units": "4"}
-{"dept": "THEA", "code": "TDAC 123", "title": "Advanced Studies in Performance", "units": "4"}
-{"dept": "THEA", "code": "TDDE 1", "title": "Introduction to Design for the Theatre", "units": "4"}
-{"dept": "THEA", "code": "TDDE 101", "title": "Theatre Process\u2014Scenery", "units": "4"}
-{"dept": "THEA", "code": "TDDE 102", "title": "Advanced Scenic Design", "units": "4"}
-{"dept": "THEA", "code": "TDDE 111", "title": "Theatre Process\u2014Costume Design", "units": "4"}
-{"dept": "THEA", "code": "TDDE 112", "title": "Advanced Costume Design", "units": "4"}
-{"dept": "THEA", "code": "TDDE 121", "title": "Theatre Process\u2014Lighting Design", "units": "4"}
-{"dept": "THEA", "code": "TDDE 130", "title": "Assistant Designer", "units": "2\u20136"}
-{"dept": "THEA", "code": "TDDE 131", "title": "Special Topics in Theatre Design", "units": "4"}
-{"dept": "THEA", "code": "TDDE 132", "title": "Undergraduate Main Stage Production: Design", "units": "4"}
-{"dept": "THEA", "code": "TDDE 141", "title": "Theatre Process\u2014Sound Design", "units": "4"}
-{"dept": "THEA", "code": "TDDE 142", "title": "Advanced Sound Design", "units": "4"}
-{"dept": "THEA", "code": "TDDE 151", "title": "Digital Video Design", "units": "4"}
-{"dept": "THEA", "code": "TDDE 169A", "title": "Digital Rendering for Theatre and Performance Design I", "units": "4"}
-{"dept": "THEA", "code": "TDDE 169B", "title": "Digital Rendering for Theatre and Performance Design II", "units": "4"}
-{"dept": "THEA", "code": "TDDE 190", "title": "Major Project in Design/Theatre Production", "units": "4"}
-{"dept": "THEA", "code": "TDDR 101", "title": "Stage Management", "units": "4"}
-{"dept": "THEA", "code": "TDDR 102", "title": "Advanced Stage Management", "units": "4"}
-{"dept": "THEA", "code": "TDDR 108", "title": "Text Analysis for Actors and Directors", "units": "4"}
-{"dept": "THEA", "code": "TDDR 111", "title": "Directing-Acting Process", "units": "4"}
-{"dept": "THEA", "code": "TDDR 190", "title": "Major Project in Directing", "units": "4"}
-{"dept": "THEA", "code": "TDDR 191", "title": "Major Project in Stage Management", "units": "4"}
-{"dept": "THEA", "code": "TDDM 1", "title": "Introduction to Dance Making", "units": "4"}
-{"dept": "THEA", "code": "TDDM 5", "title": "Site Specific Dance and Performance", "units": "4"}
-{"dept": "THEA", "code": "TDDM 100", "title": "Dance Making 1", "units": "4"}
-{"dept": "THEA", "code": "TDDM 101", "title": "Dance Making 2", "units": "4"}
-{"dept": "THEA", "code": "TDGE 1", "title": "Introduction to Theatre", "units": "4"}
-{"dept": "THEA", "code": "TDGE 3", "title": "Cultivating the Creative Mind", "units": "4"}
-{"dept": "THEA", "code": "TDGE 5", "title": "A Glimpse into Acting", "units": "4"}
-{"dept": "THEA", "code": "TDGE 10", "title": "Theatre and Film", "units": "4"}
-{"dept": "THEA", "code": "TDGE 11", "title": "Great Performances on Film", "units": "4"}
-{"dept": "THEA", "code": "TDGE 12", "title": "Topics in Cinema and Race", "units": "4"}
-{"dept": "THEA", "code": "TDGE 25", "title": "Public Speaking", "units": "4"}
-{"dept": "THEA", "code": "TDGE 50", "title": "Musical Theatre Chorus", "units": "2"}
-{"dept": "THEA", "code": "TDGE 87", "title": "First-year Student Seminar in Theatre and Dance", "units": "1"}
-{"dept": "THEA", "code": "TDGE 89", "title": "Dance Movement Exploration", "units": "4"}
-{"dept": "THEA", "code": "TDGE 100", "title": "Creating the Role of \u201cLeader\u201d", "units": "4"}
-{"dept": "THEA", "code": "TDGE 105", "title": "Exploring Acting", "units": "4"}
-{"dept": "THEA", "code": "TDGE 122", "title": "The Films of Woody Allen", "units": "4"}
-{"dept": "THEA", "code": "TDGE 124", "title": "Cult Films: Weirdly Dramatic", "units": "4"}
-{"dept": "THEA", "code": "TDGE 125", "title": "Topics in Theatre and Film", "units": "4"}
-{"dept": "THEA", "code": "TDGE 126", "title": "Storytelling and Design in Animation", "units": "4"}
-{"dept": "THEA", "code": "TDGE 131", "title": "Playing Indian: Native American and First Nations Cinema", "units": "4"}
-{"dept": "THEA", "code": "TDGE 131R", "title": "Playing Indian: Native American and First Nations Cinema", "units": "4"}
-{"dept": "THEA", "code": "TDGE 133", "title": "Visual Ideas", "units": "4"}
-{"dept": "THEA", "code": "TDGE 134", "title": "Disability and Performative Exploration: Struggle for Inclusion", "units": "4"}
-{"dept": "THEA", "code": "TDGE 192", "title": "Senior Seminar in Theatre and Dance", "units": "1"}
-{"dept": "THEA", "code": "TDGE 196A", "title": "Honors Study in Theatre and Dance", "units": "4"}
-{"dept": "THEA", "code": "TDGE 196B", "title": "Honors Study in Theatre and Dance", "units": "4"}
-{"dept": "THEA", "code": "TDGE 198", "title": "Directed Group Studies", "units": "0-2-4"}
-{"dept": "THEA", "code": "TDGE 199", "title": "Special Projects", "units": "0-2-4"}
-{"dept": "THEA", "code": "TDHD 20", "title": "Looking at Dance", "units": "4"}
-{"dept": "THEA", "code": "TDHD 21", "title": "Dance Pioneers of the Twentieth and Twenty-First Centuries", "units": "4"}
-{"dept": "THEA", "code": "TDHD 175", "title": "Cultural Perspectives on Dance", "units": "4"}
-{"dept": "THEA", "code": "TDHD 176", "title": "Dance History\u2014Special Topics", "units": "4"}
-{"dept": "THEA", "code": "TDHT 10", "title": "Introduction to Play Analysis", "units": "4"}
-{"dept": "THEA", "code": "TDHT 21", "title": "Ancient and Medieval Theatre", "units": "4"}
-{"dept": "THEA", "code": "TDHT 22", "title": "Theatre 1500\u20131900", "units": "4"}
-{"dept": "THEA", "code": "TDHT 23", "title": "Twentieth-Century Theatre", "units": "4"}
-{"dept": "THEA", "code": "TDHT 101", "title": "Topics in Dramatic Literature and Theatre History", "units": "4"}
-{"dept": "THEA", "code": "TDHT 103", "title": "Asian American Theatre", "units": "4"}
-{"dept": "THEA", "code": "TDHT 104", "title": "Italian Comedy", "units": "4"}
-{"dept": "THEA", "code": "TDHT 105", "title": "French Comedy", "units": "4"}
-{"dept": "THEA", "code": "TDHT 107", "title": "American Theatre", "units": "4"}
-{"dept": "THEA", "code": "TDHT 108", "title": "Luis Valdez", "units": "4"}
-{"dept": "THEA", "code": "TDHT 109", "title": "African American Theatre", "units": "4"}
-{"dept": "THEA", "code": "TDHT 110", "title": "Chicanx Theatre", "units": "4"}
-{"dept": "THEA", "code": "TDHT 111", "title": "Latinx Theatre and Performance", "units": "4"}
-{"dept": "THEA", "code": "TDHT 114", "title": "American Musical Theatre", "units": "4"}
-{"dept": "THEA", "code": "TDHT 115", "title": "History and Theory of Directing", "units": "4"}
-{"dept": "THEA", "code": "TDHT 119", "title": "Production Dramaturgy", "units": "4"}
-{"dept": "THEA", "code": "TDHT 120", "title": "Indigenous Theatre and Performance", "units": "4"}
-{"dept": "THEA", "code": "TDHT 190", "title": "The New York Theatre and Dance Scene", "units": "4"}
-{"dept": "THEA", "code": "TDMV 1", "title": "Beginning Ballet", "units": "2"}
-{"dept": "THEA", "code": "TDMV 2", "title": "Beginning Contemporary Dance", "units": "4"}
-{"dept": "THEA", "code": "TDMV 3", "title": "Beginning Jazz", "units": "2"}
-{"dept": "THEA", "code": "TDMV 5", "title": "Yoga for Dance", "units": "2"}
-{"dept": "THEA", "code": "TDMV 11", "title": "Theatrical Tap", "units": "2"}
-{"dept": "THEA", "code": "TDMV 20", "title": "Movement Laboratory", "units": "4"}
-{"dept": "THEA", "code": "TDMV 110", "title": "Intermediate Ballet", "units": "4"}
-{"dept": "THEA", "code": "TDMV 111", "title": "Advanced Ballet", "units": "4"}
-{"dept": "THEA", "code": "TDMV 112", "title": "Advanced Ballet for Contemporary Dance", "units": "4"}
-{"dept": "THEA", "code": "TDMV 120", "title": "Intermediate Contemporary Dance", "units": "4"}
-{"dept": "THEA", "code": "TDMV 122", "title": "Advanced Contemporary Dance", "units": "4"}
-{"dept": "THEA", "code": "TDMV 123", "title": "Contact Improvisation", "units": "4"}
-{"dept": "THEA", "code": "TDMV 130", "title": "Intermediate Jazz", "units": "4"}
-{"dept": "THEA", "code": "TDMV 133", "title": "Advanced Jazz Dance", "units": "4"}
-{"dept": "THEA", "code": "TDMV 138", "title": "Beginning Hip-Hop", "units": "4"}
-{"dept": "THEA", "code": "TDMV 140", "title": "Beginning Dances of the World", "units": "4"}
-{"dept": "THEA", "code": "TDMV 141", "title": "Advanced Dances of the World", "units": "4"}
-{"dept": "THEA", "code": "TDMV 142", "title": "Latin Dance of the World", "units": "4"}
-{"dept": "THEA", "code": "TDMV 143", "title": "West African Dance", "units": "4"}
-{"dept": "THEA", "code": "TDMV 144", "title": "Asian Dance", "units": "4"}
-{"dept": "THEA", "code": "TDMV 146", "title": "Intermediate Latin Dances of the World", "units": "4"}
-{"dept": "THEA", "code": "TDMV 148", "title": "Intermediate Hip-Hop", "units": "4"}
-{"dept": "THEA", "code": "TDMV 149", "title": "Advanced Hip-Hop", "units": "4"}
-{"dept": "THEA", "code": "TDMV 190", "title": "Major Project as Performer", "units": "4"}
-{"dept": "THEA", "code": "TDPF 160", "title": "Studies in Performance\u2014Fall Production", "units": "2\u20134"}
-{"dept": "THEA", "code": "TDPF 161", "title": "Studies in Performance\u2014Winter Production", "units": "2\u20134"}
-{"dept": "THEA", "code": "TDPF 162", "title": "Studies in Performance Spring Production", "units": "2\u20134"}
-{"dept": "THEA", "code": "TDPF 163", "title": "Dance Repertory", "units": "1\u20134"}
-{"dept": "THEA", "code": "TDPF 190", "title": "Major Project/Dance Production", "units": "4"}
-{"dept": "THEA", "code": "TDPR 6", "title": "Theatre Practicum", "units": "4\u20136"}
-{"dept": "THEA", "code": "TDPR 102", "title": "Advanced Theatre Practicum", "units": "4\u20136"}
-{"dept": "THEA", "code": "TDPR 104", "title": "Advanced Practicum in Stage Management", "units": "4\u20136"}
-{"dept": "THEA", "code": "TDPW 1", "title": "Introduction to Playwriting", "units": "4"}
-{"dept": "THEA", "code": "TDPW 101", "title": "Intermediate Playwriting", "units": "4"}
-{"dept": "THEA", "code": "TDPW 102", "title": "Advanced Playwriting", "units": "4"}
-{"dept": "THEA", "code": "TDPW 104", "title": "Screenwriting", "units": "4"}
-{"dept": "THEA", "code": "TDPW 190", "title": "Major Project in Playwriting/Screenwriting", "units": "4"}
-{"dept": "THEA", "code": "TDTR 10", "title": "Introduction to Dance", "units": "4"}
-{"dept": "THEA", "code": "TDTR 15", "title": "Dance Movement and Analysis", "units": "4"}
-{"dept": "THEA", "code": "TDTR 20", "title": "Dance on Film", "units": "4"}
-{"dept": "THEA", "code": "TDTR 104", "title": "Dance Theory and Pedagogy", "units": "4"}
-{"dept": "THEA", "code": "TDGR 200", "title": "Dynamics", "units": "1"}
-{"dept": "THEA", "code": "TDGR 201", "title": "Stage Combat", "units": "2"}
-{"dept": "THEA", "code": "TDGR 204A", "title": "Text Analysis", "units": "4"}
-{"dept": "THEA", "code": "TDGR 204B", "title": "Contemporary Theories of Theatre", "units": "4"}
-{"dept": "THEA", "code": "TDGR 204C", "title": "Collective Creation", "units": "4"}
-{"dept": "THEA", "code": "TDGR 206", "title": "Faculty Directed Production", "units": "4"}
-{"dept": "THEA", "code": "TDGR 207", "title": "Production", "units": "4"}
-{"dept": "THEA", "code": "TDGR 208", "title": "Dance Making Processes", "units": "4"}
-{"dept": "THEA", "code": "TDGR 210A", "title": "Process I\u2014Part I", "units": "4"}
-{"dept": "THEA", "code": "TDGR 210B", "title": "Process I\u2014Part II", "units": "4"}
-{"dept": "THEA", "code": "TDGR 210C", "title": "Process I\u2014Part III", "units": "4"}
-{"dept": "THEA", "code": "TDGR 211B", "title": "Speech for the Actor", "units": "2\u20134"}
-{"dept": "THEA", "code": "TDGR 211C", "title": "Speech for the Actor", "units": "2\u20134"}
-{"dept": "THEA", "code": "TDGR 212", "title": "Acting Practicum", "units": "2"}
-{"dept": "THEA", "code": "TDGR 213A-B-C", "title": ". Movement for Theatre I", "units": "2-2-2"}
-{"dept": "THEA", "code": "TDGR 214A", "title": "Voice for Theatre I\u2014Part I", "units": "3"}
-{"dept": "THEA", "code": "TDGR 214B", "title": "Voice for Theatre II\u2014Part I", "units": "3"}
-{"dept": "THEA", "code": "TDGR 214C", "title": "Voice for Theatre I\u2014Part III", "units": "3"}
-{"dept": "THEA", "code": "TDGR 215A", "title": "Special Topics in Dance Making", "units": "4"}
-{"dept": "THEA", "code": "TDGR 216A", "title": "Pedagogical Practices", "units": "4"}
-{"dept": "THEA", "code": "TDGR 217", "title": "New Media and Technology", "units": "4"}
-{"dept": "THEA", "code": "TDGR 218A", "title": "Professional Practices", "units": "4"}
-{"dept": "THEA", "code": "TDGR 219", "title": "Directing Process Studio", "units": "4"}
-{"dept": "THEA", "code": "TDGR 220A", "title": "Process II: Classical Text I", "units": "4"}
-{"dept": "THEA", "code": "TDGR 220B", "title": "Process II: Classical Text II", "units": "4"}
-{"dept": "THEA", "code": "TDGR 220C", "title": "Process II: Classical Text III", "units": "4"}
-{"dept": "THEA", "code": "TDGR 221", "title": "Graduate Studio: Contemporary Movement Practices", "units": "4"}
-{"dept": "THEA", "code": "TDGR 221A-B", "title": ". Speech for the Actor II", "units": "3-3"}
-{"dept": "THEA", "code": "TDGR 223A-B", "title": ". Movement for Theatre II", "units": "3-3"}
-{"dept": "THEA", "code": "TDGR 224A-B", "title": ". Voice for Theatre II", "units": "3-3"}
-{"dept": "THEA", "code": "TDGR 225A-B", "title": ". Singing for the Actor II", "units": "1-1"}
-{"dept": "THEA", "code": "TDGR 226", "title": "Stage Managing Assistantship", "units": "4\u201312"}
-{"dept": "THEA", "code": "TDGR 227A", "title": "Production Practicum", "units": "4"}
-{"dept": "THEA", "code": "TDGR 229", "title": "Theatre Externship", "units": "6\u201312"}
-{"dept": "THEA", "code": "TDGR 230", "title": "Acting Process III: Actors\u2019 Studio", "units": "2\u20134"}
-{"dept": "THEA", "code": "TDGR 231A", "title": "Professional Preparation for the Actor", "units": "4"}
-{"dept": "THEA", "code": "TDGR 233", "title": "Acting for the Camera", "units": "1"}
-{"dept": "THEA", "code": "TDGR 235", "title": "Singing for the Actor III", "units": "1"}
-{"dept": "THEA", "code": "TDGR 239", "title": "Skills", "units": "4"}
-{"dept": "THEA", "code": "TDGR 240", "title": "Directing Seminar", "units": "1\u20136"}
-{"dept": "THEA", "code": "TDGR 243", "title": "Director/Playwright/Choreographer Lab", "units": "4"}
-{"dept": "THEA", "code": "TDGR 244", "title": "New Plays Workshop", "units": "2"}
-{"dept": "THEA", "code": "TDGR 245", "title": "Directing Practicum", "units": "4"}
-{"dept": "THEA", "code": "TDGR 250", "title": "Playwriting Seminar", "units": "4"}
-{"dept": "THEA", "code": "TDGR 251", "title": "Playwriting Practicum", "units": "2"}
-{"dept": "THEA", "code": "TDGR 252", "title": "Dramaturgy Seminar", "units": "4"}
-{"dept": "THEA", "code": "TDGR 253", "title": "Dramaturgy Practicum", "units": "1\u20136"}
-{"dept": "THEA", "code": "TDGR 254", "title": "Television Writing", "units": "4"}
-{"dept": "THEA", "code": "TDGR 255", "title": "Writing for Performance", "units": "4"}
-{"dept": "THEA", "code": "TDGR 256", "title": "Contemporary Plays", "units": "1\u20134"}
-{"dept": "THEA", "code": "TDGR 257A-B", "title": ". Screenwriting", "units": "4-4"}
-{"dept": "THEA", "code": "TDGR 258A", "title": "Dramatization and Adaptation", "units": "4"}
-{"dept": "THEA", "code": "TDGR 260", "title": "New-Play Festival", "units": "4"}
-{"dept": "THEA", "code": "TDGR 262", "title": "Crossing Boundaries: Design Improvisations", "units": "4"}
-{"dept": "THEA", "code": "TDGR 268", "title": "Storyboarding", "units": "4"}
-{"dept": "THEA", "code": "TDGR 269A", "title": "Photoshop I", "units": "4"}
-{"dept": "THEA", "code": "TDGR 269B", "title": "Photoshop II", "units": "4"}
-{"dept": "THEA", "code": "TDGR 270A", "title": "Design Studio I", "units": "4"}
-{"dept": "THEA", "code": "TDGR 270B", "title": "Design Studio I: Costume Design", "units": "4"}
-{"dept": "THEA", "code": "TDGR 270C", "title": "Design Studio I: Lighting Design", "units": "4"}
-{"dept": "THEA", "code": "TDGR 270D", "title": "Design Studio I: Sound Design", "units": "4"}
-{"dept": "THEA", "code": "TDGR 271", "title": "Design Seminar", "units": "2"}
-{"dept": "THEA", "code": "TDGR 273", "title": "Fashioning the Body", "units": "4"}
-{"dept": "THEA", "code": "TDGR 274", "title": "Advanced Scenic Design", "units": "4"}
-{"dept": "THEA", "code": "TDGR 275", "title": "Advanced Lighting Design", "units": "4"}
-{"dept": "THEA", "code": "TDGR 276", "title": "Advanced Costume Design", "units": "4"}
-{"dept": "THEA", "code": "TDGR 278", "title": "Special Topics in Theatre Design", "units": "1\u20136"}
-{"dept": "THEA", "code": "TDGR 279", "title": "Design Practicum", "units": "4"}
-{"dept": "THEA", "code": "TDGR 280A", "title": "Stage Management 1", "units": "4"}
-{"dept": "THEA", "code": "TDGR 280B", "title": "Stage Management 2", "units": "4"}
-{"dept": "THEA", "code": "TDGR 280C", "title": "Stage Management 3", "units": "4"}
-{"dept": "THEA", "code": "TDGR 282", "title": "Advanced Sound Design", "units": "4"}
-{"dept": "THEA", "code": "TDGR 286", "title": "Special Topics in Stage Management", "units": "1\u20136"}
-{"dept": "THEA", "code": "TDGR 288", "title": "Stage Management Seminar", "units": "4"}
-{"dept": "THEA", "code": "TDGR 289", "title": "Introduction to Doctoral Studies", "units": "4"}
-{"dept": "THEA", "code": "TDGR 290", "title": "Dramatic Literature and Theatre History Prior to 1900", "units": "4"}
-{"dept": "THEA", "code": "TDGR 291", "title": "Dramatic Literature and Theatre History 1900 to the Present", "units": "4"}
-{"dept": "THEA", "code": "TDGR 292", "title": "Cultural and Critical Theory", "units": "4"}
-{"dept": "THEA", "code": "TDGR 293", "title": "Directed Studies", "units": "4\u201312"}
-{"dept": "THEA", "code": "TDGR 294", "title": "Dissertation Research", "units": "4\u201312"}
-{"dept": "THEA", "code": "TDGR 295", "title": "Acting Practicum", "units": "2"}
-{"dept": "THEA", "code": "TDGR 296", "title": "Stage Management Practicum", "units": "4"}
-{"dept": "THEA", "code": "TDGR 297", "title": "Thesis Research", "units": "2\u201312"}
-{"dept": "THEA", "code": "TDGR 299", "title": "Thesis Project", "units": "2\u201312"}
-{"dept": "THEA", "code": "TDGR 500", "title": "Introduction to Apprentice Teaching", "units": "4"}
+{"code": "TDAC 1", "title": "Introduction to Acting", "units": "4", "prereqs": null}
+{"code": "TDAC 101", "title": "Acting I", "units": "4", "prereqs": "TDAC 1"}
+{"code": "TDAC 102", "title": "Acting II", "units": "4", "prereqs": "TDAC 101"}
+{"code": "TDAC 103A", "title": "Acting Intensive I", "units": "4", "prereqs": "TDAC 102"}
+{"code": "TDAC 103B", "title": "Acting Intensive II", "units": "4", "prereqs": "TDAC 103A"}
+{"code": "TDAC 104", "title": "Classical Text", "units": "4", "prereqs": "TDAC 102"}
+{"code": "TDAC 105", "title": "Rehearsing Shakespeare", "units": "4", "prereqs": "TDAC 102"}
+{"code": "TDAC 106", "title": "Chekhov Acting", "units": "4", "prereqs": "TDAC 102"}
+{"code": "TDAC 107", "title": "Improvisation for the Theatre", "units": "4", "prereqs": "TDAC 1"}
+{"code": "TDAC 108", "title": "Advanced Topics", "units": "4", "prereqs": "TDAC 102"}
+{"code": "TDAC 109", "title": "Singing for Actors", "units": "4", "prereqs": "TDAC 1"}
+{"code": "TDAC 110", "title": "Acting for the Camera", "units": "4", "prereqs": "TDAC 102"}
+{"code": "TDAC 111", "title": "Freeing the Voice", "units": "4", "prereqs": "TDAC 101"}
+{"code": "TDAC 112", "title": "Senior Seminar in Acting", "units": "4", "prereqs": "TDAC 102"}
+{"code": "TDAC 115", "title": "Movement for Actors", "units": "4", "prereqs": "TDAC 101"}
+{"code": "TDAC 120", "title": "Ensemble", "units": "4", "prereqs": null}
+{"code": "TDAC 122", "title": "Ensemble: Undergraduate Production", "units": "4", "prereqs": null}
+{"code": "TDAC 123", "title": "Advanced Studies in Performance", "units": "4", "prereqs": null}
+{"code": "TDDE 1", "title": "Introduction to Design for the Theatre", "units": "4", "prereqs": null}
+{"code": "TDDE 101", "title": "Theatre Process\u2014Scenery", "units": "4", "prereqs": {"type": "one", "courses": ["TDDE 1", "TDPR 1"]}}
+{"code": "TDDE 102", "title": "Advanced Scenic Design", "units": "4", "prereqs": {"type": "all", "courses": ["TDDE 1", "TDDE 101"]}}
+{"code": "TDDE 111", "title": "Theatre Process\u2014Costume Design", "units": "4", "prereqs": "TDDE 1"}
+{"code": "TDDE 112", "title": "Advanced Costume Design", "units": "4", "prereqs": {"type": "all", "courses": ["TDDE 1", "TDDE 111"]}}
+{"code": "TDDE 121", "title": "Theatre Process\u2014Lighting Design", "units": "4", "prereqs": {"type": "one", "courses": ["TDDE 1", "TDPR 3"]}}
+{"code": "TDDE 130", "title": "Assistant Designer", "units": "2\u20136", "prereqs": {"type": "one", "courses": ["TDDE 1", "TDPR 1", "TDPR 2", "TDPR 3", "TDPR 5"]}}
+{"code": "TDDE 131", "title": "Special Topics in Theatre Design", "units": "4", "prereqs": "TDDE 1"}
+{"code": "TDDE 132", "title": "Undergraduate Main Stage Production: Design", "units": "4", "prereqs": {"type": "all", "courses": ["TDDE 1", {"type": "one", "courses": ["TDDE 101", "TDDE 121", "TDDE 131"]}]}}
+{"code": "TDDE 141", "title": "Theatre Process\u2014Sound Design", "units": "4", "prereqs": {"type": "one", "courses": ["TDPR 5", "TDPR 6", "TDDE 1", "MUS 173"]}}
+{"code": "TDDE 142", "title": "Advanced Sound Design", "units": "4", "prereqs": {"type": "all", "courses": ["TDDE 1", "TDDE 141"]}}
+{"code": "TDDE 151", "title": "Digital Video Design", "units": "4", "prereqs": null}
+{"code": "TDDE 169A", "title": "Digital Rendering for Theatre and Performance Design I", "units": "4", "prereqs": null}
+{"code": "TDDE 169B", "title": "Digital Rendering for Theatre and Performance Design II", "units": "4", "prereqs": "TDDE 169A"}
+{"code": "TDDE 190", "title": "Major Project in Design/Theatre Production", "units": "4", "prereqs": null}
+{"code": "TDDR 101", "title": "Stage Management", "units": "4", "prereqs": null}
+{"code": "TDDR 102", "title": "Advanced Stage Management", "units": "4", "prereqs": "TDDR 101"}
+{"code": "TDDR 108", "title": "Text Analysis for Actors and Directors", "units": "4", "prereqs": null}
+{"code": "TDDR 111", "title": "Directing-Acting Process", "units": "4", "prereqs": {"type": "one", "courses": ["TDDR 108", "TDHT 10"]}}
+{"code": "TDDR 190", "title": "Major Project in Directing", "units": "4", "prereqs": {"type": "all", "courses": ["TDDR 108", "TDDR 111"]}}
+{"code": "TDDR 191", "title": "Major Project in Stage Management", "units": "4", "prereqs": {"type": "all", "courses": ["TDPR 4", "TDPR 104", "TDDR 101"]}}
+{"code": "TDDM 1", "title": "Introduction to Dance Making", "units": "4", "prereqs": null}
+{"code": "TDDM 5", "title": "Site Specific Dance and Performance", "units": "4", "prereqs": null}
+{"code": "TDDM 100", "title": "Dance Making 1", "units": "4", "prereqs": "TDDM 1"}
+{"code": "TDDM 101", "title": "Dance Making 2", "units": "4", "prereqs": "TDDM 1"}
+{"code": "TDGE 1", "title": "Introduction to Theatre", "units": "4", "prereqs": null}
+{"code": "TDGE 3", "title": "Cultivating the Creative Mind", "units": "4", "prereqs": null}
+{"code": "TDGE 5", "title": "A Glimpse into Acting", "units": "4", "prereqs": null}
+{"code": "TDGE 10", "title": "Theatre and Film", "units": "4", "prereqs": null}
+{"code": "TDGE 11", "title": "Great Performances on Film", "units": "4", "prereqs": null}
+{"code": "TDGE 12", "title": "Topics in Cinema and Race", "units": "4", "prereqs": null}
+{"code": "TDGE 25", "title": "Public Speaking", "units": "4", "prereqs": null}
+{"code": "TDGE 50", "title": "Musical Theatre Chorus", "units": "2", "prereqs": null}
+{"code": "TDGE 87", "title": "First-year Student Seminar in Theatre and Dance", "units": "1", "prereqs": null}
+{"code": "TDGE 89", "title": "Dance Movement Exploration", "units": "4", "prereqs": null}
+{"code": "TDGE 100", "title": "Creating the Role of \u201cLeader\u201d", "units": "4", "prereqs": null}
+{"code": "TDGE 105", "title": "Exploring Acting", "units": "4", "prereqs": "TDGE 5"}
+{"code": "TDGE 122", "title": "The Films of Woody Allen", "units": "4", "prereqs": null}
+{"code": "TDGE 124", "title": "Cult Films: Weirdly Dramatic", "units": "4", "prereqs": null}
+{"code": "TDGE 125", "title": "Topics in Theatre and Film", "units": "4", "prereqs": null}
+{"code": "TDGE 126", "title": "Storytelling and Design in Animation", "units": "4", "prereqs": null}
+{"code": "TDGE 131", "title": "Playing Indian: Native American and First Nations Cinema", "units": "4", "prereqs": null}
+{"code": "TDGE 131R", "title": "Playing Indian: Native American and First Nations Cinema", "units": "4", "prereqs": null}
+{"code": "TDGE 133", "title": "Visual Ideas", "units": "4", "prereqs": null}
+{"code": "TDGE 134", "title": "Disability and Performative Exploration: Struggle for Inclusion", "units": "4", "prereqs": null}
+{"code": "TDGE 192", "title": "Senior Seminar in Theatre and Dance", "units": "1", "prereqs": null}
+{"code": "TDGE 196A", "title": "Honors Study in Theatre and Dance", "units": "4", "prereqs": null}
+{"code": "TDGE 196B", "title": "Honors Study in Theatre and Dance", "units": "4", "prereqs": "TDGE 196A"}
+{"code": "TDGE 198", "title": "Directed Group Studies", "units": "0-2-4", "prereqs": null}
+{"code": "TDGE 199", "title": "Special Projects", "units": "0-2-4", "prereqs": null}
+{"code": "TDHD 20", "title": "Looking at Dance", "units": "4", "prereqs": "TDTR 10"}
+{"code": "TDHD 21", "title": "Dance Pioneers of the Twentieth and Twenty-First Centuries", "units": "4", "prereqs": "TDTR 10"}
+{"code": "TDHD 175", "title": "Cultural Perspectives on Dance", "units": "4", "prereqs": "TDTR 10"}
+{"code": "TDHD 176", "title": "Dance History\u2014Special Topics", "units": "4", "prereqs": "TDTR 10"}
+{"code": "TDHT 10", "title": "Introduction to Play Analysis", "units": "4", "prereqs": null}
+{"code": "TDHT 21", "title": "Ancient and Medieval Theatre", "units": "4", "prereqs": null}
+{"code": "TDHT 22", "title": "Theatre 1500\u20131900", "units": "4", "prereqs": null}
+{"code": "TDHT 23", "title": "Twentieth-Century Theatre", "units": "4", "prereqs": null}
+{"code": "TDHT 101", "title": "Topics in Dramatic Literature and Theatre History", "units": "4", "prereqs": null}
+{"code": "TDHT 103", "title": "Asian American Theatre", "units": "4", "prereqs": null}
+{"code": "TDHT 104", "title": "Italian Comedy", "units": "4", "prereqs": null}
+{"code": "TDHT 105", "title": "French Comedy", "units": "4", "prereqs": null}
+{"code": "TDHT 107", "title": "American Theatre", "units": "4", "prereqs": null}
+{"code": "TDHT 108", "title": "Luis Valdez", "units": "4", "prereqs": null}
+{"code": "TDHT 109", "title": "African American Theatre", "units": "4", "prereqs": null}
+{"code": "TDHT 110", "title": "Chicanx Theatre", "units": "4", "prereqs": null}
+{"code": "TDHT 111", "title": "Latinx Theatre and Performance", "units": "4", "prereqs": null}
+{"code": "TDHT 114", "title": "American Musical Theatre", "units": "4", "prereqs": null}
+{"code": "TDHT 115", "title": "History and Theory of Directing", "units": "4", "prereqs": null}
+{"code": "TDHT 119", "title": "Production Dramaturgy", "units": "4", "prereqs": null}
+{"code": "TDHT 120", "title": "Indigenous Theatre and Performance", "units": "4", "prereqs": null}
+{"code": "TDHT 190", "title": "The New York Theatre and Dance Scene", "units": "4", "prereqs": null}
+{"code": "TDMV 1", "title": "Beginning Ballet", "units": "2", "prereqs": null}
+{"code": "TDMV 2", "title": "Beginning Contemporary Dance", "units": "4", "prereqs": null}
+{"code": "TDMV 3", "title": "Beginning Jazz", "units": "2", "prereqs": null}
+{"code": "TDMV 5", "title": "Yoga for Dance", "units": "2", "prereqs": null}
+{"code": "TDMV 11", "title": "Theatrical Tap", "units": "2", "prereqs": null}
+{"code": "TDMV 20", "title": "Movement Laboratory", "units": "4", "prereqs": null}
+{"code": "TDMV 110", "title": "Intermediate Ballet", "units": "4", "prereqs": "TDMV 1"}
+{"code": "TDMV 111", "title": "Advanced Ballet", "units": "4", "prereqs": "TDMV 110"}
+{"code": "TDMV 112", "title": "Advanced Ballet for Contemporary Dance", "units": "4", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["THDA 101A", "THDA 101B", "THDA 101C"]}, "TDMV 111"]}}
+{"code": "TDMV 120", "title": "Intermediate Contemporary Dance", "units": "4", "prereqs": "TDMV 2"}
+{"code": "TDMV 122", "title": "Advanced Contemporary Dance", "units": "4", "prereqs": "TDMV 120"}
+{"code": "TDMV 123", "title": "Contact Improvisation", "units": "4", "prereqs": null}
+{"code": "TDMV 130", "title": "Intermediate Jazz", "units": "4", "prereqs": "TDMV 3"}
+{"code": "TDMV 133", "title": "Advanced Jazz Dance", "units": "4", "prereqs": "TDMV 130"}
+{"code": "TDMV 138", "title": "Beginning Hip-Hop", "units": "4", "prereqs": null}
+{"code": "TDMV 140", "title": "Beginning Dances of the World", "units": "4", "prereqs": null}
+{"code": "TDMV 141", "title": "Advanced Dances of the World", "units": "4", "prereqs": {"type": "one", "courses": ["THDA 132", "TDMV 136", "TDMV 142", "TDMV 143", "TDMV 144"]}}
+{"code": "TDMV 142", "title": "Latin Dance of the World", "units": "4", "prereqs": null}
+{"code": "TDMV 143", "title": "West African Dance", "units": "4", "prereqs": null}
+{"code": "TDMV 144", "title": "Asian Dance", "units": "4", "prereqs": null}
+{"code": "TDMV 146", "title": "Intermediate Latin Dances of the World", "units": "4", "prereqs": "TDMV 142"}
+{"code": "TDMV 148", "title": "Intermediate Hip-Hop", "units": "4", "prereqs": "TDMV 138"}
+{"code": "TDMV 149", "title": "Advanced Hip-Hop", "units": "4", "prereqs": "TDMV 138"}
+{"code": "TDMV 190", "title": "Major Project as Performer", "units": "4", "prereqs": null}
+{"code": "TDPF 160", "title": "Studies in Performance\u2014Fall Production", "units": "2\u20134", "prereqs": {"type": "one", "courses": ["TDMV 110", "TDMV 111", "TDMV 112", "TDMV 120", "TDMV 122", "TDMV 130", "TDMV 133"]}}
+{"code": "TDPF 161", "title": "Studies in Performance\u2014Winter Production", "units": "2\u20134", "prereqs": {"type": "all", "courses": ["TDMV 163", {"type": "one", "courses": ["TDMV 110", "TDMV 111", "TDMV 112", "TDMV 120", "TDMV 122", "TDMV 130", "TDMV 133"]}]}}
+{"code": "TDPF 162", "title": "Studies in Performance Spring Production", "units": "2\u20134", "prereqs": {"type": "all", "courses": ["TDMV 163", {"type": "one", "courses": ["TDMV 110", "TDMV 111", "TDMV 112", "TDMV 120", "TDMV 122", "TDMV 130", "TDMV 133"]}]}}
+{"code": "TDPF 163", "title": "Dance Repertory", "units": "1\u20134", "prereqs": {"type": "one", "courses": ["TDPF 160", "TDPF 161", "TDPF 162"]}}
+{"code": "TDPF 190", "title": "Major Project/Dance Production", "units": "4", "prereqs": null}
+{"code": "TDPR 6", "title": "Theatre Practicum", "units": "4\u20136", "prereqs": null}
+{"code": "TDPR 102", "title": "Advanced Theatre Practicum", "units": "4\u20136", "prereqs": {"type": "one", "courses": ["TDPR 1", "TDPR 2", "TDPR 3", "TDPR 5"]}}
+{"code": "TDPR 104", "title": "Advanced Practicum in Stage Management", "units": "4\u20136", "prereqs": "TDDR 101"}
+{"code": "TDPW 1", "title": "Introduction to Playwriting", "units": "4", "prereqs": null}
+{"code": "TDPW 101", "title": "Intermediate Playwriting", "units": "4", "prereqs": "TDPW 1"}
+{"code": "TDPW 102", "title": "Advanced Playwriting", "units": "4", "prereqs": "TDPW 101"}
+{"code": "TDPW 104", "title": "Screenwriting", "units": "4", "prereqs": "TDPW 1"}
+{"code": "TDPW 190", "title": "Major Project in Playwriting/Screenwriting", "units": "4", "prereqs": {"type": "all", "courses": ["TDPW 1", "TDPW 101"]}}
+{"code": "TDTR 10", "title": "Introduction to Dance", "units": "4", "prereqs": null}
+{"code": "TDTR 15", "title": "Dance Movement and Analysis", "units": "4", "prereqs": null}
+{"code": "TDTR 20", "title": "Dance on Film", "units": "4", "prereqs": null}
+{"code": "TDTR 104", "title": "Dance Theory and Pedagogy", "units": "4", "prereqs": null}
+{"code": "TDGR 200", "title": "Dynamics", "units": "1", "prereqs": null}
+{"code": "TDGR 201", "title": "Stage Combat", "units": "2", "prereqs": null}
+{"code": "TDGR 204A", "title": "Text Analysis", "units": "4", "prereqs": null}
+{"code": "TDGR 204B", "title": "Contemporary Theories of Theatre", "units": "4", "prereqs": "TDGR 204A"}
+{"code": "TDGR 204C", "title": "Collective Creation", "units": "4", "prereqs": "TDGR 204B"}
+{"code": "TDGR 206", "title": "Faculty Directed Production", "units": "4", "prereqs": null}
+{"code": "TDGR 207", "title": "Production", "units": "4", "prereqs": null}
+{"code": "TDGR 208", "title": "Dance Making Processes", "units": "4", "prereqs": null}
+{"code": "TDGR 210A", "title": "Process I\u2014Part I", "units": "4", "prereqs": null}
+{"code": "TDGR 210B", "title": "Process I\u2014Part II", "units": "4", "prereqs": "TDGR 210A"}
+{"code": "TDGR 210C", "title": "Process I\u2014Part III", "units": "4", "prereqs": "TDGR 210B"}
+{"code": "TDGR 211B", "title": "Speech for the Actor", "units": "2\u20134", "prereqs": "TDGR 211A"}
+{"code": "TDGR 211C", "title": "Speech for the Actor", "units": "2\u20134", "prereqs": "TDGR 211B"}
+{"code": "TDGR 212", "title": "Acting Practicum", "units": "2", "prereqs": null}
+{"code": "TDGR 213A-B-C", "title": ". Movement for Theatre I", "units": "2-2-2", "prereqs": {"type": "all", "courses": ["TDGR 213A", "TDGR 213B"]}}
+{"code": "TDGR 214A", "title": "Voice for Theatre I\u2014Part I", "units": "3", "prereqs": null}
+{"code": "TDGR 214B", "title": "Voice for Theatre II\u2014Part I", "units": "3", "prereqs": "TDGR 214A"}
+{"code": "TDGR 214C", "title": "Voice for Theatre I\u2014Part III", "units": "3", "prereqs": "TDGR 214B"}
+{"code": "TDGR 215A", "title": "Special Topics in Dance Making", "units": "4", "prereqs": null}
+{"code": "TDGR 216A", "title": "Pedagogical Practices", "units": "4", "prereqs": null}
+{"code": "TDGR 217", "title": "New Media and Technology", "units": "4", "prereqs": null}
+{"code": "TDGR 218A", "title": "Professional Practices", "units": "4", "prereqs": null}
+{"code": "TDGR 219", "title": "Directing Process Studio", "units": "4", "prereqs": null}
+{"code": "TDGR 220A", "title": "Process II: Classical Text I", "units": "4", "prereqs": null}
+{"code": "TDGR 220B", "title": "Process II: Classical Text II", "units": "4", "prereqs": "TDGR 220A"}
+{"code": "TDGR 220C", "title": "Process II: Classical Text III", "units": "4", "prereqs": "TDGR 220B"}
+{"code": "TDGR 221", "title": "Graduate Studio: Contemporary Movement Practices", "units": "4", "prereqs": null}
+{"code": "TDGR 221A-B", "title": ". Speech for the Actor II", "units": "3-3", "prereqs": "TDGR 221A"}
+{"code": "TDGR 223A-B", "title": ". Movement for Theatre II", "units": "3-3", "prereqs": "TDGR 223A"}
+{"code": "TDGR 224A-B", "title": ". Voice for Theatre II", "units": "3-3", "prereqs": "TDGR 224A"}
+{"code": "TDGR 225A-B", "title": ". Singing for the Actor II", "units": "1-1", "prereqs": null}
+{"code": "TDGR 226", "title": "Stage Managing Assistantship", "units": "4\u201312", "prereqs": null}
+{"code": "TDGR 227A", "title": "Production Practicum", "units": "4", "prereqs": null}
+{"code": "TDGR 229", "title": "Theatre Externship", "units": "6\u201312", "prereqs": null}
+{"code": "TDGR 230", "title": "Acting Process III: Actors\u2019 Studio", "units": "2\u20134", "prereqs": null}
+{"code": "TDGR 231A", "title": "Professional Preparation for the Actor", "units": "4", "prereqs": null}
+{"code": "TDGR 233", "title": "Acting for the Camera", "units": "1", "prereqs": null}
+{"code": "TDGR 235", "title": "Singing for the Actor III", "units": "1", "prereqs": null}
+{"code": "TDGR 239", "title": "Skills", "units": "4", "prereqs": null}
+{"code": "TDGR 240", "title": "Directing Seminar", "units": "1\u20136", "prereqs": null}
+{"code": "TDGR 243", "title": "Director/Playwright/Choreographer Lab", "units": "4", "prereqs": null}
+{"code": "TDGR 244", "title": "New Plays Workshop", "units": "2", "prereqs": null}
+{"code": "TDGR 245", "title": "Directing Practicum", "units": "4", "prereqs": null}
+{"code": "TDGR 250", "title": "Playwriting Seminar", "units": "4", "prereqs": null}
+{"code": "TDGR 251", "title": "Playwriting Practicum", "units": "2", "prereqs": null}
+{"code": "TDGR 252", "title": "Dramaturgy Seminar", "units": "4", "prereqs": null}
+{"code": "TDGR 253", "title": "Dramaturgy Practicum", "units": "1\u20136", "prereqs": null}
+{"code": "TDGR 254", "title": "Television Writing", "units": "4", "prereqs": null}
+{"code": "TDGR 255", "title": "Writing for Performance", "units": "4", "prereqs": null}
+{"code": "TDGR 256", "title": "Contemporary Plays", "units": "1\u20134", "prereqs": null}
+{"code": "TDGR 257A-B", "title": ". Screenwriting", "units": "4-4", "prereqs": "TDGR 250"}
+{"code": "TDGR 258A", "title": "Dramatization and Adaptation", "units": "4", "prereqs": null}
+{"code": "TDGR 260", "title": "New-Play Festival", "units": "4", "prereqs": null}
+{"code": "TDGR 262", "title": "Crossing Boundaries: Design Improvisations", "units": "4", "prereqs": null}
+{"code": "TDGR 268", "title": "Storyboarding", "units": "4", "prereqs": null}
+{"code": "TDGR 269A", "title": "Photoshop I", "units": "4", "prereqs": null}
+{"code": "TDGR 269B", "title": "Photoshop II", "units": "4", "prereqs": null}
+{"code": "TDGR 270A", "title": "Design Studio I", "units": "4", "prereqs": null}
+{"code": "TDGR 270B", "title": "Design Studio I: Costume Design", "units": "4", "prereqs": "THGR 270A"}
+{"code": "TDGR 270C", "title": "Design Studio I: Lighting Design", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["THGR 270A", "TDGR 270A"]}, {"type": "one", "courses": ["THGR 270B", "TDGR 270B"]}]}}
+{"code": "TDGR 270D", "title": "Design Studio I: Sound Design", "units": "4", "prereqs": {"type": "all", "courses": ["THGR 270A", "THGR 270B"]}}
+{"code": "TDGR 271", "title": "Design Seminar", "units": "2", "prereqs": null}
+{"code": "TDGR 273", "title": "Fashioning the Body", "units": "4", "prereqs": null}
+{"code": "TDGR 274", "title": "Advanced Scenic Design", "units": "4", "prereqs": null}
+{"code": "TDGR 275", "title": "Advanced Lighting Design", "units": "4", "prereqs": null}
+{"code": "TDGR 276", "title": "Advanced Costume Design", "units": "4", "prereqs": null}
+{"code": "TDGR 278", "title": "Special Topics in Theatre Design", "units": "1\u20136", "prereqs": null}
+{"code": "TDGR 279", "title": "Design Practicum", "units": "4", "prereqs": null}
+{"code": "TDGR 280A", "title": "Stage Management 1", "units": "4", "prereqs": null}
+{"code": "TDGR 280B", "title": "Stage Management 2", "units": "4", "prereqs": "TDGR 280A"}
+{"code": "TDGR 280C", "title": "Stage Management 3", "units": "4", "prereqs": {"type": "all", "courses": ["TDGR 280A", "TDGR 280B"]}}
+{"code": "TDGR 282", "title": "Advanced Sound Design", "units": "4", "prereqs": null}
+{"code": "TDGR 286", "title": "Special Topics in Stage Management", "units": "1\u20136", "prereqs": null}
+{"code": "TDGR 288", "title": "Stage Management Seminar", "units": "4", "prereqs": null}
+{"code": "TDGR 289", "title": "Introduction to Doctoral Studies", "units": "4", "prereqs": null}
+{"code": "TDGR 290", "title": "Dramatic Literature and Theatre History Prior to 1900", "units": "4", "prereqs": null}
+{"code": "TDGR 291", "title": "Dramatic Literature and Theatre History 1900 to the Present", "units": "4", "prereqs": null}
+{"code": "TDGR 292", "title": "Cultural and Critical Theory", "units": "4", "prereqs": null}
+{"code": "TDGR 293", "title": "Directed Studies", "units": "4\u201312", "prereqs": null}
+{"code": "TDGR 294", "title": "Dissertation Research", "units": "4\u201312", "prereqs": null}
+{"code": "TDGR 295", "title": "Acting Practicum", "units": "2", "prereqs": null}
+{"code": "TDGR 296", "title": "Stage Management Practicum", "units": "4", "prereqs": null}
+{"code": "TDGR 297", "title": "Thesis Research", "units": "2\u201312", "prereqs": null}
+{"code": "TDGR 299", "title": "Thesis Project", "units": "2\u201312", "prereqs": null}
+{"code": "TDGR 500", "title": "Introduction to Apprentice Teaching", "units": "4", "prereqs": null}

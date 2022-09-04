@@ -1,159 +1,159 @@
-{"dept": "PHYS", "code": "PHYS 1A", "title": "Mechanics", "units": "3"}
-{"dept": "PHYS", "code": "PHYS 1AL", "title": "Mechanics Laboratory", "units": "2"}
-{"dept": "PHYS", "code": "PHYS 1B", "title": "Electricity and Magnetism", "units": "3"}
-{"dept": "PHYS", "code": "PHYS 1BL", "title": "Electricity and Magnetism Laboratory", "units": "2"}
-{"dept": "PHYS", "code": "PHYS 1C", "title": "Waves, Optics, and Modern Physics", "units": "3"}
-{"dept": "PHYS", "code": "PHYS 1CL", "title": "Waves, Optics, and Modern Physics Laboratory", "units": "2"}
-{"dept": "PHYS", "code": "PHYS 2A", "title": "Physics\u2014Mechanics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 2AR", "title": "Physics\u2014Mechanics", "units": "distance education"}
-{"dept": "PHYS", "code": "PHYS 2B", "title": "Physics\u2014Electricity and Magnetism", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 2BL", "title": "Physics Laboratory\u2014Mechanics", "units": "2"}
-{"dept": "PHYS", "code": "PHYS 2C", "title": "Physics\u2014Fluids, Waves, Thermodynamics, and Optics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 2CL", "title": "Physics Laboratory\u2014Electricity and Magnetism", "units": "2"}
-{"dept": "PHYS", "code": "PHYS 2D", "title": "Physics\u2014Relativity and Quantum Physics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 2DL", "title": "Physics Laboratory\u2014Modern Physics", "units": "2"}
-{"dept": "PHYS", "code": "PHYS 4A", "title": "Physics for Physics Majors\u2014Mechanics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 4B", "title": "Physics for Physics Majors\u2014Fluids, Waves, Statistical and Thermal Physics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 4C", "title": "Physics for Physics Majors\u2014Electricity and Magnetism", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 4D", "title": "Physics for Physics Majors\u2014Electromagnetic Waves, Special Relativity and Optics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 4E", "title": "Physics for Physics Majors\u2014Quantum Physics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 5", "title": "Stars and Black Holes", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 7", "title": "Galaxies and Cosmology", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 8", "title": "Physics of Everyday Life", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 9", "title": "The Solar System", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 10", "title": "Concepts in Physics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 11", "title": "Survey of Physics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 12", "title": "Energy and the Environment", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 13", "title": "Life in the Universe", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 30", "title": "Poetry for Physicists", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 87", "title": "First-year Student Seminar in Physics and Astrophysics", "units": "1"}
-{"dept": "PHYS", "code": "PHYS 98", "title": "Directed Group Study", "units": "2"}
-{"dept": "PHYS", "code": "PHYS 99", "title": "Independent Study", "units": "2"}
-{"dept": "PHYS", "code": "PHYS 100A", "title": "Electromagnetism I", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 100B", "title": "Electromagnetism II", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 100C", "title": "Electromagnetism III", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 105A", "title": "Mathematical and Computational Physics I", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 105B", "title": "Mathematical and Computational Physics II", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 110A", "title": "Mechanics I", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 110B", "title": "Mechanics II", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 111", "title": "Introduction to Ocean Waves", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 116", "title": "Fluid Dynamics for Physicists", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 120", "title": "Circuits and Electronics", "units": "5"}
-{"dept": "PHYS", "code": "PHYS 122", "title": "Experimental Techniques", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 124", "title": "Laboratory Projects", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 130A", "title": "Quantum Physics I", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 130B", "title": "Quantum Physics II", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 130C", "title": "Quantum Physics III", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 133", "title": "Condensed Matter/Materials Science Laboratory", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 137", "title": "String Theory", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 139", "title": "Physics Special Topics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 140A", "title": "Statistical and Thermal Physics I", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 140B", "title": "Statistical and Thermal Physics II", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 141", "title": "Computational Physics I: Probabilistic Models and Simulations", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 142", "title": "Computational Physics II: PDE and Matrix Models", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 151", "title": "Elementary Plasma Physics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 152A", "title": "Condensed Matter Physics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 152B", "title": "Electronic Materials", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 154", "title": "Elementary Particle Physics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 160", "title": "Stellar Astrophysics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 161", "title": "Black Holes", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 162", "title": "Cosmology", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 163", "title": "Galaxies and Quasars", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 164", "title": "Observational Astrophysics Research Lab", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 170", "title": "Medical Instruments: Principles and Practice", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 173", "title": "Modern Physics Laboratory: Biological and Quantum Physics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 175", "title": "Biological Physics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 176", "title": "Quantitative Molecular Biology", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 177", "title": "Physics of the Cell", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 178", "title": "Biophysics of Neurons and Networks", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 191", "title": "Undergraduate Seminar on Physics", "units": "1"}
-{"dept": "PHYS", "code": "PHYS 192", "title": "Senior Seminar in Physics", "units": "1"}
-{"dept": "PHYS", "code": "PHYS 198", "title": "Directed Group Study", "units": "2 or 4"}
-{"dept": "PHYS", "code": "PHYS 199", "title": "Research for Undergraduates", "units": "2 or 4"}
-{"dept": "PHYS", "code": "PHYS 199H", "title": "Honors Thesis Research for Undergraduates", "units": "2\u20134"}
-{"dept": "PHYS", "code": "PHYA 200", "title": "Survey of Astronomy", "units": "4"}
-{"dept": "PHYS", "code": "PHYA 201", "title": "Radiative Processes", "units": "4"}
-{"dept": "PHYS", "code": "PHYA 202", "title": "Astrophysical Fluid Dynamics", "units": "4"}
-{"dept": "PHYS", "code": "PHYA 222", "title": "Planets and Exoplanets", "units": "4"}
-{"dept": "PHYS", "code": "PHYA 223", "title": "Stellar Structure and Evolution", "units": "4"}
-{"dept": "PHYS", "code": "PHYA 224", "title": "Physics of the Interstellar Medium", "units": "4"}
-{"dept": "PHYS", "code": "PHYA 226", "title": "Galaxies and Galactic Dynamics", "units": "4"}
-{"dept": "PHYS", "code": "PHYA 229", "title": "Astronomical Instrumentation and Observational Techniques", "units": "4"}
-{"dept": "PHYS", "code": "PHYA 230", "title": "Computational Astrophysics", "units": "4"}
-{"dept": "PHYS", "code": "PHYA 231", "title": "Astrophysical Kinetics", "units": "4"}
-{"dept": "PHYS", "code": "PHYA 232", "title": "Astrostatistics", "units": "4"}
-{"dept": "PHYS", "code": "PHYA 233", "title": "Astrophysical Dynamics", "units": "4"}
-{"dept": "PHYS", "code": "PHYA 234", "title": "Astrophysical Plasmas", "units": "4"}
-{"dept": "PHYS", "code": "PHYA 238", "title": "Observational Astrophysics Lab", "units": "4"}
-{"dept": "PHYS", "code": "PHYA 296", "title": "Year Two Research in Astronomy", "units": "4"}
-{"dept": "PHYS", "code": "PHYA 298", "title": "Directed Study in Astronomy", "units": "1-12"}
-{"dept": "PHYS", "code": "PHYA 299", "title": "Thesis Research in Astronomy", "units": "1-12"}
-{"dept": "PHYS", "code": "PHYS 200A", "title": "Theoretical Mechanics I", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 200B", "title": "Theoretical Mechanics II", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 201", "title": "Mathematical Methods for Physics", "units": "5"}
-{"dept": "PHYS", "code": "PHYS 202", "title": "Estimation and Scaling in Physics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 203A", "title": "Advanced Classical Electrodynamics I", "units": "5"}
-{"dept": "PHYS", "code": "PHYS 203B", "title": "Advanced Classical Electrodynamics II", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 210A", "title": "Equilibrium Statistical Mechanics", "units": "5"}
-{"dept": "PHYS", "code": "PHYS 210B", "title": "Nonequilibrium Statistical Mechanics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 211A", "title": "Solid-State Physics I", "units": "5"}
-{"dept": "PHYS", "code": "PHYS 211B", "title": "Solid-State Physics II", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 212A", "title": "Quantum Mechanics I", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 212B", "title": "Quantum Mechanics II", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 212C", "title": "Quantum Mechanics III", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 214", "title": "Physics of Elementary Particles", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 215A", "title": "Particles and Fields I", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 215B", "title": "Particles and Fields II", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 215C", "title": "Particles and Fields III", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 216", "title": "Fluid Dynamics for Physicists", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 217", "title": "Field Theory and the Renormalization Group", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 218A", "title": "Plasma Physics I", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 218B", "title": "Plasma Physics II", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 218C", "title": "Plasma Physics III", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 219", "title": "Condensed Matter/Materials Science Laboratory", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 220", "title": "Group Theoretical Methods in Physics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 221A", "title": "Nonlinear and Nonequilibrium Dynamics of Physical Systems", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 222A", "title": "Experimental Methods for Particle Physics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 225A-B", "title": ". General Relativity", "units": "4-4"}
-{"dept": "PHYS", "code": "PHYS 226", "title": "Galaxies and Galactic Dynamics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 227", "title": "Cosmology", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 228", "title": "High-Energy Astrophysics and Compact Objects", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 230", "title": "Advanced Solid-State Physics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 232", "title": "Electronic Materials", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 233", "title": "Collider Physics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 235", "title": "Nonlinear Plasma Theory", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 239", "title": "Special Topics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 241", "title": "Computational Physics I: Probabilistic Models and Simulations", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 242", "title": "Computational Physics II: PDE and Matrix Models", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 243", "title": "Stochastic Methods", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 244", "title": "Parallel Computing in Science and Engineering", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 250", "title": "Condensed Matter Physics Seminar", "units": "0\u20131"}
-{"dept": "PHYS", "code": "PHYS 251", "title": "High-Energy Physics Seminar", "units": "0\u20131"}
-{"dept": "PHYS", "code": "PHYS 252", "title": "Plasma Physics Seminar", "units": "0\u20131"}
-{"dept": "PHYS", "code": "PHYS 253", "title": "Astrophysics and Space Physics Seminar", "units": "0\u20131"}
-{"dept": "PHYS", "code": "PHYS 254", "title": "Biophysics Seminar", "units": "1"}
-{"dept": "PHYS", "code": "PHYS 255", "title": "Biophysics Research Talks", "units": "1"}
-{"dept": "PHYS", "code": "PHYS 256", "title": "Critical Reading in Quantitative Biology", "units": "1"}
-{"dept": "PHYS", "code": "PHYS 257", "title": "High-Energy Physics Special Topics Seminar", "units": "0\u20131"}
-{"dept": "PHYS", "code": "PHYS 258", "title": "Astrophysics and Space Physics Special Topics Seminar", "units": "0\u20131"}
-{"dept": "PHYS", "code": "PHYS 259A", "title": "Methods in Quantitative Biology", "units": "2"}
-{"dept": "PHYS", "code": "PHYS 259B", "title": "Concepts and Methods in Quantitative Physiology", "units": "2"}
-{"dept": "PHYS", "code": "PHYS 260", "title": "Physics Colloquium", "units": "0\u20131"}
-{"dept": "PHYS", "code": "PHYS 261", "title": "Seminar on Physics Research at UC San Diego", "units": "0\u20131"}
-{"dept": "PHYS", "code": "PHYS 264", "title": "Scientific Method Seminar", "units": "1"}
-{"dept": "PHYS", "code": "PHYS 270A", "title": "Experimental Techniques for Quantitative Biology", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 270B", "title": "Quantitative Biology Laboratory", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 273", "title": "Information Theory and Pattern Formation in Biological Systems", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 274", "title": "Stochastic Processes in Population Genetics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 275", "title": "Biological Physics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 276", "title": "Quantitative Molecular Biology", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 277", "title": "Physics of the Cell", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 278", "title": "Biophysics of Neurons and Networks", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 279", "title": "Neurodynamics", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 281", "title": "Extensions in Physics", "units": "1\u20133"}
-{"dept": "PHYS", "code": "PHYS 282", "title": "Spatiotemporal Dynamics of Biological Systems", "units": "4"}
-{"dept": "PHYS", "code": "PHYS 295", "title": "MS Thesis Research in Materials Physics", "units": "1\u201312"}
-{"dept": "PHYS", "code": "PHYS 297", "title": "Special Studies in Physics", "units": "1\u20134"}
-{"dept": "PHYS", "code": "PHYS 298", "title": "Directed Study in Physics", "units": "1\u201312"}
-{"dept": "PHYS", "code": "PHYS 299", "title": "Thesis Research in Physics", "units": "1\u201312"}
-{"dept": "PHYS", "code": "PHYS 500", "title": "Instruction in Physics Teaching", "units": "1\u20134"}
+{"code": "PHYS 1A", "title": "Mechanics", "units": "3", "prereqs": {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}}
+{"code": "PHYS 1AL", "title": "Mechanics Laboratory", "units": "2", "prereqs": {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}}
+{"code": "PHYS 1B", "title": "Electricity and Magnetism", "units": "3", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PHYS 1A", "PHYS 2A"]}, {"type": "one", "courses": ["MATH 10B", "MATH 20B"]}]}}
+{"code": "PHYS 1BL", "title": "Electricity and Magnetism Laboratory", "units": "2", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PHYS 1A", "PHYS 2A"]}, {"type": "one", "courses": ["PHYS 1AL", "PHYS 2BL"]}, {"type": "one", "courses": ["MATH 10B", "MATH 20B"]}]}}
+{"code": "PHYS 1C", "title": "Waves, Optics, and Modern Physics", "units": "3", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PHYS 1B", "PHYS 2B"]}, {"type": "one", "courses": ["MATH 10B", "MATH 20B"]}]}}
+{"code": "PHYS 1CL", "title": "Waves, Optics, and Modern Physics Laboratory", "units": "2", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PHYS 1B", "PHYS 2B"]}, {"type": "one", "courses": ["PHYS 1BL", "PHYS 2CL"]}, {"type": "one", "courses": ["MATH 10B", "MATH 20B"]}]}}
+{"code": "PHYS 2A", "title": "Physics\u2014Mechanics", "units": "4", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["MATH 10A", "MATH 10B"]}, "MATH 20A", "MATH 20B", "MATH 20C", "MATH 31BH"]}}
+{"code": "PHYS 2AR", "title": "Physics\u2014Mechanics", "units": "distance education", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["MATH 10A", "MATH 10B"]}, "MATH 20A", "MATH 20B", "MATH 20C", "MATH 31BH"]}}
+{"code": "PHYS 2B", "title": "Physics\u2014Electricity and Magnetism", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PHYS 2A", "PHYS 4A"]}, {"type": "one", "courses": ["MATH 20B", "MATH 20C", "MATH 31BH"]}]}}
+{"code": "PHYS 2BL", "title": "Physics Laboratory\u2014Mechanics", "units": "2", "prereqs": {"type": "one", "courses": ["PHYS 2A", "PHYS 4A"]}}
+{"code": "PHYS 2C", "title": "Physics\u2014Fluids, Waves, Thermodynamics, and Optics", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PHYS 2A", "PHYS 4A"]}, {"type": "one", "courses": ["MATH 20C", "MATH 31BH"]}]}}
+{"code": "PHYS 2CL", "title": "Physics Laboratory\u2014Electricity and Magnetism", "units": "2", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PHYS 2A", "PHYS 4A"]}, {"type": "one", "courses": ["PHYS 2B", "PHYS 4C"]}]}}
+{"code": "PHYS 2D", "title": "Physics\u2014Relativity and Quantum Physics", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PHYS 2A", "PHYS 4A"]}, "PHYS 2B", "MATH 20D"]}}
+{"code": "PHYS 2DL", "title": "Physics Laboratory\u2014Modern Physics", "units": "2", "prereqs": {"type": "one", "courses": ["PHYS 2BL", "PHYS 2CL"]}}
+{"code": "PHYS 4A", "title": "Physics for Physics Majors\u2014Mechanics", "units": "4", "prereqs": "MATH 20A"}
+{"code": "PHYS 4B", "title": "Physics for Physics Majors\u2014Fluids, Waves, Statistical and Thermal Physics", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 4A", "MATH 20A", "MATH 20B"]}}
+{"code": "PHYS 4C", "title": "Physics for Physics Majors\u2014Electricity and Magnetism", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PHYS 2A", "PHYS 4A"]}, {"type": "one", "courses": ["PHYS 2C", "PHYS 4B"]}, {"type": "one", "courses": [{"type": "all", "courses": ["MATH 20A", "MATH 20B", "MATH 20C"]}, "MATH 31BH"]}, {"type": "one", "courses": ["MATH 18", "MATH 20F", "MATH 31AH"]}]}}
+{"code": "PHYS 4D", "title": "Physics for Physics Majors\u2014Electromagnetic Waves, Special Relativity and Optics", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": [{"type": "all", "courses": ["PHYS 2A", "PHYS 2B", "PHYS 2C"]}, {"type": "all", "courses": ["PHYS 4A", "PHYS 4B", "PHYS 4C"]}]}, {"type": "one", "courses": [{"type": "all", "courses": ["MATH 20A", "MATH 20B", "MATH 20C"]}, "MATH 31BH"]}, {"type": "one", "courses": ["MATH 20E", "MATH 31CH"]}, {"type": "one", "courses": ["MATH 18", "MATH 20F", "MATH 31AH"]}]}}
+{"code": "PHYS 4E", "title": "Physics for Physics Majors\u2014Quantum Physics", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": [{"type": "all", "courses": ["PHYS 2A", "PHYS 2B", "PHYS 2C", "PHYS 2D"]}, {"type": "all", "courses": ["PHYS 4A", "PHYS 4B", "PHYS 4C", "PHYS 4D"]}]}, {"type": "one", "courses": [{"type": "all", "courses": ["MATH 20A", "MATH 20B", "MATH 20C"]}, "MATH 31BH"]}, "MATH 20D", {"type": "one", "courses": ["MATH 20E", "MATH 31CH"]}, {"type": "one", "courses": ["MATH 18", "MATH 20F", "MATH 31AH"]}]}}
+{"code": "PHYS 5", "title": "Stars and Black Holes", "units": "4", "prereqs": null}
+{"code": "PHYS 7", "title": "Galaxies and Cosmology", "units": "4", "prereqs": null}
+{"code": "PHYS 8", "title": "Physics of Everyday Life", "units": "4", "prereqs": null}
+{"code": "PHYS 9", "title": "The Solar System", "units": "4", "prereqs": null}
+{"code": "PHYS 10", "title": "Concepts in Physics", "units": "4", "prereqs": null}
+{"code": "PHYS 11", "title": "Survey of Physics", "units": "4", "prereqs": {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}}
+{"code": "PHYS 12", "title": "Energy and the Environment", "units": "4", "prereqs": null}
+{"code": "PHYS 13", "title": "Life in the Universe", "units": "4", "prereqs": null}
+{"code": "PHYS 30", "title": "Poetry for Physicists", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CAT 2", "DOC 2", "HUM 1", "MCWP 40", "MMW 12", "WARR 11A", "WCWP 10A"]}, {"type": "one", "courses": ["CAT 3", "DOC 3", "HUM 2", "MCWP 50", "MMW 13", "WARR 11B", "WCWP 10B"]}]}}
+{"code": "PHYS 87", "title": "First-year Student Seminar in Physics and Astrophysics", "units": "1", "prereqs": null}
+{"code": "PHYS 98", "title": "Directed Group Study", "units": "2", "prereqs": null}
+{"code": "PHYS 99", "title": "Independent Study", "units": "2", "prereqs": null}
+{"code": "PHYS 100A", "title": "Electromagnetism I", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": [{"type": "all", "courses": ["PHYS 2A", "PHYS 2B", "PHYS 2C"]}, {"type": "all", "courses": ["PHYS 4A", "PHYS 4B", "PHYS 4C", "PHYS 4D"]}]}, "MATH 20A", "MATH 20B", {"type": "one", "courses": ["MATH 20C", "MATH 31BH"]}, "MATH 20D", {"type": "one", "courses": ["MATH 20E", "MATH 31CH"]}, {"type": "one", "courses": ["MATH 18", "MATH 20F", "MATH 31AH"]}]}}
+{"code": "PHYS 100B", "title": "Electromagnetism II", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 100A", "MATH 20A", "MATH 20B", {"type": "one", "courses": ["MATH 20C", "MATH 31BH"]}, "MATH 20D", {"type": "one", "courses": ["MATH 20E", "MATH 31CH"]}, {"type": "one", "courses": ["MATH 18", "MATH 20F", "MATH 31AH"]}]}}
+{"code": "PHYS 100C", "title": "Electromagnetism III", "units": "4", "prereqs": "PHYS 100B"}
+{"code": "PHYS 105A", "title": "Mathematical and Computational Physics I", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": [{"type": "all", "courses": ["PHYS 2B", "PHYS 2C", "PHYS 2D"]}, {"type": "all", "courses": ["PHYS 4C", "PHYS 4D", "PHYS 4E"]}]}, {"type": "one", "courses": [{"type": "all", "courses": ["MATH 20A", "MATH 20B", "MATH 20C"]}, "MATH 31BH"]}, "MATH 20D", {"type": "one", "courses": ["MATH 20E", "MATH 31CH"]}, {"type": "one", "courses": ["MATH 18", "MATH 20F", "MATH 31AH"]}]}}
+{"code": "PHYS 105B", "title": "Mathematical and Computational Physics II", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 105A", {"type": "one", "courses": [{"type": "all", "courses": ["MATH 20A", "MATH 20B", "MATH 20C"]}, "MATH 31BH"]}, "MATH 20D", {"type": "one", "courses": ["MATH 20E", "MATH 31CH"]}, {"type": "one", "courses": ["MATH 18", "MATH 20F", "MATH 31AH"]}]}}
+{"code": "PHYS 110A", "title": "Mechanics I", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": [{"type": "all", "courses": ["PHYS 2A", "PHYS 2B", "PHYS 2C"]}, {"type": "all", "courses": ["PHYS 4A", "PHYS 4B", "PHYS 4C", "PHYS 4D"]}]}, {"type": "one", "courses": [{"type": "all", "courses": ["MATH 20A", "MATH 20B", "MATH 20C"]}, "MATH 31BH"]}, "MATH 20D", {"type": "one", "courses": ["MATH 20E", "MATH 31CH"]}, {"type": "one", "courses": ["MATH 18", "MATH 20F", "MATH 31AH"]}]}}
+{"code": "PHYS 110B", "title": "Mechanics II", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 110A", {"type": "one", "courses": [{"type": "all", "courses": ["MATH 20A", "MATH 20B", "MATH 20C"]}, "MATH 31BH"]}, "MATH 20D", {"type": "one", "courses": ["MATH 20E", "MATH 31CH"]}, {"type": "one", "courses": ["MATH 18", "MATH 20F", "MATH 31AH"]}]}}
+{"code": "PHYS 111", "title": "Introduction to Ocean Waves", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": [{"type": "all", "courses": ["PHYS 2A", "PHYS 2B", "PHYS 2C"]}, {"type": "all", "courses": ["PHYS 4A", "PHYS 4B", "PHYS 4C"]}]}, {"type": "one", "courses": [{"type": "all", "courses": ["MATH 20A", "MATH 20B", "MATH 20C"]}, "MATH 31BH"]}, "MATH 20D", {"type": "one", "courses": ["MATH 20E", "MATH 31CH"]}]}}
+{"code": "PHYS 116", "title": "Fluid Dynamics for Physicists", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 100B", "PHYS 110B"]}}
+{"code": "PHYS 120", "title": "Circuits and Electronics", "units": "5", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": [{"type": "all", "courses": ["PHYS 2A", "PHYS 2B", "PHYS 2C"]}, {"type": "all", "courses": ["PHYS 4A", "PHYS 4B", "PHYS 4C"]}]}, "PHYS 2CL"]}}
+{"code": "PHYS 122", "title": "Experimental Techniques", "units": "4", "prereqs": "PHYS 120"}
+{"code": "PHYS 124", "title": "Laboratory Projects", "units": "4", "prereqs": "PHYS 120"}
+{"code": "PHYS 130A", "title": "Quantum Physics I", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PHYS 2D", "PHYS 4E"]}, "PHYS 100A", "PHYS 110A"]}}
+{"code": "PHYS 130B", "title": "Quantum Physics II", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 100B", "PHYS 130A"]}}
+{"code": "PHYS 130C", "title": "Quantum Physics III", "units": "4", "prereqs": "PHYS 130B"}
+{"code": "PHYS 133", "title": "Condensed Matter/Materials Science Laboratory", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 2CL", "PHYS 2DL"]}}
+{"code": "PHYS 137", "title": "String Theory", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 100A", "PHYS 110A", "PHYS 130A"]}}
+{"code": "PHYS 139", "title": "Physics Special Topics", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": [{"type": "all", "courses": ["PHYS 2A", "PHYS 2B", "PHYS 2C", "PHYS 2D"]}, {"type": "all", "courses": ["PHYS 4A", "PHYS 4B", "PHYS 4C", "PHYS 4D", "PHYS 4E"]}]}, {"type": "one", "courses": [{"type": "all", "courses": ["MATH 20A", "MATH 20B", "MATH 20C"]}, "MATH 31BH"]}, {"type": "one", "courses": ["MATH 18", "MATH 20F", "MATH 31AH"]}]}}
+{"code": "PHYS 140A", "title": "Statistical and Thermal Physics I", "units": "4", "prereqs": "PHYS 130A"}
+{"code": "PHYS 140B", "title": "Statistical and Thermal Physics II", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 130B", "PHYS 140A"]}}
+{"code": "PHYS 141", "title": "Computational Physics I: Probabilistic Models and Simulations", "units": "4", "prereqs": null}
+{"code": "PHYS 142", "title": "Computational Physics II: PDE and Matrix Models", "units": "4", "prereqs": null}
+{"code": "PHYS 151", "title": "Elementary Plasma Physics", "units": "4", "prereqs": "MATH 20D"}
+{"code": "PHYS 152A", "title": "Condensed Matter Physics", "units": "4", "prereqs": {"type": "one", "courses": ["PHYS 130A", "CHEM 130"]}}
+{"code": "PHYS 152B", "title": "Electronic Materials", "units": "4", "prereqs": "PHYS 152A"}
+{"code": "PHYS 154", "title": "Elementary Particle Physics", "units": "4", "prereqs": "PHYS 130B"}
+{"code": "PHYS 160", "title": "Stellar Astrophysics", "units": "4", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["PHYS 2A", "PHYS 2B", "PHYS 2C", "PHYS 2D"]}, {"type": "all", "courses": ["PHYS 4A", "PHYS 4B", "PHYS 4C", "PHYS 4D", "PHYS 4E"]}]}}
+{"code": "PHYS 161", "title": "Black Holes", "units": "4", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["PHYS 2A", "PHYS 2B", "PHYS 2C", "PHYS 2D"]}, {"type": "all", "courses": ["PHYS 4A", "PHYS 4B", "PHYS 4C", "PHYS 4D", "PHYS 4E"]}]}}
+{"code": "PHYS 162", "title": "Cosmology", "units": "4", "prereqs": null}
+{"code": "PHYS 163", "title": "Galaxies and Quasars", "units": "4", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["PHYS 2A", "PHYS 2B", "PHYS 2C", "PHYS 2D"]}, {"type": "all", "courses": ["PHYS 4A", "PHYS 4B", "PHYS 4C", "PHYS 4D", "PHYS 4E"]}]}}
+{"code": "PHYS 164", "title": "Observational Astrophysics Research Lab", "units": "4", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["PHYS 2A", "PHYS 2B", "PHYS 2C", "PHYS 2D"]}, {"type": "all", "courses": ["PHYS 4A", "PHYS 4B", "PHYS 4C", "PHYS 4D", "PHYS 4E"]}]}}
+{"code": "PHYS 170", "title": "Medical Instruments: Principles and Practice", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PHYS 1B", "PHYS 2B", "PHYS 4C"]}, {"type": "one", "courses": ["PHYS 1C", "PHYS 2C", "PHYS 4B"]}]}}
+{"code": "PHYS 173", "title": "Modern Physics Laboratory: Biological and Quantum Physics", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 120", "BILD 1", "CHEM 7L"]}}
+{"code": "PHYS 175", "title": "Biological Physics", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 132", {"type": "all", "courses": ["PHYS 100A", "PHYS 110A"]}]}}
+{"code": "PHYS 176", "title": "Quantitative Molecular Biology", "units": "4", "prereqs": "PHYS 140A"}
+{"code": "PHYS 177", "title": "Physics of the Cell", "units": "4", "prereqs": null}
+{"code": "PHYS 178", "title": "Biophysics of Neurons and Networks", "units": "4", "prereqs": null}
+{"code": "PHYS 191", "title": "Undergraduate Seminar on Physics", "units": "1", "prereqs": {"type": "one", "courses": ["PHYS 2A", "PHYS 4A"]}}
+{"code": "PHYS 192", "title": "Senior Seminar in Physics", "units": "1", "prereqs": null}
+{"code": "PHYS 198", "title": "Directed Group Study", "units": "2 or 4", "prereqs": null}
+{"code": "PHYS 199", "title": "Research for Undergraduates", "units": "2 or 4", "prereqs": null}
+{"code": "PHYS 199H", "title": "Honors Thesis Research for Undergraduates", "units": "2\u20134", "prereqs": null}
+{"code": "PHYA 200", "title": "Survey of Astronomy", "units": "4", "prereqs": null}
+{"code": "PHYA 201", "title": "Radiative Processes", "units": "4", "prereqs": null}
+{"code": "PHYA 202", "title": "Astrophysical Fluid Dynamics", "units": "4", "prereqs": null}
+{"code": "PHYA 222", "title": "Planets and Exoplanets", "units": "4", "prereqs": null}
+{"code": "PHYA 223", "title": "Stellar Structure and Evolution", "units": "4", "prereqs": null}
+{"code": "PHYA 224", "title": "Physics of the Interstellar Medium", "units": "4", "prereqs": null}
+{"code": "PHYA 226", "title": "Galaxies and Galactic Dynamics", "units": "4", "prereqs": null}
+{"code": "PHYA 229", "title": "Astronomical Instrumentation and Observational Techniques", "units": "4", "prereqs": null}
+{"code": "PHYA 230", "title": "Computational Astrophysics", "units": "4", "prereqs": null}
+{"code": "PHYA 231", "title": "Astrophysical Kinetics", "units": "4", "prereqs": null}
+{"code": "PHYA 232", "title": "Astrostatistics", "units": "4", "prereqs": null}
+{"code": "PHYA 233", "title": "Astrophysical Dynamics", "units": "4", "prereqs": null}
+{"code": "PHYA 234", "title": "Astrophysical Plasmas", "units": "4", "prereqs": null}
+{"code": "PHYA 238", "title": "Observational Astrophysics Lab", "units": "4", "prereqs": null}
+{"code": "PHYA 296", "title": "Year Two Research in Astronomy", "units": "4", "prereqs": null}
+{"code": "PHYA 298", "title": "Directed Study in Astronomy", "units": "1-12", "prereqs": null}
+{"code": "PHYA 299", "title": "Thesis Research in Astronomy", "units": "1-12", "prereqs": null}
+{"code": "PHYS 200A", "title": "Theoretical Mechanics I", "units": "4", "prereqs": null}
+{"code": "PHYS 200B", "title": "Theoretical Mechanics II", "units": "4", "prereqs": "PHYS 200A"}
+{"code": "PHYS 201", "title": "Mathematical Methods for Physics", "units": "5", "prereqs": null}
+{"code": "PHYS 202", "title": "Estimation and Scaling in Physics", "units": "4", "prereqs": null}
+{"code": "PHYS 203A", "title": "Advanced Classical Electrodynamics I", "units": "5", "prereqs": null}
+{"code": "PHYS 203B", "title": "Advanced Classical Electrodynamics II", "units": "4", "prereqs": "PHYS 203A"}
+{"code": "PHYS 210A", "title": "Equilibrium Statistical Mechanics", "units": "5", "prereqs": {"type": "all", "courses": ["PHYS 200A", "PHYS 200B"]}}
+{"code": "PHYS 210B", "title": "Nonequilibrium Statistical Mechanics", "units": "4", "prereqs": "PHYS 210A"}
+{"code": "PHYS 211A", "title": "Solid-State Physics I", "units": "5", "prereqs": null}
+{"code": "PHYS 211B", "title": "Solid-State Physics II", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 210A", "PHYS 211A"]}}
+{"code": "PHYS 212A", "title": "Quantum Mechanics I", "units": "4", "prereqs": null}
+{"code": "PHYS 212B", "title": "Quantum Mechanics II", "units": "4", "prereqs": "PHYS 212A"}
+{"code": "PHYS 212C", "title": "Quantum Mechanics III", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 212A", "PHYS 212B"]}}
+{"code": "PHYS 214", "title": "Physics of Elementary Particles", "units": "4", "prereqs": "PHYS 215A"}
+{"code": "PHYS 215A", "title": "Particles and Fields I", "units": "4", "prereqs": null}
+{"code": "PHYS 215B", "title": "Particles and Fields II", "units": "4", "prereqs": "PHYS 215A"}
+{"code": "PHYS 215C", "title": "Particles and Fields III", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 215A", "PHYS 215B"]}}
+{"code": "PHYS 216", "title": "Fluid Dynamics for Physicists", "units": "4", "prereqs": null}
+{"code": "PHYS 217", "title": "Field Theory and the Renormalization Group", "units": "4", "prereqs": "PHYS 210A"}
+{"code": "PHYS 218A", "title": "Plasma Physics I", "units": "4", "prereqs": null}
+{"code": "PHYS 218B", "title": "Plasma Physics II", "units": "4", "prereqs": "PHYS 218A"}
+{"code": "PHYS 218C", "title": "Plasma Physics III", "units": "4", "prereqs": "PHYS 218B"}
+{"code": "PHYS 219", "title": "Condensed Matter/Materials Science Laboratory", "units": "4", "prereqs": "PHYS 211A"}
+{"code": "PHYS 220", "title": "Group Theoretical Methods in Physics", "units": "4", "prereqs": "PHYS 212C"}
+{"code": "PHYS 221A", "title": "Nonlinear and Nonequilibrium Dynamics of Physical Systems", "units": "4", "prereqs": "PHYS 200B"}
+{"code": "PHYS 222A", "title": "Experimental Methods for Particle Physics", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 214", "PHYS 215A"]}}
+{"code": "PHYS 225A-B", "title": ". General Relativity", "units": "4-4", "prereqs": null}
+{"code": "PHYS 226", "title": "Galaxies and Galactic Dynamics", "units": "4", "prereqs": null}
+{"code": "PHYS 227", "title": "Cosmology", "units": "4", "prereqs": null}
+{"code": "PHYS 228", "title": "High-Energy Astrophysics and Compact Objects", "units": "4", "prereqs": null}
+{"code": "PHYS 230", "title": "Advanced Solid-State Physics", "units": "4", "prereqs": "PHYS 211B"}
+{"code": "PHYS 232", "title": "Electronic Materials", "units": "4", "prereqs": "PHYS 211A"}
+{"code": "PHYS 233", "title": "Collider Physics", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 214", "PHYS 215A"]}}
+{"code": "PHYS 235", "title": "Nonlinear Plasma Theory", "units": "4", "prereqs": "PHYS 218C"}
+{"code": "PHYS 239", "title": "Special Topics", "units": "4", "prereqs": null}
+{"code": "PHYS 241", "title": "Computational Physics I: Probabilistic Models and Simulations", "units": "4", "prereqs": null}
+{"code": "PHYS 242", "title": "Computational Physics II: PDE and Matrix Models", "units": "4", "prereqs": null}
+{"code": "PHYS 243", "title": "Stochastic Methods", "units": "4", "prereqs": null}
+{"code": "PHYS 244", "title": "Parallel Computing in Science and Engineering", "units": "4", "prereqs": null}
+{"code": "PHYS 250", "title": "Condensed Matter Physics Seminar", "units": "0\u20131", "prereqs": null}
+{"code": "PHYS 251", "title": "High-Energy Physics Seminar", "units": "0\u20131", "prereqs": null}
+{"code": "PHYS 252", "title": "Plasma Physics Seminar", "units": "0\u20131", "prereqs": null}
+{"code": "PHYS 253", "title": "Astrophysics and Space Physics Seminar", "units": "0\u20131", "prereqs": null}
+{"code": "PHYS 254", "title": "Biophysics Seminar", "units": "1", "prereqs": null}
+{"code": "PHYS 255", "title": "Biophysics Research Talks", "units": "1", "prereqs": null}
+{"code": "PHYS 256", "title": "Critical Reading in Quantitative Biology", "units": "1", "prereqs": null}
+{"code": "PHYS 257", "title": "High-Energy Physics Special Topics Seminar", "units": "0\u20131", "prereqs": null}
+{"code": "PHYS 258", "title": "Astrophysics and Space Physics Special Topics Seminar", "units": "0\u20131", "prereqs": null}
+{"code": "PHYS 259A", "title": "Methods in Quantitative Biology", "units": "2", "prereqs": null}
+{"code": "PHYS 259B", "title": "Concepts and Methods in Quantitative Physiology", "units": "2", "prereqs": {"type": "one", "courses": ["PHYS 259A", "PHYS 256"]}}
+{"code": "PHYS 260", "title": "Physics Colloquium", "units": "0\u20131", "prereqs": null}
+{"code": "PHYS 261", "title": "Seminar on Physics Research at UC San Diego", "units": "0\u20131", "prereqs": null}
+{"code": "PHYS 264", "title": "Scientific Method Seminar", "units": "1", "prereqs": null}
+{"code": "PHYS 270A", "title": "Experimental Techniques for Quantitative Biology", "units": "4", "prereqs": null}
+{"code": "PHYS 270B", "title": "Quantitative Biology Laboratory", "units": "4", "prereqs": "PHYS 270A"}
+{"code": "PHYS 273", "title": "Information Theory and Pattern Formation in Biological Systems", "units": "4", "prereqs": null}
+{"code": "PHYS 274", "title": "Stochastic Processes in Population Genetics", "units": "4", "prereqs": null}
+{"code": "PHYS 275", "title": "Biological Physics", "units": "4", "prereqs": null}
+{"code": "PHYS 276", "title": "Quantitative Molecular Biology", "units": "4", "prereqs": null}
+{"code": "PHYS 277", "title": "Physics of the Cell", "units": "4", "prereqs": null}
+{"code": "PHYS 278", "title": "Biophysics of Neurons and Networks", "units": "4", "prereqs": null}
+{"code": "PHYS 279", "title": "Neurodynamics", "units": "4", "prereqs": null}
+{"code": "PHYS 281", "title": "Extensions in Physics", "units": "1\u20133", "prereqs": null}
+{"code": "PHYS 282", "title": "Spatiotemporal Dynamics of Biological Systems", "units": "4", "prereqs": null}
+{"code": "PHYS 295", "title": "MS Thesis Research in Materials Physics", "units": "1\u201312", "prereqs": null}
+{"code": "PHYS 297", "title": "Special Studies in Physics", "units": "1\u20134", "prereqs": null}
+{"code": "PHYS 298", "title": "Directed Study in Physics", "units": "1\u201312", "prereqs": null}
+{"code": "PHYS 299", "title": "Thesis Research in Physics", "units": "1\u201312", "prereqs": null}
+{"code": "PHYS 500", "title": "Instruction in Physics Teaching", "units": "1\u20134", "prereqs": null}
