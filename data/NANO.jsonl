@@ -1,133 +1,133 @@
-{"dept": "NANO", "code": "NANO 4", "title": "Experience\u00a0NanoEngineering", "units": "1"}
-{"dept": "NANO", "code": "NANO 11", "title": "Introduction to NanoEngineering", "units": "4"}
-{"dept": "NANO", "code": "NANO 15", "title": "Engineering Computation Using MATLAB", "units": "4"}
-{"dept": "NANO", "code": "NANO 15R", "title": "Engineering Computation Using MATLAB Online", "units": "4"}
-{"dept": "NANO", "code": "NANO 20L", "title": "Introduction to Nanomaterials Synthesis Lab", "units": "1"}
-{"dept": "NANO", "code": "NANO 100L", "title": "Physical Properties of Materials Lab", "units": "4"}
-{"dept": "NANO", "code": "NANO 101", "title": "Introduction to NanoEngineering", "units": "4"}
-{"dept": "NANO", "code": "NANO 102", "title": "Foundations in NanoEngineering: Chemical Principles", "units": "4"}
-{"dept": "NANO", "code": "NANO 103", "title": "Foundations in NanoEngineering: Biochemical Principles", "units": "4"}
-{"dept": "NANO", "code": "NANO 104", "title": "Foundations in NanoEngineering: Physical Principles", "units": "4"}
-{"dept": "NANO", "code": "NANO 106", "title": "Crystallography of Materials", "units": "4"}
-{"dept": "NANO", "code": "NANO 107", "title": "Electronic Devices and Circuits for NanoEngineers", "units": "4"}
-{"dept": "NANO", "code": "NANO 108", "title": "Materials Science and Engineering", "units": "4"}
-{"dept": "NANO", "code": "NANO 110", "title": "Molecular Modeling of Nanoscale Systems", "units": "4"}
-{"dept": "NANO", "code": "NANO 111", "title": "Characterization of NanoEngineering Systems", "units": "4"}
-{"dept": "NANO", "code": "NANO 112", "title": "Synthesis and Fabrication of NanoEngineering Systems", "units": "4"}
-{"dept": "NANO", "code": "NANO 114", "title": "Probability and Statistical Methods for Engineers", "units": "4"}
-{"dept": "NANO", "code": "NANO 115L", "title": "Nanoengineering Laboratory", "units": "4"}
-{"dept": "NANO", "code": "NANO 117", "title": "Multiscale Transport", "units": "4"}
-{"dept": "NANO", "code": "NANO 119", "title": "NanoEngineering System Design Seminar", "units": "1"}
-{"dept": "NANO", "code": "NANO 120A", "title": "NanoEngineering System Design I", "units": "4"}
-{"dept": "NANO", "code": "NANO 120B", "title": "NanoEngineering System Design II", "units": "4"}
-{"dept": "NANO", "code": "NANO 134", "title": "Polymeric Materials", "units": "4"}
-{"dept": "NANO", "code": "NANO 141A", "title": "Engineering Mechanics I: Analysis of Equilibrium", "units": "4"}
-{"dept": "NANO", "code": "NANO 141B", "title": "Engineering Mechanics II: Analysis of Motion", "units": "4"}
-{"dept": "NANO", "code": "NANO 146", "title": "Nanoscale Optical Microscopy and Spectroscopy", "units": "4"}
-{"dept": "NANO", "code": "NANO 148", "title": "Thermodynamics of Materials", "units": "4"}
-{"dept": "NANO", "code": "NANO 150", "title": "Mechanics of Nanomaterials", "units": "4"}
-{"dept": "NANO", "code": "NANO 156", "title": "Modern Concepts in Nanotechnology", "units": "4"}
-{"dept": "NANO", "code": "NANO 158", "title": "Phase Transformations and Kinetics", "units": "4"}
-{"dept": "NANO", "code": "NANO 158L", "title": "Materials Processing Laboratory", "units": "4"}
-{"dept": "NANO", "code": "NANO 159", "title": "Electrochemistry: Fundamentals and Applications", "units": "4"}
-{"dept": "NANO", "code": "NANO 161", "title": "Material Selection in Engineering", "units": "4"}
-{"dept": "NANO", "code": "NANO 164", "title": "Advanced Micro- and Nano-materials for Energy Storage and Conversion", "units": "4"}
-{"dept": "NANO", "code": "NANO 168", "title": "Electrical, Dielectric, and Magnetic Properties of Engineering Materials", "units": "4"}
-{"dept": "NANO", "code": "NANO 174", "title": "Mechanical Behavior of Materials", "units": "4"}
-{"dept": "NANO", "code": "NANO 174L", "title": "Mechanical Behavior Laboratory", "units": "4"}
-{"dept": "NANO", "code": "NANO 175", "title": "NanoEngineering in Medicine", "units": "4"}
-{"dept": "NANO", "code": "NANO 181", "title": "Data Science in Materials Science", "units": "4"}
-{"dept": "NANO", "code": "NANO 199", "title": "Independent Study for Undergraduates", "units": "4\u20134"}
-{"dept": "NANO", "code": "NANO 200", "title": "Graduate Seminar in Chemical Engineering", "units": "1"}
-{"dept": "NANO", "code": "NANO 201", "title": "Introduction to NanoEngineering", "units": "4"}
-{"dept": "NANO", "code": "NANO 202", "title": "Intermolecular and Surface Forces", "units": "4"}
-{"dept": "NANO", "code": "NANO 203", "title": "Nanoscale Characterization", "units": "4"}
-{"dept": "NANO", "code": "NANO 204", "title": "Nanoscale Physics and Modeling", "units": "4"}
-{"dept": "NANO", "code": "NANO 205", "title": "Nanosystems Integration", "units": "4"}
-{"dept": "NANO", "code": "NANO 208", "title": "Nanofabrication", "units": "4"}
-{"dept": "NANO", "code": "NANO 210", "title": "Molecular Modeling and Simulations of Nanoscale Systems", "units": "4"}
-{"dept": "NANO", "code": "NANO 212", "title": "Computational Modeling of Nanosystems", "units": "4"}
-{"dept": "NANO", "code": "NANO 227", "title": "Structure and Analysis of Solids", "units": "4"}
-{"dept": "NANO", "code": "NANO 230", "title": "Synchrotron Characterization of Nanomaterials", "units": "4"}
-{"dept": "NANO", "code": "NANO 234", "title": "Advanced Nanoscale Fabrication", "units": "4"}
-{"dept": "NANO", "code": "NANO 238", "title": "Scanning Probe Microscopy", "units": "4"}
-{"dept": "NANO", "code": "NANO 241", "title": "Organic Nanomaterials", "units": "4"}
-{"dept": "NANO", "code": "NANO 242", "title": "Biochemistry and Molecular Biology", "units": "4"}
-{"dept": "NANO", "code": "NANO 243", "title": "Nanomedicine", "units": "4"}
-{"dept": "NANO", "code": "NANO 244", "title": "Nanomachines and Nanorobots", "units": "4"}
-{"dept": "NANO", "code": "NANO 245", "title": "Nanoelectronics", "units": "4"}
-{"dept": "NANO", "code": "NANO 247A", "title": "Advanced BioPhotonics", "units": "4"}
-{"dept": "NANO", "code": "NANO 247B", "title": "BioElectronics", "units": "4"}
-{"dept": "NANO", "code": "NANO 247C", "title": "BioNanotechnology", "units": "4"}
-{"dept": "NANO", "code": "NANO 250", "title": "Mechanics of Nanomaterials", "units": "4"}
-{"dept": "NANO", "code": "NANO 251A", "title": "Magnetic Materials: Principles and Applications", "units": "4"}
-{"dept": "NANO", "code": "NANO 252", "title": "Biomaterials and Biomimetics", "units": "4"}
-{"dept": "NANO", "code": "NANO 253", "title": "Nanomaterials and Properties", "units": "4"}
-{"dept": "NANO", "code": "NANO 255", "title": "Electrochemistry", "units": "4"}
-{"dept": "NANO", "code": "NANO 256", "title": "Microfluids", "units": "4"}
-{"dept": "NANO", "code": "NANO 257", "title": "Polymer Science and Engineering", "units": "4"}
-{"dept": "NANO", "code": "NANO 258", "title": "Nanoscale Transport Phenomenon", "units": "4"}
-{"dept": "NANO", "code": "NANO 259", "title": "Heterogeneous Catalysis", "units": "4"}
-{"dept": "NANO", "code": "NANO 260", "title": "Nanofabrication Reaction Engineering", "units": "4"}
-{"dept": "NANO", "code": "NANO 261", "title": "Nanoscale Energy Technology", "units": "4"}
-{"dept": "NANO", "code": "NANO 262", "title": "Nanosensors", "units": "4"}
-{"dept": "NANO", "code": "NANO 263", "title": "Magnetic Nanodevices", "units": "4"}
-{"dept": "NANO", "code": "NANO 264", "title": "Solid-State and Nanochemistry", "units": "4"}
-{"dept": "NANO", "code": "NANO 265", "title": "Thermodynamics of Solids", "units": "4"}
-{"dept": "NANO", "code": "NANO 266", "title": "Quantum Mechanical Modeling of Materials and Nanostructures", "units": "4"}
-{"dept": "NANO", "code": "NANO 267", "title": "Environmental Nanotechnology, Sustainable Nanotechnology, and Nanotoxicity", "units": "4"}
-{"dept": "NANO", "code": "NANO 268", "title": "DNA Nanotechnology", "units": "4"}
-{"dept": "NANO", "code": "NANO 269", "title": "Engineering Solar Cells at the Nanoscale", "units": "4"}
-{"dept": "NANO", "code": "NANO 271", "title": "Nanophotonics", "units": "4"}
-{"dept": "NANO", "code": "NANO 272", "title": "Soft Electronics", "units": "4"}
-{"dept": "NANO", "code": "NANO 273", "title": "Principles of Immune Engineering", "units": "4"}
-{"dept": "NANO", "code": "NANO 275", "title": "Two-Dimensional Materials: Properties, Applications, and Practice", "units": "4"}
-{"dept": "NANO", "code": "NANO 279", "title": "Advanced Electrochemical Energy Engineering", "units": "4"}
-{"dept": "NANO", "code": "NANO 280", "title": "Colloids and Nanoparticles", "units": "4"}
-{"dept": "NANO", "code": "NANO 281", "title": "Data Science in Materials Science", "units": "4"}
-{"dept": "NANO", "code": "NANO 282", "title": "Professional Development", "units": "4"}
-{"dept": "NANO", "code": "NANO 296", "title": "Independent Study in NanoEngineering", "units": "4"}
-{"dept": "NANO", "code": "NANO 299", "title": "Graduate Research in NanoEngineering", "units": "1\u201312"}
-{"dept": "NANO", "code": "CENG 4", "title": "Experience Chemical Engineering", "units": "1"}
-{"dept": "NANO", "code": "CENG 15", "title": "Engineering Computation Using MATLAB", "units": "4"}
-{"dept": "NANO", "code": "CENG 15R", "title": "Engineering Computation Using MATLAB Online", "units": "4"}
-{"dept": "NANO", "code": "CENG 100", "title": "Material and Energy Balances", "units": "4"}
-{"dept": "NANO", "code": "CENG 101A", "title": "Introductory Fluid Mechanics", "units": "4"}
-{"dept": "NANO", "code": "CENG 101B", "title": "Heat Transfer", "units": "4"}
-{"dept": "NANO", "code": "CENG 101C", "title": "Mass Transfer", "units": "4"}
-{"dept": "NANO", "code": "CENG 102", "title": "Chemical Engineering Thermodynamics", "units": "4"}
-{"dept": "NANO", "code": "CENG 113", "title": "Chemical Reaction Engineering", "units": "4"}
-{"dept": "NANO", "code": "CENG 114", "title": "Probability and Statistical Methods for Engineers", "units": "4"}
-{"dept": "NANO", "code": "CENG 120", "title": "Chemical Process Dynamics and Control", "units": "4"}
-{"dept": "NANO", "code": "CENG 122", "title": "Separation Processes", "units": "4"}
-{"dept": "NANO", "code": "CENG 124A", "title": "Chemical Plant and Process Design I", "units": "4"}
-{"dept": "NANO", "code": "CENG 124B", "title": "Chemical Plant and Process Design II", "units": "4"}
-{"dept": "NANO", "code": "CENG 134", "title": "Polymeric Materials", "units": "4"}
-{"dept": "NANO", "code": "CENG 157", "title": "Process Technology in the Semiconductor Industry", "units": "4"}
-{"dept": "NANO", "code": "CENG 175", "title": "NanoEngineering in Medicine", "units": "4"}
-{"dept": "NANO", "code": "CENG 176A", "title": "Chemical Engineering Process Laboratory I", "units": "4"}
-{"dept": "NANO", "code": "CENG 176B", "title": "Chemical Engineering Process Laboratory II", "units": "4"}
-{"dept": "NANO", "code": "CENG 199", "title": "Independent Study for Undergraduates", "units": "4\u20134"}
-{"dept": "NANO", "code": "CENG 205", "title": "Graduate Seminar in Chemical Engineering", "units": "1"}
-{"dept": "NANO", "code": "CENG 207", "title": "Nanomedicine", "units": "4"}
-{"dept": "NANO", "code": "CENG 208", "title": "Nanofabrication", "units": "4"}
-{"dept": "NANO", "code": "CENG 210A", "title": "Fluid Mechanics I", "units": "4"}
-{"dept": "NANO", "code": "CENG 211", "title": "Introduction to NanoEngineering", "units": "4"}
-{"dept": "NANO", "code": "CENG 212", "title": "Intermolecular and Surface Forces", "units": "4"}
-{"dept": "NANO", "code": "CENG 213", "title": "Nanoscale Synthesis and Characterization", "units": "4"}
-{"dept": "NANO", "code": "CENG 214", "title": "Nanoscale Physics and Modeling", "units": "4"}
-{"dept": "NANO", "code": "CENG 215", "title": "Nanosystems Integration", "units": "4"}
-{"dept": "NANO", "code": "CENG 221A", "title": "Heat Transfer", "units": "4"}
-{"dept": "NANO", "code": "CENG 221B", "title": "Mass Transfer", "units": "4"}
-{"dept": "NANO", "code": "CENG 230", "title": "Synchrotron Characterization of Nanomaterials", "units": "4"}
-{"dept": "NANO", "code": "CENG 251", "title": "Thermodynamics", "units": "4"}
-{"dept": "NANO", "code": "CENG 252", "title": "Chemical Reaction Engineering", "units": "4"}
-{"dept": "NANO", "code": "CENG 253", "title": "Heterogeneous Catalysis", "units": "4"}
-{"dept": "NANO", "code": "CENG 254", "title": "Biochemical Engineering Fundamentals", "units": "4"}
-{"dept": "NANO", "code": "CENG 255", "title": "Electrochemical Engineering", "units": "4"}
-{"dept": "NANO", "code": "CENG 256", "title": "Biomaterials and Biomimetics", "units": "4"}
-{"dept": "NANO", "code": "CENG 257", "title": "Process Technology in the Semiconductor Industry", "units": "4"}
-{"dept": "NANO", "code": "CENG 273", "title": "Principles of Immune Engineering", "units": "4"}
-{"dept": "NANO", "code": "CENG 296", "title": "Independent Study in Chemical Engineering", "units": "4"}
-{"dept": "NANO", "code": "CENG 299", "title": "Graduate Research in Chemical Engineering", "units": "1\u201312"}
-{"dept": "NANO", "code": "CENG 501", "title": "Teaching Experience", "units": "2"}
+{"code": "NANO 4", "title": "Experience\u00a0NanoEngineering", "units": "1", "prereqs": null}
+{"code": "NANO 11", "title": "Introduction to NanoEngineering", "units": "4", "prereqs": "NANO 4"}
+{"code": "NANO 15", "title": "Engineering Computation Using MATLAB", "units": "4", "prereqs": null}
+{"code": "NANO 15R", "title": "Engineering Computation Using MATLAB Online", "units": "4", "prereqs": null}
+{"code": "NANO 20L", "title": "Introduction to Nanomaterials Synthesis Lab", "units": "1", "prereqs": "NANO 4"}
+{"code": "NANO 100L", "title": "Physical Properties of Materials Lab", "units": "4", "prereqs": "NANO 108"}
+{"code": "NANO 101", "title": "Introduction to NanoEngineering", "units": "4", "prereqs": {"type": "all", "courses": ["NANO 4", "CHEM 6B", "PHYS 2B", "MATH 20C", {"type": "one", "courses": ["CENG 15", "CENG 15R", "NANO 15", "NANO 15R", "MAE 8"]}]}}
+{"code": "NANO 102", "title": "Foundations in NanoEngineering: Chemical Principles", "units": "4", "prereqs": "CHEM 6C"}
+{"code": "NANO 103", "title": "Foundations in NanoEngineering: Biochemical Principles", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 1", "CHEM 6C", "NANO 101", "NANO 102"]}}
+{"code": "NANO 104", "title": "Foundations in NanoEngineering: Physical Principles", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 20D", "NANO 101"]}}
+{"code": "NANO 106", "title": "Crystallography of Materials", "units": "4", "prereqs": {"type": "one", "courses": ["MATH 20F", "MATH 18"]}}
+{"code": "NANO 107", "title": "Electronic Devices and Circuits for NanoEngineers", "units": "4", "prereqs": {"type": "all", "courses": ["NANO 15", "NANO 101", {"type": "one", "courses": ["MATH 20B", "MATH 20D"]}, "PHYS 2B"]}}
+{"code": "NANO 108", "title": "Materials Science and Engineering", "units": "4", "prereqs": null}
+{"code": "NANO 110", "title": "Molecular Modeling of Nanoscale Systems", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 20F", "MATH 18"]}, "NANO 102", "NANO 104", {"type": "one", "courses": ["NANO 15", "CENG 15", "MAE 8"]}]}}
+{"code": "NANO 111", "title": "Characterization of NanoEngineering Systems", "units": "4", "prereqs": "NANO 102"}
+{"code": "NANO 112", "title": "Synthesis and Fabrication of NanoEngineering Systems", "units": "4", "prereqs": {"type": "all", "courses": ["NANO 102", "NANO 104"]}}
+{"code": "NANO 114", "title": "Probability and Statistical Methods for Engineers", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 20F", "MATH 18"]}, {"type": "one", "courses": ["NANO 15", "CENG 15", "MAE 8"]}]}}
+{"code": "NANO 115L", "title": "Nanoengineering Laboratory", "units": "4", "prereqs": "NANO 111"}
+{"code": "NANO 117", "title": "Multiscale Transport", "units": "4", "prereqs": null}
+{"code": "NANO 119", "title": "NanoEngineering System Design Seminar", "units": "1", "prereqs": "NANO 115L"}
+{"code": "NANO 120A", "title": "NanoEngineering System Design I", "units": "4", "prereqs": "NANO 110"}
+{"code": "NANO 120B", "title": "NanoEngineering System Design II", "units": "4", "prereqs": "NANO 120A"}
+{"code": "NANO 134", "title": "Polymeric Materials", "units": "4", "prereqs": "CHEM 6C"}
+{"code": "NANO 141A", "title": "Engineering Mechanics I: Analysis of Equilibrium", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 20C", "PHYS 2A"]}}
+{"code": "NANO 141B", "title": "Engineering Mechanics II: Analysis of Motion", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 20D", "NANO 141A"]}}
+{"code": "NANO 146", "title": "Nanoscale Optical Microscopy and Spectroscopy", "units": "4", "prereqs": "NANO 104"}
+{"code": "NANO 148", "title": "Thermodynamics of Materials", "units": "4", "prereqs": null}
+{"code": "NANO 150", "title": "Mechanics of Nanomaterials", "units": "4", "prereqs": "NANO 108"}
+{"code": "NANO 156", "title": "Modern Concepts in Nanotechnology", "units": "4", "prereqs": null}
+{"code": "NANO 158", "title": "Phase Transformations and Kinetics", "units": "4", "prereqs": {"type": "all", "courses": ["NANO 108", "NANO 148"]}}
+{"code": "NANO 158L", "title": "Materials Processing Laboratory", "units": "4", "prereqs": "NANO 158"}
+{"code": "NANO 159", "title": "Electrochemistry: Fundamentals and Applications", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 6A", "CHEM 6AH"]}, {"type": "one", "courses": ["CHEM 6B", "CHEM 6BH"]}, {"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}, {"type": "one", "courses": ["CHEM 7L", "CHEM 7LM"]}]}}
+{"code": "NANO 161", "title": "Material Selection in Engineering", "units": "4", "prereqs": "NANO 108"}
+{"code": "NANO 164", "title": "Advanced Micro- and Nano-materials for Energy Storage and Conversion", "units": "4", "prereqs": {"type": "all", "courses": ["NANO 101", "NANO 102"]}}
+{"code": "NANO 168", "title": "Electrical, Dielectric, and Magnetic Properties of Engineering Materials", "units": "4", "prereqs": {"type": "all", "courses": ["NANO 102", "NANO 104"]}}
+{"code": "NANO 174", "title": "Mechanical Behavior of Materials", "units": "4", "prereqs": "NANO 108"}
+{"code": "NANO 174L", "title": "Mechanical Behavior Laboratory", "units": "4", "prereqs": "NANO 174"}
+{"code": "NANO 175", "title": "NanoEngineering in Medicine", "units": "4", "prereqs": null}
+{"code": "NANO 181", "title": "Data Science in Materials Science", "units": "4", "prereqs": {"type": "one", "courses": ["NANO 114", "CENG 114"]}}
+{"code": "NANO 199", "title": "Independent Study for Undergraduates", "units": "4\u20134", "prereqs": null}
+{"code": "NANO 200", "title": "Graduate Seminar in Chemical Engineering", "units": "1", "prereqs": null}
+{"code": "NANO 201", "title": "Introduction to NanoEngineering", "units": "4", "prereqs": null}
+{"code": "NANO 202", "title": "Intermolecular and Surface Forces", "units": "4", "prereqs": null}
+{"code": "NANO 203", "title": "Nanoscale Characterization", "units": "4", "prereqs": null}
+{"code": "NANO 204", "title": "Nanoscale Physics and Modeling", "units": "4", "prereqs": "NANO 202"}
+{"code": "NANO 205", "title": "Nanosystems Integration", "units": "4", "prereqs": null}
+{"code": "NANO 208", "title": "Nanofabrication", "units": "4", "prereqs": null}
+{"code": "NANO 210", "title": "Molecular Modeling and Simulations of Nanoscale Systems", "units": "4", "prereqs": null}
+{"code": "NANO 212", "title": "Computational Modeling of Nanosystems", "units": "4", "prereqs": null}
+{"code": "NANO 227", "title": "Structure and Analysis of Solids", "units": "4", "prereqs": null}
+{"code": "NANO 230", "title": "Synchrotron Characterization of Nanomaterials", "units": "4", "prereqs": null}
+{"code": "NANO 234", "title": "Advanced Nanoscale Fabrication", "units": "4", "prereqs": null}
+{"code": "NANO 238", "title": "Scanning Probe Microscopy", "units": "4", "prereqs": null}
+{"code": "NANO 241", "title": "Organic Nanomaterials", "units": "4", "prereqs": null}
+{"code": "NANO 242", "title": "Biochemistry and Molecular Biology", "units": "4", "prereqs": null}
+{"code": "NANO 243", "title": "Nanomedicine", "units": "4", "prereqs": null}
+{"code": "NANO 244", "title": "Nanomachines and Nanorobots", "units": "4", "prereqs": null}
+{"code": "NANO 245", "title": "Nanoelectronics", "units": "4", "prereqs": "NANO 201"}
+{"code": "NANO 247A", "title": "Advanced BioPhotonics", "units": "4", "prereqs": null}
+{"code": "NANO 247B", "title": "BioElectronics", "units": "4", "prereqs": null}
+{"code": "NANO 247C", "title": "BioNanotechnology", "units": "4", "prereqs": null}
+{"code": "NANO 250", "title": "Mechanics of Nanomaterials", "units": "4", "prereqs": null}
+{"code": "NANO 251A", "title": "Magnetic Materials: Principles and Applications", "units": "4", "prereqs": null}
+{"code": "NANO 252", "title": "Biomaterials and Biomimetics", "units": "4", "prereqs": null}
+{"code": "NANO 253", "title": "Nanomaterials and Properties", "units": "4", "prereqs": null}
+{"code": "NANO 255", "title": "Electrochemistry", "units": "4", "prereqs": null}
+{"code": "NANO 256", "title": "Microfluids", "units": "4", "prereqs": null}
+{"code": "NANO 257", "title": "Polymer Science and Engineering", "units": "4", "prereqs": null}
+{"code": "NANO 258", "title": "Nanoscale Transport Phenomenon", "units": "4", "prereqs": null}
+{"code": "NANO 259", "title": "Heterogeneous Catalysis", "units": "4", "prereqs": null}
+{"code": "NANO 260", "title": "Nanofabrication Reaction Engineering", "units": "4", "prereqs": null}
+{"code": "NANO 261", "title": "Nanoscale Energy Technology", "units": "4", "prereqs": null}
+{"code": "NANO 262", "title": "Nanosensors", "units": "4", "prereqs": null}
+{"code": "NANO 263", "title": "Magnetic Nanodevices", "units": "4", "prereqs": null}
+{"code": "NANO 264", "title": "Solid-State and Nanochemistry", "units": "4", "prereqs": null}
+{"code": "NANO 265", "title": "Thermodynamics of Solids", "units": "4", "prereqs": null}
+{"code": "NANO 266", "title": "Quantum Mechanical Modeling of Materials and Nanostructures", "units": "4", "prereqs": null}
+{"code": "NANO 267", "title": "Environmental Nanotechnology, Sustainable Nanotechnology, and Nanotoxicity", "units": "4", "prereqs": null}
+{"code": "NANO 268", "title": "DNA Nanotechnology", "units": "4", "prereqs": null}
+{"code": "NANO 269", "title": "Engineering Solar Cells at the Nanoscale", "units": "4", "prereqs": null}
+{"code": "NANO 271", "title": "Nanophotonics", "units": "4", "prereqs": null}
+{"code": "NANO 272", "title": "Soft Electronics", "units": "4", "prereqs": null}
+{"code": "NANO 273", "title": "Principles of Immune Engineering", "units": "4", "prereqs": null}
+{"code": "NANO 275", "title": "Two-Dimensional Materials: Properties, Applications, and Practice", "units": "4", "prereqs": null}
+{"code": "NANO 279", "title": "Advanced Electrochemical Energy Engineering", "units": "4", "prereqs": null}
+{"code": "NANO 280", "title": "Colloids and Nanoparticles", "units": "4", "prereqs": null}
+{"code": "NANO 281", "title": "Data Science in Materials Science", "units": "4", "prereqs": null}
+{"code": "NANO 282", "title": "Professional Development", "units": "4", "prereqs": null}
+{"code": "NANO 296", "title": "Independent Study in NanoEngineering", "units": "4", "prereqs": null}
+{"code": "NANO 299", "title": "Graduate Research in NanoEngineering", "units": "1\u201312", "prereqs": null}
+{"code": "CENG 4", "title": "Experience Chemical Engineering", "units": "1", "prereqs": null}
+{"code": "CENG 15", "title": "Engineering Computation Using MATLAB", "units": "4", "prereqs": null}
+{"code": "CENG 15R", "title": "Engineering Computation Using MATLAB Online", "units": "4", "prereqs": null}
+{"code": "CENG 100", "title": "Material and Energy Balances", "units": "4", "prereqs": {"type": "all", "courses": ["CENG 4", "CHEM 6B"]}}
+{"code": "CENG 101A", "title": "Introductory Fluid Mechanics", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 2A", "MATH 20D", "MATH 20E"]}}
+{"code": "CENG 101B", "title": "Heat Transfer", "units": "4", "prereqs": "CENG 101A"}
+{"code": "CENG 101C", "title": "Mass Transfer", "units": "4", "prereqs": "CENG 101A"}
+{"code": "CENG 102", "title": "Chemical Engineering Thermodynamics", "units": "4", "prereqs": {"type": "all", "courses": ["CENG 100", "CHEM 6C", "MATH 20C"]}}
+{"code": "CENG 113", "title": "Chemical Reaction Engineering", "units": "4", "prereqs": {"type": "all", "courses": ["CENG 15", "CENG 100", "MATH 20D"]}}
+{"code": "CENG 114", "title": "Probability and Statistical Methods for Engineers", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 20F", "MATH 18"]}, {"type": "one", "courses": ["CENG 15", "MAE 8", "NANO 15"]}]}}
+{"code": "CENG 120", "title": "Chemical Process Dynamics and Control", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CENG 15", "MAE 8", "NANO 15"]}, "CENG 100", "CENG 101B", "CENG 113", "MATH 20D"]}}
+{"code": "CENG 122", "title": "Separation Processes", "units": "4", "prereqs": {"type": "all", "courses": ["CENG 100", "CENG 102", "CENG 101C"]}}
+{"code": "CENG 124A", "title": "Chemical Plant and Process Design I", "units": "4", "prereqs": {"type": "all", "courses": ["CENG 113", "CENG 122"]}}
+{"code": "CENG 124B", "title": "Chemical Plant and Process Design II", "units": "4", "prereqs": "CENG 124A"}
+{"code": "CENG 134", "title": "Polymeric Materials", "units": "4", "prereqs": "CHEM 6C"}
+{"code": "CENG 157", "title": "Process Technology in the Semiconductor Industry", "units": "4", "prereqs": "CENG 101C"}
+{"code": "CENG 175", "title": "NanoEngineering in Medicine", "units": "4", "prereqs": null}
+{"code": "CENG 176A", "title": "Chemical Engineering Process Laboratory I", "units": "4", "prereqs": {"type": "all", "courses": ["CENG 113", "CENG 122", "MAE 170"]}}
+{"code": "CENG 176B", "title": "Chemical Engineering Process Laboratory II", "units": "4", "prereqs": "CENG 176A"}
+{"code": "CENG 199", "title": "Independent Study for Undergraduates", "units": "4\u20134", "prereqs": null}
+{"code": "CENG 205", "title": "Graduate Seminar in Chemical Engineering", "units": "1", "prereqs": null}
+{"code": "CENG 207", "title": "Nanomedicine", "units": "4", "prereqs": null}
+{"code": "CENG 208", "title": "Nanofabrication", "units": "4", "prereqs": null}
+{"code": "CENG 210A", "title": "Fluid Mechanics I", "units": "4", "prereqs": "CENG 101A"}
+{"code": "CENG 211", "title": "Introduction to NanoEngineering", "units": "4", "prereqs": null}
+{"code": "CENG 212", "title": "Intermolecular and Surface Forces", "units": "4", "prereqs": null}
+{"code": "CENG 213", "title": "Nanoscale Synthesis and Characterization", "units": "4", "prereqs": null}
+{"code": "CENG 214", "title": "Nanoscale Physics and Modeling", "units": "4", "prereqs": "CENG 212"}
+{"code": "CENG 215", "title": "Nanosystems Integration", "units": "4", "prereqs": null}
+{"code": "CENG 221A", "title": "Heat Transfer", "units": "4", "prereqs": null}
+{"code": "CENG 221B", "title": "Mass Transfer", "units": "4", "prereqs": null}
+{"code": "CENG 230", "title": "Synchrotron Characterization of Nanomaterials", "units": "4", "prereqs": null}
+{"code": "CENG 251", "title": "Thermodynamics", "units": "4", "prereqs": null}
+{"code": "CENG 252", "title": "Chemical Reaction Engineering", "units": "4", "prereqs": null}
+{"code": "CENG 253", "title": "Heterogeneous Catalysis", "units": "4", "prereqs": null}
+{"code": "CENG 254", "title": "Biochemical Engineering Fundamentals", "units": "4", "prereqs": null}
+{"code": "CENG 255", "title": "Electrochemical Engineering", "units": "4", "prereqs": null}
+{"code": "CENG 256", "title": "Biomaterials and Biomimetics", "units": "4", "prereqs": null}
+{"code": "CENG 257", "title": "Process Technology in the Semiconductor Industry", "units": "4", "prereqs": null}
+{"code": "CENG 273", "title": "Principles of Immune Engineering", "units": "4", "prereqs": null}
+{"code": "CENG 296", "title": "Independent Study in Chemical Engineering", "units": "4", "prereqs": null}
+{"code": "CENG 299", "title": "Graduate Research in Chemical Engineering", "units": "1\u201312", "prereqs": null}
+{"code": "CENG 501", "title": "Teaching Experience", "units": "2", "prereqs": null}

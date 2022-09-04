@@ -1,161 +1,161 @@
-{"dept": "CHEM", "code": "CHEM 1", "title": "The Scope of Chemistry and Biochemistry", "units": "1"}
-{"dept": "CHEM", "code": "CHEM 4", "title": "Chemical Thinking", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 6A", "title": "General Chemistry I", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 6AH", "title": "Honors General Chemistry I", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 6B", "title": "General Chemistry II", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 6BH", "title": "Honors General Chemistry II", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 6C", "title": "General Chemistry III", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 6CH", "title": "Honors General Chemistry III", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 7L", "title": "General Chemistry Laboratory", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 7LM", "title": "General Chemistry Laboratory for Majors", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 11", "title": "The Periodic Table", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 12", "title": "Molecules and Reactions", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 13", "title": "Chemistry of Life", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 40A", "title": "Organic Chemistry I", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 40AH", "title": "Honors Organic Chemistry I", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 40B", "title": "Organic Chemistry II", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 40BH", "title": "Honors Organic Chemistry II", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 40C", "title": "Organic Chemistry III", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 40CH", "title": "Honors Organic Chemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 41A", "title": "Organic Chemistry I: Structure and Reactivity", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 41B", "title": "Organic Chemistry II: Reactivity and Synthesis", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 41C", "title": "Organic Chemistry III: Synthesis, Reactivity, and Macromolecules", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 43A", "title": "Organic Chemistry Laboratory", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 43AM", "title": "Organic Chemistry Laboratory for Majors", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 87", "title": "First-year Student Seminar in Chemistry and Biochemistry", "units": "1"}
-{"dept": "CHEM", "code": "CHEM 96", "title": "Introduction to Teaching Science", "units": "2"}
-{"dept": "CHEM", "code": "CHEM 99", "title": "Independent Study", "units": "2 or 4"}
-{"dept": "CHEM", "code": "CHEM 99H", "title": "Independent Study", "units": "1"}
-{"dept": "CHEM", "code": "CHEM 100A", "title": "Analytical Chemistry Laboratory", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 100B", "title": "Instrumental Chemistry Laboratory", "units": "5"}
-{"dept": "CHEM", "code": "CHEM 104", "title": "Introduction to X-ray Crystallography", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 105A", "title": "Physical Chemistry Laboratory", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 105B", "title": "Physical Chemistry Laboratory", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 108", "title": "Protein Biochemistry Laboratory", "units": "6"}
-{"dept": "CHEM", "code": "CHEM 109", "title": "Recombinant DNA Laboratory", "units": "6"}
-{"dept": "CHEM", "code": "CHEM 111", "title": "Origins of Life and the Universe", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 113", "title": "Biophysical Chemistry of Macromolecules", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 114A", "title": "Biochemical Structure and Function", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 114B", "title": "Biochemical Energetics and Metabolism", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 114C", "title": "Biosynthesis of Macromolecules", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 114D", "title": "Molecular and Cellular Biochemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 115", "title": "Genome, Epigenome, and Transcriptome Editing", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 116", "title": "Chemical Biology", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 118", "title": "Pharmacology and Toxicology", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 119", "title": "RNA Biochemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 120A", "title": "Inorganic Chemistry I", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 120B", "title": "Inorganic Chemistry II", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 123", "title": "Advanced Inorganic Chemistry Laboratory", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 125", "title": "Bioinorganic Chemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 126A", "title": "Physical Biochemistry I: Thermodynamics and Kinetics of Biomolecules", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 126B", "title": "Physical Biochemistry II: Quantum and Statistical Mechanics of Biomolecules", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 130", "title": "Chemical Physics: Quantum Mechanics", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 131", "title": "Chemical Physics: Stat Thermo I", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 132", "title": "Chemical Physics: Stat Thermo II", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 134", "title": "Polymeric Materials", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 135", "title": "Molecular Spectroscopy", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 141", "title": "Organic Nanomaterials", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 142", "title": "Introduction to Glycosciences", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 143B", "title": "Organic Chemistry Laboratory", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 143C", "title": "Organic Chemistry Laboratory", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 143D", "title": "Molecular Design and Synthesis", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 145", "title": "Biofuels and Renewable Materials", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 146", "title": "Kinetics and Mechanism of Organic Reactions", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 151", "title": "Molecules that Changed the World", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 152", "title": "Synthetic Methods in Organic Chemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 154", "title": "Mechanisms of Organic Reactions", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 155", "title": "Synthesis of Complex Molecules", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 156", "title": "Structure and Properties of Organic Molecules", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 157", "title": "Bioorganic and Natural Products Chemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 158", "title": "Applied Spectroscopy", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 164", "title": "Structural Biology of Viruses", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 165", "title": "3D Cryo-Electron Microscopy of Macromolecules and Cells", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 167", "title": "Medicinal Chemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 168", "title": "Drug Synthesis and Design", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 171", "title": "Environmental Chemistry I", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 172", "title": "Environmental Chemistry II", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 173", "title": "Atmospheric Chemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 174", "title": "Chemical Principles of Marine Systems", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 185", "title": "Quantum Chemistry Lab", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 186", "title": "Molecular Simulations Lab", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 187", "title": "Foundations of Teaching and Learning Science", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 188", "title": "Capstone Seminar in Science Education", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 190", "title": "Mathematics for Physical Chemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 192", "title": "Senior Seminar in Chemistry and Biochemistry", "units": "1"}
-{"dept": "CHEM", "code": "CHEM 194", "title": "Special Topics in Chemistry", "units": "2"}
-{"dept": "CHEM", "code": "CHEM 195", "title": "Methods of Teaching Chemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 196", "title": "Reading and Research in Chemical Education", "units": "2 or 4"}
-{"dept": "CHEM", "code": "CHEM 197", "title": "Chemistry Internship", "units": "2 or 4"}
-{"dept": "CHEM", "code": "CHEM 198", "title": "Directed Group Study", "units": "1\u20134"}
-{"dept": "CHEM", "code": "CHEM 199", "title": "Reading and Research", "units": "2 or 4"}
-{"dept": "CHEM", "code": "CHEM 200B", "title": "Fundamentals of Instrumental Analysis", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 204", "title": "Introduction to X-ray Crystallography", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 207", "title": "Protein NMR", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 209", "title": "Macromolecular Recognition", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 210", "title": "Lipid Cell Signaling Genomics, Proteomics, and Metabolomics", "units": "2"}
-{"dept": "CHEM", "code": "CHEM 212", "title": "Biochemistry and Biophysics of Cell Membranes", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 213A", "title": "Structure of Biomolecules and Biomolecular Assemblies", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 213B", "title": "Biophysical Chemistry of Macromolecules", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 214", "title": "Molecular and Cellular Biochemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 215", "title": "Genome, Epigenome, and Transcriptome Editing", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 216", "title": "Chemical Biology", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 217", "title": "RNA Structure, Function, and Biology", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 219A", "title": "Special Topics in Biochemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 219B", "title": "Special Topics in Biochemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 219C", "title": "Special Topics in Biochemistry", "units": "2 or 4"}
-{"dept": "CHEM", "code": "CHEM 220", "title": "Regulatory Circuits in Cells", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 221", "title": "Signal Transduction", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 222", "title": "Structure and Analysis of Solids", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 223", "title": "Organometallic Chemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 224", "title": "Spectroscopic Techniques", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 225", "title": "Bioinorganic Chemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 226", "title": "Transition Metal Chemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 227", "title": "Seminar in Inorganic Chemistry", "units": "2"}
-{"dept": "CHEM", "code": "CHEM 228", "title": "Solid State Chemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 229", "title": "Special Topics in Inorganic Chemistry", "units": "2\u20134"}
-{"dept": "CHEM", "code": "CHEM 230A", "title": "Quantum Mechanics I", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 230B", "title": "Quantum Mechanics II", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 231", "title": "Chemical Kinetics and Molecular Reaction Dynamics", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 232A", "title": "Statistical Mechanics I", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 232B", "title": "Statistical Mechanics II", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 235", "title": "Molecular Spectroscopy", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 236", "title": "Chemical Dynamics on Surfaces", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 239", "title": "Special Topics in Chemical Physics", "units": "2 or 4"}
-{"dept": "CHEM", "code": "CHEM 240", "title": "Electrochemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 241", "title": "Organic Nanomaterials", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 242", "title": "Introduction to Glycosciences", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 246", "title": "Kinetics and Mechanism", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 250", "title": "Research Survival Skills", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 251", "title": "Research Conference", "units": "2"}
-{"dept": "CHEM", "code": "CHEM 252", "title": "Synthetic Methods in Organic Chemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 253", "title": "Antibiotics", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 254", "title": "Mechanisms of Organic Reactions", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 255", "title": "Synthesis of Complex Molecules", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 256", "title": "Structure and Properties of Organic Molecules", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 257", "title": "Bioorganic and Natural Products Chemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 258", "title": "Applied Spectroscopy", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 259", "title": "Special Topics in Organic Chemistry", "units": "2\u20134"}
-{"dept": "CHEM", "code": "CHEM 260", "title": "Light and Electron Microscopy of Cells and Tissue", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 261", "title": "Practical X-Ray Crystallography", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 262", "title": "Inorganic Chemistry and NMR", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 264", "title": "Structural Biology of Viruses", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 265", "title": "3D Electron Microscopy of Macromolecules", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 267", "title": "Environmental Nanotechnology, Sustainable Nanotechnology, and Nanotoxicity", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 270A-B-C", "title": ". Current Topics in Environmental Chemistry", "units": "2-2-2"}
-{"dept": "CHEM", "code": "CHEM 271", "title": "Special Topics in Analytical Chemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 273", "title": "Atmospheric Chemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 276", "title": "Numerical Analysis in Multiscale Biology", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 280", "title": "Applied Bioinformatics", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 283", "title": "Supramolecular Structure Determination Laboratory", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 285", "title": "Quantum Chemistry Lab", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 286", "title": "Molecular Simulations Lab", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 290", "title": "Mathematics for Physical Chemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 291", "title": "Molecular Biophysics Student Seminar", "units": "2"}
-{"dept": "CHEM", "code": "CHEM 294", "title": "Organic Chemistry Seminar", "units": "2"}
-{"dept": "CHEM", "code": "CHEM 295", "title": "Biochemistry Seminar", "units": "2"}
-{"dept": "CHEM", "code": "CHEM 296", "title": "Chemical Physics Seminar", "units": "2"}
-{"dept": "CHEM", "code": "CHEM 297", "title": "Experimental Methods in Chemistry", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 298", "title": "Special Study in Chemistry", "units": "1\u201312"}
-{"dept": "CHEM", "code": "CHEM 299", "title": "Research in Chemistry", "units": "1\u201312"}
-{"dept": "CHEM", "code": "CHEM 500", "title": "Apprentice Teaching", "units": "4"}
-{"dept": "CHEM", "code": "CHEM 509", "title": "Teaching Methods in Chemistry and Biochemistry", "units": "2"}
+{"code": "CHEM 1", "title": "The Scope of Chemistry and Biochemistry", "units": "1", "prereqs": null}
+{"code": "CHEM 4", "title": "Chemical Thinking", "units": "4", "prereqs": null}
+{"code": "CHEM 6A", "title": "General Chemistry I", "units": "4", "prereqs": null}
+{"code": "CHEM 6AH", "title": "Honors General Chemistry I", "units": "4", "prereqs": null}
+{"code": "CHEM 6B", "title": "General Chemistry II", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 6A", "CHEM 6AH"]}, {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}]}}
+{"code": "CHEM 6BH", "title": "Honors General Chemistry II", "units": "4", "prereqs": {"type": "all", "courses": ["CHEM 6AH", "MATH 20A"]}}
+{"code": "CHEM 6C", "title": "General Chemistry III", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 6B", "CHEM 6BH"]}}
+{"code": "CHEM 6CH", "title": "Honors General Chemistry III", "units": "4", "prereqs": {"type": "all", "courses": ["CHEM 6BH", "MATH 20B"]}}
+{"code": "CHEM 7L", "title": "General Chemistry Laboratory", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 6B", "CHEM 6BH"]}}
+{"code": "CHEM 7LM", "title": "General Chemistry Laboratory for Majors", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 6B", "CHEM 6BH"]}}
+{"code": "CHEM 11", "title": "The Periodic Table", "units": "4", "prereqs": null}
+{"code": "CHEM 12", "title": "Molecules and Reactions", "units": "4", "prereqs": "CHEM 11"}
+{"code": "CHEM 13", "title": "Chemistry of Life", "units": "4", "prereqs": null}
+{"code": "CHEM 40A", "title": "Organic Chemistry I", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 6B", "CHEM 6BH"]}}
+{"code": "CHEM 40AH", "title": "Honors Organic Chemistry I", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}}
+{"code": "CHEM 40B", "title": "Organic Chemistry II", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 40A", "CHEM 140A", "CHEM 40A"]}}
+{"code": "CHEM 40BH", "title": "Honors Organic Chemistry II", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 40A", "CHEM 40AH", "CHEM 140A", "CHEM 140AH"]}}
+{"code": "CHEM 40C", "title": "Organic Chemistry III", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 40B", "CHEM 140B", "CHEM 140B"]}}
+{"code": "CHEM 40CH", "title": "Honors Organic Chemistry", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 40B", "CHEM 140B", "CHEM 40BH", "CHEM 140BH"]}}
+{"code": "CHEM 41A", "title": "Organic Chemistry I: Structure and Reactivity", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 6B", "CHEM 6BH"]}}
+{"code": "CHEM 41B", "title": "Organic Chemistry II: Reactivity and Synthesis", "units": "4", "prereqs": "CHEM 41A"}
+{"code": "CHEM 41C", "title": "Organic Chemistry III: Synthesis, Reactivity, and Macromolecules", "units": "4", "prereqs": "CHEM 41B"}
+{"code": "CHEM 43A", "title": "Organic Chemistry Laboratory", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 7L", "CHEM 7LM"]}, {"type": "one", "courses": ["CHEM 40A", "CHEM 40AH", "CHEM 140A", "CHEM 140AH"]}]}}
+{"code": "CHEM 43AM", "title": "Organic Chemistry Laboratory for Majors", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 7L", "CHEM 7LM"]}, {"type": "one", "courses": ["CHEM 40A", "CHEM 40AH", "CHEM 140A", "CHEM 140AH"]}]}}
+{"code": "CHEM 87", "title": "First-year Student Seminar in Chemistry and Biochemistry", "units": "1", "prereqs": null}
+{"code": "CHEM 96", "title": "Introduction to Teaching Science", "units": "2", "prereqs": null}
+{"code": "CHEM 99", "title": "Independent Study", "units": "2 or 4", "prereqs": null}
+{"code": "CHEM 99H", "title": "Independent Study", "units": "1", "prereqs": null}
+{"code": "CHEM 100A", "title": "Analytical Chemistry Laboratory", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}, {"type": "one", "courses": ["CHEM 6BL", "CHEM 7L", "CHEM 7LM"]}]}}
+{"code": "CHEM 100B", "title": "Instrumental Chemistry Laboratory", "units": "5", "prereqs": {"type": "all", "courses": ["CHEM 100A", {"type": "one", "courses": ["PHYS 2C", "PHYS 2D"]}, {"type": "one", "courses": ["PHYS 2BL", "PHYS 2CL", "PHYS 2DL"]}]}}
+{"code": "CHEM 104", "title": "Introduction to X-ray Crystallography", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 2A", "PHYS 2B"]}}
+{"code": "CHEM 105A", "title": "Physical Chemistry Laboratory", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 6CL", "CHEM 100A"]}, {"type": "one", "courses": ["PHYS 2BL", "PHYS 2CL", "PHYS 2DL"]}, {"type": "one", "courses": ["CHEM 126", "CHEM 126A", "CHEM 126B", "CHEM 127", "CHEM 130", "CHEM 131", "CHEM 133"]}]}}
+{"code": "CHEM 105B", "title": "Physical Chemistry Laboratory", "units": "4", "prereqs": "CHEM 105A"}
+{"code": "CHEM 108", "title": "Protein Biochemistry Laboratory", "units": "6", "prereqs": {"type": "all", "courses": ["CHEM 43A", "CHEM 143A", {"type": "one", "courses": ["CHEM 43AM", "CHEM 143AM"]}, "CHEM 114A"]}}
+{"code": "CHEM 109", "title": "Recombinant DNA Laboratory", "units": "6", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 43A", "CHEM 143A", "CHEM 43AM", "CHEM 143AM"]}, "CHEM 114A"]}}
+{"code": "CHEM 111", "title": "Origins of Life and the Universe", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}}
+{"code": "CHEM 113", "title": "Biophysical Chemistry of Macromolecules", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 40C", "CHEM 40CH", "CHEM 140C", "CHEM 140CH"]}}
+{"code": "CHEM 114A", "title": "Biochemical Structure and Function", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 40A", "CHEM 140A"]}}
+{"code": "CHEM 114B", "title": "Biochemical Energetics and Metabolism", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 40B", "CHEM 140B", "CHEM 40BH", "CHEM 140BH"]}, "CHEM 114A"]}}
+{"code": "CHEM 114C", "title": "Biosynthesis of Macromolecules", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 114A", "BIBC 100"]}}
+{"code": "CHEM 114D", "title": "Molecular and Cellular Biochemistry", "units": "4", "prereqs": {"type": "all", "courses": ["CHEM 114A", "CHEM 114B", "CHEM 114C"]}}
+{"code": "CHEM 115", "title": "Genome, Epigenome, and Transcriptome Editing", "units": "4", "prereqs": {"type": "all", "courses": ["CHEM 114A", "CHEM 114C"]}}
+{"code": "CHEM 116", "title": "Chemical Biology", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 40C", "CHEM 40CH", "CHEM 140C", "CHEM 140CH"]}, "CHEM 114A"]}}
+{"code": "CHEM 118", "title": "Pharmacology and Toxicology", "units": "4", "prereqs": "CHEM 114A"}
+{"code": "CHEM 119", "title": "RNA Biochemistry", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["BIMM 100", "CHEM 114C"]}, {"type": "one", "courses": ["CHEM 40C", "CHEM 40CH"]}]}}
+{"code": "CHEM 120A", "title": "Inorganic Chemistry I", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}, {"type": "one", "courses": ["CHEM 40A", "CHEM 140A"]}]}}
+{"code": "CHEM 120B", "title": "Inorganic Chemistry II", "units": "4", "prereqs": "CHEM 120A"}
+{"code": "CHEM 123", "title": "Advanced Inorganic Chemistry Laboratory", "units": "4", "prereqs": {"type": "all", "courses": ["CHEM 120A", "CHEM 120B", "CHEM 43A", "CHEM 143A", {"type": "one", "courses": ["CHEM 43AM", "CHEM 143AH"]}]}}
+{"code": "CHEM 125", "title": "Bioinorganic Chemistry", "units": "4", "prereqs": {"type": "all", "courses": ["CHEM 114A", "CHEM 120A"]}}
+{"code": "CHEM 126A", "title": "Physical Biochemistry I: Thermodynamics and Kinetics of Biomolecules", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}, {"type": "one", "courses": ["PHYS 1C", "PHYS 2C", "PHYS 2D"]}, {"type": "one", "courses": ["MATH 10C", "MATH 20C"]}]}}
+{"code": "CHEM 126B", "title": "Physical Biochemistry II: Quantum and Statistical Mechanics of Biomolecules", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 126A", "CHEM 127"]}}
+{"code": "CHEM 130", "title": "Chemical Physics: Quantum Mechanics", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}, {"type": "one", "courses": ["PHYS 2C", "PHYS 2D"]}, "MATH 20D"]}}
+{"code": "CHEM 131", "title": "Chemical Physics: Stat Thermo I", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}, "MATH 20C", {"type": "one", "courses": ["PHYS 2C", "PHYS 2D"]}]}}
+{"code": "CHEM 132", "title": "Chemical Physics: Stat Thermo II", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 130", "CHEM 133"]}, "CHEM 131"]}}
+{"code": "CHEM 134", "title": "Polymeric Materials", "units": "4", "prereqs": {"type": "all", "courses": ["CHEM 6C", "PHYS 2C"]}}
+{"code": "CHEM 135", "title": "Molecular Spectroscopy", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 126", "CHEM 126B", "CHEM 130", "CHEM 133"]}, "MATH 20D"]}}
+{"code": "CHEM 141", "title": "Organic Nanomaterials", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 40A", "CHEM 140A", "CHEM 40AH", "CHEM 140AH"]}}
+{"code": "CHEM 142", "title": "Introduction to Glycosciences", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 40B", "CHEM 140B", "CHEM 40BH", "CHEM 140BH"]}, {"type": "one", "courses": ["BIBC 100", "BILD 1", "CHEM 114A"]}]}}
+{"code": "CHEM 143B", "title": "Organic Chemistry Laboratory", "units": "4", "prereqs": {"type": "all", "courses": ["CHEM 43A", "CHEM 143A", {"type": "one", "courses": ["CHEM 43AM", "CHEM 143AM"]}, {"type": "one", "courses": ["CHEM 40B", "CHEM 140B"]}]}}
+{"code": "CHEM 143C", "title": "Organic Chemistry Laboratory", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 43A", "CHEM 43AM", "CHEM 143A", "CHEM 143AM", "CHEM 143AH"]}, {"type": "one", "courses": ["CHEM 40B", "CHEM 40BH", "CHEM 140B", "CHEM 140BH"]}]}}
+{"code": "CHEM 143D", "title": "Molecular Design and Synthesis", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 40C", "CHEM 140C", "CHEM 40CH", "CHEM 140CH"]}, "CHEM 143B"]}}
+{"code": "CHEM 145", "title": "Biofuels and Renewable Materials", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 40B", "CHEM 40BH", "CHEM 140B", "CHEM 140BH"]}}
+{"code": "CHEM 146", "title": "Kinetics and Mechanism of Organic Reactions", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 40C", "CHEM 140C", "CHEM 40CH", "CHEM 140CH"]}}
+{"code": "CHEM 151", "title": "Molecules that Changed the World", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 40A", "CHEM 140A", "CHEM 40AH", "CHEM 140AH"]}}
+{"code": "CHEM 152", "title": "Synthetic Methods in Organic Chemistry", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 40C", "CHEM 140C", "CHEM 40CH", "CHEM 140CH"]}}
+{"code": "CHEM 154", "title": "Mechanisms of Organic Reactions", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 40C", "CHEM 140C", "CHEM 40CH", "CHEM 140CH"]}}
+{"code": "CHEM 155", "title": "Synthesis of Complex Molecules", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 152", "CHEM 154"]}}
+{"code": "CHEM 156", "title": "Structure and Properties of Organic Molecules", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 40C", "CHEM 140C", "CHEM 40CH", "CHEM 140CH"]}}
+{"code": "CHEM 157", "title": "Bioorganic and Natural Products Chemistry", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 40C", "CHEM 140C", "CHEM 40CH", "CHEM 140CH"]}}
+{"code": "CHEM 158", "title": "Applied Spectroscopy", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 40C", "CHEM 140C", "CHEM 40CH", "CHEM 140CH"]}}
+{"code": "CHEM 164", "title": "Structural Biology of Viruses", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["BIBC 100", "CHEM 114A"]}, {"type": "one", "courses": ["BIBC 102", "CHEM 114B"]}, {"type": "one", "courses": ["BIMM 100", "CHEM 114C"]}]}}
+{"code": "CHEM 165", "title": "3D Cryo-Electron Microscopy of Macromolecules and Cells", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 114A", "BIBC 100"]}}
+{"code": "CHEM 167", "title": "Medicinal Chemistry", "units": "4", "prereqs": {"type": "all", "courses": ["CHEM 40C", "CHEM 140C", {"type": "one", "courses": ["CHEM 40CH", "CHEM 140CH"]}, "CHEM 114A"]}}
+{"code": "CHEM 168", "title": "Drug Synthesis and Design", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 40C", "CHEM 40CH", "CHEM 140C", "CHEM 140CH"]}, "CHEM 114A"]}}
+{"code": "CHEM 171", "title": "Environmental Chemistry I", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}}
+{"code": "CHEM 172", "title": "Environmental Chemistry II", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}}
+{"code": "CHEM 173", "title": "Atmospheric Chemistry", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}}
+{"code": "CHEM 174", "title": "Chemical Principles of Marine Systems", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}}
+{"code": "CHEM 185", "title": "Quantum Chemistry Lab", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 126", "CHEM 126B", "CHEM 130", "CHEM 133"]}, {"type": "one", "courses": ["MATH 20C", "MATH 31BH"]}]}}
+{"code": "CHEM 186", "title": "Molecular Simulations Lab", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 20C", {"type": "one", "courses": ["CHEM 126", "CHEM 126B", "CHEM 130", "CHEM 133"]}]}}
+{"code": "CHEM 187", "title": "Foundations of Teaching and Learning Science", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}, {"type": "one", "courses": ["CHEM 96", "EDS 31"]}]}}
+{"code": "CHEM 188", "title": "Capstone Seminar in Science Education", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}, {"type": "one", "courses": ["CHEM 187", "EDS 122"]}]}}
+{"code": "CHEM 190", "title": "Mathematics for Physical Chemistry", "units": "4", "prereqs": "MATH 20D"}
+{"code": "CHEM 192", "title": "Senior Seminar in Chemistry and Biochemistry", "units": "1", "prereqs": null}
+{"code": "CHEM 194", "title": "Special Topics in Chemistry", "units": "2", "prereqs": null}
+{"code": "CHEM 195", "title": "Methods of Teaching Chemistry", "units": "4", "prereqs": null}
+{"code": "CHEM 196", "title": "Reading and Research in Chemical Education", "units": "2 or 4", "prereqs": null}
+{"code": "CHEM 197", "title": "Chemistry Internship", "units": "2 or 4", "prereqs": null}
+{"code": "CHEM 198", "title": "Directed Group Study", "units": "1\u20134", "prereqs": null}
+{"code": "CHEM 199", "title": "Reading and Research", "units": "2 or 4", "prereqs": null}
+{"code": "CHEM 200B", "title": "Fundamentals of Instrumental Analysis", "units": "4", "prereqs": null}
+{"code": "CHEM 204", "title": "Introduction to X-ray Crystallography", "units": "4", "prereqs": null}
+{"code": "CHEM 207", "title": "Protein NMR", "units": "4", "prereqs": null}
+{"code": "CHEM 209", "title": "Macromolecular Recognition", "units": "4", "prereqs": null}
+{"code": "CHEM 210", "title": "Lipid Cell Signaling Genomics, Proteomics, and Metabolomics", "units": "2", "prereqs": null}
+{"code": "CHEM 212", "title": "Biochemistry and Biophysics of Cell Membranes", "units": "4", "prereqs": null}
+{"code": "CHEM 213A", "title": "Structure of Biomolecules and Biomolecular Assemblies", "units": "4", "prereqs": null}
+{"code": "CHEM 213B", "title": "Biophysical Chemistry of Macromolecules", "units": "4", "prereqs": null}
+{"code": "CHEM 214", "title": "Molecular and Cellular Biochemistry", "units": "4", "prereqs": null}
+{"code": "CHEM 215", "title": "Genome, Epigenome, and Transcriptome Editing", "units": "4", "prereqs": null}
+{"code": "CHEM 216", "title": "Chemical Biology", "units": "4", "prereqs": null}
+{"code": "CHEM 217", "title": "RNA Structure, Function, and Biology", "units": "4", "prereqs": null}
+{"code": "CHEM 219A", "title": "Special Topics in Biochemistry", "units": "4", "prereqs": "CHEM 114A"}
+{"code": "CHEM 219B", "title": "Special Topics in Biochemistry", "units": "4", "prereqs": null}
+{"code": "CHEM 219C", "title": "Special Topics in Biochemistry", "units": "2 or 4", "prereqs": null}
+{"code": "CHEM 220", "title": "Regulatory Circuits in Cells", "units": "4", "prereqs": null}
+{"code": "CHEM 221", "title": "Signal Transduction", "units": "4", "prereqs": null}
+{"code": "CHEM 222", "title": "Structure and Analysis of Solids", "units": "4", "prereqs": null}
+{"code": "CHEM 223", "title": "Organometallic Chemistry", "units": "4", "prereqs": null}
+{"code": "CHEM 224", "title": "Spectroscopic Techniques", "units": "4", "prereqs": null}
+{"code": "CHEM 225", "title": "Bioinorganic Chemistry", "units": "4", "prereqs": null}
+{"code": "CHEM 226", "title": "Transition Metal Chemistry", "units": "4", "prereqs": null}
+{"code": "CHEM 227", "title": "Seminar in Inorganic Chemistry", "units": "2", "prereqs": null}
+{"code": "CHEM 228", "title": "Solid State Chemistry", "units": "4", "prereqs": null}
+{"code": "CHEM 229", "title": "Special Topics in Inorganic Chemistry", "units": "2\u20134", "prereqs": null}
+{"code": "CHEM 230A", "title": "Quantum Mechanics I", "units": "4", "prereqs": null}
+{"code": "CHEM 230B", "title": "Quantum Mechanics II", "units": "4", "prereqs": "CHEM 230A"}
+{"code": "CHEM 231", "title": "Chemical Kinetics and Molecular Reaction Dynamics", "units": "4", "prereqs": null}
+{"code": "CHEM 232A", "title": "Statistical Mechanics I", "units": "4", "prereqs": null}
+{"code": "CHEM 232B", "title": "Statistical Mechanics II", "units": "4", "prereqs": "CHEM 232A"}
+{"code": "CHEM 235", "title": "Molecular Spectroscopy", "units": "4", "prereqs": null}
+{"code": "CHEM 236", "title": "Chemical Dynamics on Surfaces", "units": "4", "prereqs": null}
+{"code": "CHEM 239", "title": "Special Topics in Chemical Physics", "units": "2 or 4", "prereqs": null}
+{"code": "CHEM 240", "title": "Electrochemistry", "units": "4", "prereqs": null}
+{"code": "CHEM 241", "title": "Organic Nanomaterials", "units": "4", "prereqs": null}
+{"code": "CHEM 242", "title": "Introduction to Glycosciences", "units": "4", "prereqs": null}
+{"code": "CHEM 246", "title": "Kinetics and Mechanism", "units": "4", "prereqs": null}
+{"code": "CHEM 250", "title": "Research Survival Skills", "units": "4", "prereqs": null}
+{"code": "CHEM 251", "title": "Research Conference", "units": "2", "prereqs": null}
+{"code": "CHEM 252", "title": "Synthetic Methods in Organic Chemistry", "units": "4", "prereqs": null}
+{"code": "CHEM 253", "title": "Antibiotics", "units": "4", "prereqs": null}
+{"code": "CHEM 254", "title": "Mechanisms of Organic Reactions", "units": "4", "prereqs": null}
+{"code": "CHEM 255", "title": "Synthesis of Complex Molecules", "units": "4", "prereqs": null}
+{"code": "CHEM 256", "title": "Structure and Properties of Organic Molecules", "units": "4", "prereqs": null}
+{"code": "CHEM 257", "title": "Bioorganic and Natural Products Chemistry", "units": "4", "prereqs": null}
+{"code": "CHEM 258", "title": "Applied Spectroscopy", "units": "4", "prereqs": null}
+{"code": "CHEM 259", "title": "Special Topics in Organic Chemistry", "units": "2\u20134", "prereqs": null}
+{"code": "CHEM 260", "title": "Light and Electron Microscopy of Cells and Tissue", "units": "4", "prereqs": null}
+{"code": "CHEM 261", "title": "Practical X-Ray Crystallography", "units": "4", "prereqs": null}
+{"code": "CHEM 262", "title": "Inorganic Chemistry and NMR", "units": "4", "prereqs": null}
+{"code": "CHEM 264", "title": "Structural Biology of Viruses", "units": "4", "prereqs": null}
+{"code": "CHEM 265", "title": "3D Electron Microscopy of Macromolecules", "units": "4", "prereqs": null}
+{"code": "CHEM 267", "title": "Environmental Nanotechnology, Sustainable Nanotechnology, and Nanotoxicity", "units": "4", "prereqs": null}
+{"code": "CHEM 270A-B-C", "title": ". Current Topics in Environmental Chemistry", "units": "2-2-2", "prereqs": null}
+{"code": "CHEM 271", "title": "Special Topics in Analytical Chemistry", "units": "4", "prereqs": null}
+{"code": "CHEM 273", "title": "Atmospheric Chemistry", "units": "4", "prereqs": null}
+{"code": "CHEM 276", "title": "Numerical Analysis in Multiscale Biology", "units": "4", "prereqs": null}
+{"code": "CHEM 280", "title": "Applied Bioinformatics", "units": "4", "prereqs": null}
+{"code": "CHEM 283", "title": "Supramolecular Structure Determination Laboratory", "units": "4", "prereqs": null}
+{"code": "CHEM 285", "title": "Quantum Chemistry Lab", "units": "4", "prereqs": null}
+{"code": "CHEM 286", "title": "Molecular Simulations Lab", "units": "4", "prereqs": null}
+{"code": "CHEM 290", "title": "Mathematics for Physical Chemistry", "units": "4", "prereqs": null}
+{"code": "CHEM 291", "title": "Molecular Biophysics Student Seminar", "units": "2", "prereqs": null}
+{"code": "CHEM 294", "title": "Organic Chemistry Seminar", "units": "2", "prereqs": null}
+{"code": "CHEM 295", "title": "Biochemistry Seminar", "units": "2", "prereqs": null}
+{"code": "CHEM 296", "title": "Chemical Physics Seminar", "units": "2", "prereqs": null}
+{"code": "CHEM 297", "title": "Experimental Methods in Chemistry", "units": "4", "prereqs": null}
+{"code": "CHEM 298", "title": "Special Study in Chemistry", "units": "1\u201312", "prereqs": null}
+{"code": "CHEM 299", "title": "Research in Chemistry", "units": "1\u201312", "prereqs": null}
+{"code": "CHEM 500", "title": "Apprentice Teaching", "units": "4", "prereqs": null}
+{"code": "CHEM 509", "title": "Teaching Methods in Chemistry and Biochemistry", "units": "2", "prereqs": null}

@@ -1,198 +1,198 @@
-{"dept": "ECE", "code": "ECE 5", "title": "Introduction to Electrical and Computer Engineering", "units": "4"}
-{"dept": "ECE", "code": "ECE 15", "title": "Engineering Computation", "units": "4"}
-{"dept": "ECE", "code": "ECE 16", "title": "Rapid Hardware and Software Design for Interfacing with the World", "units": "4"}
-{"dept": "ECE", "code": "ECE 17", "title": "Object-Oriented Programming: Design and Development with C++", "units": "4"}
-{"dept": "ECE", "code": "ECE 25", "title": "Introduction to Digital Design", "units": "4"}
-{"dept": "ECE", "code": "ECE 30", "title": "Introduction to Computer Engineering", "units": "4"}
-{"dept": "ECE", "code": "ECE 35", "title": "Introduction to Analog Design", "units": "4"}
-{"dept": "ECE", "code": "ECE 45", "title": "Circuits and Systems", "units": "4"}
-{"dept": "ECE", "code": "ECE 65", "title": "Components and Circuits Laboratory", "units": "4"}
-{"dept": "ECE", "code": "ECE 85", "title": "iTunes 101: A Survey of Information Technology", "units": "4"}
-{"dept": "ECE", "code": "ECE 87", "title": "First-year Student Seminar", "units": "1"}
-{"dept": "ECE", "code": "ECE 90", "title": "Undergraduate Seminar", "units": "1"}
-{"dept": "ECE", "code": "ECE 100", "title": "Linear Electronic Systems", "units": "4"}
-{"dept": "ECE", "code": "ECE 101", "title": "Linear Systems Fundamentals", "units": "4"}
-{"dept": "ECE", "code": "ECE 102", "title": "Introduction to Active Circuit Design", "units": "4"}
-{"dept": "ECE", "code": "ECE 103", "title": "Fundamentals of Devices and Materials", "units": "4"}
-{"dept": "ECE", "code": "ECE 107", "title": "Electromagnetism", "units": "4"}
-{"dept": "ECE", "code": "ECE 108", "title": "Digital Circuits", "units": "4"}
-{"dept": "ECE", "code": "ECE 109", "title": "Engineering Probability and Statistics", "units": "4"}
-{"dept": "ECE", "code": "ECE 111", "title": "Advanced Digital Design Project", "units": "4"}
-{"dept": "ECE", "code": "ECE 115", "title": "Fast Prototyping", "units": "4"}
-{"dept": "ECE", "code": "ECE 118", "title": "Computer Interfacing", "units": "4"}
-{"dept": "ECE", "code": "ECE 120", "title": "Solar System Physics", "units": "4"}
-{"dept": "ECE", "code": "ECE 121A", "title": "Power Systems Analysis and Fundamentals", "units": "4"}
-{"dept": "ECE", "code": "ECE 121B", "title": "Energy Conversion", "units": "4"}
-{"dept": "ECE", "code": "ECE 123", "title": "Antenna Systems Engineering", "units": "4"}
-{"dept": "ECE", "code": "ECE 124", "title": "Motor Drives", "units": "4"}
-{"dept": "ECE", "code": "ECE 125A", "title": "Introduction to Power Electronics I", "units": "4"}
-{"dept": "ECE", "code": "ECE 125B", "title": "Introduction to Power Electronics II", "units": "4"}
-{"dept": "ECE", "code": "ECE 128A", "title": "Real World Power Grid Operation", "units": "4"}
-{"dept": "ECE", "code": "ECE 128B", "title": "Power Grid Modernization", "units": "4"}
-{"dept": "ECE", "code": "ECE 128C", "title": "Power Grid Resiliency to Adverse Effects", "units": "4"}
-{"dept": "ECE", "code": "ECE 129", "title": "Renewable and Energy Storage Resources", "units": "4"}
-{"dept": "ECE", "code": "ECE 134", "title": "Electronic Materials Science of Integrated Circuits", "units": "4"}
-{"dept": "ECE", "code": "ECE 135A", "title": "Semiconductor Physics", "units": "4"}
-{"dept": "ECE", "code": "ECE 135B", "title": "Electronic Devices", "units": "4"}
-{"dept": "ECE", "code": "ECE 136L", "title": "Microelectronics Laboratory", "units": "4"}
-{"dept": "ECE", "code": "ECE 138L", "title": "Microstructuring Processing Technology Laboratory", "units": "4"}
-{"dept": "ECE", "code": "ECE 139", "title": "Semiconductor Device Design and Modeling", "units": "4"}
-{"dept": "ECE", "code": "ECE 140A", "title": "The Art of Product Engineering I", "units": "4"}
-{"dept": "ECE", "code": "ECE 140B", "title": "The Art of Product Engineering II", "units": "4"}
-{"dept": "ECE", "code": "ECE 141A", "title": "Software Foundations I", "units": "4"}
-{"dept": "ECE", "code": "ECE 141B", "title": "Software Foundations II", "units": "4"}
-{"dept": "ECE", "code": "ECE 143", "title": "Programming for Data Analysis", "units": "4"}
-{"dept": "ECE", "code": "ECE 144", "title": "LabVIEW Programming: Design and Applications", "units": "4"}
-{"dept": "ECE", "code": "ECE 145AL-BL-CL", "title": ". Acoustics Laboratory", "units": "4-4-4"}
-{"dept": "ECE", "code": "ECE 148", "title": "Introduction to Autonomous Vehicles", "units": "4"}
-{"dept": "ECE", "code": "ECE 150", "title": "Entrepreneurship for Engineers", "units": "4"}
-{"dept": "ECE", "code": "ECE 153", "title": "Probability and Random Processes for Engineers", "units": "4"}
-{"dept": "ECE", "code": "ECE 155", "title": "Digital Communications Theory", "units": "4"}
-{"dept": "ECE", "code": "ECE 156", "title": "Sensor Networks", "units": "4"}
-{"dept": "ECE", "code": "ECE 157A", "title": "Communications Systems Laboratory I", "units": "4"}
-{"dept": "ECE", "code": "ECE 157B", "title": "Communications Systems Laboratory II", "units": "4"}
-{"dept": "ECE", "code": "ECE 158A", "title": "Data Networks I", "units": "4"}
-{"dept": "ECE", "code": "ECE 158B", "title": "Data Networks II", "units": "4"}
-{"dept": "ECE", "code": "ECE 159", "title": "Introduction to Data Processing and Information Theory", "units": "4"}
-{"dept": "ECE", "code": "ECE 161A", "title": "Introduction to Digital Signal Processing", "units": "4"}
-{"dept": "ECE", "code": "ECE 161B", "title": "Digital Signal Processing I", "units": "4"}
-{"dept": "ECE", "code": "ECE 161C", "title": "Applications of Digital Signal Processing", "units": "4"}
-{"dept": "ECE", "code": "ECE 163", "title": "Electronic Circuits and Systems", "units": "4"}
-{"dept": "ECE", "code": "ECE 164", "title": "Analog Integrated Circuit Design", "units": "4"}
-{"dept": "ECE", "code": "ECE 165", "title": "Digital Integrated Circuit Design", "units": "4"}
-{"dept": "ECE", "code": "ECE 166", "title": "Microwave Systems and Circuits", "units": "4"}
-{"dept": "ECE", "code": "ECE 171A", "title": "Linear Control System Theory", "units": "4"}
-{"dept": "ECE", "code": "ECE 171B", "title": "Linear Control System Theory", "units": "4"}
-{"dept": "ECE", "code": "ECE 172A", "title": "Introduction to Intelligent Systems: Robotics and Machine Intelligence", "units": "4"}
-{"dept": "ECE", "code": "ECE 174", "title": "Introduction to Linear and Nonlinear Optimization with Applications", "units": "4"}
-{"dept": "ECE", "code": "ECE 175A", "title": "Elements of Machine Intelligence: Pattern Recognition and Machine Learning", "units": "4"}
-{"dept": "ECE", "code": "ECE 175B", "title": "Elements of Machine Intelligence: Probabilistic Reasoning and Graphical Models", "units": "4"}
-{"dept": "ECE", "code": "ECE 176", "title": "Introduction to Deep Learning and Applications", "units": "4"}
-{"dept": "ECE", "code": "ECE 180", "title": "Topics in Electrical and Computer Engineering", "units": "4"}
-{"dept": "ECE", "code": "ECE 181", "title": "Physical Optics and Fourier Optics", "units": "4"}
-{"dept": "ECE", "code": "ECE 182", "title": "Electromagnetic Optics, Guided-Wave, and Fiber Optics", "units": "4"}
-{"dept": "ECE", "code": "ECE 183", "title": "Optical Electronics", "units": "4"}
-{"dept": "ECE", "code": "ECE 184", "title": "Optical Information Processing and Holography", "units": "4"}
-{"dept": "ECE", "code": "ECE 185", "title": "Lasers and Modulators", "units": "4"}
-{"dept": "ECE", "code": "ECE 187", "title": "Introduction to Biomedical Imaging and Sensing", "units": "4"}
-{"dept": "ECE", "code": "ECE 188", "title": "Topics in Electrical and Computer Engineering with Laboratory", "units": "4"}
-{"dept": "ECE", "code": "ECE 189", "title": "Technical Public Speaking", "units": "2"}
-{"dept": "ECE", "code": "ECE 190", "title": "Engineering Design", "units": "4"}
-{"dept": "ECE", "code": "ECE 191", "title": "Engineering Group Design Project", "units": "4"}
-{"dept": "ECE", "code": "ECE 193H", "title": "Honors Project", "units": "4\u20138"}
-{"dept": "ECE", "code": "ECE 194", "title": "Viacar Design Project", "units": "4"}
-{"dept": "ECE", "code": "ECE 195", "title": "Teaching", "units": "2 or 4"}
-{"dept": "ECE", "code": "ECE 196", "title": "Engineering Hands-on Group Project", "units": "4"}
-{"dept": "ECE", "code": "ECE 197", "title": "ECE Internship", "units": "2, 4, 6, 8, 10, or 12"}
-{"dept": "ECE", "code": "ECE 198", "title": "Directed Group Study", "units": "2 or 4"}
-{"dept": "ECE", "code": "ECE 199", "title": "Independent Study for Undergraduates", "units": "2 or 4"}
-{"dept": "ECE", "code": "ECE 200", "title": "Research Conference", "units": "2"}
-{"dept": "ECE", "code": "ECE 201", "title": "Introduction to Biophysics", "units": "4"}
-{"dept": "ECE", "code": "ECE 202", "title": "Medical Devices and Interfaces", "units": "4"}
-{"dept": "ECE", "code": "ECE 203", "title": "Biomedical Integrated Circuits and Systems", "units": "4"}
-{"dept": "ECE", "code": "ECE 204", "title": "Statistical Learning in Bioinformatics", "units": "4"}
-{"dept": "ECE", "code": "ECE 207A", "title": "Principles of Medical Imaging", "units": "4"}
-{"dept": "ECE", "code": "ECE 208", "title": "Computational Evolutionary Biology", "units": "4"}
-{"dept": "ECE", "code": "ECE 209", "title": "Statistical Learning for Biosignal Processing", "units": "4"}
-{"dept": "ECE", "code": "ECE 212AN", "title": "Principles of Nanoscience and Nanotechnology", "units": "4"}
-{"dept": "ECE", "code": "ECE 212BN", "title": "Nanoelectronics", "units": "4"}
-{"dept": "ECE", "code": "ECE 212CN", "title": "Nanophotonics", "units": "4"}
-{"dept": "ECE", "code": "ECE 221", "title": "Magnetic Materials: Principles and Applications", "units": "4"}
-{"dept": "ECE", "code": "ECE 222A", "title": "Antennas and Their System Applications", "units": "4"}
-{"dept": "ECE", "code": "ECE 222B", "title": "Applied Electromagnetic Theory\u2014Electromagnetics", "units": "4"}
-{"dept": "ECE", "code": "ECE 222C", "title": "Applied Electromagnetic Theory\u2014Computational Methods for Electromagnetics", "units": "4"}
-{"dept": "ECE", "code": "ECE 222D", "title": "Advanced Antenna Design", "units": "4"}
-{"dept": "ECE", "code": "ECE 225A", "title": "Probability and Statistics for Data Science", "units": "4"}
-{"dept": "ECE", "code": "ECE 225B", "title": "Universal Probability and Its Applications in Data Science", "units": "4"}
-{"dept": "ECE", "code": "ECE 226", "title": "Optimization and Acceleration of Deep Learning on Various Hardware Platforms", "units": "4"}
-{"dept": "ECE", "code": "ECE 227", "title": "Big Network Data", "units": "4"}
-{"dept": "ECE", "code": "ECE 228", "title": "Machine Learning for Physical Applications", "units": "4"}
-{"dept": "ECE", "code": "ECE 229", "title": "Computational Data Analysis and Product Development", "units": "4"}
-{"dept": "ECE", "code": "ECE 230A", "title": "Solid State Electronics I", "units": "4"}
-{"dept": "ECE", "code": "ECE 230B", "title": "Solid State Electronics II", "units": "4"}
-{"dept": "ECE", "code": "ECE 230C", "title": "Solid State Electronics III", "units": "4"}
-{"dept": "ECE", "code": "ECE 235", "title": "Nanometer-Scale VLSI Devices", "units": "4"}
-{"dept": "ECE", "code": "ECE 236A", "title": "III-V Compound Semiconductor Materials", "units": "4"}
-{"dept": "ECE", "code": "ECE 236B", "title": "Optical Processes in Semiconductors", "units": "4"}
-{"dept": "ECE", "code": "ECE 236C", "title": "Heterojunction Field-Effect Transistors", "units": "4"}
-{"dept": "ECE", "code": "ECE 238A", "title": "Thermodynamics of Solids", "units": "4"}
-{"dept": "ECE", "code": "ECE 238B", "title": "Solid State Diffusion and Reaction Kinetics", "units": "4"}
-{"dept": "ECE", "code": "ECE 240A", "title": "Lasers and Optics", "units": "4"}
-{"dept": "ECE", "code": "ECE 240B", "title": "Optical Information Processing", "units": "4"}
-{"dept": "ECE", "code": "ECE 240C", "title": "Optical Modulation and Detection", "units": "4"}
-{"dept": "ECE", "code": "ECE 241A", "title": "Nonlinear Optics", "units": "4"}
-{"dept": "ECE", "code": "ECE 241B", "title": "Integrated Photonics", "units": "4"}
-{"dept": "ECE", "code": "ECE 241C", "title": "Holographic Optical Elements", "units": "4"}
-{"dept": "ECE", "code": "ECE 243B", "title": "Optical Fiber Communication", "units": "4"}
-{"dept": "ECE", "code": "ECE 244A", "title": "Statistical Optics", "units": "4"}
-{"dept": "ECE", "code": "ECE 247A", "title": "Advanced BioPhotonics", "units": "4"}
-{"dept": "ECE", "code": "ECE 247B", "title": "BioElectronics", "units": "4"}
-{"dept": "ECE", "code": "ECE 247C", "title": "BioNanotechnology", "units": "4"}
-{"dept": "ECE", "code": "ECE 250", "title": "Random Processes", "units": "4"}
-{"dept": "ECE", "code": "ECE 251A", "title": "Digital Signal Processing I", "units": "4"}
-{"dept": "ECE", "code": "ECE 251B", "title": "Digital Signal Processing II", "units": "4"}
-{"dept": "ECE", "code": "ECE 251C", "title": "Filter Banks and Wavelets", "units": "4"}
-{"dept": "ECE", "code": "ECE 251D", "title": "Array Processing", "units": "4"}
-{"dept": "ECE", "code": "ECE 252A", "title": "Speech Compression", "units": "4"}
-{"dept": "ECE", "code": "ECE 252B", "title": "Speech Recognition", "units": "4"}
-{"dept": "ECE", "code": "ECE 253", "title": "Fundamentals of Digital Image Processing", "units": "4"}
-{"dept": "ECE", "code": "ECE 254", "title": "Detection Theory", "units": "4"}
-{"dept": "ECE", "code": "ECE 255A", "title": "Information Theory", "units": "4"}
-{"dept": "ECE", "code": "ECE 255B", "title": "Source Coding", "units": "4"}
-{"dept": "ECE", "code": "ECE 255C", "title": "Network Information Theory", "units": "4"}
-{"dept": "ECE", "code": "ECE 256", "title": "Fundamentals of Image and Video Compression", "units": "4"}
-{"dept": "ECE", "code": "ECE 257A", "title": "Modern Communication Networks", "units": "4"}
-{"dept": "ECE", "code": "ECE 257B", "title": "Principles of Wireless Networks", "units": "4"}
-{"dept": "ECE", "code": "ECE 257C", "title": "Stochastic Wireless Networks Models", "units": "4"}
-{"dept": "ECE", "code": "ECE 258A", "title": "Digital Communications I", "units": "4"}
-{"dept": "ECE", "code": "ECE 258B", "title": "Digital Communications II", "units": "4"}
-{"dept": "ECE", "code": "ECE 259A", "title": "Algebraic Coding", "units": "4"}
-{"dept": "ECE", "code": "ECE 259B", "title": "Probabilistic Coding", "units": "4"}
-{"dept": "ECE", "code": "ECE 259C", "title": "Advanced Topics in Coding", "units": "4"}
-{"dept": "ECE", "code": "ECE 260A", "title": "VLSI Digital System Algorithms and Architectures", "units": "4"}
-{"dept": "ECE", "code": "ECE 260B", "title": "VLSI Integrated Circuits and Systems Design", "units": "4"}
-{"dept": "ECE", "code": "ECE 260C", "title": "VLSI Advanced Topics", "units": "4"}
-{"dept": "ECE", "code": "ECE 264A", "title": "CMOS Analog Integrated Circuits and Systems I", "units": "4"}
-{"dept": "ECE", "code": "ECE 264B", "title": "CMOS Analog Integrated Circuits and Systems II", "units": "4"}
-{"dept": "ECE", "code": "ECE 264C", "title": "CMOS Analog Integrated Circuits and Systems III", "units": "4"}
-{"dept": "ECE", "code": "ECE 264D", "title": "CMOS Analog Integrated Circuits and Systems IV", "units": "4"}
-{"dept": "ECE", "code": "ECE 265A", "title": "Communication Circuit Design I", "units": "4"}
-{"dept": "ECE", "code": "ECE 265B", "title": "Communication Circuit Design II", "units": "4"}
-{"dept": "ECE", "code": "ECE 265C", "title": "Power Amplifiers for Wireless Communications", "units": "4"}
-{"dept": "ECE", "code": "ECE 265D", "title": "Communication Circuits III", "units": "4"}
-{"dept": "ECE", "code": "ECE 267", "title": "Network/Graph Algorithms and Analysis", "units": "4"}
-{"dept": "ECE", "code": "ECE 268", "title": "Security of Hardware Embedded Systems", "units": "4"}
-{"dept": "ECE", "code": "ECE 269", "title": "Linear Algebra and Application", "units": "4"}
-{"dept": "ECE", "code": "ECE 271A", "title": "Statistical Learning I", "units": "4"}
-{"dept": "ECE", "code": "ECE 271B", "title": "Statistical Learning II", "units": "4"}
-{"dept": "ECE", "code": "ECE 271C", "title": "Deep Learning and Applications", "units": "4"}
-{"dept": "ECE", "code": "ECE 272A", "title": "Stochastic Processes in Dynamic Systems I", "units": "4"}
-{"dept": "ECE", "code": "ECE 272B", "title": "Stochastic Processes in Dynamic Systems II", "units": "4"}
-{"dept": "ECE", "code": "ECE 273", "title": "Convex Optimization and Applications", "units": "4"}
-{"dept": "ECE", "code": "ECE 275A", "title": "Parameter Estimation I", "units": "4"}
-{"dept": "ECE", "code": "ECE 275B", "title": "Parameter Estimation II", "units": "4"}
-{"dept": "ECE", "code": "ECE 276A", "title": "Sensing and Estimation in Robotics", "units": "4"}
-{"dept": "ECE", "code": "ECE 276B", "title": "Planning and Learning in Robotics", "units": "4"}
-{"dept": "ECE", "code": "ECE 276C", "title": "Robot Reinforcement Learning", "units": "4"}
-{"dept": "ECE", "code": "ECE 277", "title": "GPU Programming", "units": "4"}
-{"dept": "ECE", "code": "ECE 278", "title": "Mathematical Topics for the Master\u2019s Comprehensive Exam", "units": "4"}
-{"dept": "ECE", "code": "ECE 279", "title": "Special Seminar", "units": "2"}
-{"dept": "ECE", "code": "ECE 280", "title": "Special Topics in Electronic Devices and Materials/Applied Physics", "units": "4"}
-{"dept": "ECE", "code": "ECE 281", "title": "Special Topics in Nanoscience/Nanotechnology", "units": "4"}
-{"dept": "ECE", "code": "ECE 282", "title": "Special Topics in Photonics/Applied Optics", "units": "4"}
-{"dept": "ECE", "code": "ECE 283", "title": "Special Topics in Electronic Circuits and Systems", "units": "4"}
-{"dept": "ECE", "code": "ECE 284", "title": "Special Topics in Computer Engineering", "units": "4"}
-{"dept": "ECE", "code": "ECE 285", "title": "Special Topics in Signal and Image Processing/Robotics and Control Systems", "units": "4"}
-{"dept": "ECE", "code": "ECE 286", "title": "State-of-the-Art Topics in Computational Statistics and Machine Learning", "units": "4"}
-{"dept": "ECE", "code": "ECE 287", "title": "Special Topics in Communication Theory and Systems", "units": "4"}
-{"dept": "ECE", "code": "ECE 289", "title": "Special Topics in Electrical and Computer Engineering", "units": "4"}
-{"dept": "ECE", "code": "ECE 290", "title": "Graduate Seminar on Current ECE Research", "units": "2"}
-{"dept": "ECE", "code": "ECE 291", "title": "Industry Sponsored Engineering Design Project", "units": "4"}
-{"dept": "ECE", "code": "ECE 293", "title": "Graduate Seminar in Communication Theory and Systems", "units": "2"}
-{"dept": "ECE", "code": "ECE 294", "title": "Graduate Seminar in Electronic Devices and Materials/Applied Physics", "units": "2"}
-{"dept": "ECE", "code": "ECE 295", "title": "Graduate Seminar in Signal and Image Processing/Robotics and Control Systems", "units": "2"}
-{"dept": "ECE", "code": "ECE 296", "title": "Graduate Seminar in Photonics/Applied Optics", "units": "2"}
-{"dept": "ECE", "code": "ECE 297", "title": "Graduate Seminar in Nanoscience/Nanotechnology", "units": "2"}
-{"dept": "ECE", "code": "ECE 298", "title": "Independent Study", "units": "1\u201316"}
-{"dept": "ECE", "code": "ECE 299", "title": "Research", "units": "1\u201316"}
-{"dept": "ECE", "code": "ECE 501", "title": "Teaching", "units": "1\u20134"}
+{"code": "ECE 5", "title": "Introduction to Electrical and Computer Engineering", "units": "4", "prereqs": null}
+{"code": "ECE 15", "title": "Engineering Computation", "units": "4", "prereqs": null}
+{"code": "ECE 16", "title": "Rapid Hardware and Software Design for Interfacing with the World", "units": "4", "prereqs": {"type": "one", "courses": ["MAE 8", "CSE 8B", "CSE 11", "ECE 15"]}}
+{"code": "ECE 17", "title": "Object-Oriented Programming: Design and Development with C++", "units": "4", "prereqs": {"type": "one", "courses": ["CSE 8B", "CSE 11", "ECE 15"]}}
+{"code": "ECE 25", "title": "Introduction to Digital Design", "units": "4", "prereqs": null}
+{"code": "ECE 30", "title": "Introduction to Computer Engineering", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 15", "ECE 25"]}}
+{"code": "ECE 35", "title": "Introduction to Analog Design", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 18", "MATH 20A", "MATH 20B", "PHYS 2A"]}}
+{"code": "ECE 45", "title": "Circuits and Systems", "units": "4", "prereqs": "ECE 35"}
+{"code": "ECE 65", "title": "Components and Circuits Laboratory", "units": "4", "prereqs": "ECE 35"}
+{"code": "ECE 85", "title": "iTunes 101: A Survey of Information Technology", "units": "4", "prereqs": null}
+{"code": "ECE 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
+{"code": "ECE 90", "title": "Undergraduate Seminar", "units": "1", "prereqs": null}
+{"code": "ECE 100", "title": "Linear Electronic Systems", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 45", "ECE 65"]}}
+{"code": "ECE 101", "title": "Linear Systems Fundamentals", "units": "4", "prereqs": "ECE 45"}
+{"code": "ECE 102", "title": "Introduction to Active Circuit Design", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 65", "ECE 100"]}}
+{"code": "ECE 103", "title": "Fundamentals of Devices and Materials", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 65", {"type": "one", "courses": ["PHYS 2D", {"type": "all", "courses": ["PHYS 4D", "PHYS 4E"]}]}]}}
+{"code": "ECE 107", "title": "Electromagnetism", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": [{"type": "all", "courses": ["PHYS 2A", "PHYS 2B", "PHYS 2C"]}, {"type": "all", "courses": ["PHYS 4A", "PHYS 4B", "PHYS 4C"]}]}, "ECE 45"]}}
+{"code": "ECE 108", "title": "Digital Circuits", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["ECE 25", {"type": "all", "courses": ["CSE 140", "CSE 45", "CSE 65"]}]}, {"type": "one", "courses": ["ECE 30", "CSE 30"]}]}}
+{"code": "ECE 109", "title": "Engineering Probability and Statistics", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 20A", "MATH 20B", "MATH 20D", {"type": "one", "courses": ["MATH 20C", "MATH 31BH"]}, {"type": "one", "courses": ["MATH 31AH", "MATH 18"]}]}}
+{"code": "ECE 111", "title": "Advanced Digital Design Project", "units": "4", "prereqs": {"type": "one", "courses": ["ECE 25", "CSE 140"]}}
+{"code": "ECE 115", "title": "Fast Prototyping", "units": "4", "prereqs": "ECE 16"}
+{"code": "ECE 118", "title": "Computer Interfacing", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["ECE 30", "CSE 30"]}, "ECE 35", "ECE 45", "ECE 65"]}}
+{"code": "ECE 120", "title": "Solar System Physics", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": [{"type": "all", "courses": ["PHYS 2A", "PHYS 2B", "PHYS 2C"]}, {"type": "all", "courses": ["PHYS 4A", "PHYS 4B", "PHYS 4C", "PHYS 4D"]}]}, "MATH 20A", "MATH 20B", "MATH 20C"]}}
+{"code": "ECE 121A", "title": "Power Systems Analysis and Fundamentals", "units": "4", "prereqs": "ECE 35"}
+{"code": "ECE 121B", "title": "Energy Conversion", "units": "4", "prereqs": "ECE 121A"}
+{"code": "ECE 123", "title": "Antenna Systems Engineering", "units": "4", "prereqs": "ECE 107"}
+{"code": "ECE 124", "title": "Motor Drives", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 121B", "ECE 125A"]}}
+{"code": "ECE 125A", "title": "Introduction to Power Electronics I", "units": "4", "prereqs": "ECE 121A"}
+{"code": "ECE 125B", "title": "Introduction to Power Electronics II", "units": "4", "prereqs": "ECE 125A"}
+{"code": "ECE 128A", "title": "Real World Power Grid Operation", "units": "4", "prereqs": null}
+{"code": "ECE 128B", "title": "Power Grid Modernization", "units": "4", "prereqs": null}
+{"code": "ECE 128C", "title": "Power Grid Resiliency to Adverse Effects", "units": "4", "prereqs": null}
+{"code": "ECE 129", "title": "Renewable and Energy Storage Resources", "units": "4", "prereqs": null}
+{"code": "ECE 134", "title": "Electronic Materials Science of Integrated Circuits", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 2C", "PHYS 2D"]}}
+{"code": "ECE 135A", "title": "Semiconductor Physics", "units": "4", "prereqs": "ECE 103"}
+{"code": "ECE 135B", "title": "Electronic Devices", "units": "4", "prereqs": "ECE 135A"}
+{"code": "ECE 136L", "title": "Microelectronics Laboratory", "units": "4", "prereqs": "ECE 135B"}
+{"code": "ECE 138L", "title": "Microstructuring Processing Technology Laboratory", "units": "4", "prereqs": null}
+{"code": "ECE 139", "title": "Semiconductor Device Design and Modeling", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 135A", "ECE 135B"]}}
+{"code": "ECE 140A", "title": "The Art of Product Engineering I", "units": "4", "prereqs": {"type": "one", "courses": ["CSE 8B", "CSE 11", "ECE 15"]}}
+{"code": "ECE 140B", "title": "The Art of Product Engineering II", "units": "4", "prereqs": "ECE 140A"}
+{"code": "ECE 141A", "title": "Software Foundations I", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 17", {"type": "one", "courses": ["CSE 30", "ECE 30"]}]}}
+{"code": "ECE 141B", "title": "Software Foundations II", "units": "4", "prereqs": "ECE 141A"}
+{"code": "ECE 143", "title": "Programming for Data Analysis", "units": "4", "prereqs": "ECE 16"}
+{"code": "ECE 144", "title": "LabVIEW Programming: Design and Applications", "units": "4", "prereqs": {"type": "one", "courses": ["CSE 11", "CSE 8B", "ECE 15"]}}
+{"code": "ECE 145AL-BL-CL", "title": ". Acoustics Laboratory", "units": "4-4-4", "prereqs": "ECE 107"}
+{"code": "ECE 148", "title": "Introduction to Autonomous Vehicles", "units": "4", "prereqs": {"type": "one", "courses": ["ECE 15", "ECE 35", "MAE 2", "MAE 3"]}}
+{"code": "ECE 150", "title": "Entrepreneurship for Engineers", "units": "4", "prereqs": null}
+{"code": "ECE 153", "title": "Probability and Random Processes for Engineers", "units": "4", "prereqs": "ECE 109"}
+{"code": "ECE 155", "title": "Digital Communications Theory", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["ECE 101", "BENG 122A"]}, {"type": "one", "courses": ["ECE 109", "ECON 120A", "MAE 108", "MATH 180A", "MATH 180B", "MATH 183", "MATH 186"]}, "ECE 153"]}}
+{"code": "ECE 156", "title": "Sensor Networks", "units": "4", "prereqs": null}
+{"code": "ECE 157A", "title": "Communications Systems Laboratory I", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["ECE 109", "ECON 120A", "MAE 108", "MATH 180A", "MATH 180B", "MATH 183", "MATH 186"]}, "ECE 161A"]}}
+{"code": "ECE 157B", "title": "Communications Systems Laboratory II", "units": "4", "prereqs": {"type": "one", "courses": ["ECE 157A", "ECE 161A"]}}
+{"code": "ECE 158A", "title": "Data Networks I", "units": "4", "prereqs": "ECE 109"}
+{"code": "ECE 158B", "title": "Data Networks II", "units": "4", "prereqs": "ECE 158A"}
+{"code": "ECE 159", "title": "Introduction to Data Processing and Information Theory", "units": "4", "prereqs": "ECE 153"}
+{"code": "ECE 161A", "title": "Introduction to Digital Signal Processing", "units": "4", "prereqs": "ECE 101"}
+{"code": "ECE 161B", "title": "Digital Signal Processing I", "units": "4", "prereqs": "ECE 161A"}
+{"code": "ECE 161C", "title": "Applications of Digital Signal Processing", "units": "4", "prereqs": "ECE 161A"}
+{"code": "ECE 163", "title": "Electronic Circuits and Systems", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 101", "ECE 102"]}}
+{"code": "ECE 164", "title": "Analog Integrated Circuit Design", "units": "4", "prereqs": "ECE 102"}
+{"code": "ECE 165", "title": "Digital Integrated Circuit Design", "units": "4", "prereqs": "ECE 102"}
+{"code": "ECE 166", "title": "Microwave Systems and Circuits", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 102", "ECE 107"]}}
+{"code": "ECE 171A", "title": "Linear Control System Theory", "units": "4", "prereqs": {"type": "one", "courses": ["ECE 45", "MAE 140"]}}
+{"code": "ECE 171B", "title": "Linear Control System Theory", "units": "4", "prereqs": "ECE 171A"}
+{"code": "ECE 172A", "title": "Introduction to Intelligent Systems: Robotics and Machine Intelligence", "units": "4", "prereqs": "ECE 101"}
+{"code": "ECE 174", "title": "Introduction to Linear and Nonlinear Optimization with Applications", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, "ECE 15"]}}
+{"code": "ECE 175A", "title": "Elements of Machine Intelligence: Pattern Recognition and Machine Learning", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 109", "ECE 174"]}}
+{"code": "ECE 175B", "title": "Elements of Machine Intelligence: Probabilistic Reasoning and Graphical Models", "units": "4", "prereqs": "ECE 175A"}
+{"code": "ECE 176", "title": "Introduction to Deep Learning and Applications", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, "ECE 143"]}}
+{"code": "ECE 180", "title": "Topics in Electrical and Computer Engineering", "units": "4", "prereqs": null}
+{"code": "ECE 181", "title": "Physical Optics and Fourier Optics", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 103", "ECE 107"]}}
+{"code": "ECE 182", "title": "Electromagnetic Optics, Guided-Wave, and Fiber Optics", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 103", "ECE 107"]}}
+{"code": "ECE 183", "title": "Optical Electronics", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 103", "ECE 107"]}}
+{"code": "ECE 184", "title": "Optical Information Processing and Holography", "units": "4", "prereqs": "ECE 182"}
+{"code": "ECE 185", "title": "Lasers and Modulators", "units": "4", "prereqs": "ECE 183"}
+{"code": "ECE 187", "title": "Introduction to Biomedical Imaging and Sensing", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 20A", "MATH 20B", "MATH 20C", "MATH 20D", "MATH 20E", "MATH 20F", {"type": "one", "courses": ["MATH 20C", "MATH 21C"]}, {"type": "one", "courses": ["MATH 20D", "MATH 21D"]}, "PHYS 2A", "PHYS 2B", "PHYS 2C", "PHYS 2D", "ECE 101"]}}
+{"code": "ECE 188", "title": "Topics in Electrical and Computer Engineering with Laboratory", "units": "4", "prereqs": null}
+{"code": "ECE 189", "title": "Technical Public Speaking", "units": "2", "prereqs": null}
+{"code": "ECE 190", "title": "Engineering Design", "units": "4", "prereqs": null}
+{"code": "ECE 191", "title": "Engineering Group Design Project", "units": "4", "prereqs": null}
+{"code": "ECE 193H", "title": "Honors Project", "units": "4\u20138", "prereqs": null}
+{"code": "ECE 194", "title": "Viacar Design Project", "units": "4", "prereqs": null}
+{"code": "ECE 195", "title": "Teaching", "units": "2 or 4", "prereqs": null}
+{"code": "ECE 196", "title": "Engineering Hands-on Group Project", "units": "4", "prereqs": {"type": "one", "courses": ["BENG 1", "CENG 4", "CSE 11", "CSE 8B", "ECE 5", "MAE 3", "NANO 4", "SE 1"]}}
+{"code": "ECE 197", "title": "ECE Internship", "units": "2, 4, 6, 8, 10, or 12", "prereqs": null}
+{"code": "ECE 198", "title": "Directed Group Study", "units": "2 or 4", "prereqs": null}
+{"code": "ECE 199", "title": "Independent Study for Undergraduates", "units": "2 or 4", "prereqs": null}
+{"code": "ECE 200", "title": "Research Conference", "units": "2", "prereqs": null}
+{"code": "ECE 201", "title": "Introduction to Biophysics", "units": "4", "prereqs": null}
+{"code": "ECE 202", "title": "Medical Devices and Interfaces", "units": "4", "prereqs": null}
+{"code": "ECE 203", "title": "Biomedical Integrated Circuits and Systems", "units": "4", "prereqs": null}
+{"code": "ECE 204", "title": "Statistical Learning in Bioinformatics", "units": "4", "prereqs": {"type": "one", "courses": ["ECE 271A", "ECE 271B", "MATH 283"]}}
+{"code": "ECE 207A", "title": "Principles of Medical Imaging", "units": "4", "prereqs": null}
+{"code": "ECE 208", "title": "Computational Evolutionary Biology", "units": "4", "prereqs": null}
+{"code": "ECE 209", "title": "Statistical Learning for Biosignal Processing", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 271A", "ECE 271B"]}}
+{"code": "ECE 212AN", "title": "Principles of Nanoscience and Nanotechnology", "units": "4", "prereqs": null}
+{"code": "ECE 212BN", "title": "Nanoelectronics", "units": "4", "prereqs": "ECE 212AN"}
+{"code": "ECE 212CN", "title": "Nanophotonics", "units": "4", "prereqs": "ECE 212BN"}
+{"code": "ECE 221", "title": "Magnetic Materials: Principles and Applications", "units": "4", "prereqs": null}
+{"code": "ECE 222A", "title": "Antennas and Their System Applications", "units": "4", "prereqs": null}
+{"code": "ECE 222B", "title": "Applied Electromagnetic Theory\u2014Electromagnetics", "units": "4", "prereqs": "ECE 222A"}
+{"code": "ECE 222C", "title": "Applied Electromagnetic Theory\u2014Computational Methods for Electromagnetics", "units": "4", "prereqs": "ECE 222B"}
+{"code": "ECE 222D", "title": "Advanced Antenna Design", "units": "4", "prereqs": "ECE 222C"}
+{"code": "ECE 225A", "title": "Probability and Statistics for Data Science", "units": "4", "prereqs": null}
+{"code": "ECE 225B", "title": "Universal Probability and Its Applications in Data Science", "units": "4", "prereqs": {"type": "one", "courses": ["ECE 225A", "ECE 250"]}}
+{"code": "ECE 226", "title": "Optimization and Acceleration of Deep Learning on Various Hardware Platforms", "units": "4", "prereqs": {"type": "one", "courses": ["ECE 250", "ECE 269", "ECE 271A"]}}
+{"code": "ECE 227", "title": "Big Network Data", "units": "4", "prereqs": null}
+{"code": "ECE 228", "title": "Machine Learning for Physical Applications", "units": "4", "prereqs": null}
+{"code": "ECE 229", "title": "Computational Data Analysis and Product Development", "units": "4", "prereqs": {"type": "one", "courses": ["ECE 225A", "ECE 269"]}}
+{"code": "ECE 230A", "title": "Solid State Electronics I", "units": "4", "prereqs": null}
+{"code": "ECE 230B", "title": "Solid State Electronics II", "units": "4", "prereqs": "ECE 230A"}
+{"code": "ECE 230C", "title": "Solid State Electronics III", "units": "4", "prereqs": "ECE 230B"}
+{"code": "ECE 235", "title": "Nanometer-Scale VLSI Devices", "units": "4", "prereqs": null}
+{"code": "ECE 236A", "title": "III-V Compound Semiconductor Materials", "units": "4", "prereqs": "ECE 230A"}
+{"code": "ECE 236B", "title": "Optical Processes in Semiconductors", "units": "4", "prereqs": "ECE 236A"}
+{"code": "ECE 236C", "title": "Heterojunction Field-Effect Transistors", "units": "4", "prereqs": "ECE 236B"}
+{"code": "ECE 238A", "title": "Thermodynamics of Solids", "units": "4", "prereqs": null}
+{"code": "ECE 238B", "title": "Solid State Diffusion and Reaction Kinetics", "units": "4", "prereqs": "ECE 238A"}
+{"code": "ECE 240A", "title": "Lasers and Optics", "units": "4", "prereqs": null}
+{"code": "ECE 240B", "title": "Optical Information Processing", "units": "4", "prereqs": "ECE 240A"}
+{"code": "ECE 240C", "title": "Optical Modulation and Detection", "units": "4", "prereqs": "ECE 240B"}
+{"code": "ECE 241A", "title": "Nonlinear Optics", "units": "4", "prereqs": null}
+{"code": "ECE 241B", "title": "Integrated Photonics", "units": "4", "prereqs": "ECE 241A"}
+{"code": "ECE 241C", "title": "Holographic Optical Elements", "units": "4", "prereqs": "ECE 241B"}
+{"code": "ECE 243B", "title": "Optical Fiber Communication", "units": "4", "prereqs": "ECE 243A"}
+{"code": "ECE 244A", "title": "Statistical Optics", "units": "4", "prereqs": null}
+{"code": "ECE 247A", "title": "Advanced BioPhotonics", "units": "4", "prereqs": null}
+{"code": "ECE 247B", "title": "BioElectronics", "units": "4", "prereqs": null}
+{"code": "ECE 247C", "title": "BioNanotechnology", "units": "4", "prereqs": null}
+{"code": "ECE 250", "title": "Random Processes", "units": "4", "prereqs": null}
+{"code": "ECE 251A", "title": "Digital Signal Processing I", "units": "4", "prereqs": null}
+{"code": "ECE 251B", "title": "Digital Signal Processing II", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 251A", "SIO 207B"]}}
+{"code": "ECE 251C", "title": "Filter Banks and Wavelets", "units": "4", "prereqs": null}
+{"code": "ECE 251D", "title": "Array Processing", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 251C", "SIO 207C"]}}
+{"code": "ECE 252A", "title": "Speech Compression", "units": "4", "prereqs": null}
+{"code": "ECE 252B", "title": "Speech Recognition", "units": "4", "prereqs": "ECE 252A"}
+{"code": "ECE 253", "title": "Fundamentals of Digital Image Processing", "units": "4", "prereqs": null}
+{"code": "ECE 254", "title": "Detection Theory", "units": "4", "prereqs": null}
+{"code": "ECE 255A", "title": "Information Theory", "units": "4", "prereqs": null}
+{"code": "ECE 255B", "title": "Source Coding", "units": "4", "prereqs": "ECE 255A"}
+{"code": "ECE 255C", "title": "Network Information Theory", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 250", "ECE 255B"]}}
+{"code": "ECE 256", "title": "Fundamentals of Image and Video Compression", "units": "4", "prereqs": null}
+{"code": "ECE 257A", "title": "Modern Communication Networks", "units": "4", "prereqs": null}
+{"code": "ECE 257B", "title": "Principles of Wireless Networks", "units": "4", "prereqs": null}
+{"code": "ECE 257C", "title": "Stochastic Wireless Networks Models", "units": "4", "prereqs": "ECE 257B"}
+{"code": "ECE 258A", "title": "Digital Communications I", "units": "4", "prereqs": "ECE 250"}
+{"code": "ECE 258B", "title": "Digital Communications II", "units": "4", "prereqs": "ECE 258A"}
+{"code": "ECE 259A", "title": "Algebraic Coding", "units": "4", "prereqs": null}
+{"code": "ECE 259B", "title": "Probabilistic Coding", "units": "4", "prereqs": "ECE 259A"}
+{"code": "ECE 259C", "title": "Advanced Topics in Coding", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 259A", "ECE 259B"]}}
+{"code": "ECE 260A", "title": "VLSI Digital System Algorithms and Architectures", "units": "4", "prereqs": null}
+{"code": "ECE 260B", "title": "VLSI Integrated Circuits and Systems Design", "units": "4", "prereqs": "ECE 260A"}
+{"code": "ECE 260C", "title": "VLSI Advanced Topics", "units": "4", "prereqs": "ECE 260B"}
+{"code": "ECE 264A", "title": "CMOS Analog Integrated Circuits and Systems I", "units": "4", "prereqs": null}
+{"code": "ECE 264B", "title": "CMOS Analog Integrated Circuits and Systems II", "units": "4", "prereqs": "ECE 264A"}
+{"code": "ECE 264C", "title": "CMOS Analog Integrated Circuits and Systems III", "units": "4", "prereqs": "ECE 264B"}
+{"code": "ECE 264D", "title": "CMOS Analog Integrated Circuits and Systems IV", "units": "4", "prereqs": "ECE 264C"}
+{"code": "ECE 265A", "title": "Communication Circuit Design I", "units": "4", "prereqs": "ECE 166"}
+{"code": "ECE 265B", "title": "Communication Circuit Design II", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 166", "ECE 265A"]}}
+{"code": "ECE 265C", "title": "Power Amplifiers for Wireless Communications", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 265A", "ECE 265B"]}}
+{"code": "ECE 265D", "title": "Communication Circuits III", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 265A", "ECE 265B"]}}
+{"code": "ECE 267", "title": "Network/Graph Algorithms and Analysis", "units": "4", "prereqs": null}
+{"code": "ECE 268", "title": "Security of Hardware Embedded Systems", "units": "4", "prereqs": null}
+{"code": "ECE 269", "title": "Linear Algebra and Application", "units": "4", "prereqs": null}
+{"code": "ECE 271A", "title": "Statistical Learning I", "units": "4", "prereqs": null}
+{"code": "ECE 271B", "title": "Statistical Learning II", "units": "4", "prereqs": "ECE 271A"}
+{"code": "ECE 271C", "title": "Deep Learning and Applications", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 271A", "ECE 271B"]}}
+{"code": "ECE 272A", "title": "Stochastic Processes in Dynamic Systems I", "units": "4", "prereqs": "ECE 269"}
+{"code": "ECE 272B", "title": "Stochastic Processes in Dynamic Systems II", "units": "4", "prereqs": "ECE 272A"}
+{"code": "ECE 273", "title": "Convex Optimization and Applications", "units": "4", "prereqs": "ECE 269"}
+{"code": "ECE 275A", "title": "Parameter Estimation I", "units": "4", "prereqs": null}
+{"code": "ECE 275B", "title": "Parameter Estimation II", "units": "4", "prereqs": null}
+{"code": "ECE 276A", "title": "Sensing and Estimation in Robotics", "units": "4", "prereqs": null}
+{"code": "ECE 276B", "title": "Planning and Learning in Robotics", "units": "4", "prereqs": "ECE 276A"}
+{"code": "ECE 276C", "title": "Robot Reinforcement Learning", "units": "4", "prereqs": "ECE 276B"}
+{"code": "ECE 277", "title": "GPU Programming", "units": "4", "prereqs": null}
+{"code": "ECE 278", "title": "Mathematical Topics for the Master\u2019s Comprehensive Exam", "units": "4", "prereqs": null}
+{"code": "ECE 279", "title": "Special Seminar", "units": "2", "prereqs": null}
+{"code": "ECE 280", "title": "Special Topics in Electronic Devices and Materials/Applied Physics", "units": "4", "prereqs": null}
+{"code": "ECE 281", "title": "Special Topics in Nanoscience/Nanotechnology", "units": "4", "prereqs": null}
+{"code": "ECE 282", "title": "Special Topics in Photonics/Applied Optics", "units": "4", "prereqs": null}
+{"code": "ECE 283", "title": "Special Topics in Electronic Circuits and Systems", "units": "4", "prereqs": null}
+{"code": "ECE 284", "title": "Special Topics in Computer Engineering", "units": "4", "prereqs": null}
+{"code": "ECE 285", "title": "Special Topics in Signal and Image Processing/Robotics and Control Systems", "units": "4", "prereqs": null}
+{"code": "ECE 286", "title": "State-of-the-Art Topics in Computational Statistics and Machine Learning", "units": "4", "prereqs": null}
+{"code": "ECE 287", "title": "Special Topics in Communication Theory and Systems", "units": "4", "prereqs": null}
+{"code": "ECE 289", "title": "Special Topics in Electrical and Computer Engineering", "units": "4", "prereqs": null}
+{"code": "ECE 290", "title": "Graduate Seminar on Current ECE Research", "units": "2", "prereqs": null}
+{"code": "ECE 291", "title": "Industry Sponsored Engineering Design Project", "units": "4", "prereqs": null}
+{"code": "ECE 293", "title": "Graduate Seminar in Communication Theory and Systems", "units": "2", "prereqs": null}
+{"code": "ECE 294", "title": "Graduate Seminar in Electronic Devices and Materials/Applied Physics", "units": "2", "prereqs": null}
+{"code": "ECE 295", "title": "Graduate Seminar in Signal and Image Processing/Robotics and Control Systems", "units": "2", "prereqs": null}
+{"code": "ECE 296", "title": "Graduate Seminar in Photonics/Applied Optics", "units": "2", "prereqs": null}
+{"code": "ECE 297", "title": "Graduate Seminar in Nanoscience/Nanotechnology", "units": "2", "prereqs": null}
+{"code": "ECE 298", "title": "Independent Study", "units": "1\u201316", "prereqs": null}
+{"code": "ECE 299", "title": "Research", "units": "1\u201316", "prereqs": null}
+{"code": "ECE 501", "title": "Teaching", "units": "1\u20134", "prereqs": null}

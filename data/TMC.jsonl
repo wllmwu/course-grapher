@@ -1,7 +1,7 @@
-{"dept": "TMC", "code": "TMC 1", "title": "First Year Experience", "units": "2"}
-{"dept": "TMC", "code": "TMC 2", "title": "Transfer Year Experience", "units": "2"}
-{"dept": "TMC", "code": "TMC 15", "title": "Introduction to Public Service in America", "units": "4"}
-{"dept": "TMC", "code": "TMC 20", "title": "Thurgood Marshall College Honors Seminar", "units": "1"}
-{"dept": "TMC", "code": "TMC 90", "title": "Undergraduate Seminar", "units": "1"}
-{"dept": "TMC", "code": "TMC 198", "title": "Thurgood Marshall College Directed Group Studies", "units": "4"}
-{"dept": "TMC", "code": "TMC 199", "title": "Marshall College Special Project", "units": "1\u20134"}
+{"code": "TMC 1", "title": "First Year Experience", "units": "2", "prereqs": null}
+{"code": "TMC 2", "title": "Transfer Year Experience", "units": "2", "prereqs": null}
+{"code": "TMC 15", "title": "Introduction to Public Service in America", "units": "4", "prereqs": null}
+{"code": "TMC 20", "title": "Thurgood Marshall College Honors Seminar", "units": "1", "prereqs": null}
+{"code": "TMC 90", "title": "Undergraduate Seminar", "units": "1", "prereqs": null}
+{"code": "TMC 198", "title": "Thurgood Marshall College Directed Group Studies", "units": "4", "prereqs": {"type": "all", "courses": ["DOC 2", "DOC 3"]}}
+{"code": "TMC 199", "title": "Marshall College Special Project", "units": "1\u20134", "prereqs": null}

@@ -1,5 +1,5 @@
+from course_parser import CourseInfoParser
 from metrics import ScrapingMetrics
-from parser import CourseInfoParser
 from pipeline import PerDepartmentExportPipeline
 import scrapy
 
@@ -38,21 +38,39 @@ class CatalogSpider(scrapy.Spider):
         dept = self._department_from_url(response.url)
         name_selectors = response.xpath(
             '//p[@class="course-name"]').xpath('string()')
-        # description_selectors = response.xpath(
-        #     '//p[@class="course-name"]/following-sibling::p[@class="course-descriptions"][1]'
-        # ).xpath('string()')
+        description_selectors = response.xpath(
+            '//p[@class="course-name"]/following-sibling::p[1]').xpath('string()')
+
+        num_courses = len(name_selectors)
+        num_descriptions = len(description_selectors)
+        difference = num_courses - num_descriptions
         self.logger.info('Found %d courses in department %s',
-                         len(name_selectors), dept)
-        self.metrics.add_courses(len(name_selectors))
-        for line in name_selectors.getall():
-            result = self.parser.parse_course(line)
-            if result is not None:
-                subject, number, title, units = result
+                         num_courses, dept)
+        self.metrics.add_courses(num_courses)
+        if difference > 0:
+            self.logger.error('Found %d more course names than descriptions in department %s',
+                              difference, dept)
+            self.metrics.add_missing_descriptions(difference)
+        elif difference < 0:
+            self.logger.error('Found %d more course descriptions than names in department %s',
+                              -difference, dept)
+            self.metrics.add_extra_descriptions(-difference)
+
+        for i, line in enumerate(name_selectors.getall()):
+            course_info = self.parser.parse_course(line)
+            if course_info is not None:
+                subject, number, title, units = course_info
+                prerequisites = None
+                self.logger.info('%s %s', subject, number)
+                if i < num_descriptions:
+                    prerequisites = self.parser.parse_prerequisites(
+                        description_selectors[i].get())
                 yield {
                     'dept': dept,
                     'code': f'{subject} {number}',
                     'title': title,
-                    'units': units
+                    'units': units,
+                    'prereqs': prerequisites
                 }
 
     def _department_from_url(self, url):

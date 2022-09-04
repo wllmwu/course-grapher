@@ -1,127 +1,127 @@
-{"dept": "SE", "code": "SE 1", "title": "Introduction to Structures and Design", "units": "4"}
-{"dept": "SE", "code": "SE 3", "title": "Graphical Communication for Engineering Design", "units": "4"}
-{"dept": "SE", "code": "SE 7", "title": "Spatial Visualization", "units": "1"}
-{"dept": "SE", "code": "SE 9", "title": "Algorithms and Programming for Structural Engineering", "units": "4"}
-{"dept": "SE", "code": "SE 87", "title": "First-year Student Seminar", "units": "1"}
-{"dept": "SE", "code": "SE 99H", "title": "Independent Study", "units": "1"}
-{"dept": "SE", "code": "SE 101A", "title": "Mechanics I: Statics", "units": "4"}
-{"dept": "SE", "code": "SE 101B", "title": "Mechanics II: Dynamics", "units": "4"}
-{"dept": "SE", "code": "SE 101C", "title": "Mechanics III: Vibrations", "units": "4"}
-{"dept": "SE", "code": "SE 102", "title": "Introduction to Computing for Engineers", "units": "4"}
-{"dept": "SE", "code": "SE 103", "title": "Conceptual Structural Design", "units": "4"}
-{"dept": "SE", "code": "SE 104", "title": "Structural Materials", "units": "4"}
-{"dept": "SE", "code": "SE 104L", "title": "Structural Materials Lab", "units": "1"}
-{"dept": "SE", "code": "SE 105", "title": "Structural Materials", "units": "5"}
-{"dept": "SE", "code": "SE 110A", "title": "Solid Mechanics I", "units": "4"}
-{"dept": "SE", "code": "SE 110B", "title": "Solid Mechanics II", "units": "4"}
-{"dept": "SE", "code": "SE 115", "title": "Fluid Mechanics for Structural Engineering", "units": "4"}
-{"dept": "SE", "code": "SE 120", "title": "Engineering Graphics and Computer Aided Structural Design", "units": "4"}
-{"dept": "SE", "code": "SE 125", "title": "Statistics, Probability and Reliability", "units": "4"}
-{"dept": "SE", "code": "SE 130A", "title": "Structural Analysis I", "units": "4"}
-{"dept": "SE", "code": "SE 130B", "title": "Structural Analysis II", "units": "4"}
-{"dept": "SE", "code": "SE 131A", "title": "Finite Element Analysis", "units": "4"}
-{"dept": "SE", "code": "SE 131B", "title": "Computing Projects in Structural Engineering", "units": "4"}
-{"dept": "SE", "code": "SE 132", "title": "Machine Learning for Structural Engineering", "units": "4"}
-{"dept": "SE", "code": "SE 140A", "title": "Design of Civil Structures I", "units": "4"}
-{"dept": "SE", "code": "SE 140B", "title": "Design of Civil Structures II", "units": "4"}
-{"dept": "SE", "code": "SE 142", "title": "Design of Composite Structures", "units": "4"}
-{"dept": "SE", "code": "SE 143A", "title": "Aerospace Structural Design I", "units": "4"}
-{"dept": "SE", "code": "SE 143B", "title": "Aerospace Structural Design II", "units": "4"}
-{"dept": "SE", "code": "SE 150A", "title": "Design of Steel Structures", "units": "4"}
-{"dept": "SE", "code": "SE 150B", "title": "Design of Steel Structures II", "units": "4"}
-{"dept": "SE", "code": "SE 151A", "title": "Design of Reinforced Concrete", "units": "4"}
-{"dept": "SE", "code": "SE 151B", "title": "Design of Prestressed Concrete", "units": "4"}
-{"dept": "SE", "code": "SE 152", "title": "Seismic Design of Structures", "units": "4"}
-{"dept": "SE", "code": "SE 154", "title": "Design of Timber Structures", "units": "4"}
-{"dept": "SE", "code": "SE 160A", "title": "Aerospace Structural Mechanics I", "units": "4"}
-{"dept": "SE", "code": "SE 160B", "title": "Aerospace Structural Mechanics II", "units": "4"}
-{"dept": "SE", "code": "SE 163", "title": "Nondestructive Evaluation", "units": "4"}
-{"dept": "SE", "code": "SE 164", "title": "Sensors and Data Acquisition for Structural Engineering", "units": "4"}
-{"dept": "SE", "code": "SE 165", "title": "Structural Health Monitoring", "units": "4"}
-{"dept": "SE", "code": "SE 167", "title": "Signal Processing and Spectral Analysis for Structural Engineering", "units": "4"}
-{"dept": "SE", "code": "SE 168", "title": "Structural System Testing and Model Correlation", "units": "4"}
-{"dept": "SE", "code": "SE 171", "title": "Aerospace Structures Repair", "units": "4"}
-{"dept": "SE", "code": "SE 180", "title": "Earthquake Engineering", "units": "4"}
-{"dept": "SE", "code": "SE 181", "title": "Geotechnical Engineering", "units": "4"}
-{"dept": "SE", "code": "SE 182", "title": "Foundation Engineering", "units": "4"}
-{"dept": "SE", "code": "SE 184", "title": "Ground Improvement", "units": "4"}
-{"dept": "SE", "code": "SE 192", "title": "Senior Seminar", "units": "1"}
-{"dept": "SE", "code": "SE 195", "title": "Teaching", "units": "2\u20134"}
-{"dept": "SE", "code": "SE 197", "title": "Engineering Internship", "units": "1\u20134"}
-{"dept": "SE", "code": "SE 198", "title": "Directed Study Group", "units": "4"}
-{"dept": "SE", "code": "SE 199", "title": "Independent Study", "units": "1\u20134"}
-{"dept": "SE", "code": "SE 200", "title": "Applied Mathematics in Structural Engineering", "units": "4"}
-{"dept": "SE", "code": "SE 201A", "title": "Advanced Structural Analysis", "units": "4"}
-{"dept": "SE", "code": "SE 201B", "title": "Nonlinear Structural Analysis", "units": "4"}
-{"dept": "SE", "code": "SE 202", "title": "Structural Stability", "units": "4"}
-{"dept": "SE", "code": "SE 203", "title": "Structural Dynamics", "units": "4"}
-{"dept": "SE", "code": "SE 204", "title": "Advanced Structural Dynamics", "units": "4"}
-{"dept": "SE", "code": "SE 205", "title": "Nonlinear Mechanical Vibrations", "units": "4"}
-{"dept": "SE", "code": "SE 206", "title": "Random Vibrations", "units": "4"}
-{"dept": "SE", "code": "SE 207", "title": "Topics in Structural Engineering", "units": "4"}
-{"dept": "SE", "code": "SE 211", "title": "Advanced Structural Concrete", "units": "4"}
-{"dept": "SE", "code": "SE 212", "title": "Advanced Structural Steel Design", "units": "4"}
-{"dept": "SE", "code": "SE 213", "title": "Bridge Design", "units": "4"}
-{"dept": "SE", "code": "SE 214", "title": "Masonry Structures", "units": "4"}
-{"dept": "SE", "code": "SE 215", "title": "Cable Structures", "units": "4"}
-{"dept": "SE", "code": "SE 220", "title": "Seismic Isolation and Energy Dissipation", "units": "4"}
-{"dept": "SE", "code": "SE 221", "title": "Earthquake Engineering", "units": "4"}
-{"dept": "SE", "code": "SE 222", "title": "Geotechnical Earthquake Engineering", "units": "4"}
-{"dept": "SE", "code": "SE 223", "title": "Advanced Seismic Design of Structures", "units": "4"}
-{"dept": "SE", "code": "SE 224", "title": "Structural Reliability and Risk Analysis", "units": "4"}
-{"dept": "SE", "code": "SE 226", "title": "Geotechnical Groundwater Engineering", "units": "4"}
-{"dept": "SE", "code": "SE 227", "title": "Seismic Design and Performance of Nonstructural Components and Systems", "units": "4"}
-{"dept": "SE", "code": "SE 233", "title": "Computational Techniques in Finite Elements", "units": "4"}
-{"dept": "SE", "code": "SE 235", "title": "Wave Propagation in Elastic Media", "units": "4"}
-{"dept": "SE", "code": "SE 236", "title": "Wave Propagation in Continuous Structural Elements", "units": "4"}
-{"dept": "SE", "code": "SE 241", "title": "Advanced Soil Mechanics", "units": "4"}
-{"dept": "SE", "code": "SE 242", "title": "Advanced Foundation Engineering", "units": "4"}
-{"dept": "SE", "code": "SE 243", "title": "Soil-Structure Interaction", "units": "4"}
-{"dept": "SE", "code": "SE 244", "title": "Numerical Methods in Geomechanics", "units": "4"}
-{"dept": "SE", "code": "SE 246", "title": "Unsaturated Soil Mechanics", "units": "4"}
-{"dept": "SE", "code": "SE 247", "title": "Ground Improvement", "units": "4"}
-{"dept": "SE", "code": "SE 248", "title": "Engineering Properties of Soils", "units": "4"}
-{"dept": "SE", "code": "SE 249", "title": "Rock Mechanics and Engineering", "units": "4"}
-{"dept": "SE", "code": "SE 250", "title": "Stability of Earth Slopes and Retaining Walls", "units": "4"}
-{"dept": "SE", "code": "SE 251A", "title": "Processing of Polymers and Composites", "units": "4"}
-{"dept": "SE", "code": "SE 251B", "title": "Mechanical Behaviors of Polymers and Composites", "units": "4"}
-{"dept": "SE", "code": "SE 252", "title": "Experimental Mechanics and NDE", "units": "4"}
-{"dept": "SE", "code": "SE 253A", "title": "Mechanics and Design of Composite Structures", "units": "4"}
-{"dept": "SE", "code": "SE 253B", "title": "Mechanics of Laminated Composite Structures II", "units": "4"}
-{"dept": "SE", "code": "SE 253C", "title": "Mechanics of Laminated Anisotropy Plates and Shells", "units": "4"}
-{"dept": "SE", "code": "SE 254", "title": "FRPs in Civil Structures", "units": "4"}
-{"dept": "SE", "code": "SE 255", "title": "Textile Composite Structures", "units": "4"}
-{"dept": "SE", "code": "SE 260A", "title": "Aerospace Structural Mechanics I", "units": "4"}
-{"dept": "SE", "code": "SE 260B", "title": "Aerospace Structural Mechanics II", "units": "4"}
-{"dept": "SE", "code": "SE 261", "title": "Aerospace Engineering Design", "units": "4"}
-{"dept": "SE", "code": "SE 262", "title": "Aerospace Structures Repair", "units": "4"}
-{"dept": "SE", "code": "SE 263", "title": "Nondestructive Evaluation", "units": "4"}
-{"dept": "SE", "code": "SE 264", "title": "Sensors and Data Acquisition for Structural Engineering", "units": "4"}
-{"dept": "SE", "code": "SE 265", "title": "Structural Health Monitoring", "units": "4"}
-{"dept": "SE", "code": "SE 266", "title": "Smart and Multifunctional Materials", "units": "4"}
-{"dept": "SE", "code": "SE 267A", "title": "Signal Processing and Spectral Analysis for Structural Engineering", "units": "4"}
-{"dept": "SE", "code": "SE 268", "title": "Structural System Testing and Model Correlation", "units": "4"}
-{"dept": "SE", "code": "SE 269", "title": "Verification and Validation of Computational Models", "units": "4"}
-{"dept": "SE", "code": "SE 270", "title": "Fracture Mechanics of Materials and Structures", "units": "4"}
-{"dept": "SE", "code": "SE 271", "title": "Solid Mechanics for Structural and Aerospace Engineering", "units": "4"}
-{"dept": "SE", "code": "SE 272", "title": "Theory of Elasticity", "units": "4"}
-{"dept": "SE", "code": "SE 273", "title": "Inelasticity", "units": "4"}
-{"dept": "SE", "code": "SE 274", "title": "Nonlinear Finite Element Methods for Solid Mechanics", "units": "4"}
-{"dept": "SE", "code": "SE 276A", "title": "Finite Element Methods in Solid Mechanics I", "units": "4"}
-{"dept": "SE", "code": "SE 276B", "title": "Finite Element Methods in Solid Mechanics", "units": "4"}
-{"dept": "SE", "code": "SE 276C", "title": "Finite Element Methods in Solid Mechanics III", "units": "4"}
-{"dept": "SE", "code": "SE 277", "title": "Error Control in Finite Element Analysis", "units": "4"}
-{"dept": "SE", "code": "SE 278A", "title": "Finite Elements for Fluid Mechanics", "units": "4"}
-{"dept": "SE", "code": "SE 278B", "title": "Computational Fluid-Structure Interaction", "units": "4"}
-{"dept": "SE", "code": "SE 279", "title": "Meshfree Methods for Linear and Nonlinear Mechanics", "units": "4"}
-{"dept": "SE", "code": "SE 280", "title": "Finite Element Computations in Solid Mechanics", "units": "4"}
-{"dept": "SE", "code": "SE 281", "title": "3D Printable Robotics", "units": "4"}
-{"dept": "SE", "code": "SE 282", "title": "Diagnostic Imaging", "units": "4"}
-{"dept": "SE", "code": "SE 283", "title": "Engineering Frontiers", "units": "4"}
-{"dept": "SE", "code": "SE 285", "title": "Structural Optimization", "units": "4"}
-{"dept": "SE", "code": "SE 286", "title": "Design Optimization for Additive Manufacturing", "units": "4"}
-{"dept": "SE", "code": "SE 290", "title": "Structural Engineering Seminar", "units": "2"}
-{"dept": "SE", "code": "SE 296", "title": "Independent Study", "units": "4"}
-{"dept": "SE", "code": "SE 298", "title": "Directed Group Study", "units": "1\u20134"}
-{"dept": "SE", "code": "SE 299", "title": "Graduate Research", "units": "1\u201312"}
-{"dept": "SE", "code": "SE 501", "title": "Teaching Experience", "units": "2"}
+{"code": "SE 1", "title": "Introduction to Structures and Design", "units": "4", "prereqs": null}
+{"code": "SE 3", "title": "Graphical Communication for Engineering Design", "units": "4", "prereqs": "SE 1"}
+{"code": "SE 7", "title": "Spatial Visualization", "units": "1", "prereqs": null}
+{"code": "SE 9", "title": "Algorithms and Programming for Structural Engineering", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 20D", "MATH 18"]}}
+{"code": "SE 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
+{"code": "SE 99H", "title": "Independent Study", "units": "1", "prereqs": null}
+{"code": "SE 101A", "title": "Mechanics I: Statics", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 20C", "PHYS 2A"]}}
+{"code": "SE 101B", "title": "Mechanics II: Dynamics", "units": "4", "prereqs": {"type": "one", "courses": ["SE 101A", "MAE 130A"]}}
+{"code": "SE 101C", "title": "Mechanics III: Vibrations", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 18", {"type": "one", "courses": ["SE 101B", "MAE 130B"]}]}}
+{"code": "SE 102", "title": "Introduction to Computing for Engineers", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SE 9", "MAE 8"]}, {"type": "one", "courses": ["SE 101A", "MAE 130A"]}]}}
+{"code": "SE 103", "title": "Conceptual Structural Design", "units": "4", "prereqs": {"type": "all", "courses": ["SE 3", {"type": "one", "courses": ["MAE 8", "SE 9"]}, "SE 101A", "SE 105"]}}
+{"code": "SE 104", "title": "Structural Materials", "units": "4", "prereqs": {"type": "all", "courses": ["SE 1", {"type": "one", "courses": ["SE 101A", "MAE 130A"]}]}}
+{"code": "SE 104L", "title": "Structural Materials Lab", "units": "1", "prereqs": "SE 104"}
+{"code": "SE 105", "title": "Structural Materials", "units": "5", "prereqs": {"type": "all", "courses": ["SE 1", "SE 101A"]}}
+{"code": "SE 110A", "title": "Solid Mechanics I", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 20D", {"type": "one", "courses": ["SE 101A", "MAE 130A"]}]}}
+{"code": "SE 110B", "title": "Solid Mechanics II", "units": "4", "prereqs": {"type": "one", "courses": ["SE 110A", "MAE 131A"]}}
+{"code": "SE 115", "title": "Fluid Mechanics for Structural Engineering", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 2A", "MATH 20D"]}}
+{"code": "SE 120", "title": "Engineering Graphics and Computer Aided Structural Design", "units": "4", "prereqs": {"type": "all", "courses": ["SE 102", "SE 103"]}}
+{"code": "SE 125", "title": "Statistics, Probability and Reliability", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, "MATH 20D"]}}
+{"code": "SE 130A", "title": "Structural Analysis I", "units": "4", "prereqs": {"type": "one", "courses": ["SE 110A", "MAE 131A"]}}
+{"code": "SE 130B", "title": "Structural Analysis II", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, "SE 130A"]}}
+{"code": "SE 131A", "title": "Finite Element Analysis", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 20E", "SE 3", {"type": "one", "courses": ["SE 110B", "MAE 131B"]}]}}
+{"code": "SE 131B", "title": "Computing Projects in Structural Engineering", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SE 131A", "SE 131"]}, {"type": "one", "courses": ["SE 101C", "MAE 130C"]}, "SE 130B"]}}
+{"code": "SE 132", "title": "Machine Learning for Structural Engineering", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SE 9", "MAE 8"]}, {"type": "one", "courses": ["SE 110A", "MAE 131A"]}, {"type": "one", "courses": ["SE 125", "MAE 108"]}]}}
+{"code": "SE 140A", "title": "Design of Civil Structures I", "units": "4", "prereqs": {"type": "all", "courses": ["SE 130B", {"type": "one", "courses": ["SE 150A", "SE 150"]}]}}
+{"code": "SE 140B", "title": "Design of Civil Structures II", "units": "4", "prereqs": {"type": "all", "courses": ["SE 140A", "SE 151A", "SE 181"]}}
+{"code": "SE 142", "title": "Design of Composite Structures", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SE 110A", "MAE 131A"]}, "SE 110B"]}}
+{"code": "SE 143A", "title": "Aerospace Structural Design I", "units": "4", "prereqs": {"type": "all", "courses": ["SE 3", "SE 142", "SE 160B"]}}
+{"code": "SE 143B", "title": "Aerospace Structural Design II", "units": "4", "prereqs": "SE 143A"}
+{"code": "SE 150A", "title": "Design of Steel Structures", "units": "4", "prereqs": "SE 130A"}
+{"code": "SE 150B", "title": "Design of Steel Structures II", "units": "4", "prereqs": {"type": "one", "courses": ["SE 150", "SE 150A"]}}
+{"code": "SE 151A", "title": "Design of Reinforced Concrete", "units": "4", "prereqs": "SE 130A"}
+{"code": "SE 151B", "title": "Design of Prestressed Concrete", "units": "4", "prereqs": "SE 151A"}
+{"code": "SE 152", "title": "Seismic Design of Structures", "units": "4", "prereqs": {"type": "all", "courses": ["SE 130B", "SE 150", "SE 151A"]}}
+{"code": "SE 154", "title": "Design of Timber Structures", "units": "4", "prereqs": {"type": "all", "courses": ["SE 103", "SE 130A"]}}
+{"code": "SE 160A", "title": "Aerospace Structural Mechanics I", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SE 105", "MAE 21", "SE 104L"]}, {"type": "one", "courses": ["SE 101B", "MAE 130B", "MAE 30B"]}, {"type": "one", "courses": ["SE 110A", "MAE 131A"]}]}}
+{"code": "SE 160B", "title": "Aerospace Structural Mechanics II", "units": "4", "prereqs": "SE 160A"}
+{"code": "SE 163", "title": "Nondestructive Evaluation", "units": "4", "prereqs": {"type": "all", "courses": ["SE 110A", "SE 110B"]}}
+{"code": "SE 164", "title": "Sensors and Data Acquisition for Structural Engineering", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SE 101C", "MAE 130C"]}, "SE 110A"]}}
+{"code": "SE 165", "title": "Structural Health Monitoring", "units": "4", "prereqs": {"type": "one", "courses": ["SE 101C", "MAE 130C"]}}
+{"code": "SE 167", "title": "Signal Processing and Spectral Analysis for Structural Engineering", "units": "4", "prereqs": "SE 101C"}
+{"code": "SE 168", "title": "Structural System Testing and Model Correlation", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SE 101C", "MAE 130C"]}, {"type": "one", "courses": ["SE 131A", "SE 131"]}]}}
+{"code": "SE 171", "title": "Aerospace Structures Repair", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SE 110A", "MAE 131A"]}, {"type": "one", "courses": ["SE 110B", "MAE 131B"]}]}}
+{"code": "SE 180", "title": "Earthquake Engineering", "units": "4", "prereqs": {"type": "all", "courses": ["SE 110A", "SE 130A"]}}
+{"code": "SE 181", "title": "Geotechnical Engineering", "units": "4", "prereqs": {"type": "one", "courses": ["SE 110A", "MAE 131A"]}}
+{"code": "SE 182", "title": "Foundation Engineering", "units": "4", "prereqs": "SE 181"}
+{"code": "SE 184", "title": "Ground Improvement", "units": "4", "prereqs": "SE 181"}
+{"code": "SE 192", "title": "Senior Seminar", "units": "1", "prereqs": null}
+{"code": "SE 195", "title": "Teaching", "units": "2\u20134", "prereqs": null}
+{"code": "SE 197", "title": "Engineering Internship", "units": "1\u20134", "prereqs": null}
+{"code": "SE 198", "title": "Directed Study Group", "units": "4", "prereqs": null}
+{"code": "SE 199", "title": "Independent Study", "units": "1\u20134", "prereqs": null}
+{"code": "SE 200", "title": "Applied Mathematics in Structural Engineering", "units": "4", "prereqs": null}
+{"code": "SE 201A", "title": "Advanced Structural Analysis", "units": "4", "prereqs": null}
+{"code": "SE 201B", "title": "Nonlinear Structural Analysis", "units": "4", "prereqs": "SE 201A"}
+{"code": "SE 202", "title": "Structural Stability", "units": "4", "prereqs": null}
+{"code": "SE 203", "title": "Structural Dynamics", "units": "4", "prereqs": null}
+{"code": "SE 204", "title": "Advanced Structural Dynamics", "units": "4", "prereqs": null}
+{"code": "SE 205", "title": "Nonlinear Mechanical Vibrations", "units": "4", "prereqs": "SE 203"}
+{"code": "SE 206", "title": "Random Vibrations", "units": "4", "prereqs": "SE 203"}
+{"code": "SE 207", "title": "Topics in Structural Engineering", "units": "4", "prereqs": null}
+{"code": "SE 211", "title": "Advanced Structural Concrete", "units": "4", "prereqs": null}
+{"code": "SE 212", "title": "Advanced Structural Steel Design", "units": "4", "prereqs": {"type": "all", "courses": ["SE 201", "SE 150"]}}
+{"code": "SE 213", "title": "Bridge Design", "units": "4", "prereqs": null}
+{"code": "SE 214", "title": "Masonry Structures", "units": "4", "prereqs": {"type": "all", "courses": ["SE 151A", "SE 151B"]}}
+{"code": "SE 215", "title": "Cable Structures", "units": "4", "prereqs": null}
+{"code": "SE 220", "title": "Seismic Isolation and Energy Dissipation", "units": "4", "prereqs": null}
+{"code": "SE 221", "title": "Earthquake Engineering", "units": "4", "prereqs": {"type": "one", "courses": ["SE 201A", "SE 203"]}}
+{"code": "SE 222", "title": "Geotechnical Earthquake Engineering", "units": "4", "prereqs": null}
+{"code": "SE 223", "title": "Advanced Seismic Design of Structures", "units": "4", "prereqs": null}
+{"code": "SE 224", "title": "Structural Reliability and Risk Analysis", "units": "4", "prereqs": null}
+{"code": "SE 226", "title": "Geotechnical Groundwater Engineering", "units": "4", "prereqs": "SE 241"}
+{"code": "SE 227", "title": "Seismic Design and Performance of Nonstructural Components and Systems", "units": "4", "prereqs": null}
+{"code": "SE 233", "title": "Computational Techniques in Finite Elements", "units": "4", "prereqs": null}
+{"code": "SE 235", "title": "Wave Propagation in Elastic Media", "units": "4", "prereqs": null}
+{"code": "SE 236", "title": "Wave Propagation in Continuous Structural Elements", "units": "4", "prereqs": null}
+{"code": "SE 241", "title": "Advanced Soil Mechanics", "units": "4", "prereqs": null}
+{"code": "SE 242", "title": "Advanced Foundation Engineering", "units": "4", "prereqs": null}
+{"code": "SE 243", "title": "Soil-Structure Interaction", "units": "4", "prereqs": {"type": "all", "courses": ["SE 200", "SE 203"]}}
+{"code": "SE 244", "title": "Numerical Methods in Geomechanics", "units": "4", "prereqs": null}
+{"code": "SE 246", "title": "Unsaturated Soil Mechanics", "units": "4", "prereqs": null}
+{"code": "SE 247", "title": "Ground Improvement", "units": "4", "prereqs": null}
+{"code": "SE 248", "title": "Engineering Properties of Soils", "units": "4", "prereqs": null}
+{"code": "SE 249", "title": "Rock Mechanics and Engineering", "units": "4", "prereqs": null}
+{"code": "SE 250", "title": "Stability of Earth Slopes and Retaining Walls", "units": "4", "prereqs": null}
+{"code": "SE 251A", "title": "Processing of Polymers and Composites", "units": "4", "prereqs": null}
+{"code": "SE 251B", "title": "Mechanical Behaviors of Polymers and Composites", "units": "4", "prereqs": null}
+{"code": "SE 252", "title": "Experimental Mechanics and NDE", "units": "4", "prereqs": null}
+{"code": "SE 253A", "title": "Mechanics and Design of Composite Structures", "units": "4", "prereqs": null}
+{"code": "SE 253B", "title": "Mechanics of Laminated Composite Structures II", "units": "4", "prereqs": "SE 253A"}
+{"code": "SE 253C", "title": "Mechanics of Laminated Anisotropy Plates and Shells", "units": "4", "prereqs": "SE 253B"}
+{"code": "SE 254", "title": "FRPs in Civil Structures", "units": "4", "prereqs": "SE 253A"}
+{"code": "SE 255", "title": "Textile Composite Structures", "units": "4", "prereqs": null}
+{"code": "SE 260A", "title": "Aerospace Structural Mechanics I", "units": "4", "prereqs": null}
+{"code": "SE 260B", "title": "Aerospace Structural Mechanics II", "units": "4", "prereqs": "SE 260A"}
+{"code": "SE 261", "title": "Aerospace Engineering Design", "units": "4", "prereqs": null}
+{"code": "SE 262", "title": "Aerospace Structures Repair", "units": "4", "prereqs": null}
+{"code": "SE 263", "title": "Nondestructive Evaluation", "units": "4", "prereqs": null}
+{"code": "SE 264", "title": "Sensors and Data Acquisition for Structural Engineering", "units": "4", "prereqs": null}
+{"code": "SE 265", "title": "Structural Health Monitoring", "units": "4", "prereqs": null}
+{"code": "SE 266", "title": "Smart and Multifunctional Materials", "units": "4", "prereqs": null}
+{"code": "SE 267A", "title": "Signal Processing and Spectral Analysis for Structural Engineering", "units": "4", "prereqs": null}
+{"code": "SE 268", "title": "Structural System Testing and Model Correlation", "units": "4", "prereqs": null}
+{"code": "SE 269", "title": "Verification and Validation of Computational Models", "units": "4", "prereqs": null}
+{"code": "SE 270", "title": "Fracture Mechanics of Materials and Structures", "units": "4", "prereqs": null}
+{"code": "SE 271", "title": "Solid Mechanics for Structural and Aerospace Engineering", "units": "4", "prereqs": "SE 110A"}
+{"code": "SE 272", "title": "Theory of Elasticity", "units": "4", "prereqs": "SE 271"}
+{"code": "SE 273", "title": "Inelasticity", "units": "4", "prereqs": {"type": "one", "courses": ["SE 271", "MAE 231A"]}}
+{"code": "SE 274", "title": "Nonlinear Finite Element Methods for Solid Mechanics", "units": "4", "prereqs": null}
+{"code": "SE 276A", "title": "Finite Element Methods in Solid Mechanics I", "units": "4", "prereqs": null}
+{"code": "SE 276B", "title": "Finite Element Methods in Solid Mechanics", "units": "4", "prereqs": null}
+{"code": "SE 276C", "title": "Finite Element Methods in Solid Mechanics III", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SE 276A", "MAE 232A"]}, {"type": "one", "courses": ["MAE 231A", "SE 271"]}]}}
+{"code": "SE 277", "title": "Error Control in Finite Element Analysis", "units": "4", "prereqs": {"type": "one", "courses": ["SE 232B", "MAE 232B"]}}
+{"code": "SE 278A", "title": "Finite Elements for Fluid Mechanics", "units": "4", "prereqs": {"type": "one", "courses": ["MAE 232A", "SE 276A"]}}
+{"code": "SE 278B", "title": "Computational Fluid-Structure Interaction", "units": "4", "prereqs": "SE 278A"}
+{"code": "SE 279", "title": "Meshfree Methods for Linear and Nonlinear Mechanics", "units": "4", "prereqs": {"type": "one", "courses": ["SE 276A", "MAE 232A"]}}
+{"code": "SE 280", "title": "Finite Element Computations in Solid Mechanics", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SE 276A", "MAE 232A"]}, {"type": "one", "courses": ["SE 276B", "MAE 232B"]}]}}
+{"code": "SE 281", "title": "3D Printable Robotics", "units": "4", "prereqs": null}
+{"code": "SE 282", "title": "Diagnostic Imaging", "units": "4", "prereqs": null}
+{"code": "SE 283", "title": "Engineering Frontiers", "units": "4", "prereqs": null}
+{"code": "SE 285", "title": "Structural Optimization", "units": "4", "prereqs": {"type": "one", "courses": ["SE 276A", "MAE 232A", "SE 233", "MAE 235"]}}
+{"code": "SE 286", "title": "Design Optimization for Additive Manufacturing", "units": "4", "prereqs": null}
+{"code": "SE 290", "title": "Structural Engineering Seminar", "units": "2", "prereqs": null}
+{"code": "SE 296", "title": "Independent Study", "units": "4", "prereqs": null}
+{"code": "SE 298", "title": "Directed Group Study", "units": "1\u20134", "prereqs": null}
+{"code": "SE 299", "title": "Graduate Research", "units": "1\u201312", "prereqs": null}
+{"code": "SE 501", "title": "Teaching Experience", "units": "2", "prereqs": null}

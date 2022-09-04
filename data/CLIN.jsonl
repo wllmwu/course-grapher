@@ -1,5 +1,5 @@
-{"dept": "CLIN", "code": "CLIN 227A", "title": "Mind, Brain & Behavior", "units": "6"}
-{"dept": "CLIN", "code": "CLIN 227B", "title": "Mind, Brain & Behavior II", "units": "6"}
-{"dept": "CLIN", "code": "CLIN 228", "title": "Mind, Brain & Behavior II\u2014Psychiatry Emphasis", "units": "3"}
-{"dept": "CLIN", "code": "CLIN 294", "title": "Proseminar in Neuropsychology", "units": "3"}
-{"dept": "CLIN", "code": "CLIN 296", "title": "Independent Study", "units": "1\u201312"}
+{"code": "CLIN 227A", "title": "Mind, Brain & Behavior", "units": "6", "prereqs": null}
+{"code": "CLIN 227B", "title": "Mind, Brain & Behavior II", "units": "6", "prereqs": "CLIN 227A"}
+{"code": "CLIN 228", "title": "Mind, Brain & Behavior II\u2014Psychiatry Emphasis", "units": "3", "prereqs": null}
+{"code": "CLIN 294", "title": "Proseminar in Neuropsychology", "units": "3", "prereqs": null}
+{"code": "CLIN 296", "title": "Independent Study", "units": "1\u201312", "prereqs": null}

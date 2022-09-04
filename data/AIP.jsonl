@@ -1,5 +1,5 @@
-{"dept": "AIP", "code": "AIP 97", "title": "Academic Internship", "units": "2, 4"}
-{"dept": "AIP", "code": "AIP 197", "title": "Academic Internship Program", "units": "2, 4, 6, 8, 10, 12"}
-{"dept": "AIP", "code": "AIP 197DC", "title": "UCDC: Washington, DC Internship", "units": "6, 8, 10"}
-{"dept": "AIP", "code": "AIP 197P", "title": "Public Service Internship", "units": "4, 8, 12"}
-{"dept": "AIP", "code": "AIP 197T", "title": "Academic Internship Program\u2014Special Programs", "units": "2"}
+{"code": "AIP 97", "title": "Academic Internship", "units": "2, 4", "prereqs": null}
+{"code": "AIP 197", "title": "Academic Internship Program", "units": "2, 4, 6, 8, 10, 12", "prereqs": null}
+{"code": "AIP 197DC", "title": "UCDC: Washington, DC Internship", "units": "6, 8, 10", "prereqs": null}
+{"code": "AIP 197P", "title": "Public Service Internship", "units": "4, 8, 12", "prereqs": null}
+{"code": "AIP 197T", "title": "Academic Internship Program\u2014Special Programs", "units": "2", "prereqs": null}

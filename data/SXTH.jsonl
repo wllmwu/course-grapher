@@ -1,3 +1,3 @@
-{"dept": "SXTH", "code": "SXTH 1", "title": "First Year Experience", "units": "2"}
-{"dept": "SXTH", "code": "SXTH 2", "title": "Transfer Year Experience", "units": "2"}
-{"dept": "SXTH", "code": "SXTH 20", "title": "First-year Student Honors Seminar", "units": "1"}
+{"code": "SXTH 1", "title": "First Year Experience", "units": "2", "prereqs": null}
+{"code": "SXTH 2", "title": "Transfer Year Experience", "units": "2", "prereqs": null}
+{"code": "SXTH 20", "title": "First-year Student Honors Seminar", "units": "1", "prereqs": null}

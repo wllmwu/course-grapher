@@ -1,9 +1,9 @@
-{"dept": "WARR", "code": "WARR 1", "title": "First Year Experience", "units": "2"}
-{"dept": "WARR", "code": "WARR 2", "title": "Transfer Year Experience", "units": "2"}
-{"dept": "WARR", "code": "WCWP 10A", "title": "The Writing Course A", "units": "4"}
-{"dept": "WARR", "code": "WCWP 10B", "title": "The Writing Course B", "units": "4"}
-{"dept": "WARR", "code": "WCWP 100", "title": "Academic Writing", "units": "4"}
-{"dept": "WARR", "code": "WCWP 160", "title": "Technical Writing for Scientists and Engineers", "units": "4"}
-{"dept": "WARR", "code": "WARR 189", "title": "Academic Mentoring and the Writing Process", "units": "2"}
-{"dept": "WARR", "code": "WCWP 198", "title": "Group Study", "units": "2"}
-{"dept": "WARR", "code": "WCWP 500", "title": "Apprentice Teaching in WCWP", "units": "2 or 4"}
+{"code": "WARR 1", "title": "First Year Experience", "units": "2", "prereqs": null}
+{"code": "WARR 2", "title": "Transfer Year Experience", "units": "2", "prereqs": null}
+{"code": "WCWP 10A", "title": "The Writing Course A", "units": "4", "prereqs": null}
+{"code": "WCWP 10B", "title": "The Writing Course B", "units": "4", "prereqs": "WCWP 10A"}
+{"code": "WCWP 100", "title": "Academic Writing", "units": "4", "prereqs": null}
+{"code": "WCWP 160", "title": "Technical Writing for Scientists and Engineers", "units": "4", "prereqs": null}
+{"code": "WARR 189", "title": "Academic Mentoring and the Writing Process", "units": "2", "prereqs": null}
+{"code": "WCWP 198", "title": "Group Study", "units": "2", "prereqs": null}
+{"code": "WCWP 500", "title": "Apprentice Teaching in WCWP", "units": "2 or 4", "prereqs": null}

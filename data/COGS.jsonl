@@ -1,126 +1,126 @@
-{"dept": "COGS", "code": "COGS 1", "title": "Introduction to Cognitive Science", "units": "4"}
-{"dept": "COGS", "code": "COGS 2", "title": "Cognitive Neuroeconomics", "units": "4"}
-{"dept": "COGS", "code": "COGS 3", "title": "Introduction to Computing", "units": "4"}
-{"dept": "COGS", "code": "COGS 8", "title": "Hands-on Computing", "units": "4"}
-{"dept": "COGS", "code": "COGS 9", "title": "Introduction to Data Science", "units": "4"}
-{"dept": "COGS", "code": "COGS 10", "title": "Cognitive Consequences of Technology", "units": "4"}
-{"dept": "COGS", "code": "COGS 11", "title": "Minds and Brains", "units": "4"}
-{"dept": "COGS", "code": "COGS 12", "title": "Language, Culture, and Cognition", "units": "4"}
-{"dept": "COGS", "code": "COGS 13", "title": "Field Methods: Studying Cognition in the Wild", "units": "4"}
-{"dept": "COGS", "code": "COGS 14A", "title": "Introduction to Research Methods", "units": "4"}
-{"dept": "COGS", "code": "COGS 14B", "title": "Introduction to Statistical Analysis", "units": "4"}
-{"dept": "COGS", "code": "COGS 15", "title": "What the *#!?: An Uncensored Introduction to Language", "units": "4"}
-{"dept": "COGS", "code": "COGS 17", "title": "Neurobiology of Cognition", "units": "4"}
-{"dept": "COGS", "code": "COGS 18", "title": "Introduction to Python", "units": "4"}
-{"dept": "COGS", "code": "COGS 20", "title": "Exploring the Musical Mind", "units": "4"}
-{"dept": "COGS", "code": "COGS 87", "title": "First-year Student Seminar", "units": "1"}
-{"dept": "COGS", "code": "COGS 90", "title": "Undergraduate Seminar", "units": "1"}
-{"dept": "COGS", "code": "COGS 91", "title": "SCANS Presents", "units": "1"}
-{"dept": "COGS", "code": "COGS 92", "title": "Resiliency in the Face of Adversity", "units": "2"}
-{"dept": "COGS", "code": "COGS 99", "title": "Independent Study", "units": "2 or 4"}
-{"dept": "COGS", "code": "COGS 100", "title": "Cyborgs Now and in the Future", "units": "4"}
-{"dept": "COGS", "code": "COGS 101A", "title": "Sensation and Perception", "units": "4"}
-{"dept": "COGS", "code": "COGS 101B", "title": "Learning, Memory, and Attention", "units": "4"}
-{"dept": "COGS", "code": "COGS 101C", "title": "Language", "units": "4"}
-{"dept": "COGS", "code": "COGS 102A", "title": "Cognitive Perspectives", "units": "4"}
-{"dept": "COGS", "code": "COGS 102B", "title": "Cognitive Ethnography", "units": "4"}
-{"dept": "COGS", "code": "COGS 102C", "title": "Cognitive Design Studio", "units": "6"}
-{"dept": "COGS", "code": "COGS 107A", "title": "Neuroanatomy and Physiology", "units": "4"}
-{"dept": "COGS", "code": "COGS 107B", "title": "Systems Neuroscience", "units": "4"}
-{"dept": "COGS", "code": "COGS 107C", "title": "Cognitive Neuroscience", "units": "4"}
-{"dept": "COGS", "code": "COGS 108", "title": "Data Science in Practice", "units": "4"}
-{"dept": "COGS", "code": "COGS 109", "title": "Modeling and Data Analysis", "units": "4"}
-{"dept": "COGS", "code": "COGS 110", "title": "The Developing Mind", "units": "4"}
-{"dept": "COGS", "code": "COGS 111", "title": "Beauty and the Brain", "units": "4"}
-{"dept": "COGS", "code": "COGS 112", "title": "Humor", "units": "4"}
-{"dept": "COGS", "code": "COGS 115", "title": "Neurological Development and Cognitive Change", "units": "4"}
-{"dept": "COGS", "code": "COGS 116", "title": "Developmental Brain Disorders", "units": "4"}
-{"dept": "COGS", "code": "COGS 118A", "title": "Supervised Machine Learning Algorithms", "units": "4"}
-{"dept": "COGS", "code": "COGS 118B", "title": "Introduction to Machine Learning II", "units": "4"}
-{"dept": "COGS", "code": "COGS 118C", "title": "Neural Signal Processing", "units": "4"}
-{"dept": "COGS", "code": "COGS 118D", "title": "Mathematical Statistics for Behavioral Data Analysis", "units": "4"}
-{"dept": "COGS", "code": "COGS 119", "title": "Programming for Experimental Research", "units": "4"}
-{"dept": "COGS", "code": "COGS 120", "title": "Interaction Design", "units": "5"}
-{"dept": "COGS", "code": "COGS 121", "title": "Human Computer Interaction Portfolio Design Studio", "units": "4"}
-{"dept": "COGS", "code": "COGS 122", "title": "Start-up Studio", "units": "4"}
-{"dept": "COGS", "code": "COGS 123", "title": "Social Computing", "units": "4"}
-{"dept": "COGS", "code": "COGS 124", "title": "HCI Technical Systems Research", "units": "4"}
-{"dept": "COGS", "code": "COGS 125", "title": "Advanced Interaction Design", "units": "4"}
-{"dept": "COGS", "code": "COGS 126", "title": "Thinking with Computers", "units": "4"}
-{"dept": "COGS", "code": "COGS 127", "title": "Data-Driven UX/Product Design", "units": "4"}
-{"dept": "COGS", "code": "COGS 128", "title": "Information Visualization", "units": "4"}
-{"dept": "COGS", "code": "COGS 137", "title": "Practical Data Science in R", "units": "4"}
-{"dept": "COGS", "code": "COGS 138", "title": "Neural Data Science", "units": "4"}
-{"dept": "COGS", "code": "COGS 142", "title": "Animal Communication", "units": "4"}
-{"dept": "COGS", "code": "COGS 143", "title": "Animal Cognition", "units": "4"}
-{"dept": "COGS", "code": "COGS 144", "title": "Social Cognition: A Developmental and Evolutionary Perspective", "units": "4"}
-{"dept": "COGS", "code": "COGS 151", "title": "Analogy and Conceptual Systems", "units": "4"}
-{"dept": "COGS", "code": "COGS 152", "title": "Cognitive Foundations of Mathematics", "units": "4"}
-{"dept": "COGS", "code": "COGS 153", "title": "Language Comprehension", "units": "4"}
-{"dept": "COGS", "code": "COGS 154", "title": "Communication Disorders in Children and Adults", "units": "4"}
-{"dept": "COGS", "code": "COGS 155", "title": "Gesture and Cognition", "units": "4"}
-{"dept": "COGS", "code": "COGS 156", "title": "Language Development", "units": "4"}
-{"dept": "COGS", "code": "COGS 157", "title": "Music and the Mind", "units": "4"}
-{"dept": "COGS", "code": "COGS 160", "title": "Upper-Division Seminar on Special Topics", "units": "4"}
-{"dept": "COGS", "code": "COGS 163", "title": "Metabolic Disorders of the Brain", "units": "4"}
-{"dept": "COGS", "code": "COGS 164", "title": "Neurobiology of Motivation", "units": "4"}
-{"dept": "COGS", "code": "COGS 165", "title": "Neuroimaging of Cognition", "units": "4"}
-{"dept": "COGS", "code": "COGS 169", "title": "Genetic Information for Behavior: From Single Cells to Mammals", "units": "4"}
-{"dept": "COGS", "code": "COGS 170", "title": "Brain Waves Across Scales", "units": "4"}
-{"dept": "COGS", "code": "COGS 171", "title": "Mirror Neuron System", "units": "4"}
-{"dept": "COGS", "code": "COGS 172", "title": "Brain Disorders and Cognition", "units": "4"}
-{"dept": "COGS", "code": "COGS 174", "title": "Drugs: Brain, Mind, and Culture", "units": "4"}
-{"dept": "COGS", "code": "COGS 175", "title": "The Neuropsychological Basis of Alternate States of Consciousness", "units": "4"}
-{"dept": "COGS", "code": "COGS 176", "title": "From Sleep to Attention", "units": "4"}
-{"dept": "COGS", "code": "COGS 177", "title": "Space and Time in the Brain", "units": "4"}
-{"dept": "COGS", "code": "COGS 178", "title": "Genes, Brains, and Behavior", "units": "4"}
-{"dept": "COGS", "code": "COGS 179", "title": "Electrophysiology of Cognition", "units": "4"}
-{"dept": "COGS", "code": "COGS 180", "title": "Decision Making in the Brain", "units": "4"}
-{"dept": "COGS", "code": "COGS 181", "title": "Neural Networks and Deep Learning", "units": "4"}
-{"dept": "COGS", "code": "COGS 182", "title": "Introduction to Reinforcement Learning", "units": "4"}
-{"dept": "COGS", "code": "COGS 184", "title": "Modeling the Evolution of Cognition", "units": "4"}
-{"dept": "COGS", "code": "COGS 185", "title": "Advanced Machine Learning Methods", "units": "4"}
-{"dept": "COGS", "code": "COGS 186", "title": "Advanced Machine Learning Methods", "units": "4"}
-{"dept": "COGS", "code": "COGS 187A", "title": "Usability and Information Architecture", "units": "4"}
-{"dept": "COGS", "code": "COGS 187B", "title": "Practicum in Professional Web Design", "units": "4"}
-{"dept": "COGS", "code": "COGS 188", "title": "Artificial Intelligence Algorithms", "units": "4"}
-{"dept": "COGS", "code": "COGS 189", "title": "Brain Computer Interfaces", "units": "4"}
-{"dept": "COGS", "code": "COGS 190A", "title": "Pre-Honors Project in Cognitive Science", "units": "4"}
-{"dept": "COGS", "code": "COGS 190B", "title": "Honors Studies in Cognitive Science", "units": "4"}
-{"dept": "COGS", "code": "COGS 190C", "title": "Honors Thesis in Cognitive Science", "units": "4"}
-{"dept": "COGS", "code": "COGS 190D", "title": "Preparation for Thesis Presentation", "units": "1"}
-{"dept": "COGS", "code": "COGS 195", "title": "Instructional Apprenticeship in Cognitive Science", "units": "4"}
-{"dept": "COGS", "code": "COGS 197", "title": "Cognitive Science Internship", "units": "2 or 4"}
-{"dept": "COGS", "code": "COGS 198", "title": "Directed Group Study", "units": "2 or 4"}
-{"dept": "COGS", "code": "COGS 199", "title": "Special Project", "units": "2 or 4"}
-{"dept": "COGS", "code": "COGS 200", "title": "Cognitive Science Seminar", "units": "4"}
-{"dept": "COGS", "code": "COGS 201", "title": "Neural Dynamics of Cognition", "units": "4"}
-{"dept": "COGS", "code": "COGS 202", "title": "Computational Modeling of Cognition", "units": "4"}
-{"dept": "COGS", "code": "COGS 203", "title": "Cognitive Science Foundations: Theories and Methods in the Study of Cognitive Phenomena", "units": "4"}
-{"dept": "COGS", "code": "COGS 205", "title": "Introduction to Thesis Research", "units": "4"}
-{"dept": "COGS", "code": "COGS 209", "title": "Scientific Data Analysis and Statistical Learning", "units": "4"}
-{"dept": "COGS", "code": "COGS 210A-B-C", "title": ". Introduction to Research", "units": "4-4-4"}
-{"dept": "COGS", "code": "COGS 211A-B-C", "title": ". Research Methods in Cognitive Science", "units": "2-2-2"}
-{"dept": "COGS", "code": "COGS 219", "title": "Programming for Behavioral Sciences", "units": "4"}
-{"dept": "COGS", "code": "COGS 220", "title": "Information Visualization", "units": "4"}
-{"dept": "COGS", "code": "COGS 225", "title": "Image Recognition", "units": "4"}
-{"dept": "COGS", "code": "COGS 229", "title": "Design at Large", "units": "1"}
-{"dept": "COGS", "code": "COGS 230", "title": "Topics in Human-Computer Interaction", "units": "4"}
-{"dept": "COGS", "code": "COGS 231", "title": "Design Seminar on Human-Centered Programming Tools", "units": "4"}
-{"dept": "COGS", "code": "COGS 234", "title": "Distributed Cognition", "units": "4"}
-{"dept": "COGS", "code": "COGS 238", "title": "Topics in Cognitive Linguistics", "units": "1\u20134"}
-{"dept": "COGS", "code": "COGS 241", "title": "Ethics and Survival Skills in Academia", "units": "2"}
-{"dept": "COGS", "code": "COGS 243", "title": "Statistical Inference and Data Analysis", "units": "2 or 4"}
-{"dept": "COGS", "code": "COGS 252", "title": "Cognitive Science of Mathematics", "units": "4"}
-{"dept": "COGS", "code": "COGS 260", "title": "Seminar on Special Topics", "units": "1\u20134"}
-{"dept": "COGS", "code": "COGS 277", "title": "Mirroring in Social Cognition", "units": "4"}
-{"dept": "COGS", "code": "COGS 278", "title": "Genetics and Individuality", "units": "4"}
-{"dept": "COGS", "code": "COGS 279", "title": "Electrophysiology of Cognition", "units": "4"}
-{"dept": "COGS", "code": "COGS 280", "title": "Neural Oscillations", "units": "4"}
-{"dept": "COGS", "code": "COGS 281", "title": "Advanced Neural Signal Processing", "units": "4"}
-{"dept": "COGS", "code": "COGS 283", "title": "Big Visual Data Processing", "units": "4"}
-{"dept": "COGS", "code": "COGS 290", "title": "Cognitive Science Laboratory Rotation", "units": "2"}
-{"dept": "COGS", "code": "COGS 291", "title": "Laboratory Research", "units": "1\u20134"}
-{"dept": "COGS", "code": "COGS 298", "title": "Directed Independent Study", "units": "1\u201312"}
-{"dept": "COGS", "code": "COGS 299", "title": "Thesis Research", "units": "1\u201312"}
-{"dept": "COGS", "code": "COGS 500", "title": "Teaching Apprenticeship", "units": "1\u20134"}
+{"code": "COGS 1", "title": "Introduction to Cognitive Science", "units": "4", "prereqs": null}
+{"code": "COGS 2", "title": "Cognitive Neuroeconomics", "units": "4", "prereqs": null}
+{"code": "COGS 3", "title": "Introduction to Computing", "units": "4", "prereqs": null}
+{"code": "COGS 8", "title": "Hands-on Computing", "units": "4", "prereqs": null}
+{"code": "COGS 9", "title": "Introduction to Data Science", "units": "4", "prereqs": null}
+{"code": "COGS 10", "title": "Cognitive Consequences of Technology", "units": "4", "prereqs": null}
+{"code": "COGS 11", "title": "Minds and Brains", "units": "4", "prereqs": null}
+{"code": "COGS 12", "title": "Language, Culture, and Cognition", "units": "4", "prereqs": null}
+{"code": "COGS 13", "title": "Field Methods: Studying Cognition in the Wild", "units": "4", "prereqs": null}
+{"code": "COGS 14A", "title": "Introduction to Research Methods", "units": "4", "prereqs": null}
+{"code": "COGS 14B", "title": "Introduction to Statistical Analysis", "units": "4", "prereqs": "COGS 14A"}
+{"code": "COGS 15", "title": "What the *#!?: An Uncensored Introduction to Language", "units": "4", "prereqs": null}
+{"code": "COGS 17", "title": "Neurobiology of Cognition", "units": "4", "prereqs": null}
+{"code": "COGS 18", "title": "Introduction to Python", "units": "4", "prereqs": null}
+{"code": "COGS 20", "title": "Exploring the Musical Mind", "units": "4", "prereqs": null}
+{"code": "COGS 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
+{"code": "COGS 90", "title": "Undergraduate Seminar", "units": "1", "prereqs": null}
+{"code": "COGS 91", "title": "SCANS Presents", "units": "1", "prereqs": null}
+{"code": "COGS 92", "title": "Resiliency in the Face of Adversity", "units": "2", "prereqs": null}
+{"code": "COGS 99", "title": "Independent Study", "units": "2 or 4", "prereqs": null}
+{"code": "COGS 100", "title": "Cyborgs Now and in the Future", "units": "4", "prereqs": {"type": "one", "courses": ["COGS 1", "COGS 10"]}}
+{"code": "COGS 101A", "title": "Sensation and Perception", "units": "4", "prereqs": "COGS 1"}
+{"code": "COGS 101B", "title": "Learning, Memory, and Attention", "units": "4", "prereqs": "COGS 1"}
+{"code": "COGS 101C", "title": "Language", "units": "4", "prereqs": {"type": "all", "courses": ["COGS 1", "COGS 14A"]}}
+{"code": "COGS 102A", "title": "Cognitive Perspectives", "units": "4", "prereqs": {"type": "all", "courses": ["COGS 1", "COGS 10"]}}
+{"code": "COGS 102B", "title": "Cognitive Ethnography", "units": "4", "prereqs": "COGS 102A"}
+{"code": "COGS 102C", "title": "Cognitive Design Studio", "units": "6", "prereqs": "COGS 102B"}
+{"code": "COGS 107A", "title": "Neuroanatomy and Physiology", "units": "4", "prereqs": {"type": "one", "courses": ["BILD 12", "COGS 17"]}}
+{"code": "COGS 107B", "title": "Systems Neuroscience", "units": "4", "prereqs": "COGS 107A"}
+{"code": "COGS 107C", "title": "Cognitive Neuroscience", "units": "4", "prereqs": "COGS 107B"}
+{"code": "COGS 108", "title": "Data Science in Practice", "units": "4", "prereqs": {"type": "one", "courses": ["CSE 11", "CSE 8A", "COGS 18", "DSC 10", "MAE 8"]}}
+{"code": "COGS 109", "title": "Modeling and Data Analysis", "units": "4", "prereqs": {"type": "all", "courses": ["COGS 14B", {"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, {"type": "one", "courses": ["COGS 18", "CSE 7", "CSE 8A", "CSE 11"]}]}}
+{"code": "COGS 110", "title": "The Developing Mind", "units": "4", "prereqs": {"type": "one", "courses": ["COGS 1", "HDP 1", "HDS 1"]}}
+{"code": "COGS 111", "title": "Beauty and the Brain", "units": "4", "prereqs": null}
+{"code": "COGS 112", "title": "Humor", "units": "4", "prereqs": null}
+{"code": "COGS 115", "title": "Neurological Development and Cognitive Change", "units": "4", "prereqs": {"type": "one", "courses": ["BILD 10", "BILD 12", "COGS 107A", "COGS 107B", "COGS 17", "HDP 110"]}}
+{"code": "COGS 116", "title": "Developmental Brain Disorders", "units": "4", "prereqs": {"type": "one", "courses": ["BILD 12", "COGS 17", "COGS 107A", "COGS 107B", "PSYC 106"]}}
+{"code": "COGS 118A", "title": "Supervised Machine Learning Algorithms", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["COGS 18", "CSE 8B", "CSE 11"]}, {"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, "MATH 20E", "MATH 180A", {"type": "one", "courses": ["COGS 108", "COGS 109", "COGS 118B", "CSE 150", "CSE 151", "CSE 158", "ECE 174", "ECE 175A"]}]}}
+{"code": "COGS 118B", "title": "Introduction to Machine Learning II", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CSE 8B", "CSE 11"]}, {"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, "MATH 20E", "MATH 180A"]}}
+{"code": "COGS 118C", "title": "Neural Signal Processing", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, {"type": "one", "courses": ["COGS 14B", "PSYC 60"]}, {"type": "one", "courses": ["COGS 108", "COGS 109"]}]}}
+{"code": "COGS 118D", "title": "Mathematical Statistics for Behavioral Data Analysis", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, "MATH 180A", {"type": "one", "courses": ["COGS 108", "COGS 109"]}]}}
+{"code": "COGS 119", "title": "Programming for Experimental Research", "units": "4", "prereqs": {"type": "all", "courses": ["COGS 14B", {"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, "MAE 8"]}}
+{"code": "COGS 120", "title": "Interaction Design", "units": "5", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CSE 11", "CSE 8B", "DSC 30"]}, {"type": "one", "courses": ["COGS 1", "COGS 187A", "DSGN 1"]}]}}
+{"code": "COGS 121", "title": "Human Computer Interaction Portfolio Design Studio", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["COGS 120", "CSE 170"]}, {"type": "one", "courses": ["COGS 18", "CSE 8B", "CSE 11", "DSC 30"]}]}}
+{"code": "COGS 122", "title": "Start-up Studio", "units": "4", "prereqs": {"type": "one", "courses": ["DSGN 100", "COGS 187B", "COGS 187A", "COGS 120", "CSE 170"]}}
+{"code": "COGS 123", "title": "Social Computing", "units": "4", "prereqs": {"type": "one", "courses": ["COGS 102C", "COGS 120", "COGS 187A", "COGS 187B", "DSGN 1"]}}
+{"code": "COGS 124", "title": "HCI Technical Systems Research", "units": "4", "prereqs": {"type": "all", "courses": ["COGS 120", "COGS 121"]}}
+{"code": "COGS 125", "title": "Advanced Interaction Design", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CSE 11", "CSE 8B"]}, {"type": "one", "courses": ["COGS 120", "CSE 170"]}]}}
+{"code": "COGS 126", "title": "Thinking with Computers", "units": "4", "prereqs": {"type": "one", "courses": ["COGS 120", "COGS 121", "CSE 170"]}}
+{"code": "COGS 127", "title": "Data-Driven UX/Product Design", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["COGS 18", "CSE 11", "CSE 8B", "DSC 30"]}, {"type": "one", "courses": ["COGS 1", "COGS 187A", "DSGN 1"]}]}}
+{"code": "COGS 128", "title": "Information Visualization", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["COGS 10", "DSGN 1"]}, "COGS 108"]}}
+{"code": "COGS 137", "title": "Practical Data Science in R", "units": "4", "prereqs": {"type": "one", "courses": ["COGS 14B", "MATH 11", "PSYC 60"]}}
+{"code": "COGS 138", "title": "Neural Data Science", "units": "4", "prereqs": {"type": "all", "courses": ["COGS 18", "COGS 118C"]}}
+{"code": "COGS 142", "title": "Animal Communication", "units": "4", "prereqs": "COGS 14A"}
+{"code": "COGS 143", "title": "Animal Cognition", "units": "4", "prereqs": null}
+{"code": "COGS 144", "title": "Social Cognition: A Developmental and Evolutionary Perspective", "units": "4", "prereqs": {"type": "all", "courses": ["COGS 14A", "COGS 14B"]}}
+{"code": "COGS 151", "title": "Analogy and Conceptual Systems", "units": "4", "prereqs": null}
+{"code": "COGS 152", "title": "Cognitive Foundations of Mathematics", "units": "4", "prereqs": {"type": "one", "courses": ["COGS 1", "PHIL 1", "PSYC 1"]}}
+{"code": "COGS 153", "title": "Language Comprehension", "units": "4", "prereqs": null}
+{"code": "COGS 154", "title": "Communication Disorders in Children and Adults", "units": "4", "prereqs": null}
+{"code": "COGS 155", "title": "Gesture and Cognition", "units": "4", "prereqs": null}
+{"code": "COGS 156", "title": "Language Development", "units": "4", "prereqs": null}
+{"code": "COGS 157", "title": "Music and the Mind", "units": "4", "prereqs": {"type": "one", "courses": ["COGS 101A", "COGS 101B", "COGS 101C"]}}
+{"code": "COGS 160", "title": "Upper-Division Seminar on Special Topics", "units": "4", "prereqs": null}
+{"code": "COGS 163", "title": "Metabolic Disorders of the Brain", "units": "4", "prereqs": null}
+{"code": "COGS 164", "title": "Neurobiology of Motivation", "units": "4", "prereqs": null}
+{"code": "COGS 165", "title": "Neuroimaging of Cognition", "units": "4", "prereqs": {"type": "one", "courses": ["COGS 107B", "COGS 107C", "PSYC 106", "PSYC 108"]}}
+{"code": "COGS 169", "title": "Genetic Information for Behavior: From Single Cells to Mammals", "units": "4", "prereqs": {"type": "all", "courses": ["COGS 1", "COGS 107A"]}}
+{"code": "COGS 170", "title": "Brain Waves Across Scales", "units": "4", "prereqs": {"type": "one", "courses": ["COGS 17", "BILD 12"]}}
+{"code": "COGS 171", "title": "Mirror Neuron System", "units": "4", "prereqs": null}
+{"code": "COGS 172", "title": "Brain Disorders and Cognition", "units": "4", "prereqs": "COGS 107A"}
+{"code": "COGS 174", "title": "Drugs: Brain, Mind, and Culture", "units": "4", "prereqs": null}
+{"code": "COGS 175", "title": "The Neuropsychological Basis of Alternate States of Consciousness", "units": "4", "prereqs": {"type": "one", "courses": ["COGS 101A", "COGS 107A"]}}
+{"code": "COGS 176", "title": "From Sleep to Attention", "units": "4", "prereqs": "COGS 107A"}
+{"code": "COGS 177", "title": "Space and Time in the Brain", "units": "4", "prereqs": null}
+{"code": "COGS 178", "title": "Genes, Brains, and Behavior", "units": "4", "prereqs": {"type": "all", "courses": ["COGS 107A", "COGS 107B"]}}
+{"code": "COGS 179", "title": "Electrophysiology of Cognition", "units": "4", "prereqs": {"type": "one", "courses": ["COGS 107A", "COGS 17"]}}
+{"code": "COGS 180", "title": "Decision Making in the Brain", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["BILD 12", "COGS 17"]}, {"type": "one", "courses": ["COGS 108", "COGS 109", "CSE 150A"]}, {"type": "one", "courses": ["MATH 18", "MATH 20B", "MATH 31AH"]}]}}
+{"code": "COGS 181", "title": "Neural Networks and Deep Learning", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["COGS 18", "CSE 11", "CSE 8B"]}, {"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, "MATH 20E", "MATH 180A", {"type": "one", "courses": ["COGS 118A", "COGS 118B", "CSE 150", "CSE 151A", "CSE 158", "ECE 174", "ECE 175A"]}]}}
+{"code": "COGS 182", "title": "Introduction to Reinforcement Learning", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["COGS 18", "CSE 11", "CSE 8B"]}, {"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, "MATH 180A", {"type": "one", "courses": ["COGS 108", "COGS 109", "COGS 118B", "CSE 150A", "CSE 150B", "CSE 151A", "CSE 151B", "CSE 158", "ECE 174", "ECE 175A"]}]}}
+{"code": "COGS 184", "title": "Modeling the Evolution of Cognition", "units": "4", "prereqs": {"type": "one", "courses": ["COGS 17", "COGS 107A", "COGS 107B", "COGS 107C", "BILD 12"]}}
+{"code": "COGS 185", "title": "Advanced Machine Learning Methods", "units": "4", "prereqs": "COGS 118A"}
+{"code": "COGS 186", "title": "Advanced Machine Learning Methods", "units": "4", "prereqs": {"type": "one", "courses": ["COGS 108", "COGS 109"]}}
+{"code": "COGS 187A", "title": "Usability and Information Architecture", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["COGS 18", "CSE 11", "CSE 8A"]}, {"type": "one", "courses": ["COGS 10", "DSGN 1"]}]}}
+{"code": "COGS 187B", "title": "Practicum in Professional Web Design", "units": "4", "prereqs": "COGS 187A"}
+{"code": "COGS 188", "title": "Artificial Intelligence Algorithms", "units": "4", "prereqs": {"type": "one", "courses": ["COGS 109", "COGS 118A", "COGS 118B"]}}
+{"code": "COGS 189", "title": "Brain Computer Interfaces", "units": "4", "prereqs": {"type": "one", "courses": ["COGS 108", "COGS 109", "COGS 118A", "COGS 118B"]}}
+{"code": "COGS 190A", "title": "Pre-Honors Project in Cognitive Science", "units": "4", "prereqs": null}
+{"code": "COGS 190B", "title": "Honors Studies in Cognitive Science", "units": "4", "prereqs": "COGS 190A"}
+{"code": "COGS 190C", "title": "Honors Thesis in Cognitive Science", "units": "4", "prereqs": "COGS 190B"}
+{"code": "COGS 190D", "title": "Preparation for Thesis Presentation", "units": "1", "prereqs": null}
+{"code": "COGS 195", "title": "Instructional Apprenticeship in Cognitive Science", "units": "4", "prereqs": null}
+{"code": "COGS 197", "title": "Cognitive Science Internship", "units": "2 or 4", "prereqs": null}
+{"code": "COGS 198", "title": "Directed Group Study", "units": "2 or 4", "prereqs": null}
+{"code": "COGS 199", "title": "Special Project", "units": "2 or 4", "prereqs": null}
+{"code": "COGS 200", "title": "Cognitive Science Seminar", "units": "4", "prereqs": null}
+{"code": "COGS 201", "title": "Neural Dynamics of Cognition", "units": "4", "prereqs": null}
+{"code": "COGS 202", "title": "Computational Modeling of Cognition", "units": "4", "prereqs": null}
+{"code": "COGS 203", "title": "Cognitive Science Foundations: Theories and Methods in the Study of Cognitive Phenomena", "units": "4", "prereqs": null}
+{"code": "COGS 205", "title": "Introduction to Thesis Research", "units": "4", "prereqs": null}
+{"code": "COGS 209", "title": "Scientific Data Analysis and Statistical Learning", "units": "4", "prereqs": null}
+{"code": "COGS 210A-B-C", "title": ". Introduction to Research", "units": "4-4-4", "prereqs": null}
+{"code": "COGS 211A-B-C", "title": ". Research Methods in Cognitive Science", "units": "2-2-2", "prereqs": null}
+{"code": "COGS 219", "title": "Programming for Behavioral Sciences", "units": "4", "prereqs": null}
+{"code": "COGS 220", "title": "Information Visualization", "units": "4", "prereqs": null}
+{"code": "COGS 225", "title": "Image Recognition", "units": "4", "prereqs": null}
+{"code": "COGS 229", "title": "Design at Large", "units": "1", "prereqs": null}
+{"code": "COGS 230", "title": "Topics in Human-Computer Interaction", "units": "4", "prereqs": null}
+{"code": "COGS 231", "title": "Design Seminar on Human-Centered Programming Tools", "units": "4", "prereqs": null}
+{"code": "COGS 234", "title": "Distributed Cognition", "units": "4", "prereqs": null}
+{"code": "COGS 238", "title": "Topics in Cognitive Linguistics", "units": "1\u20134", "prereqs": null}
+{"code": "COGS 241", "title": "Ethics and Survival Skills in Academia", "units": "2", "prereqs": null}
+{"code": "COGS 243", "title": "Statistical Inference and Data Analysis", "units": "2 or 4", "prereqs": null}
+{"code": "COGS 252", "title": "Cognitive Science of Mathematics", "units": "4", "prereqs": null}
+{"code": "COGS 260", "title": "Seminar on Special Topics", "units": "1\u20134", "prereqs": null}
+{"code": "COGS 277", "title": "Mirroring in Social Cognition", "units": "4", "prereqs": null}
+{"code": "COGS 278", "title": "Genetics and Individuality", "units": "4", "prereqs": null}
+{"code": "COGS 279", "title": "Electrophysiology of Cognition", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["COGS 107A", "PSYC 106"]}, {"type": "one", "courses": ["COGS 101A", "PSYC 105"]}]}}
+{"code": "COGS 280", "title": "Neural Oscillations", "units": "4", "prereqs": null}
+{"code": "COGS 281", "title": "Advanced Neural Signal Processing", "units": "4", "prereqs": null}
+{"code": "COGS 283", "title": "Big Visual Data Processing", "units": "4", "prereqs": null}
+{"code": "COGS 290", "title": "Cognitive Science Laboratory Rotation", "units": "2", "prereqs": null}
+{"code": "COGS 291", "title": "Laboratory Research", "units": "1\u20134", "prereqs": null}
+{"code": "COGS 298", "title": "Directed Independent Study", "units": "1\u201312", "prereqs": null}
+{"code": "COGS 299", "title": "Thesis Research", "units": "1\u201312", "prereqs": null}
+{"code": "COGS 500", "title": "Teaching Apprenticeship", "units": "1\u20134", "prereqs": null}

@@ -1,234 +1,234 @@
-{"dept": "BIOL", "code": "BILD 1", "title": "The Cell", "units": "4"}
-{"dept": "BIOL", "code": "BILD 2", "title": "Multicellular Life", "units": "4"}
-{"dept": "BIOL", "code": "BILD 3", "title": "Organismic and Evolutionary Biology", "units": "4"}
-{"dept": "BIOL", "code": "BILD 4", "title": "Introductory Biology Lab", "units": "2"}
-{"dept": "BIOL", "code": "BILD 5", "title": "Data Analysis and Design for Biologists", "units": "4"}
-{"dept": "BIOL", "code": "BILD 7", "title": "The Beginning of Life", "units": "4"}
-{"dept": "BIOL", "code": "BILD 10", "title": "Fundamental Concepts of Modern Biology", "units": "4"}
-{"dept": "BIOL", "code": "BILD 12", "title": "Neurobiology and Behavior", "units": "4"}
-{"dept": "BIOL", "code": "BILD 18", "title": "Human Impact on the Environment", "units": "4"}
-{"dept": "BIOL", "code": "BILD 20", "title": "Human Genetics in Modern Society", "units": "4"}
-{"dept": "BIOL", "code": "BILD 22", "title": "Human Nutrition", "units": "4"}
-{"dept": "BIOL", "code": "BILD 26", "title": "Human Physiology", "units": "4"}
-{"dept": "BIOL", "code": "BILD 30", "title": "Biology of Plagues: Past and Present", "units": "4"}
-{"dept": "BIOL", "code": "BILD 32", "title": "Introduction to Cancer Biology", "units": "4"}
-{"dept": "BIOL", "code": "BILD 36", "title": "AIDS Science and Society", "units": "4"}
-{"dept": "BIOL", "code": "BILD 38", "title": "Dementia, Science, and Society", "units": "4"}
-{"dept": "BIOL", "code": "BILD 40", "title": "Introduction to Biomedical Research", "units": "2"}
-{"dept": "BIOL", "code": "BILD 42", "title": "Our Sustainable Future", "units": "4"}
-{"dept": "BIOL", "code": "BILD 44", "title": "Scientific Perspectives for a Changing World", "units": "4"}
-{"dept": "BIOL", "code": "BILD 46", "title": "Ecology of a Changing Planet", "units": "4"}
-{"dept": "BIOL", "code": "BILD 51", "title": "Quantitative Biology Project Lab", "units": "4"}
-{"dept": "BIOL", "code": "BILD 60", "title": "Exploring Issues of Diversity, Equity, and Inclusion in Relation to Human Biology", "units": "4"}
-{"dept": "BIOL", "code": "BILD 62", "title": "Introduction to Python for Biologists", "units": "4"}
-{"dept": "BIOL", "code": "BILD 70", "title": "Genomics Research Initiative Lab I", "units": "4"}
-{"dept": "BIOL", "code": "BILD 75", "title": "Essential Lab Techniques in the Biological Sciences", "units": "1"}
-{"dept": "BIOL", "code": "BILD 80", "title": "Job and Internship Preparation: Job Application", "units": "1"}
-{"dept": "BIOL", "code": "BILD 81", "title": "Job and Internship Preparation: Interview Skills", "units": "1"}
-{"dept": "BIOL", "code": "BILD 82", "title": "Job and Internship Preparation: Professional Development Skills", "units": "1"}
-{"dept": "BIOL", "code": "BILD 83", "title": "Business Communications for Biological Sciences", "units": "1"}
-{"dept": "BIOL", "code": "BILD 87", "title": "First-year Seminar", "units": "1"}
-{"dept": "BIOL", "code": "BILD 91", "title": "Biology First-year Students: Strategies for Success", "units": "1"}
-{"dept": "BIOL", "code": "BILD 92", "title": "Professional Development Topics in the Biological Sciences", "units": "1"}
-{"dept": "BIOL", "code": "BILD 95", "title": "Undergraduate Workshops", "units": "1"}
-{"dept": "BIOL", "code": "BILD 96", "title": "Biology: Honors Seminar", "units": "2"}
-{"dept": "BIOL", "code": "BILD 97", "title": "Topics in Modern Biology: Professional Development and Analysis", "units": "1"}
-{"dept": "BIOL", "code": "BILD 98", "title": "Directed Group Study", "units": "1 to 4"}
-{"dept": "BIOL", "code": "BILD 99", "title": "Independent Research", "units": "2 or 4"}
-{"dept": "BIOL", "code": "BIBC 100", "title": "Structural Biochemistry", "units": "4"}
-{"dept": "BIOL", "code": "BIBC 102", "title": "Metabolic Biochemistry", "units": "4"}
-{"dept": "BIOL", "code": "BIBC 103", "title": "Biochemical Techniques", "units": "4"}
-{"dept": "BIOL", "code": "BIBC 120", "title": "Nutrition", "units": "4"}
-{"dept": "BIOL", "code": "BIBC 140", "title": "Our Energy Future\u2014Sustainable Energy Solutions", "units": "4"}
-{"dept": "BIOL", "code": "BIBC 151", "title": "Chemistry of Biological Interactions", "units": "4"}
-{"dept": "BIOL", "code": "BIBC 194", "title": "Advanced Topics in Modern Biology: Biochemistry", "units": "2"}
-{"dept": "BIOL", "code": "BICD 100", "title": "Genetics", "units": "4"}
-{"dept": "BIOL", "code": "BICD 101", "title": "Eukaryotic Genetics Laboratory", "units": "4"}
-{"dept": "BIOL", "code": "BICD 102", "title": "Genetic Inquiry", "units": "4"}
-{"dept": "BIOL", "code": "BICD 104", "title": "Genetic Neurobiology", "units": "4"}
-{"dept": "BIOL", "code": "BICD 110", "title": "Cell Biology", "units": "4"}
-{"dept": "BIOL", "code": "BICD 112", "title": "Stem Cells and Regeneration", "units": "4"}
-{"dept": "BIOL", "code": "BICD 120", "title": "Molecular Basis of Plant Development", "units": "4"}
-{"dept": "BIOL", "code": "BICD 123", "title": "Plant Molecular Genetics and Biotechnology Laboratory", "units": "4"}
-{"dept": "BIOL", "code": "BICD 124", "title": "Plant Innate Immunity", "units": "4"}
-{"dept": "BIOL", "code": "BICD 130", "title": "Embryos, Genes, and Development", "units": "4"}
-{"dept": "BIOL", "code": "BICD 136", "title": "AIDS Science and Society", "units": "4"}
-{"dept": "BIOL", "code": "BICD 140", "title": "Immunology", "units": "4"}
-{"dept": "BIOL", "code": "BICD 145", "title": "Laboratory in Molecular Medicine", "units": "4"}
-{"dept": "BIOL", "code": "BICD 156", "title": "Population Genetics", "units": "4"}
-{"dept": "BIOL", "code": "BICD 194", "title": "Advanced Topics in Modern Biology: Cellular Development", "units": "2"}
-{"dept": "BIOL", "code": "BIEB 100", "title": "Biostatistics", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 102", "title": "Introductory Ecology\u2014Organisms and Habitat", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 121", "title": "Ecology Laboratory", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 123", "title": "Molecular Methods in Evolution and Ecology Lab", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 126", "title": "Plant Ecology", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 128", "title": "Insect Diversity", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 130", "title": "Marine Conservation Biology", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 131", "title": "Marine Invertebrate Ecology Lab", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 134", "title": "Introduction to Biological Oceanography", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 135", "title": "Aquatic Ecology Lab", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 136GS", "title": "Tropical Field Ecology", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 137GS", "title": "Sea Turtle Ecology and Conservation", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 140", "title": "Biodiversity", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 143", "title": "Computer Modeling in Evolution and Ecology", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 146", "title": "Genome Diversity and Dynamics", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 150", "title": "Evolution", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 152", "title": "Evolution of Infectious Diseases", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 154", "title": "Evolutionary Inquiry", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 158", "title": "Microbiomes: The Ecology and Evolution of Microbes", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 166", "title": "Animal Behavior and Communication", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 167", "title": "Animal Communication Lab", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 174", "title": "Ecosystems and Global Change", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 176", "title": "Biology of Conservation and the Human Predicament", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 182", "title": "Biology of Global Change", "units": "4"}
-{"dept": "BIOL", "code": "BIEB 194", "title": "Advanced Topics in Modern Biology: Ecology, Behavior, Evolution", "units": "2"}
-{"dept": "BIOL", "code": "BIMM 100", "title": "Molecular Biology", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 101", "title": "Recombinant DNA Techniques", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 110", "title": "Molecular Basis of Human Disease", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 112", "title": "Regulation of Eukaryotic Gene Expressions", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 114", "title": "Virology", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 116", "title": "Circadian Rhythms\u2014Biological Clocks", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 116B", "title": "BioClock Studio", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 116R", "title": "Circadian Rhythms\u2014Biological Clocks", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 118", "title": "Pharmacology", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 120", "title": "Microbiology", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 121", "title": "Microbiology Laboratory", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 122", "title": "Microbial Genetics", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 124", "title": "Medical Microbiology", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 130", "title": "Microbial Physiology", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 134", "title": "Biology of Cancer", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 140", "title": "Quantitative Principles in Biology", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 143", "title": "Bioinformatics Laboratory", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 149", "title": "Computation for Biologists", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 170", "title": "Genomics Research Initiative Laboratory II", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 172", "title": "Genome Science", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 174", "title": "Genomics, Big Data, and Human Health", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 181", "title": "Molecular Sequence Analysis", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 182", "title": "Biological Databases", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 184", "title": "Computational Molecular Biology", "units": "4"}
-{"dept": "BIOL", "code": "BIMM 185", "title": "Bioinformatics Laboratory", "units": "Advanced"}
-{"dept": "BIOL", "code": "BIMM 194", "title": "Advanced Topics in Modern Biology: Molecular Biology", "units": "2"}
-{"dept": "BIOL", "code": "BIPN 100", "title": "Human Physiology I", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 102", "title": "Human Physiology II", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 105", "title": "Human Physiology Lab", "units": "6"}
-{"dept": "BIOL", "code": "BIPN 106", "title": "Comparative Physiology", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 108", "title": "Biology and Medicine of Exercise", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 120", "title": "Endocrinology", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 134", "title": "Human Reproduction", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 140", "title": "Cellular Neurobiology", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 142", "title": "Systems Neurobiology", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 144", "title": "Developmental Neurobiology", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 145", "title": "Neurobiology Laboratory", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 146", "title": "Computational Cellular Neurobiology", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 147", "title": "Computational Systems Neurobiology", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 148", "title": "Cellular Basis of Learning and Memory", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 150", "title": "Diseases of the Nervous System", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 152", "title": "The Healthy and Diseased Brain", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 154", "title": "Neurobiology of Stress and Mental Disorders", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 156", "title": "Glial Neurobiology", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 160", "title": "Neuroanatomy", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 162", "title": "Neural Data Science", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 164", "title": "Computational Models and Theories in Neuroscience", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 189", "title": "Brain, Behavior, and Evolution", "units": "4"}
-{"dept": "BIOL", "code": "BIPN 194", "title": "Advanced Topics in Modern Biology: Physiology and Neuroscience", "units": "2"}
-{"dept": "BIOL", "code": "BISP 170", "title": "Bioscholars Seminar: From Bench to Bedside and Beyond", "units": "2"}
-{"dept": "BIOL", "code": "BISP 182", "title": "Cooperative Education and Analysis", "units": "2 or 4 or 6"}
-{"dept": "BIOL", "code": "BISP 191", "title": "Biology Transfers: Strategies for Success", "units": "1"}
-{"dept": "BIOL", "code": "BISP 192", "title": "Senior Seminar in Biology", "units": "1"}
-{"dept": "BIOL", "code": "BISP 193", "title": "Biology Education Research", "units": "2 or 4"}
-{"dept": "BIOL", "code": "BISP 194", "title": "Advanced Topics in Modern Biology", "units": "2"}
-{"dept": "BIOL", "code": "BISP 195", "title": "Undergraduate Instructional Apprenticeship in Biological Sciences", "units": "4"}
-{"dept": "BIOL", "code": "BISP 196", "title": "Honors Thesis in Biological Sciences", "units": "4"}
-{"dept": "BIOL", "code": "BISP 197", "title": "Biology Internship Program", "units": "2 or 4"}
-{"dept": "BIOL", "code": "BISP 198", "title": "Directed Group Study", "units": "1 to 4"}
-{"dept": "BIOL", "code": "BISP 199", "title": "Individual Research for Undergraduates", "units": "2 or 4"}
-{"dept": "BIOL", "code": "BGGN 200", "title": "Graduate School Fundamentals: Introduction to Graduate Studies in the School of Biological Sciences", "units": "2"}
-{"dept": "BIOL", "code": "BGGN 201", "title": "Methods in Computational Neuroscience", "units": "3"}
-{"dept": "BIOL", "code": "BGGN 202", "title": "Professional Development for Biologists", "units": "2"}
-{"dept": "BIOL", "code": "BGGN 203", "title": "Topics in Ecology, Behavior, and Evolution", "units": "3"}
-{"dept": "BIOL", "code": "BGGN 204", "title": "Topics in Community and Population Ecology", "units": "3"}
-{"dept": "BIOL", "code": "BGGN 205", "title": "Communicating Science", "units": "2"}
-{"dept": "BIOL", "code": "BGGN 206A", "title": "Concepts of Reasoning and Experimentation", "units": "CORE"}
-{"dept": "BIOL", "code": "BGGN 206B", "title": "Concepts of Reasoning and Experimentation", "units": "CORE"}
-{"dept": "BIOL", "code": "BGGN 207", "title": "Scientific Ethics", "units": "1"}
-{"dept": "BIOL", "code": "BGGN 208", "title": "Biological Sciences Graduate Boot Camp", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 209", "title": "Social Issues in Biology", "units": "2"}
-{"dept": "BIOL", "code": "BGGN 210", "title": "Neurobiology Boot Camp", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 211", "title": "Recent Advances and Experimental Approaches in Modern Biology", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 212", "title": "Introduction to Quantitative Evolutionary Biology", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 213", "title": "Foundations of Bioinformatics", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 214", "title": "Introduction to Q-Biology", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 215", "title": "Applied Bioinformatics Lab", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 216", "title": "Graduate Biostatistics", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 218", "title": "Principles of Drug Development and Pharmacology", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 220", "title": "Graduate Molecular Biology", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 222", "title": "Graduate Cell Biology", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 223", "title": "Graduate Genetics", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 225", "title": "Graduate Immunology", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 226", "title": "Graduate Animal Virology", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 227", "title": "Graduate Topics in Plant Biology", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 228", "title": "Graduate Developmental Biology", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 230", "title": "Graduate Signal Transduction", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 231", "title": "Current Concepts in Stem Cell Biology", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 232", "title": "Innate Immunity", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 234", "title": "Practical Histopathology and Mouse Models of Human Disease", "units": "2"}
-{"dept": "BIOL", "code": "BGGN 236", "title": "Advanced Glycobiology", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 237", "title": "Quantitative Methods in Genetics", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 238A", "title": "Integrative Microbiology I", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 238B", "title": "Integrative Microbiology II", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 240", "title": "Neural Data Science", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 241", "title": "Genome Science", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 245", "title": "Advanced Topics in Cancer Research and Therapy", "units": "2"}
-{"dept": "BIOL", "code": "BGGN 246A", "title": "Computational Neurobiology", "units": "2"}
-{"dept": "BIOL", "code": "BGGN 248", "title": "Molecular Mechanisms of Neural Development", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 249A-B-C", "title": ". Basic Neuroscience", "units": "4-4-4"}
-{"dept": "BIOL", "code": "BGGN 250", "title": "Developmental Neurobiology", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 251", "title": "Computational Cellular Neurobiology", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 252", "title": "Computational Systems Neurobiology", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 253", "title": "Neurobiology of Stress and Mental Disorders", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 254", "title": "Neuroanatomy", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 255", "title": "Systems and Circuits Neuroscience", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 257", "title": "BioClock Workshop", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 259", "title": "Quantitative Physiology", "units": "2"}
-{"dept": "BIOL", "code": "BGGN 260", "title": "Neurodynamics", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 262", "title": "3-D Cryo-Electron Microscopy of Macromolecules and Cells", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 266", "title": "Advanced Laboratory in Biophysical Techniques", "units": "6"}
-{"dept": "BIOL", "code": "BGGN 267", "title": "Computational Models and Theories in Neuroscience", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 270", "title": "Master of Science Fundamentals", "units": "2"}
-{"dept": "BIOL", "code": "BGGN 271", "title": "Advanced Experimental Methods in Biology", "units": "4\u201312"}
-{"dept": "BIOL", "code": "BGGN 272", "title": "Learning Theories", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 280", "title": "Advanced Topics in Modern Biology: Biochemistry", "units": "2"}
-{"dept": "BIOL", "code": "BGGN 281", "title": "Advanced Topics in Modern Biology: Cellular Development", "units": "2"}
-{"dept": "BIOL", "code": "BGGN 282", "title": "Advanced Topics in Modern Biology: Ecology, Behavior, and Evolution", "units": "2"}
-{"dept": "BIOL", "code": "BGGN 283", "title": "Advanced Topics in Modern Biology: Molecular Biology", "units": "2"}
-{"dept": "BIOL", "code": "BGGN 284", "title": "Advanced Topics in Modern Biology: Physiology and Neuroscience", "units": "2"}
-{"dept": "BIOL", "code": "BGGN 285", "title": "Advanced Topics in Modern Biology", "units": "2"}
-{"dept": "BIOL", "code": "BGGN 290", "title": "Advances in Cellular and Molecular Mechanisms", "units": "1"}
-{"dept": "BIOL", "code": "BGGN 292", "title": "Professional Pathways in Biological Sciences", "units": "1"}
-{"dept": "BIOL", "code": "BGGN 293", "title": "Scientific Writing in Biology", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 295", "title": "Scientific Presentation in Biology", "units": "4"}
-{"dept": "BIOL", "code": "BGGN 297", "title": "Research Conference", "units": "1\u20133"}
-{"dept": "BIOL", "code": "BGGN 298", "title": "Laboratory Projects in Biology", "units": "3\u201312"}
-{"dept": "BIOL", "code": "BGGN 299", "title": "Thesis Research in Biology", "units": "1\u201312"}
-{"dept": "BIOL", "code": "BGGN 500", "title": "Introduction to College Biology Education", "units": "4"}
-{"dept": "BIOL", "code": "BGJC 204", "title": "Cellular and Molecular Immunology", "units": "1"}
-{"dept": "BIOL", "code": "BGJC 207", "title": "Journal Club in Neurobiology", "units": "1"}
-{"dept": "BIOL", "code": "BGJC 208", "title": "Journal Club in Plant Molecular Biology", "units": "1"}
-{"dept": "BIOL", "code": "BGJC 213", "title": "Journal Club in Computational Neurobiology", "units": "1"}
-{"dept": "BIOL", "code": "BGJC 215", "title": "Journal Club in Biology Education Research", "units": "1"}
-{"dept": "BIOL", "code": "BGRD 200", "title": "Research Discussion", "units": "1"}
-{"dept": "BIOL", "code": "BGRD 205", "title": "Research Discussion in Plant Membrane Biology", "units": "1"}
-{"dept": "BIOL", "code": "BGRD 207", "title": "Research Discussion in Neuronal Pattern Generation", "units": "1"}
-{"dept": "BIOL", "code": "BGRD 210", "title": "Research Discussion in Virology", "units": "1"}
-{"dept": "BIOL", "code": "BGRD 211", "title": "Research Discussion in Developmental Cellular Neurobiology", "units": "1"}
-{"dept": "BIOL", "code": "BGRD 212", "title": "Research Discussion in Behavior and Development of Simple Nervous Systems", "units": "1"}
-{"dept": "BIOL", "code": "BGRD 213", "title": "Research Discussion in Golgi Structure and Function", "units": "1"}
-{"dept": "BIOL", "code": "BGRD 216", "title": "Research Discussion in Molecular and Cell Biology", "units": "1"}
-{"dept": "BIOL", "code": "BGRD 218", "title": "Research Discussion in Plant Molecular Genetics", "units": "1"}
-{"dept": "BIOL", "code": "BGRD 221", "title": "Research Discussion in Behavioral Ecology", "units": "1"}
-{"dept": "BIOL", "code": "BGRD 222", "title": "Research Discussion in Evolutionary Molecular Ecology", "units": "1"}
-{"dept": "BIOL", "code": "BGRD 230", "title": "Research Discussion in Cell Signaling Pathways", "units": "1"}
-{"dept": "BIOL", "code": "BGRD 231", "title": "Research Discussion in Nuclear Transport and Function", "units": "1"}
-{"dept": "BIOL", "code": "BGRD 234", "title": "Research Discussion in Cell Signaling in Drosophila", "units": "3"}
-{"dept": "BIOL", "code": "BGSE 200", "title": "Seminar in Biology", "units": "1"}
-{"dept": "BIOL", "code": "BGSE 205", "title": "Graduate Research Seminar", "units": "1"}
+{"code": "BILD 1", "title": "The Cell", "units": "4", "prereqs": null}
+{"code": "BILD 2", "title": "Multicellular Life", "units": "4", "prereqs": "BILD 1"}
+{"code": "BILD 3", "title": "Organismic and Evolutionary Biology", "units": "4", "prereqs": null}
+{"code": "BILD 4", "title": "Introductory Biology Lab", "units": "2", "prereqs": null}
+{"code": "BILD 5", "title": "Data Analysis and Design for Biologists", "units": "4", "prereqs": null}
+{"code": "BILD 7", "title": "The Beginning of Life", "units": "4", "prereqs": null}
+{"code": "BILD 10", "title": "Fundamental Concepts of Modern Biology", "units": "4", "prereqs": null}
+{"code": "BILD 12", "title": "Neurobiology and Behavior", "units": "4", "prereqs": null}
+{"code": "BILD 18", "title": "Human Impact on the Environment", "units": "4", "prereqs": null}
+{"code": "BILD 20", "title": "Human Genetics in Modern Society", "units": "4", "prereqs": null}
+{"code": "BILD 22", "title": "Human Nutrition", "units": "4", "prereqs": null}
+{"code": "BILD 26", "title": "Human Physiology", "units": "4", "prereqs": null}
+{"code": "BILD 30", "title": "Biology of Plagues: Past and Present", "units": "4", "prereqs": null}
+{"code": "BILD 32", "title": "Introduction to Cancer Biology", "units": "4", "prereqs": null}
+{"code": "BILD 36", "title": "AIDS Science and Society", "units": "4", "prereqs": null}
+{"code": "BILD 38", "title": "Dementia, Science, and Society", "units": "4", "prereqs": null}
+{"code": "BILD 40", "title": "Introduction to Biomedical Research", "units": "2", "prereqs": null}
+{"code": "BILD 42", "title": "Our Sustainable Future", "units": "4", "prereqs": null}
+{"code": "BILD 44", "title": "Scientific Perspectives for a Changing World", "units": "4", "prereqs": null}
+{"code": "BILD 46", "title": "Ecology of a Changing Planet", "units": "4", "prereqs": null}
+{"code": "BILD 51", "title": "Quantitative Biology Project Lab", "units": "4", "prereqs": null}
+{"code": "BILD 60", "title": "Exploring Issues of Diversity, Equity, and Inclusion in Relation to Human Biology", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 1", {"type": "one", "courses": ["BILD 2", "BILD 3"]}]}}
+{"code": "BILD 62", "title": "Introduction to Python for Biologists", "units": "4", "prereqs": null}
+{"code": "BILD 70", "title": "Genomics Research Initiative Lab I", "units": "4", "prereqs": null}
+{"code": "BILD 75", "title": "Essential Lab Techniques in the Biological Sciences", "units": "1", "prereqs": null}
+{"code": "BILD 80", "title": "Job and Internship Preparation: Job Application", "units": "1", "prereqs": null}
+{"code": "BILD 81", "title": "Job and Internship Preparation: Interview Skills", "units": "1", "prereqs": null}
+{"code": "BILD 82", "title": "Job and Internship Preparation: Professional Development Skills", "units": "1", "prereqs": null}
+{"code": "BILD 83", "title": "Business Communications for Biological Sciences", "units": "1", "prereqs": null}
+{"code": "BILD 87", "title": "First-year Seminar", "units": "1", "prereqs": null}
+{"code": "BILD 91", "title": "Biology First-year Students: Strategies for Success", "units": "1", "prereqs": null}
+{"code": "BILD 92", "title": "Professional Development Topics in the Biological Sciences", "units": "1", "prereqs": null}
+{"code": "BILD 95", "title": "Undergraduate Workshops", "units": "1", "prereqs": null}
+{"code": "BILD 96", "title": "Biology: Honors Seminar", "units": "2", "prereqs": null}
+{"code": "BILD 97", "title": "Topics in Modern Biology: Professional Development and Analysis", "units": "1", "prereqs": null}
+{"code": "BILD 98", "title": "Directed Group Study", "units": "1 to 4", "prereqs": null}
+{"code": "BILD 99", "title": "Independent Research", "units": "2 or 4", "prereqs": null}
+{"code": "BIBC 100", "title": "Structural Biochemistry", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 40A", "CHEM 140A", "BENG 120"]}, {"type": "one", "courses": ["CHEM 40B", "CHEM 140B", "BENG 120"]}]}}
+{"code": "BIBC 102", "title": "Metabolic Biochemistry", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 40A", "CHEM 140A", "BENG 120"]}, {"type": "one", "courses": ["CHEM 40B", "CHEM 140B", "BENG 120"]}]}}
+{"code": "BIBC 103", "title": "Biochemical Techniques", "units": "4", "prereqs": "BILD 1"}
+{"code": "BIBC 120", "title": "Nutrition", "units": "4", "prereqs": {"type": "one", "courses": ["BIBC 102", "CHEM 114B"]}}
+{"code": "BIBC 140", "title": "Our Energy Future\u2014Sustainable Energy Solutions", "units": "4", "prereqs": "BILD 1"}
+{"code": "BIBC 151", "title": "Chemistry of Biological Interactions", "units": "4", "prereqs": {"type": "one", "courses": ["BIBC 100", "BIBC 102", "CHEM 114A", "CHEM 114B"]}}
+{"code": "BIBC 194", "title": "Advanced Topics in Modern Biology: Biochemistry", "units": "2", "prereqs": {"type": "one", "courses": ["BIBC 100", "BIBC 102", "CHEM 114A", "CHEM 114B"]}}
+{"code": "BICD 100", "title": "Genetics", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 1", "BILD 3"]}}
+{"code": "BICD 101", "title": "Eukaryotic Genetics Laboratory", "units": "4", "prereqs": "BILD 1"}
+{"code": "BICD 102", "title": "Genetic Inquiry", "units": "4", "prereqs": {"type": "all", "courses": ["BICD 100", "MATH 11"]}}
+{"code": "BICD 104", "title": "Genetic Neurobiology", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 2", "BICD 100"]}}
+{"code": "BICD 110", "title": "Cell Biology", "units": "4", "prereqs": {"type": "one", "courses": ["BIBC 100", "BIBC 102", "CHEM 114A", "CHEM 114B"]}}
+{"code": "BICD 112", "title": "Stem Cells and Regeneration", "units": "4", "prereqs": "BIMM 100"}
+{"code": "BICD 120", "title": "Molecular Basis of Plant Development", "units": "4", "prereqs": "BILD 1"}
+{"code": "BICD 123", "title": "Plant Molecular Genetics and Biotechnology Laboratory", "units": "4", "prereqs": null}
+{"code": "BICD 124", "title": "Plant Innate Immunity", "units": "4", "prereqs": "BICD 100"}
+{"code": "BICD 130", "title": "Embryos, Genes, and Development", "units": "4", "prereqs": {"type": "all", "courses": ["BICD 100", {"type": "one", "courses": ["BIBC 100", "BIBC 102", "CHEM 114A", "CHEM 114B"]}]}}
+{"code": "BICD 136", "title": "AIDS Science and Society", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 1", "BILD 2"]}}
+{"code": "BICD 140", "title": "Immunology", "units": "4", "prereqs": {"type": "all", "courses": ["BICD 100", "BIMM 100"]}}
+{"code": "BICD 145", "title": "Laboratory in Molecular Medicine", "units": "4", "prereqs": "BIMM 100"}
+{"code": "BICD 156", "title": "Population Genetics", "units": "4", "prereqs": {"type": "all", "courses": ["BICD 100", {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}]}}
+{"code": "BICD 194", "title": "Advanced Topics in Modern Biology: Cellular Development", "units": "2", "prereqs": "BICD 110"}
+{"code": "BIEB 100", "title": "Biostatistics", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 3", {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}, {"type": "one", "courses": ["MATH 10B", "MATH 20B"]}]}}
+{"code": "BIEB 102", "title": "Introductory Ecology\u2014Organisms and Habitat", "units": "4", "prereqs": "BILD 3"}
+{"code": "BIEB 121", "title": "Ecology Laboratory", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["BIEB 100", "MATH 11", "SIO 187"]}, "BILD 3"]}}
+{"code": "BIEB 123", "title": "Molecular Methods in Evolution and Ecology Lab", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 1", "BILD 3"]}}
+{"code": "BIEB 126", "title": "Plant Ecology", "units": "4", "prereqs": "BILD 3"}
+{"code": "BIEB 128", "title": "Insect Diversity", "units": "4", "prereqs": "BILD 3"}
+{"code": "BIEB 130", "title": "Marine Conservation Biology", "units": "4", "prereqs": "BILD 3"}
+{"code": "BIEB 131", "title": "Marine Invertebrate Ecology Lab", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 3", {"type": "one", "courses": ["BIEB 100", "MATH 11"]}]}}
+{"code": "BIEB 134", "title": "Introduction to Biological Oceanography", "units": "4", "prereqs": "BILD 3"}
+{"code": "BIEB 135", "title": "Aquatic Ecology Lab", "units": "4", "prereqs": "BILD 3"}
+{"code": "BIEB 136GS", "title": "Tropical Field Ecology", "units": "4", "prereqs": "BILD 3"}
+{"code": "BIEB 137GS", "title": "Sea Turtle Ecology and Conservation", "units": "4", "prereqs": "BILD 3"}
+{"code": "BIEB 140", "title": "Biodiversity", "units": "4", "prereqs": "BILD 3"}
+{"code": "BIEB 143", "title": "Computer Modeling in Evolution and Ecology", "units": "4", "prereqs": {"type": "one", "courses": ["BIEB 100", "BIEB 150"]}}
+{"code": "BIEB 146", "title": "Genome Diversity and Dynamics", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 1", "BILD 3"]}}
+{"code": "BIEB 150", "title": "Evolution", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 3", {"type": "one", "courses": ["BILD 1", "BIEB 143"]}]}}
+{"code": "BIEB 152", "title": "Evolution of Infectious Diseases", "units": "4", "prereqs": "BILD 3"}
+{"code": "BIEB 154", "title": "Evolutionary Inquiry", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 1", "BILD 3"]}}
+{"code": "BIEB 158", "title": "Microbiomes: The Ecology and Evolution of Microbes", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 1", "BILD 3"]}}
+{"code": "BIEB 166", "title": "Animal Behavior and Communication", "units": "4", "prereqs": "BILD 3"}
+{"code": "BIEB 167", "title": "Animal Communication Lab", "units": "4", "prereqs": {"type": "all", "courses": ["BIEB 102", "BIEB 166"]}}
+{"code": "BIEB 174", "title": "Ecosystems and Global Change", "units": "4", "prereqs": "BILD 3"}
+{"code": "BIEB 176", "title": "Biology of Conservation and the Human Predicament", "units": "4", "prereqs": "BILD 3"}
+{"code": "BIEB 182", "title": "Biology of Global Change", "units": "4", "prereqs": "BIEB 102"}
+{"code": "BIEB 194", "title": "Advanced Topics in Modern Biology: Ecology, Behavior, Evolution", "units": "2", "prereqs": "BIEB 102"}
+{"code": "BIMM 100", "title": "Molecular Biology", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 1", {"type": "one", "courses": ["BIBC 103", "BILD 4", "BILD 70", "BIMM 101"]}, {"type": "one", "courses": ["BENG 120", "CHEM 40A", "CHEM 40AH"]}, {"type": "one", "courses": ["BENG 120", "CHEM 40B", "CHEM 40BH"]}]}}
+{"code": "BIMM 101", "title": "Recombinant DNA Techniques", "units": "4", "prereqs": "BILD 1"}
+{"code": "BIMM 110", "title": "Molecular Basis of Human Disease", "units": "4", "prereqs": {"type": "all", "courses": ["BICD 100", "BIMM 100", {"type": "one", "courses": ["BIBC 100", "BIBC 102", "CHEM 114A", "CHEM 114B"]}]}}
+{"code": "BIMM 112", "title": "Regulation of Eukaryotic Gene Expressions", "units": "4", "prereqs": "BIMM 100"}
+{"code": "BIMM 114", "title": "Virology", "units": "4", "prereqs": "BIMM 100"}
+{"code": "BIMM 116", "title": "Circadian Rhythms\u2014Biological Clocks", "units": "4", "prereqs": {"type": "one", "courses": ["BILD 1", "COGS 107B", "PSYC 106"]}}
+{"code": "BIMM 116B", "title": "BioClock Studio", "units": "4", "prereqs": null}
+{"code": "BIMM 116R", "title": "Circadian Rhythms\u2014Biological Clocks", "units": "4", "prereqs": {"type": "one", "courses": ["BILD 1", "COGS 107B", "PSYC 106"]}}
+{"code": "BIMM 118", "title": "Pharmacology", "units": "4", "prereqs": {"type": "all", "courses": ["BIPN 100", {"type": "one", "courses": ["BIBC 100", "BIBC 102", "CHEM 114A", "CHEM 114B"]}]}}
+{"code": "BIMM 120", "title": "Microbiology", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 3", {"type": "one", "courses": ["BIBC 100", "BIBC 102", "CHEM 114A", "CHEM 114B"]}, "BIMM 100"]}}
+{"code": "BIMM 121", "title": "Microbiology Laboratory", "units": "4", "prereqs": "BILD 1"}
+{"code": "BIMM 122", "title": "Microbial Genetics", "units": "4", "prereqs": "BIMM 100"}
+{"code": "BIMM 124", "title": "Medical Microbiology", "units": "4", "prereqs": {"type": "one", "courses": ["BIBC 100", "BIBC 102", "CHEM 114A", "CHEM 114B"]}}
+{"code": "BIMM 130", "title": "Microbial Physiology", "units": "4", "prereqs": {"type": "one", "courses": ["BIBC 100", "BIBC 102", "CHEM 114A", "CHEM 114B"]}}
+{"code": "BIMM 134", "title": "Biology of Cancer", "units": "4", "prereqs": "BILD 1"}
+{"code": "BIMM 140", "title": "Quantitative Principles in Biology", "units": "4", "prereqs": "BILD 1"}
+{"code": "BIMM 143", "title": "Bioinformatics Laboratory", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 1", {"type": "one", "courses": ["BILD 4", "BIEB 123", "BIMM 101"]}]}}
+{"code": "BIMM 149", "title": "Computation for Biologists", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 1", "BILD 2"]}}
+{"code": "BIMM 170", "title": "Genomics Research Initiative Laboratory II", "units": "4", "prereqs": "BILD 70"}
+{"code": "BIMM 172", "title": "Genome Science", "units": "4", "prereqs": {"type": "all", "courses": ["BICD 100", "BIMM 100"]}}
+{"code": "BIMM 174", "title": "Genomics, Big Data, and Human Health", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 1", {"type": "one", "courses": ["BILD 4", "BIMM 101"]}]}}
+{"code": "BIMM 181", "title": "Molecular Sequence Analysis", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CSE 100", "MATH 176"]}, "CSE 101", {"type": "one", "courses": ["BIMM 100", "CHEM 114C"]}]}}
+{"code": "BIMM 182", "title": "Biological Databases", "units": "4", "prereqs": {"type": "one", "courses": ["CSE 100", "MATH 176"]}}
+{"code": "BIMM 184", "title": "Computational Molecular Biology", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["BIMM 181", "BENG 181", "CSE 181"]}, {"type": "one", "courses": ["BIMM 182", "BENG 182", "CSE 182", "CHEM 182"]}]}}
+{"code": "BIMM 185", "title": "Bioinformatics Laboratory", "units": "Advanced", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["BIMM 181", "BENG 181", "CSE 181"]}, {"type": "one", "courses": ["BIMM 182", "BENG 182", "CSE 182"]}, "BENG 183", {"type": "one", "courses": ["BIMM 184", "BENG 184", "CSE 184"]}]}}
+{"code": "BIMM 194", "title": "Advanced Topics in Modern Biology: Molecular Biology", "units": "2", "prereqs": "BIMM 100"}
+{"code": "BIPN 100", "title": "Human Physiology I", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 1", "BILD 2"]}}
+{"code": "BIPN 102", "title": "Human Physiology II", "units": "4", "prereqs": "BIPN 100"}
+{"code": "BIPN 105", "title": "Human Physiology Lab", "units": "6", "prereqs": "BIPN 100"}
+{"code": "BIPN 106", "title": "Comparative Physiology", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 2", "CHEM 6A", "CHEM 6B", "CHEM 6C"]}}
+{"code": "BIPN 108", "title": "Biology and Medicine of Exercise", "units": "4", "prereqs": {"type": "all", "courses": ["BIPN 100", {"type": "one", "courses": ["BIBC 102", "CHEM 114B"]}]}}
+{"code": "BIPN 120", "title": "Endocrinology", "units": "4", "prereqs": "BIPN 100"}
+{"code": "BIPN 134", "title": "Human Reproduction", "units": "4", "prereqs": "BIPN 100"}
+{"code": "BIPN 140", "title": "Cellular Neurobiology", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 1", "BILD 2"]}}
+{"code": "BIPN 142", "title": "Systems Neurobiology", "units": "4", "prereqs": {"type": "one", "courses": ["BIPN 100", "BIPN 140"]}}
+{"code": "BIPN 144", "title": "Developmental Neurobiology", "units": "4", "prereqs": null}
+{"code": "BIPN 145", "title": "Neurobiology Laboratory", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 2", "BILD 4", "MATH 11"]}}
+{"code": "BIPN 146", "title": "Computational Cellular Neurobiology", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 2", {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}, {"type": "one", "courses": ["MATH 10B", "MATH 20B"]}, "MATH 11"]}}
+{"code": "BIPN 147", "title": "Computational Systems Neurobiology", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 2", {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}, {"type": "one", "courses": ["MATH 10B", "MATH 20B"]}, "MATH 11"]}}
+{"code": "BIPN 148", "title": "Cellular Basis of Learning and Memory", "units": "4", "prereqs": "BIPN 140"}
+{"code": "BIPN 150", "title": "Diseases of the Nervous System", "units": "4", "prereqs": {"type": "all", "courses": ["BICD 100", {"type": "one", "courses": ["BIBC 102", "CHEM 114B"]}]}}
+{"code": "BIPN 152", "title": "The Healthy and Diseased Brain", "units": "4", "prereqs": "BIPN 140"}
+{"code": "BIPN 154", "title": "Neurobiology of Stress and Mental Disorders", "units": "4", "prereqs": "BIPN 140"}
+{"code": "BIPN 156", "title": "Glial Neurobiology", "units": "4", "prereqs": {"type": "one", "courses": ["BENG 140A", "BIPN 100", "BIPN 140"]}}
+{"code": "BIPN 160", "title": "Neuroanatomy", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 1", "BILD 2"]}}
+{"code": "BIPN 162", "title": "Neural Data Science", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 11", "BIPN 140", {"type": "one", "courses": ["BILD 62", "COGS 18", "CSE 8A"]}]}}
+{"code": "BIPN 164", "title": "Computational Models and Theories in Neuroscience", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 10A", "MATH 20A"]}, {"type": "one", "courses": ["MATH 10B", "MATH 20B"]}, "MATH 11"]}}
+{"code": "BIPN 189", "title": "Brain, Behavior, and Evolution", "units": "4", "prereqs": {"type": "one", "courses": ["BILD 2", "PSYC 102", "PSYC 106"]}}
+{"code": "BIPN 194", "title": "Advanced Topics in Modern Biology: Physiology and Neuroscience", "units": "2", "prereqs": "BIPN 140"}
+{"code": "BISP 170", "title": "Bioscholars Seminar: From Bench to Bedside and Beyond", "units": "2", "prereqs": {"type": "all", "courses": ["BILD 1", "BILD 2"]}}
+{"code": "BISP 182", "title": "Cooperative Education and Analysis", "units": "2 or 4 or 6", "prereqs": "BILD 82"}
+{"code": "BISP 191", "title": "Biology Transfers: Strategies for Success", "units": "1", "prereqs": null}
+{"code": "BISP 192", "title": "Senior Seminar in Biology", "units": "1", "prereqs": null}
+{"code": "BISP 193", "title": "Biology Education Research", "units": "2 or 4", "prereqs": null}
+{"code": "BISP 194", "title": "Advanced Topics in Modern Biology", "units": "2", "prereqs": "BICD 100"}
+{"code": "BISP 195", "title": "Undergraduate Instructional Apprenticeship in Biological Sciences", "units": "4", "prereqs": null}
+{"code": "BISP 196", "title": "Honors Thesis in Biological Sciences", "units": "4", "prereqs": null}
+{"code": "BISP 197", "title": "Biology Internship Program", "units": "2 or 4", "prereqs": null}
+{"code": "BISP 198", "title": "Directed Group Study", "units": "1 to 4", "prereqs": null}
+{"code": "BISP 199", "title": "Individual Research for Undergraduates", "units": "2 or 4", "prereqs": null}
+{"code": "BGGN 200", "title": "Graduate School Fundamentals: Introduction to Graduate Studies in the School of Biological Sciences", "units": "2", "prereqs": null}
+{"code": "BGGN 201", "title": "Methods in Computational Neuroscience", "units": "3", "prereqs": null}
+{"code": "BGGN 202", "title": "Professional Development for Biologists", "units": "2", "prereqs": null}
+{"code": "BGGN 203", "title": "Topics in Ecology, Behavior, and Evolution", "units": "3", "prereqs": null}
+{"code": "BGGN 204", "title": "Topics in Community and Population Ecology", "units": "3", "prereqs": null}
+{"code": "BGGN 205", "title": "Communicating Science", "units": "2", "prereqs": null}
+{"code": "BGGN 206A", "title": "Concepts of Reasoning and Experimentation", "units": "CORE", "prereqs": null}
+{"code": "BGGN 206B", "title": "Concepts of Reasoning and Experimentation", "units": "CORE", "prereqs": "BGGN 206A"}
+{"code": "BGGN 207", "title": "Scientific Ethics", "units": "1", "prereqs": null}
+{"code": "BGGN 208", "title": "Biological Sciences Graduate Boot Camp", "units": "4", "prereqs": null}
+{"code": "BGGN 209", "title": "Social Issues in Biology", "units": "2", "prereqs": null}
+{"code": "BGGN 210", "title": "Neurobiology Boot Camp", "units": "4", "prereqs": null}
+{"code": "BGGN 211", "title": "Recent Advances and Experimental Approaches in Modern Biology", "units": "4", "prereqs": null}
+{"code": "BGGN 212", "title": "Introduction to Quantitative Evolutionary Biology", "units": "4", "prereqs": null}
+{"code": "BGGN 213", "title": "Foundations of Bioinformatics", "units": "4", "prereqs": null}
+{"code": "BGGN 214", "title": "Introduction to Q-Biology", "units": "4", "prereqs": null}
+{"code": "BGGN 215", "title": "Applied Bioinformatics Lab", "units": "4", "prereqs": null}
+{"code": "BGGN 216", "title": "Graduate Biostatistics", "units": "4", "prereqs": null}
+{"code": "BGGN 218", "title": "Principles of Drug Development and Pharmacology", "units": "4", "prereqs": null}
+{"code": "BGGN 220", "title": "Graduate Molecular Biology", "units": "4", "prereqs": null}
+{"code": "BGGN 222", "title": "Graduate Cell Biology", "units": "4", "prereqs": null}
+{"code": "BGGN 223", "title": "Graduate Genetics", "units": "4", "prereqs": null}
+{"code": "BGGN 225", "title": "Graduate Immunology", "units": "4", "prereqs": null}
+{"code": "BGGN 226", "title": "Graduate Animal Virology", "units": "4", "prereqs": null}
+{"code": "BGGN 227", "title": "Graduate Topics in Plant Biology", "units": "4", "prereqs": null}
+{"code": "BGGN 228", "title": "Graduate Developmental Biology", "units": "4", "prereqs": null}
+{"code": "BGGN 230", "title": "Graduate Signal Transduction", "units": "4", "prereqs": null}
+{"code": "BGGN 231", "title": "Current Concepts in Stem Cell Biology", "units": "4", "prereqs": null}
+{"code": "BGGN 232", "title": "Innate Immunity", "units": "4", "prereqs": null}
+{"code": "BGGN 234", "title": "Practical Histopathology and Mouse Models of Human Disease", "units": "2", "prereqs": null}
+{"code": "BGGN 236", "title": "Advanced Glycobiology", "units": "4", "prereqs": null}
+{"code": "BGGN 237", "title": "Quantitative Methods in Genetics", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["BGGN 223", "BIOM 252"]}, "BIOM 272"]}}
+{"code": "BGGN 238A", "title": "Integrative Microbiology I", "units": "4", "prereqs": null}
+{"code": "BGGN 238B", "title": "Integrative Microbiology II", "units": "4", "prereqs": null}
+{"code": "BGGN 240", "title": "Neural Data Science", "units": "4", "prereqs": null}
+{"code": "BGGN 241", "title": "Genome Science", "units": "4", "prereqs": null}
+{"code": "BGGN 245", "title": "Advanced Topics in Cancer Research and Therapy", "units": "2", "prereqs": null}
+{"code": "BGGN 246A", "title": "Computational Neurobiology", "units": "2", "prereqs": null}
+{"code": "BGGN 248", "title": "Molecular Mechanisms of Neural Development", "units": "4", "prereqs": null}
+{"code": "BGGN 249A-B-C", "title": ". Basic Neuroscience", "units": "4-4-4", "prereqs": null}
+{"code": "BGGN 250", "title": "Developmental Neurobiology", "units": "4", "prereqs": null}
+{"code": "BGGN 251", "title": "Computational Cellular Neurobiology", "units": "4", "prereqs": null}
+{"code": "BGGN 252", "title": "Computational Systems Neurobiology", "units": "4", "prereqs": null}
+{"code": "BGGN 253", "title": "Neurobiology of Stress and Mental Disorders", "units": "4", "prereqs": null}
+{"code": "BGGN 254", "title": "Neuroanatomy", "units": "4", "prereqs": null}
+{"code": "BGGN 255", "title": "Systems and Circuits Neuroscience", "units": "4", "prereqs": null}
+{"code": "BGGN 257", "title": "BioClock Workshop", "units": "4", "prereqs": null}
+{"code": "BGGN 259", "title": "Quantitative Physiology", "units": "2", "prereqs": null}
+{"code": "BGGN 260", "title": "Neurodynamics", "units": "4", "prereqs": null}
+{"code": "BGGN 262", "title": "3-D Cryo-Electron Microscopy of Macromolecules and Cells", "units": "4", "prereqs": null}
+{"code": "BGGN 266", "title": "Advanced Laboratory in Biophysical Techniques", "units": "6", "prereqs": null}
+{"code": "BGGN 267", "title": "Computational Models and Theories in Neuroscience", "units": "4", "prereqs": null}
+{"code": "BGGN 270", "title": "Master of Science Fundamentals", "units": "2", "prereqs": null}
+{"code": "BGGN 271", "title": "Advanced Experimental Methods in Biology", "units": "4\u201312", "prereqs": null}
+{"code": "BGGN 272", "title": "Learning Theories", "units": "4", "prereqs": null}
+{"code": "BGGN 280", "title": "Advanced Topics in Modern Biology: Biochemistry", "units": "2", "prereqs": null}
+{"code": "BGGN 281", "title": "Advanced Topics in Modern Biology: Cellular Development", "units": "2", "prereqs": null}
+{"code": "BGGN 282", "title": "Advanced Topics in Modern Biology: Ecology, Behavior, and Evolution", "units": "2", "prereqs": null}
+{"code": "BGGN 283", "title": "Advanced Topics in Modern Biology: Molecular Biology", "units": "2", "prereqs": null}
+{"code": "BGGN 284", "title": "Advanced Topics in Modern Biology: Physiology and Neuroscience", "units": "2", "prereqs": null}
+{"code": "BGGN 285", "title": "Advanced Topics in Modern Biology", "units": "2", "prereqs": null}
+{"code": "BGGN 290", "title": "Advances in Cellular and Molecular Mechanisms", "units": "1", "prereqs": null}
+{"code": "BGGN 292", "title": "Professional Pathways in Biological Sciences", "units": "1", "prereqs": null}
+{"code": "BGGN 293", "title": "Scientific Writing in Biology", "units": "4", "prereqs": null}
+{"code": "BGGN 295", "title": "Scientific Presentation in Biology", "units": "4", "prereqs": null}
+{"code": "BGGN 297", "title": "Research Conference", "units": "1\u20133", "prereqs": null}
+{"code": "BGGN 298", "title": "Laboratory Projects in Biology", "units": "3\u201312", "prereqs": null}
+{"code": "BGGN 299", "title": "Thesis Research in Biology", "units": "1\u201312", "prereqs": null}
+{"code": "BGGN 500", "title": "Introduction to College Biology Education", "units": "4", "prereqs": null}
+{"code": "BGJC 204", "title": "Cellular and Molecular Immunology", "units": "1", "prereqs": null}
+{"code": "BGJC 207", "title": "Journal Club in Neurobiology", "units": "1", "prereqs": null}
+{"code": "BGJC 208", "title": "Journal Club in Plant Molecular Biology", "units": "1", "prereqs": null}
+{"code": "BGJC 213", "title": "Journal Club in Computational Neurobiology", "units": "1", "prereqs": null}
+{"code": "BGJC 215", "title": "Journal Club in Biology Education Research", "units": "1", "prereqs": null}
+{"code": "BGRD 200", "title": "Research Discussion", "units": "1", "prereqs": null}
+{"code": "BGRD 205", "title": "Research Discussion in Plant Membrane Biology", "units": "1", "prereqs": null}
+{"code": "BGRD 207", "title": "Research Discussion in Neuronal Pattern Generation", "units": "1", "prereqs": null}
+{"code": "BGRD 210", "title": "Research Discussion in Virology", "units": "1", "prereqs": null}
+{"code": "BGRD 211", "title": "Research Discussion in Developmental Cellular Neurobiology", "units": "1", "prereqs": null}
+{"code": "BGRD 212", "title": "Research Discussion in Behavior and Development of Simple Nervous Systems", "units": "1", "prereqs": null}
+{"code": "BGRD 213", "title": "Research Discussion in Golgi Structure and Function", "units": "1", "prereqs": null}
+{"code": "BGRD 216", "title": "Research Discussion in Molecular and Cell Biology", "units": "1", "prereqs": null}
+{"code": "BGRD 218", "title": "Research Discussion in Plant Molecular Genetics", "units": "1", "prereqs": null}
+{"code": "BGRD 221", "title": "Research Discussion in Behavioral Ecology", "units": "1", "prereqs": null}
+{"code": "BGRD 222", "title": "Research Discussion in Evolutionary Molecular Ecology", "units": "1", "prereqs": null}
+{"code": "BGRD 230", "title": "Research Discussion in Cell Signaling Pathways", "units": "1", "prereqs": null}
+{"code": "BGRD 231", "title": "Research Discussion in Nuclear Transport and Function", "units": "1", "prereqs": null}
+{"code": "BGRD 234", "title": "Research Discussion in Cell Signaling in Drosophila", "units": "3", "prereqs": null}
+{"code": "BGSE 200", "title": "Seminar in Biology", "units": "1", "prereqs": null}
+{"code": "BGSE 205", "title": "Graduate Research Seminar", "units": "1", "prereqs": null}
