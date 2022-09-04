@@ -130,6 +130,7 @@ class CourseInfoParser:
             self.logger.info('PREREQS: %s', prereqs_str)
             self.metrics.inc_with_prerequisites()
         prereqs_str = self._normalize_string(prereqs_str)
+        self.logger.info('NORMAL : %s', prereqs_str)
         return self.tree_generator.from_string(prereqs_str)
 
     def _isolate_prerequisites(self, description: str) -> str | None:
@@ -162,7 +163,7 @@ class CourseInfoParser:
         if _standard_form_matcher.fullmatch(reqs_str):
             return reqs_str
         reqs_str = self._normalize_conjunctions(reqs_str)
-        self.logger.info('CONJUNC> %s', reqs_str)
+        # self.logger.info('CONJUNC> %s', reqs_str)
         reqs_str = self._normalize_course_codes(reqs_str)
         return reqs_str
 
@@ -190,9 +191,9 @@ class CourseInfoParser:
         omitted and only the subject is present; these are currently ignored.
         """
         reqs_str = self._fill_incomplete_codes(reqs_str)
-        self.logger.info('FILLED > %s', reqs_str)
+        # self.logger.info('FILLED > %s', reqs_str)
         reqs_str = self._expand_code_sequences(reqs_str)
-        self.logger.info('SEQUENC> %s', reqs_str)
+        # self.logger.info('SEQUENC> %s', reqs_str)
         return reqs_str
 
     def _conjunctions_helper(self, s: str, i: int, subs: list[str | None]) -> int:

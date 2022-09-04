@@ -16,13 +16,14 @@ class PerDepartmentExportPipeline:
             file.close()
 
     def process_item(self, item, spider):
-        exporter = self._exporter_for_item(item)
+        adapter = ItemAdapter(item)
+        exporter = self._exporter_for_item(adapter)
+        del adapter['dept']
         exporter.export_item(item)
         return item
 
     def _exporter_for_item(self, item):
-        adapter = ItemAdapter(item)
-        dept = adapter['dept']
+        dept = item['dept']
         if dept not in self.dept_to_exporter:
             file = open(f'data/{dept}.jsonl', 'wb')
             exporter = JsonLinesItemExporter(file)
