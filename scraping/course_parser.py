@@ -119,9 +119,9 @@ class CourseInfoParser:
     def parse_prerequisites(self, description: str) -> ReqsDict | None:
         """
         Extracts prerequisite information from a course's description in the
-        catalog. Returns a list of lists of course code strings, where each list
-        represents a set of alternatives that satisfy that prerequisite
-        requirement, or `None` if there are no prerequisites.
+        catalog. Returns a dictionary representation of the prerequisite tree
+        graph which can be written as JSON, or `None` if there are no
+        prerequisites.
         """
         prereqs_str = self._isolate_prerequisites(description)
         if prereqs_str is None:
