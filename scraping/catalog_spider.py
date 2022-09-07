@@ -48,30 +48,41 @@ class CatalogSpider(scrapy.Spider):
                          num_courses, dept)
         self.metrics.add_courses(num_courses)
         if difference > 0:
-            self.logger.error('Found %d more course names than descriptions in department %s',
-                              difference, dept)
+            self.logger.error(
+                'Found %d more course names than descriptions in department %s',
+                difference,
+                dept
+            )
             self.metrics.add_missing_descriptions(difference)
         elif difference < 0:
-            self.logger.error('Found %d more course descriptions than names in department %s',
-                              -difference, dept)
+            self.logger.error(
+                'Found %d more course descriptions than names in department %s',
+                -difference,
+                dept
+            )
             self.metrics.add_extra_descriptions(-difference)
 
         for i, line in enumerate(name_selectors.getall()):
             course_info = self.parser.parse_course(line)
             if course_info is not None:
                 subject, number, title, units = course_info
-                prerequisites = None
+                prereqs = coreqs = None
                 self.logger.info('%s %s', subject, number)
-                if i < num_descriptions:
-                    prerequisites = self.parser.parse_prerequisites(
-                        description_selectors[i].get())
-                yield {
+                result = {
                     'dept': dept,
                     'code': f'{subject} {number}',
                     'title': title,
-                    'units': units,
-                    'prereqs': prerequisites
+                    'units': units
                 }
+                if i < num_descriptions:
+                    description = description_selectors[i].get()
+                    prereqs, coreqs = self.parser.parse_requirements(
+                        description)
+                    if prereqs is not None:
+                        result['prereqs'] = prereqs
+                    if coreqs is not None:
+                        result['coreqs'] = coreqs
+                yield result
 
     def _department_from_url(self, url):
         start, end = url.rfind('/') + 1, url.rfind('.')

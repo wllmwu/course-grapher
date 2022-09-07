@@ -23,15 +23,21 @@ _linguistics_matcher = re.compile(
 # matches the unit count in a title line
 _units_matcher = re.compile(r'\((?P<units>.+?)\)')
 
-# matches the entire prerequisites section of a course description
+# matches the beginning of the pre/corequisites section of a course description
+_start_matcher = re.compile(
+    r'(?<![Rr]ecommended )(?P<type>Pre|Co)requisites?:')
+# matches the prerequisites section
 _prerequisites_matcher = re.compile(
-    r'.*Prerequisites:[^\.]*?(?P<prereqs>\(?(?:for )?(?:[A-Z]{3,}|SE) [0-9]+.*?)(?:\.|not|credit|restricted|concurrent|corequisite|[A-Z]{2,} [0-9]+[A-Z]* (?:must|should) be taken|\Z)')
+    r'[^\.]*?(?P<prereqs>\(?(?:for )?(?:[A-Z]{3,}|SE) [0-9]+.*?)(?:\.|not|credit|restrict|majors|(?P<coreqs_start>concurrent|corequisite|[A-Z]{2,} [0-9]+[A-Z]* (?:must|should) be taken)|\Z)')
+# matches the corequisites section
+_corequisites_matcher = re.compile(
+    r'[^\.]*?(?P<coreqs>\(?(?:for )?(?:[A-Z]{3,}|SE) [0-9]+.*?)(?:\.|not|credit|restrict|majors|\Z)')
 # matches potential false positives for removal from the string
 _false_positive_matcher = re.compile(
     r'(?:[Gg]rade|[Ss]core) of .*? or (?:better|higher)|[A-D][-\u2013+]? or (?:better|higher)|,? or equivalent|GPA [0-9]|ACT|MBA|\(?(?:for|prior)[^,;]*\)?')
-# matches the last course code in the prerequisites section, accounting for
+# matches the last course code in the pre/corequisites section, accounting for
 # potential abbreviations/shorthand
-_prerequisites_end_matcher = re.compile(
+_last_course_matcher = re.compile(
     r'.*[A-Z]{2,} [0-9]+[A-Z]*(?:(?:[-\u2013/]|, (?:and |or )?| (?:and|or) )(?:[0-9]+[A-Z]*|[A-Z]{1,2}(?![0-9A-z])))*\)?')
 # matches "standard form", consisting only of complete course codes separated
 # by "and" or "or" and potentially with parentheses, to check whether an early
@@ -116,39 +122,77 @@ class CourseInfoParser:
         title = title_line[title_start:title_end].strip()
         return (subject, number, title, units)
 
-    def parse_prerequisites(self, description: str) -> ReqsDict | None:
+    def parse_requirements(
+            self, description: str) -> tuple[ReqsDict | None, ReqsDict | None]:
         """
-        Extracts prerequisite information from a course's description in the
-        catalog. Returns a dictionary representation of the prerequisite tree
-        graph which can be written as JSON, or `None` if there are no
-        prerequisites.
-        """
-        prereqs_str = self._isolate_prerequisites(description)
-        if prereqs_str is None:
-            return None
-        else:
-            self.logger.info('PREREQS: %s', prereqs_str)
-            self.metrics.inc_with_prerequisites()
-        prereqs_str = self._normalize_string(prereqs_str)
-        self.logger.info('NORMAL : %s', prereqs_str)
-        return self.tree_generator.from_string(prereqs_str)
+        Extracts prerequisite and corequisite information from a course's
+        description in the catalog. Returns a tuple whose first element is a
+        dictionary representation of the prerequisite tree graph, or `None` if
+        there are no prerequisites, and whose second element is the same for
+        corequisites.
 
-    def _isolate_prerequisites(self, description: str) -> str | None:
+        These two steps are done together to reduce parsing complexity and
+        optimize performance.
         """
-        Returns the substring of `description` spanning all the prerequisite
-        course codes, with extraneous information removed, or `None` if no such
-        prerequisites are found.
+        prereqs = coreqs = None
+        start = 0
+        while True:
+            start_match = _start_matcher.search(description, start)
+            if start_match is None:
+                break
+            start = start_match.end()
+            coreqs_in_prereqs = False
+            if start_match.group('type') == 'Pre':
+                prereqs_match = _prerequisites_matcher.match(
+                    description, start)
+                if prereqs_match is None:
+                    continue
+                prereqs_str = prereqs_match.group('prereqs')
+                self.logger.info('PREREQS   : %s', prereqs_str)
+                prereqs = self._generate_tree(prereqs_str)
+                if prereqs is not None:
+                    self.metrics.inc_with_prerequisites()
+                if prereqs_match.group('coreqs_start'):
+                    coreqs_in_prereqs = True
+                    start = prereqs_match.start('coreqs_start')
+                else:
+                    start = prereqs_match.end()
+            if start_match.group('type') == 'Co' or coreqs_in_prereqs:
+                coreqs_match = _corequisites_matcher.match(description, start)
+                if coreqs_match is None:
+                    continue
+                coreqs_str = coreqs_match.group('coreqs')
+                self.logger.info('COREQS    : %s', coreqs_str)
+                coreqs = self._generate_tree(coreqs_str)
+                if coreqs is not None:
+                    self.metrics.inc_with_corequisites()
+                start = coreqs_match.end()
+        return (prereqs, coreqs)
+
+    def _generate_tree(self, reqs_str: str) -> ReqsDict | None:
         """
-        prereqs_match = _prerequisites_matcher.search(description)
-        if prereqs_match is None:
+        Normalizes `reqs_str` and generates a course requirements tree graph
+        from it. Returns a dictionary representation of the tree, or `None` if
+        there are no courses present.
+        """
+        reqs_str = self._isolate_courses(reqs_str)
+        if reqs_str is None:
             return None
-        prereqs_str = prereqs_match.group('prereqs')
-        self.logger.info('ORIGINL: %s', prereqs_str)
-        prereqs_str = _false_positive_matcher.sub('', prereqs_str)
-        end_match = _prerequisites_end_matcher.search(prereqs_str)
+        self.logger.info('ISOLATED  : %s', reqs_str)
+        reqs_str = self._normalize_string(reqs_str)
+        self.logger.info('NORMALIZED: %s', reqs_str)
+        return self.tree_generator.from_string(reqs_str)
+
+    def _isolate_courses(self, reqs_str: str) -> str | None:
+        """
+        Returns the substring of `reqs_str` spanning all the course codes, with
+        extraneous information removed, or `None` if no codes are found.
+        """
+        reqs_str = _false_positive_matcher.sub('', reqs_str)
+        end_match = _last_course_matcher.search(reqs_str)
         if end_match is None:
             return None
-        return prereqs_str[:end_match.end()]
+        return reqs_str[:end_match.end()]
 
     def _normalize_string(self, reqs_str: str) -> str:
         """

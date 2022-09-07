@@ -11,6 +11,7 @@ class ScrapingMetrics:
             'missing_descriptions': 0,
             'extra_descriptions': 0,
             'with_prerequisites': 0,
+            'with_corequisites': 0
         }
 
     def set_departments(self, n):
@@ -40,6 +41,9 @@ class ScrapingMetrics:
     def inc_with_prerequisites(self):
         self.metrics['with_prerequisites'] += 1
 
+    def inc_with_corequisites(self):
+        self.metrics['with_corequisites'] += 1
+
     def get_departments(self):
         return self.metrics['departments']
 
@@ -67,6 +71,9 @@ class ScrapingMetrics:
     def get_with_prerequisites(self):
         return self.metrics['with_prerequisites']
 
+    def get_with_corequisites(self):
+        return self.metrics['with_corequisites']
+
     def pretty_print(self):
         print('Scraping statistics:')
         print('Found %d departments, %d courses.' %
@@ -83,3 +90,4 @@ class ScrapingMetrics:
         print('Failed to find a course for %d descriptions' %
               self.get_extra_descriptions())
         print('%d courses had prerequisites' % self.get_with_prerequisites())
+        print('%d courses had corequisites' % self.get_with_corequisites())

@@ -134,10 +134,10 @@ class PrerequisitesTreeGenerator:
                 'Failed to parse expression tree in "%s"', reqs_str)
             return None
         if isinstance(root, str):
-            self.logger.info('FINAL  : %s', root)
+            self.logger.info('FINAL     : %s', root)
             return root
         root.consolidate()
-        self.logger.info('FINAL  : %s', str(root))
+        self.logger.info('FINAL     : %s', str(root))
         return root.to_dict()
 
     def _parse_expr_1(self, reqs_str: str, start: int) -> ExprParseResult:
