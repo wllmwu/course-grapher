@@ -40,3 +40,6 @@ See options for logging by adding `-h` or `--help`.
 - Scrapy documentation: <https://docs.scrapy.org/en/latest/>
 - Python `re` module documentation: <https://docs.python.org/3/library/re.html>
 - Python `argparse` module documentation: <https://docs.python.org/3/library/argparse.html>
+- Python `os` module documentation: <https://docs.python.org/3/library/os.html>
+- JSON Lines format: <https://jsonlines.org>
+- jsonlines documentation: <https://jsonlines.readthedocs.io/en/latest/>
