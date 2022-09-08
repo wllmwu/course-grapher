@@ -1,181 +1,181 @@
-{"code": "GPCO 400", "title": "Policy-Making Processes", "units": "4", "prereqs": null}
-{"code": "GPCO 401", "title": "Microeconomics for Policy and Management", "units": "4", "prereqs": null}
-{"code": "GPCO 403", "title": "International Economics", "units": "4", "prereqs": null}
-{"code": "GPCO 404", "title": "Market Failures and Policy Interventions", "units": "4", "prereqs": null}
-{"code": "GPCO 406", "title": "Public Finance and Taxation", "units": "4", "prereqs": null}
-{"code": "GPCO 407", "title": "Policy Analysis and Decision Theory", "units": "4", "prereqs": null}
-{"code": "GPCO 408", "title": "Policy Analysis and Public Welfare", "units": "4", "prereqs": null}
-{"code": "GPCO 410", "title": "International Politics and Security", "units": "4", "prereqs": null}
-{"code": "GPCO 412", "title": "Globalization, the World System, and the Pacific", "units": "4", "prereqs": null}
-{"code": "GPCO 415", "title": "Accounting and Finance for Policy Makers", "units": "4", "prereqs": null}
-{"code": "GPCO 453", "title": "Quantitative Methods I", "units": "4", "prereqs": null}
-{"code": "GPCO 454", "title": "Quantitative Methods II", "units": "4", "prereqs": null}
-{"code": "GPCO 462", "title": "Public Policy Capstone", "units": "4", "prereqs": null}
-{"code": "GPCO 463", "title": "Strategy and Negotiation", "units": "4", "prereqs": "GPIM 474"}
-{"code": "GPCO 466", "title": "Real World Projects in Energy and the Environment", "units": "4", "prereqs": {"type": "all", "courses": ["GPCO 400", "GPPS 428"]}}
-{"code": "GPCO 467", "title": "Policy Responses to Global Problems", "units": "4", "prereqs": null}
-{"code": "GPCO 468", "title": "Evaluating Technological Innovation", "units": "4", "prereqs": "GPEC 446"}
-{"code": "GPCO 470", "title": "Master of Chinese Economics and Political Affairs Capstone", "units": "4", "prereqs": null}
-{"code": "GPCO 471", "title": "MCEPA Capstone Part II", "units": "4", "prereqs": "GPCO 470"}
-{"code": "GPCO 481", "title": "The Politics of International and National Policy Making", "units": "4", "prereqs": null}
-{"code": "GPCO 482", "title": "Economies of the Pacific Rim", "units": "4", "prereqs": null}
-{"code": "GPCO 483", "title": "Workshop on Policy Issues in the Pacific Rim", "units": "4", "prereqs": {"type": "all", "courses": ["GPCO 481", "GPCO 482"]}}
-{"code": "GPEC 406", "title": "Finance and Development", "units": "4", "prereqs": {"type": "all", "courses": ["GPCO 403", "GPCO 415"]}}
-{"code": "GPEC 409", "title": "Economic Policy in Latin America", "units": "4", "prereqs": {"type": "all", "courses": ["GPCO 401", "GPCO 403"]}}
-{"code": "GPEC 411", "title": "Topics in China\u2019s Development", "units": "4", "prereqs": null}
-{"code": "GPEC 412", "title": "Comparative Development of the East Asian Economies", "units": "4", "prereqs": null}
-{"code": "GPEC 414", "title": "The Economics of Energy Policy", "units": "4", "prereqs": null}
-{"code": "GPEC 415", "title": "The Economics of Trade Policy", "units": "4", "prereqs": null}
-{"code": "GPEC 416", "title": "International Trade Agreements", "units": "4", "prereqs": null}
-{"code": "GPEC 417", "title": "Microfinance", "units": "4", "prereqs": null}
-{"code": "GPEC 418", "title": "Green Technology", "units": "4", "prereqs": null}
-{"code": "GPEC 421", "title": "Financial Institutions", "units": "4", "prereqs": null}
-{"code": "GPEC 422", "title": "Multinational Corporations", "units": "4", "prereqs": null}
-{"code": "GPEC 431", "title": "Fiscal and Monetary Policy", "units": "4", "prereqs": null}
-{"code": "GPEC 432", "title": "Immigration and Immigration Policy", "units": "4", "prereqs": null}
-{"code": "GPEC 433", "title": "Urban Economic Policy", "units": "4", "prereqs": null}
-{"code": "GPEC 435", "title": "Topics in International Trade", "units": "4", "prereqs": null}
-{"code": "GPEC 443", "title": "GIS and Spatial Data Analysis", "units": "4", "prereqs": null}
-{"code": "GPEC 444", "title": "Advanced GIS and Remote Sensing", "units": "4", "prereqs": null}
-{"code": "GPEC 446", "title": "Applied Data Analysis and Statistical Decision Making", "units": "4", "prereqs": {"type": "all", "courses": ["GPCO 453", "GPCO 454"]}}
-{"code": "GPEC 449", "title": "Corruption and Development", "units": "4", "prereqs": null}
-{"code": "GPEC 450", "title": "Macroeconomics of Development", "units": "4", "prereqs": null}
-{"code": "GPEC 451", "title": "Economic Development", "units": "4", "prereqs": {"type": "all", "courses": ["GPCO 401", "GPCO 403"]}}
-{"code": "GPEC 453", "title": "Sustainable Development", "units": "4", "prereqs": null}
-{"code": "GPEC 455", "title": "Integrated Development Practice", "units": "4", "prereqs": null}
-{"code": "GPEC 458", "title": "International Environmental Policy and Politics", "units": "4", "prereqs": null}
-{"code": "GPEC 462", "title": "Southeast Asian Economies", "units": "4", "prereqs": {"type": "all", "courses": ["GPCO 401", "GPCO 403"]}}
-{"code": "GPEC 464", "title": "Designing Field Experiments", "units": "4", "prereqs": {"type": "all", "courses": ["GPCO 453", "GPCO 454", "GPCO 468", "GPEC 446"]}}
-{"code": "GPEC 468", "title": "International Health Economics", "units": "4", "prereqs": null}
-{"code": "GPEC 471", "title": "Japanese Economy", "units": "4", "prereqs": {"type": "all", "courses": ["GPCO 401", "GPCO 403"]}}
-{"code": "GPEC 480", "title": "Comparative Development of the Latin American Economies", "units": "4", "prereqs": null}
-{"code": "GPEC 485", "title": "The Korean Economy", "units": "4", "prereqs": null}
-{"code": "GPEC 486", "title": "Economic and Social Development of China", "units": "4", "prereqs": null}
-{"code": "GPEC 488", "title": "Environmental and Regulatory Economics", "units": "4", "prereqs": {"type": "all", "courses": ["GPCO 401", "GPCO 454"]}}
-{"code": "GPEC 489", "title": "The Economics of Nonmarket Valuation", "units": "4", "prereqs": {"type": "all", "courses": ["GPCO 401", "GPCO 454"]}}
-{"code": "GPIM 410", "title": "Innovation and Entrepreneurship in Japan", "units": "4", "prereqs": null}
-{"code": "GPIM 411", "title": "Business and Management in Japan", "units": "4", "prereqs": null}
-{"code": "GPIM 413", "title": "Corporate Strategy and the Environment", "units": "4", "prereqs": null}
-{"code": "GPIM 420", "title": "Marketing", "units": "4", "prereqs": null}
-{"code": "GPIM 421", "title": "Marketplace Behavior and Survey Methods", "units": "4", "prereqs": null}
-{"code": "GPIM 422", "title": "Investments", "units": "4", "prereqs": null}
-{"code": "GPIM 424", "title": "Corporate Finance", "units": "4", "prereqs": null}
-{"code": "GPIM 426", "title": "Business Strategy in the Pacific Rim", "units": "4", "prereqs": null}
-{"code": "GPIM 427", "title": "The Competing Business Systems of Developing Asia", "units": "4", "prereqs": null}
-{"code": "GPIM 428", "title": "Management and Entrepreneurship in China", "units": "4", "prereqs": null}
-{"code": "GPIM 429", "title": "Understanding China\u2019s Dynamic Industries", "units": "4", "prereqs": null}
-{"code": "GPIM 430", "title": "Corporate Nonmarket Strategies", "units": "4", "prereqs": null}
-{"code": "GPIM 431", "title": "Competition Policy as Industrial Policy", "units": "4", "prereqs": null}
-{"code": "GPIM 432", "title": "Technology, Trade, and Globalization", "units": "4", "prereqs": null}
-{"code": "GPIM 436", "title": "Doing Business in Latin America", "units": "4", "prereqs": null}
-{"code": "GPIM 438", "title": "Operations and Technology Management", "units": "4", "prereqs": "GPCO 453"}
-{"code": "GPIM 440", "title": "Managerial Accounting and Control", "units": "4", "prereqs": "GPCO 415"}
-{"code": "GPIM 444", "title": "Product Development", "units": "4", "prereqs": null}
-{"code": "GPIM 447", "title": "Organizational Economics", "units": "4", "prereqs": null}
-{"code": "GPIM 452", "title": "Big Data Analytics", "units": "4", "prereqs": null}
-{"code": "GPIM 457", "title": "Cost-Benefit Analysis", "units": "4", "prereqs": null}
-{"code": "GPIM 461", "title": "Doing Business in China", "units": "4", "prereqs": null}
-{"code": "GPIM 469", "title": "Automation: The Future of Work", "units": "4", "prereqs": null}
-{"code": "GPIM 470", "title": "International Business", "units": "4", "prereqs": null}
-{"code": "GPIM 471", "title": "Start-Ups: From Founding to Launch", "units": "4", "prereqs": null}
-{"code": "GPIM 472", "title": "Innovation in the New Economy", "units": "4", "prereqs": "GPCO 454"}
-{"code": "GPIM 474", "title": "Applied Financial Accounting", "units": "4", "prereqs": null}
-{"code": "GPPA 400", "title": "American Politics and Policy", "units": "4", "prereqs": null}
-{"code": "GPPA 401", "title": "California Politics and Public Policy", "units": "4", "prereqs": null}
-{"code": "GPPA 402", "title": "Race and Identity in America", "units": "4", "prereqs": null}
-{"code": "GPPA 404", "title": "Governance, Public Administration, and Development", "units": "4", "prereqs": null}
-{"code": "GPPA 405", "title": "Managing the Distributive Politics of Public Policy", "units": "4", "prereqs": null}
-{"code": "GPPA 406", "title": "Global Corporate Accountability: Issues of Governance, Responsibility, and NGOs", "units": "4", "prereqs": null}
-{"code": "GPPA 407", "title": "Policy Implementation Process", "units": "4", "prereqs": null}
-{"code": "GPPA 408", "title": "Politics, Policy, and Markets in Modern Financial Crises", "units": "4", "prereqs": null}
-{"code": "GPPA 410", "title": "Making Policy with Data", "units": "4", "prereqs": "GPCO 454"}
-{"code": "GPPA 420", "title": "Innovation in Healthcare Operations", "units": "4", "prereqs": null}
-{"code": "GPPA 430", "title": "Education Policy Around the World", "units": "4", "prereqs": {"type": "all", "courses": ["GPCO 453", "GPCO 454"]}}
-{"code": "GPPA 435", "title": "Comparative Social Welfare Policy", "units": "4", "prereqs": "GPCO 453"}
-{"code": "GPPA 450", "title": "Justice, Policy, and Development", "units": "4", "prereqs": null}
-{"code": "GPPA 451", "title": "Violence in Latin America", "units": "4", "prereqs": null}
-{"code": "GPPA 460", "title": "Modeling Environmental Systems", "units": "4", "prereqs": {"type": "all", "courses": ["GPCO 407", "GPEC 446"]}}
-{"code": "GPPA 463", "title": "Fundamentals of Energy Systems and Innovation", "units": "4", "prereqs": null}
-{"code": "GPPA 465", "title": "Environmental Law and Policy", "units": "4", "prereqs": null}
-{"code": "GPPA 467", "title": "Chinese Environmental and Energy Policy", "units": "4", "prereqs": null}
-{"code": "GPPA 470", "title": "Energy and Environmental Policy in Asia", "units": "4", "prereqs": null}
-{"code": "GPPA 472", "title": "Latin American Environmental and Energy Policy", "units": "4", "prereqs": null}
-{"code": "GPPA 477", "title": "Cyber Security", "units": "4", "prereqs": null}
-{"code": "GPPA 483", "title": "Food Security", "units": "4", "prereqs": null}
-{"code": "GPPS 400", "title": "International Relations of Asia-Pacific", "units": "4", "prereqs": null}
-{"code": "GPPS 401", "title": "The New \u201cNew\u201d Civil Wars", "units": "4", "prereqs": null}
-{"code": "GPPS 402", "title": "International Political Economy: Money and Finance", "units": "4", "prereqs": null}
-{"code": "GPPS 403", "title": "Chinese Security, Technology, and Innovation", "units": "4", "prereqs": null}
-{"code": "GPPS 404", "title": "Chinese Politics", "units": "4", "prereqs": null}
-{"code": "GPPS 405", "title": "US-China Relations", "units": "4", "prereqs": null}
-{"code": "GPPS 406", "title": "China in the Global Economic Order", "units": "4", "prereqs": null}
-{"code": "GPPS 407", "title": "The International Relations and National Security of China", "units": "4", "prereqs": null}
-{"code": "GPPS 408", "title": "Korean Security", "units": "4", "prereqs": null}
-{"code": "GPPS 410", "title": "Corporate Governance", "units": "4", "prereqs": null}
-{"code": "GPPS 411", "title": "Interest Groups and the Policy-making Process", "units": "4", "prereqs": null}
-{"code": "GPPS 412", "title": "Policy-making in the American States", "units": "4", "prereqs": null}
-{"code": "GPPS 413", "title": "Comparative Party Politics", "units": "4", "prereqs": null}
-{"code": "GPPS 416", "title": "Postwar Politics in Japan", "units": "4", "prereqs": null}
-{"code": "GPPS 417", "title": "International Political Economy: Trade and Investments", "units": "4", "prereqs": null}
-{"code": "GPPS 418", "title": "The Political Economy of State Capacity", "units": "4", "prereqs": null}
-{"code": "GPPS 419", "title": "Local Political Economy", "units": "4", "prereqs": null}
-{"code": "GPPS 420", "title": "Workers and Labor in Global Markets", "units": "4", "prereqs": null}
-{"code": "GPPS 421", "title": "The Politics of Economic Inequality", "units": "4", "prereqs": null}
-{"code": "GPPS 423", "title": "Corporate Social Responsibility", "units": "4", "prereqs": null}
-{"code": "GPPS 427", "title": "International Law and Regulation", "units": "4", "prereqs": null}
-{"code": "GPPS 428", "title": "The Politics of Energy and Environmental Regulation", "units": "4", "prereqs": null}
-{"code": "GPPS 429", "title": "Geopolitics, Insurgency, and Weak States", "units": "4", "prereqs": null}
-{"code": "GPPS 430", "title": "Human Rights, Public Policy, and International Relations", "units": "4", "prereqs": null}
-{"code": "GPPS 433", "title": "Debating US Security Policy", "units": "4", "prereqs": null}
-{"code": "GPPS 434", "title": "Humanitarian Interventions", "units": "4", "prereqs": null}
-{"code": "GPPS 435", "title": "State-Building and Modeling State Capacity", "units": "4", "prereqs": {"type": "all", "courses": ["GPCO 453", "GPCO 454"]}}
-{"code": "GPPS 436", "title": "Counterinsurgency and Counterterrorism", "units": "4", "prereqs": null}
-{"code": "GPPS 438", "title": "Central Issues in International Peace and Security", "units": "4", "prereqs": null}
-{"code": "GPPS 441", "title": "Government and Regulation", "units": "4", "prereqs": null}
-{"code": "GPPS 442", "title": "Foundations of Strategic Studies", "units": "4", "prereqs": null}
-{"code": "GPPS 443", "title": "U.S. National Security and Decision Making", "units": "4", "prereqs": null}
-{"code": "GPPS 444", "title": "A History of Warfare", "units": "4", "prereqs": null}
-{"code": "GPPS 445", "title": "Cuba: Revolution and Reform", "units": "4", "prereqs": null}
-{"code": "GPPS 446", "title": "Democratization in Latin America", "units": "4", "prereqs": null}
-{"code": "GPPS 448", "title": "Civil Society and Development", "units": "4", "prereqs": null}
-{"code": "GPPS 449", "title": "The Making of US Foreign Policy", "units": "4", "prereqs": null}
-{"code": "GPPS 450", "title": "The Political Economy of Foreign Aid", "units": "4", "prereqs": null}
-{"code": "GPPS 451", "title": "Public Opinion and Foreign Policy", "units": "4", "prereqs": null}
-{"code": "GPPS 453", "title": "Contemporary US-Mexico Relations", "units": "4", "prereqs": null}
-{"code": "GPPS 454", "title": "Current Issues in US-Latin American Relations", "units": "4", "prereqs": null}
-{"code": "GPPS 455", "title": "Financing the Chinese Miracle", "units": "4", "prereqs": null}
-{"code": "GPPS 456", "title": "Evaluating Social Programs", "units": "4", "prereqs": "GPCO 454"}
-{"code": "GPPS 460", "title": "The Politics of US-Japan Economic Relations", "units": "4", "prereqs": null}
-{"code": "GPPS 463", "title": "Politics of Southeast Asia", "units": "4", "prereqs": null}
-{"code": "GPPS 465", "title": "Management of Nonprofit Organizations", "units": "4", "prereqs": null}
-{"code": "GPPS 466", "title": "Managing Mission-Driven Organizations", "units": "4", "prereqs": null}
-{"code": "GPPS 469", "title": "Comparative Grand Strategy and Defense Policy", "units": "4", "prereqs": null}
-{"code": "GPPS 473", "title": "Political Economy of Energy in Asia", "units": "4", "prereqs": null}
-{"code": "GPPS 476", "title": "Chinese Sources and Methods", "units": "4", "prereqs": null}
-{"code": "GPPS 478", "title": "Japanese Foreign Policy", "units": "4", "prereqs": null}
-{"code": "GPPS 479", "title": "Politics and Institutions in Latin America", "units": "4", "prereqs": null}
-{"code": "GPPS 481", "title": "The Political Economy of Authoritarian Regimes", "units": "4", "prereqs": null}
-{"code": "GPPS 484", "title": "Korean Politics", "units": "4", "prereqs": null}
-{"code": "GPGN 490", "title": "Special Topics in Pacific International Affairs", "units": "4", "prereqs": null}
-{"code": "GPGN 491", "title": "Cross-Disciplinary Special Topics", "units": "4", "prereqs": null}
-{"code": "GPGN 493", "title": "Excel Skills for Professional Proficiency", "units": "2", "prereqs": null}
-{"code": "GPGN 494", "title": "Special Topics in Remote Sensing and Data Analytics", "units": "4", "prereqs": "GPEC 444"}
-{"code": "GPGN 495", "title": "Advanced Projects in Energy Analytics", "units": "4", "prereqs": null}
-{"code": "GPGN 496", "title": "Washington Quarter Internship", "units": "4", "prereqs": null}
-{"code": "GPGN 497", "title": "Internship", "units": "2", "prereqs": null}
-{"code": "GPGN 498", "title": "Directed Group Study", "units": "2", "prereqs": null}
-{"code": "GPGN 499", "title": "Independent Research", "units": "2\u201312", "prereqs": null}
-{"code": "GPLA 400A-B-C", "title": ". Low Intermediate Chinese Language for Professional Proficiency", "units": "4-4-4", "prereqs": null}
-{"code": "GPLA 401A-B-C", "title": ". Intermediate Chinese Language for Professional Proficiency", "units": "4-4-4", "prereqs": null}
-{"code": "GPLA 410A-B-C", "title": ". Low Intermediate Japanese Language for Professional Proficiency", "units": "4-4-4", "prereqs": null}
-{"code": "GPLA 411A-B-C", "title": ". Intermediate Japanese Language for Professional Proficiency", "units": "4-4-4", "prereqs": null}
-{"code": "GPLA 412A-B-C", "title": ". Advanced Intermediate Japanese Language for Professional Proficiency", "units": "4-4-4", "prereqs": null}
-{"code": "GPLA 441A-B-C", "title": ". Intermediate Spanish Language for Professional Proficiency", "units": "4-4-4", "prereqs": null}
-{"code": "GPLA 460A-B-C", "title": ". Basic Bahasa Indonesia for Professional Proficiency", "units": "4-4-4", "prereqs": null}
-{"code": "GPLA 461A-B-C", "title": ". Low Intermediate Bahasa Indonesian for Professional Proficiency", "units": "4-4-4", "prereqs": null}
-{"code": "GPEC 243", "title": "GIS and Spatial Data Analysis", "units": "4", "prereqs": null}
-{"code": "GPEC 244", "title": "Advanced GIS and Remote Sensing", "units": "4", "prereqs": null}
-{"code": "GPEC 246", "title": "Applied Data Analysis and Statistical Decision Making", "units": "4", "prereqs": null}
-{"code": "GPEC 286", "title": "Economic and Social Development of China", "units": "4", "prereqs": null}
-{"code": "GPPS 204", "title": "Chinese Politics", "units": "4", "prereqs": null}
-{"code": "GPPS 256", "title": "Program Design and Evaluation", "units": "4", "prereqs": null}
+{"code": "GPCO 400", "title": "Policy-Making Processes", "units": "4", "anchor": "gpco400"}
+{"code": "GPCO 401", "title": "Microeconomics for Policy and Management", "units": "4", "anchor": "gpco401"}
+{"code": "GPCO 403", "title": "International Economics", "units": "4", "anchor": "gpco403"}
+{"code": "GPCO 404", "title": "Market Failures and Policy Interventions", "units": "4", "anchor": "gpco404"}
+{"code": "GPCO 406", "title": "Public Finance and Taxation", "units": "4", "anchor": "gpco406"}
+{"code": "GPCO 407", "title": "Policy Analysis and Decision Theory", "units": "4", "anchor": "gpco407"}
+{"code": "GPCO 408", "title": "Policy Analysis and Public Welfare", "units": "4", "anchor": "gpco408"}
+{"code": "GPCO 410", "title": "International Politics and Security", "units": "4", "anchor": "gpco410"}
+{"code": "GPCO 412", "title": "Globalization, the World System, and the Pacific", "units": "4", "anchor": "gpco412"}
+{"code": "GPCO 415", "title": "Accounting and Finance for Policy Makers", "units": "4", "anchor": "gpco415"}
+{"code": "GPCO 453", "title": "Quantitative Methods I", "units": "4", "anchor": "gpco453"}
+{"code": "GPCO 454", "title": "Quantitative Methods II", "units": "4", "anchor": "gpco454"}
+{"code": "GPCO 462", "title": "Public Policy Capstone", "units": "4", "anchor": "gpco462"}
+{"code": "GPCO 463", "title": "Strategy and Negotiation", "units": "4", "anchor": "gpco463", "prereqs": "GPIM 474"}
+{"code": "GPCO 466", "title": "Real World Projects in Energy and the Environment", "units": "4", "anchor": "gpco466", "prereqs": {"type": "all", "courses": ["GPCO 400", "GPPS 428"]}}
+{"code": "GPCO 467", "title": "Policy Responses to Global Problems", "units": "4", "anchor": "gpco467"}
+{"code": "GPCO 468", "title": "Evaluating Technological Innovation", "units": "4", "anchor": "gpco468", "prereqs": "GPEC 446"}
+{"code": "GPCO 470", "title": "Master of Chinese Economics and Political Affairs Capstone", "units": "4", "anchor": "gpco470"}
+{"code": "GPCO 471", "title": "MCEPA Capstone Part II", "units": "4", "anchor": "gpco471", "prereqs": "GPCO 470"}
+{"code": "GPCO 481", "title": "The Politics of International and National Policy Making", "units": "4", "anchor": "gpco481"}
+{"code": "GPCO 482", "title": "Economies of the Pacific Rim", "units": "4", "anchor": "gpco482"}
+{"code": "GPCO 483", "title": "Workshop on Policy Issues in the Pacific Rim", "units": "4", "anchor": "gpco483", "prereqs": {"type": "all", "courses": ["GPCO 481", "GPCO 482"]}}
+{"code": "GPEC 406", "title": "Finance and Development", "units": "4", "anchor": "gpec406", "prereqs": {"type": "all", "courses": ["GPCO 403", "GPCO 415"]}}
+{"code": "GPEC 409", "title": "Economic Policy in Latin America", "units": "4", "anchor": "gpec409", "prereqs": {"type": "all", "courses": ["GPCO 401", "GPCO 403"]}}
+{"code": "GPEC 411", "title": "Topics in China\u2019s Development", "units": "4", "anchor": "gpec411"}
+{"code": "GPEC 412", "title": "Comparative Development of the East Asian Economies", "units": "4", "anchor": "gpec412"}
+{"code": "GPEC 414", "title": "The Economics of Energy Policy", "units": "4", "anchor": "gpec414"}
+{"code": "GPEC 415", "title": "The Economics of Trade Policy", "units": "4", "anchor": "gpec415"}
+{"code": "GPEC 416", "title": "International Trade Agreements", "units": "4", "anchor": "gpec416"}
+{"code": "GPEC 417", "title": "Microfinance", "units": "4", "anchor": "gpec417"}
+{"code": "GPEC 418", "title": "Green Technology", "units": "4", "anchor": "gpec418"}
+{"code": "GPEC 421", "title": "Financial Institutions", "units": "4", "anchor": "gpec421"}
+{"code": "GPEC 422", "title": "Multinational Corporations", "units": "4", "anchor": "gpec422"}
+{"code": "GPEC 431", "title": "Fiscal and Monetary Policy", "units": "4", "anchor": "gpec431"}
+{"code": "GPEC 432", "title": "Immigration and Immigration Policy", "units": "4", "anchor": "gpec432"}
+{"code": "GPEC 433", "title": "Urban Economic Policy", "units": "4", "anchor": "gpec435"}
+{"code": "GPEC 435", "title": "Topics in International Trade", "units": "4", "anchor": "gpec435"}
+{"code": "GPEC 443", "title": "GIS and Spatial Data Analysis", "units": "4", "anchor": "gpec443"}
+{"code": "GPEC 444", "title": "Advanced GIS and Remote Sensing", "units": "4", "anchor": "gpec444"}
+{"code": "GPEC 446", "title": "Applied Data Analysis and Statistical Decision Making", "units": "4", "anchor": "gpec446", "prereqs": {"type": "all", "courses": ["GPCO 453", "GPCO 454"]}}
+{"code": "GPEC 449", "title": "Corruption and Development", "units": "4", "anchor": "gpec449"}
+{"code": "GPEC 450", "title": "Macroeconomics of Development", "units": "4", "anchor": "gpec450"}
+{"code": "GPEC 451", "title": "Economic Development", "units": "4", "anchor": "gpec451", "prereqs": {"type": "all", "courses": ["GPCO 401", "GPCO 403"]}}
+{"code": "GPEC 453", "title": "Sustainable Development", "units": "4", "anchor": "gpec453"}
+{"code": "GPEC 455", "title": "Integrated Development Practice", "units": "4", "anchor": "gpec455"}
+{"code": "GPEC 458", "title": "International Environmental Policy and Politics", "units": "4", "anchor": "gpec458"}
+{"code": "GPEC 462", "title": "Southeast Asian Economies", "units": "4", "anchor": "gpec462", "prereqs": {"type": "all", "courses": ["GPCO 401", "GPCO 403"]}}
+{"code": "GPEC 464", "title": "Designing Field Experiments", "units": "4", "anchor": "gpec464", "prereqs": {"type": "all", "courses": ["GPCO 453", "GPCO 454", "GPCO 468", "GPEC 446"]}}
+{"code": "GPEC 468", "title": "International Health Economics", "units": "4", "anchor": "gpec468"}
+{"code": "GPEC 471", "title": "Japanese Economy", "units": "4", "anchor": "gpec471", "prereqs": {"type": "all", "courses": ["GPCO 401", "GPCO 403"]}}
+{"code": "GPEC 480", "title": "Comparative Development of the Latin American Economies", "units": "4", "anchor": "gpec480"}
+{"code": "GPEC 485", "title": "The Korean Economy", "units": "4", "anchor": "gpec485"}
+{"code": "GPEC 486", "title": "Economic and Social Development of China", "units": "4", "anchor": "gpec486"}
+{"code": "GPEC 488", "title": "Environmental and Regulatory Economics", "units": "4", "anchor": "gpec488", "prereqs": {"type": "all", "courses": ["GPCO 401", "GPCO 454"]}}
+{"code": "GPEC 489", "title": "The Economics of Nonmarket Valuation", "units": "4", "anchor": "gpec489", "prereqs": {"type": "all", "courses": ["GPCO 401", "GPCO 454"]}}
+{"code": "GPIM 410", "title": "Innovation and Entrepreneurship in Japan", "units": "4", "anchor": "gpim410"}
+{"code": "GPIM 411", "title": "Business and Management in Japan", "units": "4", "anchor": "gpim411"}
+{"code": "GPIM 413", "title": "Corporate Strategy and the Environment", "units": "4", "anchor": "gpim413"}
+{"code": "GPIM 420", "title": "Marketing", "units": "4", "anchor": "gpim420"}
+{"code": "GPIM 421", "title": "Marketplace Behavior and Survey Methods", "units": "4", "anchor": "gpim422"}
+{"code": "GPIM 422", "title": "Investments", "units": "4", "anchor": "gpim422"}
+{"code": "GPIM 424", "title": "Corporate Finance", "units": "4", "anchor": "gpim424"}
+{"code": "GPIM 426", "title": "Business Strategy in the Pacific Rim", "units": "4", "anchor": "gpim426"}
+{"code": "GPIM 427", "title": "The Competing Business Systems of Developing Asia", "units": "4", "anchor": "gpim427"}
+{"code": "GPIM 428", "title": "Management and Entrepreneurship in China", "units": "4", "anchor": "gpim428"}
+{"code": "GPIM 429", "title": "Understanding China\u2019s Dynamic Industries", "units": "4", "anchor": "gpim429"}
+{"code": "GPIM 430", "title": "Corporate Nonmarket Strategies", "units": "4", "anchor": "gpim436"}
+{"code": "GPIM 431", "title": "Competition Policy as Industrial Policy", "units": "4", "anchor": "gpim436"}
+{"code": "GPIM 432", "title": "Technology, Trade, and Globalization", "units": "4", "anchor": "gpim436"}
+{"code": "GPIM 436", "title": "Doing Business in Latin America", "units": "4", "anchor": "gpim436"}
+{"code": "GPIM 438", "title": "Operations and Technology Management", "units": "4", "anchor": "gpim438", "prereqs": "GPCO 453"}
+{"code": "GPIM 440", "title": "Managerial Accounting and Control", "units": "4", "anchor": "gpim440", "prereqs": "GPCO 415"}
+{"code": "GPIM 444", "title": "Product Development", "units": "4", "anchor": "gpim444"}
+{"code": "GPIM 447", "title": "Organizational Economics", "units": "4", "anchor": "gpim447"}
+{"code": "GPIM 452", "title": "Big Data Analytics", "units": "4", "anchor": "gpim452"}
+{"code": "GPIM 457", "title": "Cost-Benefit Analysis", "units": "4", "anchor": "gpim457"}
+{"code": "GPIM 461", "title": "Doing Business in China", "units": "4", "anchor": "gpim461"}
+{"code": "GPIM 469", "title": "Automation: The Future of Work", "units": "4", "anchor": "gpim470"}
+{"code": "GPIM 470", "title": "International Business", "units": "4", "anchor": "gpim470"}
+{"code": "GPIM 471", "title": "Start-Ups: From Founding to Launch", "units": "4", "anchor": "gpim470"}
+{"code": "GPIM 472", "title": "Innovation in the New Economy", "units": "4", "anchor": "gpim470", "prereqs": "GPCO 454"}
+{"code": "GPIM 474", "title": "Applied Financial Accounting", "units": "4", "anchor": "gpim474"}
+{"code": "GPPA 400", "title": "American Politics and Policy", "units": "4", "anchor": "gppa400"}
+{"code": "GPPA 401", "title": "California Politics and Public Policy", "units": "4", "anchor": "gppa401"}
+{"code": "GPPA 402", "title": "Race and Identity in America", "units": "4", "anchor": "gppa402"}
+{"code": "GPPA 404", "title": "Governance, Public Administration, and Development", "units": "4", "anchor": "gppa404"}
+{"code": "GPPA 405", "title": "Managing the Distributive Politics of Public Policy", "units": "4", "anchor": "gppa405"}
+{"code": "GPPA 406", "title": "Global Corporate Accountability: Issues of Governance, Responsibility, and NGOs", "units": "4", "anchor": "gppa405"}
+{"code": "GPPA 407", "title": "Policy Implementation Process", "units": "4", "anchor": "gppa407"}
+{"code": "GPPA 408", "title": "Politics, Policy, and Markets in Modern Financial Crises", "units": "4", "anchor": "gppa420"}
+{"code": "GPPA 410", "title": "Making Policy with Data", "units": "4", "anchor": "gppa420", "prereqs": "GPCO 454"}
+{"code": "GPPA 420", "title": "Innovation in Healthcare Operations", "units": "4", "anchor": "gppa420"}
+{"code": "GPPA 430", "title": "Education Policy Around the World", "units": "4", "anchor": "gppa450", "prereqs": {"type": "all", "courses": ["GPCO 453", "GPCO 454"]}}
+{"code": "GPPA 435", "title": "Comparative Social Welfare Policy", "units": "4", "anchor": "gppa450", "prereqs": "GPCO 453"}
+{"code": "GPPA 450", "title": "Justice, Policy, and Development", "units": "4", "anchor": "gppa450"}
+{"code": "GPPA 451", "title": "Violence in Latin America", "units": "4", "anchor": "gppa467"}
+{"code": "GPPA 460", "title": "Modeling Environmental Systems", "units": "4", "anchor": "gppa467", "prereqs": {"type": "all", "courses": ["GPCO 407", "GPEC 446"]}}
+{"code": "GPPA 463", "title": "Fundamentals of Energy Systems and Innovation", "units": "4", "anchor": "gppa467"}
+{"code": "GPPA 465", "title": "Environmental Law and Policy", "units": "4", "anchor": "gppa467"}
+{"code": "GPPA 467", "title": "Chinese Environmental and Energy Policy", "units": "4", "anchor": "gppa467"}
+{"code": "GPPA 470", "title": "Energy and Environmental Policy in Asia", "units": "4", "anchor": "gppa470"}
+{"code": "GPPA 472", "title": "Latin American Environmental and Energy Policy", "units": "4", "anchor": "gppa472"}
+{"code": "GPPA 477", "title": "Cyber Security", "units": "4", "anchor": "gppa477"}
+{"code": "GPPA 483", "title": "Food Security", "units": "4", "anchor": "gppa483"}
+{"code": "GPPS 400", "title": "International Relations of Asia-Pacific", "units": "4", "anchor": "gpps400"}
+{"code": "GPPS 401", "title": "The New \u201cNew\u201d Civil Wars", "units": "4", "anchor": "gpps401"}
+{"code": "GPPS 402", "title": "International Political Economy: Money and Finance", "units": "4", "anchor": "gpps402"}
+{"code": "GPPS 403", "title": "Chinese Security, Technology, and Innovation", "units": "4", "anchor": "gpps403"}
+{"code": "GPPS 404", "title": "Chinese Politics", "units": "4", "anchor": "gpps404"}
+{"code": "GPPS 405", "title": "US-China Relations", "units": "4", "anchor": "gpps405"}
+{"code": "GPPS 406", "title": "China in the Global Economic Order", "units": "4", "anchor": "gpps406"}
+{"code": "GPPS 407", "title": "The International Relations and National Security of China", "units": "4", "anchor": "gpps407"}
+{"code": "GPPS 408", "title": "Korean Security", "units": "4", "anchor": "gpps408"}
+{"code": "GPPS 410", "title": "Corporate Governance", "units": "4", "anchor": "gpps410"}
+{"code": "GPPS 411", "title": "Interest Groups and the Policy-making Process", "units": "4", "anchor": "gpps411"}
+{"code": "GPPS 412", "title": "Policy-making in the American States", "units": "4", "anchor": "gpps412"}
+{"code": "GPPS 413", "title": "Comparative Party Politics", "units": "4", "anchor": "gpps413"}
+{"code": "GPPS 416", "title": "Postwar Politics in Japan", "units": "4", "anchor": "gpps416"}
+{"code": "GPPS 417", "title": "International Political Economy: Trade and Investments", "units": "4", "anchor": "gpps417"}
+{"code": "GPPS 418", "title": "The Political Economy of State Capacity", "units": "4", "anchor": "gpps418"}
+{"code": "GPPS 419", "title": "Local Political Economy", "units": "4", "anchor": "gpps419"}
+{"code": "GPPS 420", "title": "Workers and Labor in Global Markets", "units": "4", "anchor": "gpps420"}
+{"code": "GPPS 421", "title": "The Politics of Economic Inequality", "units": "4", "anchor": "gpps421"}
+{"code": "GPPS 423", "title": "Corporate Social Responsibility", "units": "4", "anchor": "gpps423"}
+{"code": "GPPS 427", "title": "International Law and Regulation", "units": "4", "anchor": "gpps427"}
+{"code": "GPPS 428", "title": "The Politics of Energy and Environmental Regulation", "units": "4", "anchor": "gpps428"}
+{"code": "GPPS 429", "title": "Geopolitics, Insurgency, and Weak States", "units": "4", "anchor": "gpps429"}
+{"code": "GPPS 430", "title": "Human Rights, Public Policy, and International Relations", "units": "4", "anchor": "gpps430"}
+{"code": "GPPS 433", "title": "Debating US Security Policy", "units": "4", "anchor": "gpps433"}
+{"code": "GPPS 434", "title": "Humanitarian Interventions", "units": "4", "anchor": "gpps434"}
+{"code": "GPPS 435", "title": "State-Building and Modeling State Capacity", "units": "4", "anchor": "gpps441", "prereqs": {"type": "all", "courses": ["GPCO 453", "GPCO 454"]}}
+{"code": "GPPS 436", "title": "Counterinsurgency and Counterterrorism", "units": "4", "anchor": "gpps441"}
+{"code": "GPPS 438", "title": "Central Issues in International Peace and Security", "units": "4", "anchor": "gpps441"}
+{"code": "GPPS 441", "title": "Government and Regulation", "units": "4", "anchor": "gpps441"}
+{"code": "GPPS 442", "title": "Foundations of Strategic Studies", "units": "4", "anchor": "gpps442"}
+{"code": "GPPS 443", "title": "U.S. National Security and Decision Making", "units": "4", "anchor": "gpps445"}
+{"code": "GPPS 444", "title": "A History of Warfare", "units": "4", "anchor": "gpps444"}
+{"code": "GPPS 445", "title": "Cuba: Revolution and Reform", "units": "4", "anchor": "gpps445"}
+{"code": "GPPS 446", "title": "Democratization in Latin America", "units": "4", "anchor": "gpps446"}
+{"code": "GPPS 448", "title": "Civil Society and Development", "units": "4", "anchor": "gpps448"}
+{"code": "GPPS 449", "title": "The Making of US Foreign Policy", "units": "4", "anchor": "gpps449"}
+{"code": "GPPS 450", "title": "The Political Economy of Foreign Aid", "units": "4", "anchor": "gpps450"}
+{"code": "GPPS 451", "title": "Public Opinion and Foreign Policy", "units": "4", "anchor": "gpps451"}
+{"code": "GPPS 453", "title": "Contemporary US-Mexico Relations", "units": "4", "anchor": "gpps454"}
+{"code": "GPPS 454", "title": "Current Issues in US-Latin American Relations", "units": "4", "anchor": "gpps454"}
+{"code": "GPPS 455", "title": "Financing the Chinese Miracle", "units": "4", "anchor": "gpps455"}
+{"code": "GPPS 456", "title": "Evaluating Social Programs", "units": "4", "anchor": "gpps456", "prereqs": "GPCO 454"}
+{"code": "GPPS 460", "title": "The Politics of US-Japan Economic Relations", "units": "4", "anchor": "gpps460"}
+{"code": "GPPS 463", "title": "Politics of Southeast Asia", "units": "4", "anchor": "gpps463"}
+{"code": "GPPS 465", "title": "Management of Nonprofit Organizations", "units": "4", "anchor": "gpps465"}
+{"code": "GPPS 466", "title": "Managing Mission-Driven Organizations", "units": "4", "anchor": "gpps469"}
+{"code": "GPPS 469", "title": "Comparative Grand Strategy and Defense Policy", "units": "4", "anchor": "gpps469"}
+{"code": "GPPS 473", "title": "Political Economy of Energy in Asia", "units": "4", "anchor": "gpps473"}
+{"code": "GPPS 476", "title": "Chinese Sources and Methods", "units": "4", "anchor": "gpps476"}
+{"code": "GPPS 478", "title": "Japanese Foreign Policy", "units": "4", "anchor": "gpps478"}
+{"code": "GPPS 479", "title": "Politics and Institutions in Latin America", "units": "4", "anchor": "gpps479"}
+{"code": "GPPS 481", "title": "The Political Economy of Authoritarian Regimes", "units": "4", "anchor": "gpps481"}
+{"code": "GPPS 484", "title": "Korean Politics", "units": "4", "anchor": "gpps484"}
+{"code": "GPGN 490", "title": "Special Topics in Pacific International Affairs", "units": "4", "anchor": "gpgn490"}
+{"code": "GPGN 491", "title": "Cross-Disciplinary Special Topics", "units": "4", "anchor": "gpgn491"}
+{"code": "GPGN 493", "title": "Excel Skills for Professional Proficiency", "units": "2", "anchor": "gpgn493"}
+{"code": "GPGN 494", "title": "Special Topics in Remote Sensing and Data Analytics", "units": "4", "anchor": "gpgn494", "prereqs": "GPEC 444"}
+{"code": "GPGN 495", "title": "Advanced Projects in Energy Analytics", "units": "4", "anchor": "gpgn495"}
+{"code": "GPGN 496", "title": "Washington Quarter Internship", "units": "4", "anchor": "gpgn496"}
+{"code": "GPGN 497", "title": "Internship", "units": "2", "anchor": "gpgn497"}
+{"code": "GPGN 498", "title": "Directed Group Study", "units": "2", "anchor": "gpgn498"}
+{"code": "GPGN 499", "title": "Independent Research", "units": "2\u201312", "anchor": "gpgn499"}
+{"code": "GPLA 400A-B-C", "title": ". Low Intermediate Chinese Language for Professional Proficiency", "units": "4-4-4", "anchor": "gpla400c"}
+{"code": "GPLA 401A-B-C", "title": ". Intermediate Chinese Language for Professional Proficiency", "units": "4-4-4", "anchor": "gpla401c"}
+{"code": "GPLA 410A-B-C", "title": ". Low Intermediate Japanese Language for Professional Proficiency", "units": "4-4-4", "anchor": "gpla410c"}
+{"code": "GPLA 411A-B-C", "title": ". Intermediate Japanese Language for Professional Proficiency", "units": "4-4-4", "anchor": "gpla411c"}
+{"code": "GPLA 412A-B-C", "title": ". Advanced Intermediate Japanese Language for Professional Proficiency", "units": "4-4-4", "anchor": "gpla412c"}
+{"code": "GPLA 441A-B-C", "title": ". Intermediate Spanish Language for Professional Proficiency", "units": "4-4-4", "anchor": "gpla441c"}
+{"code": "GPLA 460A-B-C", "title": ". Basic Bahasa Indonesia for Professional Proficiency", "units": "4-4-4", "anchor": "gpla460c"}
+{"code": "GPLA 461A-B-C", "title": ". Low Intermediate Bahasa Indonesian for Professional Proficiency", "units": "4-4-4", "anchor": "gpla461c"}
+{"code": "GPEC 243", "title": "GIS and Spatial Data Analysis", "units": "4", "anchor": "gpec243"}
+{"code": "GPEC 244", "title": "Advanced GIS and Remote Sensing", "units": "4", "anchor": "gpec244"}
+{"code": "GPEC 246", "title": "Applied Data Analysis and Statistical Decision Making", "units": "4", "anchor": "gpec246"}
+{"code": "GPEC 286", "title": "Economic and Social Development of China", "units": "4", "anchor": "gpec286"}
+{"code": "GPPS 204", "title": "Chinese Politics", "units": "4", "anchor": "gpps204"}
+{"code": "GPPS 256", "title": "Program Design and Evaluation", "units": "4", "anchor": "gpps256"}

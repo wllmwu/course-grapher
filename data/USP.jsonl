@@ -1,108 +1,108 @@
-{"code": "USP 1", "title": "History of US Urban Communities", "units": "4", "prereqs": null}
-{"code": "USP 2", "title": "Urban World System", "units": "4", "prereqs": null}
-{"code": "USP 3", "title": "The City and Social Theory", "units": "4", "prereqs": null}
-{"code": "USP 4", "title": "Introduction to Geographic Information Systems", "units": "4", "prereqs": null}
-{"code": "USP 5", "title": "Introduction to the Real Estate and Development Process", "units": "4", "prereqs": null}
-{"code": "USP 6", "title": "Introduction to Global Architecture", "units": "4", "prereqs": null}
-{"code": "USP 15", "title": "Applied Urban Economics for Planning and Development", "units": "4", "prereqs": null}
-{"code": "USP 25", "title": "Real Estate and Development Principles and Analysis", "units": "4", "prereqs": null}
-{"code": "USP 50", "title": "Real Estate and Development Colloquium", "units": "2", "prereqs": null}
-{"code": "USP 100", "title": "Introduction to Urban Planning", "units": "4", "prereqs": null}
-{"code": "USP 101", "title": "Introduction to Policy Analysis", "units": "4", "prereqs": null}
-{"code": "USP 102", "title": "Urban Economics", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["ECON 2", "ECON 100A"]}, {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}]}}
-{"code": "USP 104", "title": "Ethnic Diversity and the City", "units": "4", "prereqs": null}
-{"code": "USP 105", "title": "Urban Sociology", "units": "4", "prereqs": null}
-{"code": "USP 106", "title": "The History of Race and Ethnicity in American Cities", "units": "4", "prereqs": null}
-{"code": "USP 107", "title": "Urban Politics", "units": "4", "prereqs": null}
-{"code": "USP 109", "title": "California Government and Politics", "units": "4", "prereqs": null}
-{"code": "USP 110", "title": "Advanced Topics in Urban Politics", "units": "4", "prereqs": null}
-{"code": "USP 113", "title": "Politics and Policymaking in Los Angeles", "units": "4", "prereqs": null}
-{"code": "USP 114", "title": "Communication and Social Institutions: Science Communication", "units": "4", "prereqs": {"type": "one", "courses": ["COMM 10", "USP 2"]}}
-{"code": "USP 115", "title": "Politics and Policymaking in San Diego", "units": "4", "prereqs": null}
-{"code": "USP 116", "title": "California Local Government: Finance and Administration", "units": "4", "prereqs": null}
-{"code": "USP 120", "title": "Urban Planning, Infrastructure, and Real Estate", "units": "4", "prereqs": null}
-{"code": "USP 121", "title": "Real Estate Law and Regulation", "units": "4", "prereqs": null}
-{"code": "USP 122", "title": "Redevelopment Planning, Policymaking, and Law", "units": "4", "prereqs": null}
-{"code": "USP 123", "title": "Law, Planning, and Public Policy", "units": "4", "prereqs": null}
-{"code": "USP 124", "title": "Land Use Planning", "units": "4", "prereqs": null}
-{"code": "USP 125", "title": "The Design of Social Research", "units": "4", "prereqs": null}
-{"code": "USP 126", "title": "Comparative Land Use and Resource Management", "units": "4", "prereqs": null}
-{"code": "USP 128A", "title": "Climate Action Scholars: Community Engagement and Research", "units": "6", "prereqs": null}
-{"code": "USP 128B", "title": "Climate Action Scholars: Capstone Project", "units": "6", "prereqs": {"type": "one", "courses": ["ANTH 128A", "USP 128A"]}}
-{"code": "USP 129", "title": "Research Methods: Studying Racial and Ethnic Communities", "units": "4", "prereqs": null}
-{"code": "USP 130", "title": "Fieldwork in Racial and Ethnic Communities", "units": "4", "prereqs": null}
-{"code": "USP 131", "title": "Culture, Tourism, and the Urban Economy: Case Studies of Craft Breweries", "units": "?", "prereqs": null}
-{"code": "USP 132", "title": "African Americans, Religion, and the City", "units": "4", "prereqs": null}
-{"code": "USP 133", "title": "Social Inequality and Public Policy", "units": "4", "prereqs": null}
-{"code": "USP 134", "title": "Community Youth Development", "units": "4", "prereqs": null}
-{"code": "USP 135", "title": "Asian and Latina Immigrant Workers in the Global Economy", "units": "4", "prereqs": null}
-{"code": "USP 136", "title": "Community Organizing", "units": "4", "prereqs": null}
-{"code": "USP 137", "title": "Housing and Community Development Policy and Practice", "units": "4", "prereqs": null}
-{"code": "USP 138", "title": "Urban Economic Development", "units": "4", "prereqs": null}
-{"code": "USP 139", "title": "Urban Design and Economic Development", "units": "4", "prereqs": null}
-{"code": "USP 140", "title": "Healthy Placemaking", "units": "4", "prereqs": null}
-{"code": "USP 141A", "title": "Life Course Scholars Research and Core Fundamentals", "units": "?", "prereqs": null}
-{"code": "USP 141B", "title": "Life Course Scholars Capstone Project", "units": "?", "prereqs": "USP 141A"}
-{"code": "USP 142A", "title": "Urban Challenges: Homelessness in San Diego Core Fundamentals", "units": "4", "prereqs": null}
-{"code": "USP 142B", "title": "Urban Challenges: Homelessness in San Diego Fieldwork", "units": "6", "prereqs": "USP 142A"}
-{"code": "USP 143", "title": "The US Health-Care System", "units": "4", "prereqs": null}
-{"code": "USP 144", "title": "Environmental and Preventive Health Issues", "units": "4", "prereqs": null}
-{"code": "USP 145", "title": "Aging\u2014Social and Health Policy Issues", "units": "4", "prereqs": null}
-{"code": "USP 146", "title": "Research Methods for Built Environment and Active Living", "units": "4", "prereqs": null}
-{"code": "USP 147", "title": "Case Studies in Health-Care Programs/Poor and Underserved Population", "units": "4", "prereqs": null}
-{"code": "USP 148", "title": "Health and the Built Environment", "units": "4", "prereqs": null}
-{"code": "USP 149", "title": "Madness and Urbanization", "units": "4", "prereqs": null}
-{"code": "USP 150", "title": "Real Estate and Development Law and Regulation", "units": "4", "prereqs": null}
-{"code": "USP 151", "title": "Real Estate Planning and Development", "units": "4", "prereqs": null}
-{"code": "USP 152", "title": "Real Estate Development Finance and Investment", "units": "4", "prereqs": null}
-{"code": "USP 153", "title": "Real Estate and Development Market Analysis", "units": "4", "prereqs": null}
-{"code": "USP 154", "title": "Global Justice in Theory and Action", "units": "4", "prereqs": null}
-{"code": "USP 155", "title": "Real Estate Development in Global and Comparative Perspective", "units": "4", "prereqs": null}
-{"code": "USP 158A", "title": "Advanced Special Topics in Real Estate and Development", "units": "4", "prereqs": null}
-{"code": "USP 159A", "title": "NAIOP Real Estate University Challenge I", "units": "4", "prereqs": null}
-{"code": "USP 159B", "title": "NAIOP Real Estate University Challenge II", "units": "2", "prereqs": "USP 159A"}
-{"code": "USP 160", "title": "Research Methods: Analyzing Crime", "units": "4", "prereqs": null}
-{"code": "USP 161", "title": "Environmental Design and Crime Prevention", "units": "4", "prereqs": null}
-{"code": "USP 164", "title": "Cities in Film", "units": "4", "prereqs": null}
-{"code": "USP 165A", "title": "Advanced Special Topics in Housing", "units": "4", "prereqs": null}
-{"code": "USP 165B", "title": "Advanced Special Topics in Sustainability", "units": "4", "prereqs": null}
-{"code": "USP 165C", "title": "Advanced Special Topics in Transportation", "units": "4", "prereqs": null}
-{"code": "USP 165D", "title": "Advanced Special Topics in Urban Design and Land Use", "units": "4", "prereqs": null}
-{"code": "USP 167", "title": "History of New York City", "units": "4", "prereqs": null}
-{"code": "USP 168", "title": "History of Los Angeles", "units": "4", "prereqs": null}
-{"code": "USP 169", "title": "Introduction to Green Building", "units": "4", "prereqs": "USP 124"}
-{"code": "USP 170", "title": "Planning for Sustainable Communities", "units": "4", "prereqs": null}
-{"code": "USP 171", "title": "Sustainable Development", "units": "4", "prereqs": null}
-{"code": "USP 171GS", "title": "International Sustainable Development", "units": "4", "prereqs": null}
-{"code": "USP 172", "title": "Graphics, Visual Communication, and Urban Information", "units": "4", "prereqs": null}
-{"code": "USP 173", "title": "History of Urban Planning and Design", "units": "4", "prereqs": null}
-{"code": "USP 173GS", "title": "History of Urban Planning and Design", "units": "4", "prereqs": null}
-{"code": "USP 174", "title": "Regional Governance and Planning Reconsidered", "units": "4", "prereqs": null}
-{"code": "USP 175", "title": "Site Analysis", "units": "4", "prereqs": null}
-{"code": "USP 176", "title": "International Planning and Development: U.S.-Mexico Border", "units": "4", "prereqs": null}
-{"code": "USP 177A", "title": "Urban Design Practicum", "units": "4", "prereqs": null}
-{"code": "USP 177B", "title": "Advanced Urban Design", "units": "4", "prereqs": {"type": "one", "courses": ["USP 177", "USP 177A", "USP 179"]}}
-{"code": "USP 179", "title": "Urban Design, Theory, and Practice", "units": "4", "prereqs": null}
-{"code": "USP 180", "title": "Transportation Planning", "units": "4", "prereqs": null}
-{"code": "USP 181", "title": "Public Transportation", "units": "4", "prereqs": null}
-{"code": "USP 182", "title": "Gentrification", "units": "4", "prereqs": null}
-{"code": "USP 183", "title": "The Geography of American Opportunity", "units": "4", "prereqs": null}
-{"code": "USP 183GS", "title": "International Urban Design Practicum", "units": "4", "prereqs": null}
-{"code": "USP 184", "title": "Decolonizing Design: Histories and Theories", "units": "4", "prereqs": null}
-{"code": "USP 185A", "title": "Real Estate Finance and Development Studio I", "units": "4", "prereqs": {"type": "all", "courses": ["USP 124", "USP 151", "USP 152", "USP 153"]}}
-{"code": "USP 185B", "title": "Real Estate Finance and Development Studio II", "units": "4", "prereqs": "USP 185A"}
-{"code": "USP 186", "title": "Senior Sequence Research Proposal", "units": "6", "prereqs": "USP 124"}
-{"code": "USP 187", "title": "Senior Sequence Research Project", "units": "6", "prereqs": "USP 186"}
-{"code": "USP 188", "title": "Field Research in Migrant Communities\u2014Practicum", "units": "?", "prereqs": "SOCI 133"}
-{"code": "USP 189", "title": "Special Topics in Urban Planning", "units": "4", "prereqs": null}
-{"code": "USP 190", "title": "Senior Honors Seminar", "units": "4", "prereqs": {"type": "all", "courses": ["USP 186", "USP 187"]}}
-{"code": "USP 191A", "title": "Intermediate GIS for Urban and Community Planning", "units": "4", "prereqs": "USP 4"}
-{"code": "USP 191B", "title": "Advanced GIS for Urban and Community Planning", "units": "4", "prereqs": "USP 191A"}
-{"code": "USP 193", "title": "San Diego Community Research", "units": "4", "prereqs": null}
-{"code": "USP 194", "title": "Research Seminar in Washington, DC", "units": "4", "prereqs": null}
-{"code": "USP 195", "title": "Teaching Apprentice\u2014Undergraduate", "units": "2\u20134", "prereqs": null}
-{"code": "USP 198", "title": "Directed Group Study", "units": "2\u20134", "prereqs": null}
-{"code": "USP 199", "title": "Independent Study", "units": "2\u20134", "prereqs": null}
-{"code": "USP 224", "title": "Land Use Planning", "units": "4", "prereqs": null}
-{"code": "USP 265C", "title": "Advanced Special Topics in Transportation", "units": "4", "prereqs": null}
-{"code": "USP 271", "title": "Sustainable Development", "units": "4", "prereqs": null}
+{"code": "USP 1", "title": "History of US Urban Communities", "units": "4", "anchor": "usp1"}
+{"code": "USP 2", "title": "Urban World System", "units": "4", "anchor": "usp2"}
+{"code": "USP 3", "title": "The City and Social Theory", "units": "4", "anchor": "usp3"}
+{"code": "USP 4", "title": "Introduction to Geographic Information Systems", "units": "4", "anchor": "usp4"}
+{"code": "USP 5", "title": "Introduction to the Real Estate and Development Process", "units": "4", "anchor": "usp5"}
+{"code": "USP 6", "title": "Introduction to Global Architecture", "units": "4", "anchor": "usp6"}
+{"code": "USP 15", "title": "Applied Urban Economics for Planning and Development", "units": "4", "anchor": "usp15"}
+{"code": "USP 25", "title": "Real Estate and Development Principles and Analysis", "units": "4", "anchor": "usp25"}
+{"code": "USP 50", "title": "Real Estate and Development Colloquium", "units": "2", "anchor": "usp50"}
+{"code": "USP 100", "title": "Introduction to Urban Planning", "units": "4", "anchor": "usp100"}
+{"code": "USP 101", "title": "Introduction to Policy Analysis", "units": "4", "anchor": "usp101"}
+{"code": "USP 102", "title": "Urban Economics", "units": "4", "anchor": "usp102", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["ECON 2", "ECON 100A"]}, {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}]}}
+{"code": "USP 104", "title": "Ethnic Diversity and the City", "units": "4", "anchor": "usp104"}
+{"code": "USP 105", "title": "Urban Sociology", "units": "4", "anchor": "usp105"}
+{"code": "USP 106", "title": "The History of Race and Ethnicity in American Cities", "units": "4", "anchor": "usp106"}
+{"code": "USP 107", "title": "Urban Politics", "units": "4", "anchor": "usp107"}
+{"code": "USP 109", "title": "California Government and Politics", "units": "4", "anchor": "usp109"}
+{"code": "USP 110", "title": "Advanced Topics in Urban Politics", "units": "4", "anchor": "usp110"}
+{"code": "USP 113", "title": "Politics and Policymaking in Los Angeles", "units": "4", "anchor": "usp113"}
+{"code": "USP 114", "title": "Communication and Social Institutions: Science Communication", "units": "4", "anchor": "usp114", "prereqs": {"type": "one", "courses": ["COMM 10", "USP 2"]}}
+{"code": "USP 115", "title": "Politics and Policymaking in San Diego", "units": "4", "anchor": "usp115"}
+{"code": "USP 116", "title": "California Local Government: Finance and Administration", "units": "4", "anchor": "usp116"}
+{"code": "USP 120", "title": "Urban Planning, Infrastructure, and Real Estate", "units": "4", "anchor": "usp120"}
+{"code": "USP 121", "title": "Real Estate Law and Regulation", "units": "4", "anchor": "usp121"}
+{"code": "USP 122", "title": "Redevelopment Planning, Policymaking, and Law", "units": "4", "anchor": "usp122"}
+{"code": "USP 123", "title": "Law, Planning, and Public Policy", "units": "4", "anchor": "usp123"}
+{"code": "USP 124", "title": "Land Use Planning", "units": "4", "anchor": "usp124"}
+{"code": "USP 125", "title": "The Design of Social Research", "units": "4", "anchor": "usp125"}
+{"code": "USP 126", "title": "Comparative Land Use and Resource Management", "units": "4", "anchor": "usp126"}
+{"code": "USP 128A", "title": "Climate Action Scholars: Community Engagement and Research", "units": "6", "anchor": "usp128a"}
+{"code": "USP 128B", "title": "Climate Action Scholars: Capstone Project", "units": "6", "anchor": "usp128b", "prereqs": {"type": "one", "courses": ["ANTH 128A", "USP 128A"]}}
+{"code": "USP 129", "title": "Research Methods: Studying Racial and Ethnic Communities", "units": "4", "anchor": "usp129"}
+{"code": "USP 130", "title": "Fieldwork in Racial and Ethnic Communities", "units": "4", "anchor": "usp130"}
+{"code": "USP 131", "title": "Culture, Tourism, and the Urban Economy: Case Studies of Craft Breweries", "units": "?", "anchor": "usp131"}
+{"code": "USP 132", "title": "African Americans, Religion, and the City", "units": "4", "anchor": "usp132"}
+{"code": "USP 133", "title": "Social Inequality and Public Policy", "units": "4", "anchor": "usp133"}
+{"code": "USP 134", "title": "Community Youth Development", "units": "4", "anchor": "usp134"}
+{"code": "USP 135", "title": "Asian and Latina Immigrant Workers in the Global Economy", "units": "4", "anchor": "usp135"}
+{"code": "USP 136", "title": "Community Organizing", "units": "4", "anchor": "usp136"}
+{"code": "USP 137", "title": "Housing and Community Development Policy and Practice", "units": "4", "anchor": "usp137"}
+{"code": "USP 138", "title": "Urban Economic Development", "units": "4", "anchor": "usp138"}
+{"code": "USP 139", "title": "Urban Design and Economic Development", "units": "4", "anchor": "usp139"}
+{"code": "USP 140", "title": "Healthy Placemaking", "units": "4", "anchor": "usp140"}
+{"code": "USP 141A", "title": "Life Course Scholars Research and Core Fundamentals", "units": "?", "anchor": "usp141a"}
+{"code": "USP 141B", "title": "Life Course Scholars Capstone Project", "units": "?", "anchor": "usp141b", "prereqs": "USP 141A"}
+{"code": "USP 142A", "title": "Urban Challenges: Homelessness in San Diego Core Fundamentals", "units": "4", "anchor": "usp142a"}
+{"code": "USP 142B", "title": "Urban Challenges: Homelessness in San Diego Fieldwork", "units": "6", "anchor": "usp142b", "prereqs": "USP 142A"}
+{"code": "USP 143", "title": "The US Health-Care System", "units": "4", "anchor": "usp143"}
+{"code": "USP 144", "title": "Environmental and Preventive Health Issues", "units": "4", "anchor": "usp144"}
+{"code": "USP 145", "title": "Aging\u2014Social and Health Policy Issues", "units": "4", "anchor": "usp145"}
+{"code": "USP 146", "title": "Research Methods for Built Environment and Active Living", "units": "4", "anchor": "usp146"}
+{"code": "USP 147", "title": "Case Studies in Health-Care Programs/Poor and Underserved Population", "units": "4", "anchor": "usp147"}
+{"code": "USP 148", "title": "Health and the Built Environment", "units": "4", "anchor": "usp148"}
+{"code": "USP 149", "title": "Madness and Urbanization", "units": "4", "anchor": "usp149"}
+{"code": "USP 150", "title": "Real Estate and Development Law and Regulation", "units": "4", "anchor": "usp150"}
+{"code": "USP 151", "title": "Real Estate Planning and Development", "units": "4", "anchor": "usp151"}
+{"code": "USP 152", "title": "Real Estate Development Finance and Investment", "units": "4", "anchor": "usp152"}
+{"code": "USP 153", "title": "Real Estate and Development Market Analysis", "units": "4", "anchor": "usp153"}
+{"code": "USP 154", "title": "Global Justice in Theory and Action", "units": "4", "anchor": "usp154"}
+{"code": "USP 155", "title": "Real Estate Development in Global and Comparative Perspective", "units": "4", "anchor": "usp155"}
+{"code": "USP 158A", "title": "Advanced Special Topics in Real Estate and Development", "units": "4", "anchor": "usp158a"}
+{"code": "USP 159A", "title": "NAIOP Real Estate University Challenge I", "units": "4", "anchor": "usp159a"}
+{"code": "USP 159B", "title": "NAIOP Real Estate University Challenge II", "units": "2", "anchor": "usp159b", "prereqs": "USP 159A"}
+{"code": "USP 160", "title": "Research Methods: Analyzing Crime", "units": "4", "anchor": "usp160"}
+{"code": "USP 161", "title": "Environmental Design and Crime Prevention", "units": "4", "anchor": "usp161"}
+{"code": "USP 164", "title": "Cities in Film", "units": "4", "anchor": "usp164"}
+{"code": "USP 165A", "title": "Advanced Special Topics in Housing", "units": "4", "anchor": "usp165a"}
+{"code": "USP 165B", "title": "Advanced Special Topics in Sustainability", "units": "4", "anchor": "usp165b"}
+{"code": "USP 165C", "title": "Advanced Special Topics in Transportation", "units": "4", "anchor": "usp165c"}
+{"code": "USP 165D", "title": "Advanced Special Topics in Urban Design and Land Use", "units": "4", "anchor": "usp165d"}
+{"code": "USP 167", "title": "History of New York City", "units": "4", "anchor": "usp167"}
+{"code": "USP 168", "title": "History of Los Angeles", "units": "4", "anchor": "usp168"}
+{"code": "USP 169", "title": "Introduction to Green Building", "units": "4", "anchor": "usp169", "prereqs": "USP 124"}
+{"code": "USP 170", "title": "Planning for Sustainable Communities", "units": "4", "anchor": "usp170"}
+{"code": "USP 171", "title": "Sustainable Development", "units": "4", "anchor": "usp171"}
+{"code": "USP 171GS", "title": "International Sustainable Development", "units": "4", "anchor": "usp171gs"}
+{"code": "USP 172", "title": "Graphics, Visual Communication, and Urban Information", "units": "4", "anchor": "usp172"}
+{"code": "USP 173", "title": "History of Urban Planning and Design", "units": "4", "anchor": "usp173"}
+{"code": "USP 173GS", "title": "History of Urban Planning and Design", "units": "4", "anchor": "usp173gs"}
+{"code": "USP 174", "title": "Regional Governance and Planning Reconsidered", "units": "4", "anchor": "usp174"}
+{"code": "USP 175", "title": "Site Analysis", "units": "4", "anchor": "usp175"}
+{"code": "USP 176", "title": "International Planning and Development: U.S.-Mexico Border", "units": "4", "anchor": "usp176"}
+{"code": "USP 177A", "title": "Urban Design Practicum", "units": "4", "anchor": "usp177a"}
+{"code": "USP 177B", "title": "Advanced Urban Design", "units": "4", "anchor": "usp177b", "prereqs": {"type": "one", "courses": ["USP 177", "USP 177A", "USP 179"]}}
+{"code": "USP 179", "title": "Urban Design, Theory, and Practice", "units": "4", "anchor": "usp179"}
+{"code": "USP 180", "title": "Transportation Planning", "units": "4", "anchor": "usp180"}
+{"code": "USP 181", "title": "Public Transportation", "units": "4", "anchor": "usp181"}
+{"code": "USP 182", "title": "Gentrification", "units": "4", "anchor": "usp182"}
+{"code": "USP 183", "title": "The Geography of American Opportunity", "units": "4", "anchor": "usp183"}
+{"code": "USP 183GS", "title": "International Urban Design Practicum", "units": "4", "anchor": "usp183gs"}
+{"code": "USP 184", "title": "Decolonizing Design: Histories and Theories", "units": "4", "anchor": "usp184"}
+{"code": "USP 185A", "title": "Real Estate Finance and Development Studio I", "units": "4", "anchor": "usp185a", "prereqs": {"type": "all", "courses": ["USP 124", "USP 151", "USP 152", "USP 153"]}}
+{"code": "USP 185B", "title": "Real Estate Finance and Development Studio II", "units": "4", "anchor": "usp185b", "prereqs": "USP 185A"}
+{"code": "USP 186", "title": "Senior Sequence Research Proposal", "units": "6", "anchor": "usp186", "prereqs": "USP 124"}
+{"code": "USP 187", "title": "Senior Sequence Research Project", "units": "6", "anchor": "usp187", "prereqs": "USP 186"}
+{"code": "USP 188", "title": "Field Research in Migrant Communities\u2014Practicum", "units": "?", "anchor": "usp188", "prereqs": "SOCI 133"}
+{"code": "USP 189", "title": "Special Topics in Urban Planning", "units": "4", "anchor": "usp189"}
+{"code": "USP 190", "title": "Senior Honors Seminar", "units": "4", "anchor": "usp190", "prereqs": {"type": "all", "courses": ["USP 186", "USP 187"]}}
+{"code": "USP 191A", "title": "Intermediate GIS for Urban and Community Planning", "units": "4", "anchor": "usp191a", "prereqs": "USP 4"}
+{"code": "USP 191B", "title": "Advanced GIS for Urban and Community Planning", "units": "4", "anchor": "usp191b", "prereqs": "USP 191A"}
+{"code": "USP 193", "title": "San Diego Community Research", "units": "4", "anchor": "usp193"}
+{"code": "USP 194", "title": "Research Seminar in Washington, DC", "units": "4", "anchor": "usp194"}
+{"code": "USP 195", "title": "Teaching Apprentice\u2014Undergraduate", "units": "2\u20134", "anchor": "usp195"}
+{"code": "USP 198", "title": "Directed Group Study", "units": "2\u20134", "anchor": "usp198"}
+{"code": "USP 199", "title": "Independent Study", "units": "2\u20134", "anchor": "usp199"}
+{"code": "USP 224", "title": "Land Use Planning", "units": "4", "anchor": "usp224"}
+{"code": "USP 265C", "title": "Advanced Special Topics in Transportation", "units": "4", "anchor": "usp265c"}
+{"code": "USP 271", "title": "Sustainable Development", "units": "4", "anchor": "usp271"}

@@ -1,7 +1,7 @@
-{"code": "MMW 11", "title": "Prehistory and Ancient Foundations", "units": "4", "prereqs": null}
-{"code": "MMW 12", "title": "Classical and Medieval Traditions", "units": "6", "prereqs": null}
-{"code": "MMW 13", "title": "New Ideas and Cultural Encounters", "units": "6", "prereqs": {"type": "one", "courses": ["MMW 12", "MMW 2"]}}
-{"code": "MMW 14", "title": "Revolution, Industry, and Empire", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MMW 12", "MMW 2"]}, {"type": "one", "courses": ["MMW 13", "MMW 3"]}]}}
-{"code": "MMW 15", "title": "Twentieth Century and Beyond", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MMW 12", "MMW 2"]}, {"type": "one", "courses": ["MMW 13", "MMW 3"]}]}}
-{"code": "MMW 121", "title": "Exploring the Premodern World", "units": "4", "prereqs": null}
-{"code": "MMW 122", "title": "Exploring the Modern World", "units": "4", "prereqs": null}
+{"code": "MMW 11", "title": "Prehistory and Ancient Foundations", "units": "4", "anchor": "mmw11"}
+{"code": "MMW 12", "title": "Classical and Medieval Traditions", "units": "6", "anchor": "mmw12"}
+{"code": "MMW 13", "title": "New Ideas and Cultural Encounters", "units": "6", "anchor": "mmw13", "prereqs": {"type": "one", "courses": ["MMW 12", "MMW 2"]}}
+{"code": "MMW 14", "title": "Revolution, Industry, and Empire", "units": "4", "anchor": "mmw14", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MMW 12", "MMW 2"]}, {"type": "one", "courses": ["MMW 13", "MMW 3"]}]}}
+{"code": "MMW 15", "title": "Twentieth Century and Beyond", "units": "4", "anchor": "mmw15", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MMW 12", "MMW 2"]}, {"type": "one", "courses": ["MMW 13", "MMW 3"]}]}}
+{"code": "MMW 121", "title": "Exploring the Premodern World", "units": "4", "anchor": "mmw121"}
+{"code": "MMW 122", "title": "Exploring the Modern World", "units": "4", "anchor": "mmw122"}

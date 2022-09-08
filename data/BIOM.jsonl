@@ -1,46 +1,46 @@
-{"code": "BIOM 200A", "title": "Molecules to Organisms: Concepts", "units": "6", "prereqs": null}
-{"code": "BIOM 200B", "title": "Molecules to Organisms: Approaches", "units": "2", "prereqs": null}
-{"code": "BIOM 201", "title": "Seminars in Biomedical Research", "units": "4", "prereqs": null}
-{"code": "BIOM 202", "title": "Biomedical Sciences Research Rotation", "units": "3", "prereqs": null}
-{"code": "BIOM 209", "title": "Lipid Cell Signaling Genomics, Proteomics, and Metabolomics", "units": "2", "prereqs": null}
-{"code": "BIOM 218", "title": "Current Topics in Anthropogeny", "units": "1", "prereqs": null}
-{"code": "BIOM 219", "title": "Ethics in Scientific Research", "units": "1", "prereqs": null}
-{"code": "BIOM 222", "title": "Essentials of Glycobiology", "units": "2", "prereqs": null}
-{"code": "BIOM 224", "title": "Topics in Cancer Research", "units": "2", "prereqs": null}
-{"code": "BIOM 225", "title": "Introduction to Anthropogeny", "units": "2", "prereqs": null}
-{"code": "BIOM 226", "title": "Hormone Action", "units": "3", "prereqs": {"type": "all", "courses": ["BIOM 200A", "BIOM 200B", "BIOM 201"]}}
-{"code": "BIOM 227", "title": "Mouse Models of Human Disease", "units": "2", "prereqs": null}
-{"code": "BIOM 228", "title": "Modern Drug Discovery Technologies", "units": "2", "prereqs": null}
-{"code": "BIOM 229", "title": "Advanced Anthropogeny", "units": "2", "prereqs": "BIOM 225"}
-{"code": "BIOM 231", "title": "Contemporary Topics in Pharmacology", "units": "2", "prereqs": null}
-{"code": "BIOM 232", "title": "In vivo Cellular and Molecular Imaging", "units": "1", "prereqs": null}
-{"code": "BIOM 233", "title": "Structural Biology in Cell Signaling and Drug Discovery", "units": "2", "prereqs": null}
-{"code": "BIOM 234", "title": "Practical Histopathology and Mouse Models of Human Diseases", "units": "2", "prereqs": null}
-{"code": "BIOM 235", "title": "Pharmacogenomics", "units": "3", "prereqs": null}
-{"code": "BIOM 240", "title": "Critical Reading in Cell Biology", "units": "3", "prereqs": null}
-{"code": "BIOM 242", "title": "Seminar in Genetics", "units": "1", "prereqs": null}
-{"code": "BIOM 246", "title": "Current Literature in Glycobiology", "units": "1", "prereqs": null}
-{"code": "BIOM 252", "title": "Genetics and Genomics", "units": "3", "prereqs": {"type": "all", "courses": ["BIOM 200A", "BIOM 200B", "BIOM 201"]}}
-{"code": "BIOM 253", "title": "Pathogens and Host Defense", "units": "3", "prereqs": {"type": "all", "courses": ["BIOM 200A", "BIOM 200B", "BIOM 201"]}}
-{"code": "BIOM 254", "title": "Molecular and Cell Biology", "units": "3", "prereqs": {"type": "all", "courses": ["BIOM 200A", "BIOM 200B", "BIOM 201"]}}
-{"code": "BIOM 255", "title": "Molecular Basis of Drug Action and Disease Therapy", "units": "3", "prereqs": {"type": "all", "courses": ["BIOM 200A", "BIOM 200B", "BIOM 201"]}}
-{"code": "BIOM 256", "title": "Molecular Pathology of Cancer", "units": "3", "prereqs": null}
-{"code": "BIOM 262", "title": "Quantitative Methods in Genetics", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["BGGN 223", "BIOM 252"]}, "BIOM 272"]}}
-{"code": "BIOM 264", "title": "Molecular and Cellular Basis of Disease", "units": "2", "prereqs": null}
-{"code": "BIOM 266", "title": "Environmental and Molecular Toxicology", "units": "4", "prereqs": {"type": "all", "courses": ["BIBC 100", "BIBC 102"]}}
-{"code": "BIOM 267", "title": "Drug Discovery, Development, and Commercialization", "units": "3", "prereqs": null}
-{"code": "BIOM 272", "title": "Seminars in Genetics", "units": "2", "prereqs": null}
-{"code": "BIOM 273", "title": "Seminars in Microbiology", "units": "2", "prereqs": null}
-{"code": "BIOM 274", "title": "Seminars in Molecular and Cell Biology", "units": "2", "prereqs": null}
-{"code": "BIOM 275", "title": "Seminars in Pharmacology", "units": "2", "prereqs": null}
-{"code": "BIOM 276", "title": "Seminars in Physiology", "units": "2", "prereqs": null}
-{"code": "BIOM 277", "title": "Seminars in Molecular Pathology", "units": "2", "prereqs": null}
-{"code": "BIOM 283", "title": "Supramolecular Structure Determination Laboratory", "units": "4", "prereqs": null}
-{"code": "BIOM 285", "title": "Statistical Inference in the Medical Sciences", "units": "2", "prereqs": null}
-{"code": "BIOM 287", "title": "Tissue Engineering Laboratory", "units": "4", "prereqs": null}
-{"code": "BIOM 294", "title": "Pharmacology and Molecular Biology Journal Club", "units": "0\u20131", "prereqs": null}
-{"code": "BIOM 295", "title": "Pharmacology Research Discussions", "units": "0\u20131", "prereqs": null}
-{"code": "BIOM 296", "title": "Directed Reading", "units": "1\u20134", "prereqs": null}
-{"code": "BIOM 297", "title": "Progress in Signal Transduction", "units": "1", "prereqs": null}
-{"code": "BIOM 298", "title": "Directed Study", "units": "1\u201312", "prereqs": null}
-{"code": "BIOM 299", "title": "Independent Study or Research", "units": "1\u201312", "prereqs": null}
+{"code": "BIOM 200A", "title": "Molecules to Organisms: Concepts", "units": "6", "anchor": "biom200a"}
+{"code": "BIOM 200B", "title": "Molecules to Organisms: Approaches", "units": "2", "anchor": "biom200b"}
+{"code": "BIOM 201", "title": "Seminars in Biomedical Research", "units": "4", "anchor": "biom201"}
+{"code": "BIOM 202", "title": "Biomedical Sciences Research Rotation", "units": "3", "anchor": "biom202"}
+{"code": "BIOM 209", "title": "Lipid Cell Signaling Genomics, Proteomics, and Metabolomics", "units": "2", "anchor": "biom209"}
+{"code": "BIOM 218", "title": "Current Topics in Anthropogeny", "units": "1", "anchor": "biom218"}
+{"code": "BIOM 219", "title": "Ethics in Scientific Research", "units": "1", "anchor": "biom219"}
+{"code": "BIOM 222", "title": "Essentials of Glycobiology", "units": "2", "anchor": "biom222"}
+{"code": "BIOM 224", "title": "Topics in Cancer Research", "units": "2", "anchor": "biom224"}
+{"code": "BIOM 225", "title": "Introduction to Anthropogeny", "units": "2", "anchor": "biom225"}
+{"code": "BIOM 226", "title": "Hormone Action", "units": "3", "anchor": "biom226", "prereqs": {"type": "all", "courses": ["BIOM 200A", "BIOM 200B", "BIOM 201"]}}
+{"code": "BIOM 227", "title": "Mouse Models of Human Disease", "units": "2", "anchor": "biom227"}
+{"code": "BIOM 228", "title": "Modern Drug Discovery Technologies", "units": "2", "anchor": "biom228"}
+{"code": "BIOM 229", "title": "Advanced Anthropogeny", "units": "2", "anchor": "biom229", "prereqs": "BIOM 225"}
+{"code": "BIOM 231", "title": "Contemporary Topics in Pharmacology", "units": "2", "anchor": "biom231"}
+{"code": "BIOM 232", "title": "In vivo Cellular and Molecular Imaging", "units": "1", "anchor": "biom232"}
+{"code": "BIOM 233", "title": "Structural Biology in Cell Signaling and Drug Discovery", "units": "2", "anchor": "biom233"}
+{"code": "BIOM 234", "title": "Practical Histopathology and Mouse Models of Human Diseases", "units": "2", "anchor": "biom234"}
+{"code": "BIOM 235", "title": "Pharmacogenomics", "units": "3", "anchor": "biom235"}
+{"code": "BIOM 240", "title": "Critical Reading in Cell Biology", "units": "3", "anchor": "biom240"}
+{"code": "BIOM 242", "title": "Seminar in Genetics", "units": "1", "anchor": "biom242"}
+{"code": "BIOM 246", "title": "Current Literature in Glycobiology", "units": "1", "anchor": "biom246"}
+{"code": "BIOM 252", "title": "Genetics and Genomics", "units": "3", "anchor": "biom252", "prereqs": {"type": "all", "courses": ["BIOM 200A", "BIOM 200B", "BIOM 201"]}}
+{"code": "BIOM 253", "title": "Pathogens and Host Defense", "units": "3", "anchor": "biom253", "prereqs": {"type": "all", "courses": ["BIOM 200A", "BIOM 200B", "BIOM 201"]}}
+{"code": "BIOM 254", "title": "Molecular and Cell Biology", "units": "3", "anchor": "biom254", "prereqs": {"type": "all", "courses": ["BIOM 200A", "BIOM 200B", "BIOM 201"]}}
+{"code": "BIOM 255", "title": "Molecular Basis of Drug Action and Disease Therapy", "units": "3", "anchor": "biom255", "prereqs": {"type": "all", "courses": ["BIOM 200A", "BIOM 200B", "BIOM 201"]}}
+{"code": "BIOM 256", "title": "Molecular Pathology of Cancer", "units": "3", "anchor": "biom256"}
+{"code": "BIOM 262", "title": "Quantitative Methods in Genetics", "units": "4", "anchor": "biom262", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["BGGN 223", "BIOM 252"]}, "BIOM 272"]}}
+{"code": "BIOM 264", "title": "Molecular and Cellular Basis of Disease", "units": "2", "anchor": "biom264"}
+{"code": "BIOM 266", "title": "Environmental and Molecular Toxicology", "units": "4", "anchor": "biom266", "prereqs": {"type": "all", "courses": ["BIBC 100", "BIBC 102"]}}
+{"code": "BIOM 267", "title": "Drug Discovery, Development, and Commercialization", "units": "3", "anchor": "biom267"}
+{"code": "BIOM 272", "title": "Seminars in Genetics", "units": "2", "anchor": "biom272"}
+{"code": "BIOM 273", "title": "Seminars in Microbiology", "units": "2", "anchor": "biom273"}
+{"code": "BIOM 274", "title": "Seminars in Molecular and Cell Biology", "units": "2", "anchor": "biom274"}
+{"code": "BIOM 275", "title": "Seminars in Pharmacology", "units": "2", "anchor": "biom275"}
+{"code": "BIOM 276", "title": "Seminars in Physiology", "units": "2", "anchor": "biom276"}
+{"code": "BIOM 277", "title": "Seminars in Molecular Pathology", "units": "2", "anchor": "biom277"}
+{"code": "BIOM 283", "title": "Supramolecular Structure Determination Laboratory", "units": "4", "anchor": "biom283"}
+{"code": "BIOM 285", "title": "Statistical Inference in the Medical Sciences", "units": "2", "anchor": "biom285"}
+{"code": "BIOM 287", "title": "Tissue Engineering Laboratory", "units": "4", "anchor": "biom287"}
+{"code": "BIOM 294", "title": "Pharmacology and Molecular Biology Journal Club", "units": "0\u20131", "anchor": "biom294"}
+{"code": "BIOM 295", "title": "Pharmacology Research Discussions", "units": "0\u20131", "anchor": "biom295"}
+{"code": "BIOM 296", "title": "Directed Reading", "units": "1\u20134", "anchor": "biom296"}
+{"code": "BIOM 297", "title": "Progress in Signal Transduction", "units": "1", "anchor": "biom297"}
+{"code": "BIOM 298", "title": "Directed Study", "units": "1\u201312", "anchor": "biom298"}
+{"code": "BIOM 299", "title": "Independent Study or Research", "units": "1\u201312", "anchor": "biom299"}

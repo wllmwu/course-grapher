@@ -1,183 +1,183 @@
-{"code": "PSYC 1", "title": "Psychology", "units": "4", "prereqs": null}
-{"code": "PSYC 2", "title": "General Psychology: Biological Foundations", "units": "4", "prereqs": null}
-{"code": "PSYC 3", "title": "General Psychology: Cognitive Foundations", "units": "4", "prereqs": null}
-{"code": "PSYC 4", "title": "General Psychology: Behavioral Foundations", "units": "4", "prereqs": null}
-{"code": "PSYC 6", "title": "General Psychology: Social Foundations", "units": "4", "prereqs": null}
-{"code": "PSYC 7", "title": "General Psychology: Developmental Foundations", "units": "4", "prereqs": null}
-{"code": "PSYC 60", "title": "Introduction to Statistics", "units": "4", "prereqs": null}
-{"code": "PSYC 70", "title": "Research Methods in Psychology", "units": "4", "prereqs": "PSYC 60"}
-{"code": "PSYC 71", "title": "Laboratory in Psychological Research Methods", "units": "4", "prereqs": {"type": "one", "courses": ["PSYC 70", "COGS 14A"]}}
-{"code": "PSYC 81", "title": "Laboratory in Brain, Behavior, and Evolution", "units": "4", "prereqs": {"type": "one", "courses": ["COGS 14B", "COGS 11", "PSYC 60"]}}
-{"code": "PSYC 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
-{"code": "PSYC 88", "title": "Learning Sustainable Well-being", "units": "1", "prereqs": null}
-{"code": "PSYC 90", "title": "Undergraduate Seminar", "units": "1", "prereqs": null}
-{"code": "PSYC 93", "title": "Topics in Psychology", "units": "4", "prereqs": null}
-{"code": "PSYC 99", "title": "Independent Study", "units": "2 or 4", "prereqs": null}
-{"code": "PSYC 100", "title": "Clinical Psychology", "units": "4", "prereqs": null}
-{"code": "PSYC 101", "title": "Developmental Psychology", "units": "4", "prereqs": null}
-{"code": "PSYC 102", "title": "Sensory Neuroscience", "units": "4", "prereqs": null}
-{"code": "PSYC 104", "title": "Social Psychology", "units": "4", "prereqs": null}
-{"code": "PSYC 105", "title": "Cognitive Psychology", "units": "4", "prereqs": null}
-{"code": "PSYC 106", "title": "Behavioral Neuroscience", "units": "4", "prereqs": null}
-{"code": "PSYC 108", "title": "Cognitive Neuroscience", "units": "4", "prereqs": null}
-{"code": "PSYC 110", "title": "Juniors Honors Research Seminars", "units": "4", "prereqs": null}
-{"code": "PSYC 111A", "title": "Research Methods I", "units": "6", "prereqs": null}
-{"code": "PSYC 111B", "title": "Research Methods II", "units": "6", "prereqs": "PSYC 111A"}
-{"code": "PSYC 113", "title": "Electroencephalogram", "units": "EEG", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PSYC 60", "COGS 14B"]}, {"type": "one", "courses": ["PSYC 70", "COGS 14A"]}, {"type": "one", "courses": ["COGS 101A", "COGS 107A", "COGS 107B", "COGS 107C", "PSYC 102", "PSYC 106", "PSYC 108"]}]}}
-{"code": "PSYC 114", "title": "Psychophysiological Perspectives on the Social Mind Laboratory", "units": "4", "prereqs": null}
-{"code": "PSYC 115A", "title": "Laboratory in Cognitive Psychology I", "units": "4", "prereqs": "PSYC 60"}
-{"code": "PSYC 115B", "title": "Laboratory in Cognitive Psychology II", "units": "4", "prereqs": "PSYC 115A"}
-{"code": "PSYC 116A", "title": "Laboratory in Clinical Psychology Research I", "units": "4", "prereqs": {"type": "all", "courses": ["PSYC 70", "PSYC 100"]}}
-{"code": "PSYC 116B", "title": "Laboratory in Clinical Psychology Research II", "units": "4", "prereqs": "PSYC 116A"}
-{"code": "PSYC 116C", "title": "Laboratory in Clinical Psychology Research III", "units": "4", "prereqs": "PSYC 116B"}
-{"code": "PSYC 117", "title": "Laboratory in Educational Research and Outreach", "units": "4", "prereqs": null}
-{"code": "PSYC 118", "title": "Laboratory in Animal Behavior", "units": "4", "prereqs": null}
-{"code": "PSYC 120", "title": "Learning and Motivation", "units": "4", "prereqs": null}
-{"code": "PSYC 121", "title": "Laboratory in Operant Psychology", "units": "4", "prereqs": null}
-{"code": "PSYC 122", "title": "Mechanisms of Animal Behavior", "units": "4", "prereqs": null}
-{"code": "PSYC 123", "title": "Cognitive Control and Frontal Lobe Function", "units": "4", "prereqs": null}
-{"code": "PSYC 124", "title": "Clinical Assessment and Treatment", "units": "4", "prereqs": null}
-{"code": "PSYC 125", "title": "Clinical Neuropsychology", "units": "4", "prereqs": null}
-{"code": "PSYC 126", "title": "Practicum in Community Mental Health Care", "units": "4", "prereqs": {"type": "all", "courses": ["PSYC 100", "PSYC 124"]}}
-{"code": "PSYC 128", "title": "Psychology of Reading", "units": "4", "prereqs": null}
-{"code": "PSYC 129", "title": "Logic of Perception", "units": "4", "prereqs": null}
-{"code": "PSYC 130", "title": "Delay of Gratification", "units": "4", "prereqs": null}
-{"code": "PSYC 131", "title": "Scientific Racism: Genetics, Intelligence, and Race", "units": "4", "prereqs": null}
-{"code": "PSYC 132", "title": "Hormones and Behavior", "units": "4", "prereqs": null}
-{"code": "PSYC 133", "title": "Circadian Rhythms\u2014Biological Clocks", "units": "4", "prereqs": null}
-{"code": "PSYC 134", "title": "Eating Disorders", "units": "4", "prereqs": null}
-{"code": "PSYC 136", "title": "Cognitive Development", "units": "4", "prereqs": {"type": "one", "courses": ["PSYC 101", "PSYC 105"]}}
-{"code": "PSYC 137", "title": "Social Cognition", "units": "4", "prereqs": null}
-{"code": "PSYC 138", "title": "Sound and Music Perception", "units": "4", "prereqs": null}
-{"code": "PSYC 139", "title": "The Social Psychology of Sport", "units": "4", "prereqs": null}
-{"code": "PSYC 140", "title": "Human Behavior Laboratory", "units": "4", "prereqs": null}
-{"code": "PSYC 141", "title": "Evolution and Human Nature", "units": "4", "prereqs": null}
-{"code": "PSYC 142", "title": "Psychology of Consciousness", "units": "4", "prereqs": null}
-{"code": "PSYC 143", "title": "Control and Analysis of Human Behavior", "units": "4", "prereqs": null}
-{"code": "PSYC 144", "title": "Memory and Amnesia", "units": "4", "prereqs": null}
-{"code": "PSYC 145", "title": "Psychology of Language", "units": "4", "prereqs": null}
-{"code": "PSYC 146", "title": "Language and Conceptual Development", "units": "4", "prereqs": null}
-{"code": "PSYC 147", "title": "Gender", "units": "4", "prereqs": null}
-{"code": "PSYC 148", "title": "Psychology of Judgment and Decision", "units": "4", "prereqs": null}
-{"code": "PSYC 150", "title": "Cognitive Neuroscience of Vision", "units": "4", "prereqs": {"type": "one", "courses": ["COGS 101A", "COGS 107C", "PSYC 102", "PSYC 108"]}}
-{"code": "PSYC 151", "title": "Tests and Measurement", "units": "4", "prereqs": {"type": "one", "courses": ["COGS 14B", "MATH 11", "PSYC 60"]}}
-{"code": "PSYC 152", "title": "Conceptions of Intelligence", "units": "4", "prereqs": null}
-{"code": "PSYC 153", "title": "Psychology of Emotion", "units": "4", "prereqs": null}
-{"code": "PSYC 154", "title": "Behavior Modification", "units": "4", "prereqs": null}
-{"code": "PSYC 155", "title": "Social Psychology and Medicine", "units": "4", "prereqs": null}
-{"code": "PSYC 156", "title": "Cognitive Development in Infancy", "units": "4", "prereqs": {"type": "one", "courses": ["PSYC 101", "HDS 1"]}}
-{"code": "PSYC 157", "title": "Happiness", "units": "4", "prereqs": null}
-{"code": "PSYC 158", "title": "Interpersonal Relationships", "units": "4", "prereqs": null}
-{"code": "PSYC 159", "title": "Physiological Basis of Perception", "units": "4", "prereqs": {"type": "one", "courses": ["PSYC 102", "COGS 101A"]}}
-{"code": "PSYC 161", "title": "Engineering Psychology", "units": "4", "prereqs": null}
-{"code": "PSYC 162", "title": "Psychology and the Law", "units": "4", "prereqs": null}
-{"code": "PSYC 164", "title": "Criminology", "units": "4", "prereqs": null}
-{"code": "PSYC 166", "title": "History of Psychology", "units": "4", "prereqs": null}
-{"code": "PSYC 167", "title": "Science of Imagination", "units": "4", "prereqs": null}
-{"code": "PSYC 168", "title": "Psychological Disorders of Childhood", "units": "4", "prereqs": null}
-{"code": "PSYC 169", "title": "Brain Damage and Mental Function", "units": "4", "prereqs": null}
-{"code": "PSYC 170", "title": "Cognitive Neuropsychology", "units": "4", "prereqs": null}
-{"code": "PSYC 171", "title": "Neurobiology of Learning and Memory", "units": "4", "prereqs": {"type": "one", "courses": ["BILD 12", "COGS 107B", "COGS 17", "PSYC 106", "PSYC 181", "PSYC 181GS", "PSYC 2"]}}
-{"code": "PSYC 172", "title": "Psychology of Human Sexuality", "units": "4", "prereqs": null}
-{"code": "PSYC 173", "title": "Psychology of Food and Behavior", "units": "4", "prereqs": null}
-{"code": "PSYC 174", "title": "Visual Cognition", "units": "4", "prereqs": null}
-{"code": "PSYC 175", "title": "Science of Mindfulness", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["COGS 14B", "MATH 11", "PSYC 60"]}, {"type": "one", "courses": ["COGS 14A", "PSYC 70"]}]}}
-{"code": "PSYC 176", "title": "Creativity", "units": "4", "prereqs": null}
-{"code": "PSYC 178", "title": "Industrial Organizational Psychology", "units": "4", "prereqs": null}
-{"code": "PSYC 179", "title": "Drugs, Addiction, and Mental Disorders", "units": "4", "prereqs": null}
-{"code": "PSYC 180", "title": "Adolescence", "units": "4", "prereqs": null}
-{"code": "PSYC 181", "title": "Psychopharmacology\u2014Drugs and Behavior", "units": "4", "prereqs": null}
-{"code": "PSYC 182", "title": "Illusions and the Brain", "units": "4", "prereqs": null}
-{"code": "PSYC 184", "title": "Choice and Self-Control", "units": "4", "prereqs": null}
-{"code": "PSYC 185", "title": "Psychology of Climate Crisis", "units": "4", "prereqs": null}
-{"code": "PSYC 186", "title": "Evolutionary Psychology", "units": "4", "prereqs": null}
-{"code": "PSYC 186GS", "title": "Global Seminar\u2014Early History of Psychiatry: Psychiatry, Neuroscience, and Pharmacology of the Renaissance through the Enlightenment", "units": "4", "prereqs": null}
-{"code": "PSYC 187", "title": "Development of Social Cognition", "units": "4", "prereqs": null}
-{"code": "PSYC 188", "title": "Impulse Control Disorders", "units": "4", "prereqs": null}
-{"code": "PSYC 189", "title": "Brain, Behavior, and Evolution", "units": "4", "prereqs": {"type": "one", "courses": ["BILD 2", "COGS 101A", "COGS 107B", "PSYC 102", "PSYC 106"]}}
-{"code": "PSYC 190", "title": "Science of Parenting", "units": "4", "prereqs": null}
-{"code": "PSYC 191", "title": "Psychology of Sleep", "units": "4", "prereqs": null}
-{"code": "PSYC 192", "title": "Senior Seminar in Psychology", "units": "1", "prereqs": null}
-{"code": "PSYC 193", "title": "Topics in Psychology", "units": "4", "prereqs": null}
-{"code": "PSYC 193L", "title": "Psychology Laboratory Topics", "units": "4", "prereqs": null}
-{"code": "PSYC 194A", "title": "Honors Thesis I", "units": "4", "prereqs": {"type": "all", "courses": ["PSYC 110", "PSYC 111A", "PSYC 111B"]}}
-{"code": "PSYC 194B", "title": "Honors Thesis II", "units": "4", "prereqs": "PSYC 194A"}
-{"code": "PSYC 194C", "title": "Honors Thesis III", "units": "4", "prereqs": "PSYC 194B"}
-{"code": "PSYC 195", "title": "Instruction in Psychology", "units": "1 or 4", "prereqs": null}
-{"code": "PSYC 196A-B-C", "title": ". Research Seminar", "units": "4-4-4", "prereqs": null}
-{"code": "PSYC 198", "title": "Directed Group Study in Psychology", "units": "2 or 4", "prereqs": null}
-{"code": "PSYC 199", "title": "Independent Study", "units": "2, 3, 4", "prereqs": null}
-{"code": "PSYC 201A", "title": "Quantitative Methods in Psychology I", "units": "6", "prereqs": null}
-{"code": "PSYC 201B", "title": "Quantitative Methods in Psychology II", "units": "6", "prereqs": "PSYC 201A"}
-{"code": "PSYC 201C", "title": "Quantitative Methods in Psychology III", "units": "6", "prereqs": "PSYC 201B"}
-{"code": "PSYC 202", "title": "Writing and Presenting Academic Research Papers", "units": "4", "prereqs": null}
-{"code": "PSYC 205", "title": "Emotion", "units": "4", "prereqs": null}
-{"code": "PSYC 206", "title": "Mathematical Modeling", "units": "4", "prereqs": null}
-{"code": "PSYC 209", "title": "Judgment and Decision Making", "units": "4", "prereqs": null}
-{"code": "PSYC 210", "title": "The Methods of Human Cognitive Neuroscience", "units": "5", "prereqs": null}
-{"code": "PSYC 211", "title": "Proseminar in Computational Models of Mind", "units": "5", "prereqs": null}
-{"code": "PSYC 212", "title": "Visual Science", "units": "4", "prereqs": null}
-{"code": "PSYC 213", "title": "Professional Procedures and Survival in Psychology", "units": "4", "prereqs": null}
-{"code": "PSYC 217", "title": "Proseminar in Developmental Psychology", "units": "5", "prereqs": null}
-{"code": "PSYC 218", "title": "Proseminar in Cognitive Psychology", "units": "5", "prereqs": null}
-{"code": "PSYC 219", "title": "Writing about Thinking", "units": "4", "prereqs": null}
-{"code": "PSYC 220", "title": "Proseminar in Social Psychology", "units": "5", "prereqs": null}
-{"code": "PSYC 221", "title": "Proseminar in Sensation and Perception", "units": "5", "prereqs": null}
-{"code": "PSYC 222", "title": "Proseminar in Biological Psychology", "units": "5", "prereqs": null}
-{"code": "PSYC 223", "title": "Current Directions in Vision", "units": "1", "prereqs": null}
-{"code": "PSYC 224", "title": "Current Directions in Cognitive Neural Systems", "units": "CNS", "prereqs": null}
-{"code": "PSYC 229", "title": "Happiness", "units": "4", "prereqs": null}
-{"code": "PSYC 230", "title": "Computational Approaches to Visual Abstraction", "units": "4", "prereqs": null}
-{"code": "PSYC 231", "title": "Tools for Experimental Analysis", "units": "4", "prereqs": null}
-{"code": "PSYC 232", "title": "Probabilistic Models of Cognition", "units": "4", "prereqs": null}
-{"code": "PSYC 233", "title": "Learning and Motivation", "units": "4", "prereqs": null}
-{"code": "PSYC 234", "title": "Evolution of Language", "units": "4", "prereqs": null}
-{"code": "PSYC 235", "title": "Thought and Language", "units": "4", "prereqs": null}
-{"code": "PSYC 236", "title": "Substance Abuse", "units": "4", "prereqs": null}
-{"code": "PSYC 237", "title": "Human Rationality", "units": "4", "prereqs": null}
-{"code": "PSYC 240", "title": "The Primate Brain", "units": "4", "prereqs": null}
-{"code": "PSYC 241", "title": "Programming Web-Based Experiments for Psychology Research", "units": "4", "prereqs": null}
-{"code": "PSYC 242", "title": "Current Directions in Developmental Psychology", "units": "1", "prereqs": null}
-{"code": "PSYC 243", "title": "Sound and Music Perception", "units": "4", "prereqs": null}
-{"code": "PSYC 244", "title": "Special Topics in Psycholinguistics", "units": "4", "prereqs": null}
-{"code": "PSYC 246", "title": "Emotion and Cognition", "units": "4", "prereqs": null}
-{"code": "PSYC 247", "title": "Learning by Thinking in Children", "units": "and Adults", "prereqs": null}
-{"code": "PSYC 249A", "title": "Advanced Topics in Applied Behavior Analysis I", "units": "1", "prereqs": null}
-{"code": "PSYC 249B", "title": "Advanced Topics in Applied Behavior Analysis II", "units": "1", "prereqs": null}
-{"code": "PSYC 249C", "title": "Advanced Topics in Applied Behavior Analysis III", "units": "1", "prereqs": null}
-{"code": "PSYC 251", "title": "Advanced Topics in Learning and Motivation", "units": "1", "prereqs": null}
-{"code": "PSYC 252", "title": "Cognitive Neuroscience", "units": "4", "prereqs": null}
-{"code": "PSYC 255A", "title": "Advanced Topics in Biological Psychology I", "units": "1", "prereqs": null}
-{"code": "PSYC 255B", "title": "Advanced Topics in Biological Psychology II", "units": "1", "prereqs": null}
-{"code": "PSYC 255C", "title": "Advanced Topics in Biological Psychology III", "units": "1", "prereqs": null}
-{"code": "PSYC 257", "title": "Development and Neurobiology of Theory of Mind", "units": "4", "prereqs": null}
-{"code": "PSYC 258", "title": "Delay of Gratification", "units": "4", "prereqs": null}
-{"code": "PSYC 260", "title": "Language and Conceptual Development", "units": "4", "prereqs": null}
-{"code": "PSYC 262", "title": "Functional Construction of the Vertebrate Brain\u2019s Social Behavior Network", "units": "4", "prereqs": null}
-{"code": "PSYC 263", "title": "Science of Mindfulness", "units": "4", "prereqs": null}
-{"code": "PSYC 264A", "title": "Advanced Topics in Language Processes I", "units": "1", "prereqs": null}
-{"code": "PSYC 264B", "title": "Advanced Topics in Language Processes II", "units": "1", "prereqs": null}
-{"code": "PSYC 264C", "title": "Advanced Topics in Language Processes III", "units": "1", "prereqs": null}
-{"code": "PSYC 265", "title": "Social Psychology and Medicine", "units": "4", "prereqs": null}
-{"code": "PSYC 266", "title": "Psychology of Reading", "units": "4", "prereqs": null}
-{"code": "PSYC 267A", "title": "Advanced Topics in Behavior Medicine I", "units": "1", "prereqs": null}
-{"code": "PSYC 267B", "title": "Advanced Topics in Behavior Medicine II", "units": "1", "prereqs": null}
-{"code": "PSYC 267C", "title": "Advanced Topics in Behavior Medicine III", "units": "1", "prereqs": null}
-{"code": "PSYC 268", "title": "Neurobiology of Action", "units": "4", "prereqs": null}
-{"code": "PSYC 269A", "title": "Advanced Topics in Sound and Music Perception I", "units": "1", "prereqs": null}
-{"code": "PSYC 269B", "title": "Advanced Topics in Sound and Music Perception II", "units": "1", "prereqs": null}
-{"code": "PSYC 269C", "title": "Advanced Topics in Sound and Music Perception III", "units": "1", "prereqs": null}
-{"code": "PSYC 270A", "title": "Introduction to Laboratory Experimentation I", "units": "4", "prereqs": null}
-{"code": "PSYC 270B", "title": "Introduction to Laboratory Experimentation II", "units": "4", "prereqs": null}
-{"code": "PSYC 270C", "title": "Introduction to Laboratory Experimentation III", "units": "4", "prereqs": null}
-{"code": "PSYC 271", "title": "Neurobiology of Learning and Memory", "units": "4", "prereqs": null}
-{"code": "PSYC 272", "title": "Selected Topics in Cognitive Psychology", "units": "4", "prereqs": null}
-{"code": "PSYC 273", "title": "Selected Topics in Quantitative Methods in Psychology", "units": "4", "prereqs": null}
-{"code": "PSYC 274", "title": "Current Directions in Social Psychology", "units": "1", "prereqs": null}
-{"code": "PSYC 275", "title": "Current Directions in Cognitive Psychology", "units": "1", "prereqs": null}
-{"code": "PSYC 276", "title": "Selected Topics in Social Psychology", "units": "4", "prereqs": null}
-{"code": "PSYC 280", "title": "Seminar in Communication and Information Processing", "units": "1", "prereqs": null}
-{"code": "PSYC 282", "title": "Auditory Neuroscience", "units": "4", "prereqs": null}
-{"code": "PSYC 296", "title": "Research Practicum", "units": "1\u201312", "prereqs": null}
-{"code": "PSYC 299", "title": "Research Practicum", "units": "1\u201312", "prereqs": null}
-{"code": "PSYC 500", "title": "Apprentice Teaching", "units": "4", "prereqs": null}
+{"code": "PSYC 1", "title": "Psychology", "units": "4", "anchor": "psyc1"}
+{"code": "PSYC 2", "title": "General Psychology: Biological Foundations", "units": "4", "anchor": "psyc2"}
+{"code": "PSYC 3", "title": "General Psychology: Cognitive Foundations", "units": "4", "anchor": "psyc3"}
+{"code": "PSYC 4", "title": "General Psychology: Behavioral Foundations", "units": "4", "anchor": "psyc4"}
+{"code": "PSYC 6", "title": "General Psychology: Social Foundations", "units": "4", "anchor": "psyc6"}
+{"code": "PSYC 7", "title": "General Psychology: Developmental Foundations", "units": "4", "anchor": "psyc7"}
+{"code": "PSYC 60", "title": "Introduction to Statistics", "units": "4", "anchor": "psyc7"}
+{"code": "PSYC 70", "title": "Research Methods in Psychology", "units": "4", "anchor": "psyc7", "prereqs": "PSYC 60"}
+{"code": "PSYC 71", "title": "Laboratory in Psychological Research Methods", "units": "4", "anchor": "psyc7", "prereqs": {"type": "one", "courses": ["PSYC 70", "COGS 14A"]}}
+{"code": "PSYC 81", "title": "Laboratory in Brain, Behavior, and Evolution", "units": "4", "anchor": "psyc7", "prereqs": {"type": "one", "courses": ["COGS 14B", "COGS 11", "PSYC 60"]}}
+{"code": "PSYC 87", "title": "First-year Student Seminar", "units": "1", "anchor": "psyc7"}
+{"code": "PSYC 88", "title": "Learning Sustainable Well-being", "units": "1", "anchor": "psyc7"}
+{"code": "PSYC 90", "title": "Undergraduate Seminar", "units": "1", "anchor": "psyc7"}
+{"code": "PSYC 93", "title": "Topics in Psychology", "units": "4", "anchor": "psyc7"}
+{"code": "PSYC 99", "title": "Independent Study", "units": "2 or 4", "anchor": "psyc7"}
+{"code": "PSYC 100", "title": "Clinical Psychology", "units": "4", "anchor": "psyc7"}
+{"code": "PSYC 101", "title": "Developmental Psychology", "units": "4", "anchor": "psyc7"}
+{"code": "PSYC 102", "title": "Sensory Neuroscience", "units": "4", "anchor": "psyc7"}
+{"code": "PSYC 104", "title": "Social Psychology", "units": "4", "anchor": "psyc7"}
+{"code": "PSYC 105", "title": "Cognitive Psychology", "units": "4", "anchor": "psyc7"}
+{"code": "PSYC 106", "title": "Behavioral Neuroscience", "units": "4", "anchor": "psyc7"}
+{"code": "PSYC 108", "title": "Cognitive Neuroscience", "units": "4", "anchor": "psyc7"}
+{"code": "PSYC 110", "title": "Juniors Honors Research Seminars", "units": "4", "anchor": "psyc7"}
+{"code": "PSYC 111A", "title": "Research Methods I", "units": "6", "anchor": "psyc7"}
+{"code": "PSYC 111B", "title": "Research Methods II", "units": "6", "anchor": "psyc7", "prereqs": "PSYC 111A"}
+{"code": "PSYC 113", "title": "Electroencephalogram", "units": "EEG", "anchor": "psyc7", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PSYC 60", "COGS 14B"]}, {"type": "one", "courses": ["PSYC 70", "COGS 14A"]}, {"type": "one", "courses": ["COGS 101A", "COGS 107A", "COGS 107B", "COGS 107C", "PSYC 102", "PSYC 106", "PSYC 108"]}]}}
+{"code": "PSYC 114", "title": "Psychophysiological Perspectives on the Social Mind Laboratory", "units": "4", "anchor": "psyc7"}
+{"code": "PSYC 115A", "title": "Laboratory in Cognitive Psychology I", "units": "4", "anchor": "psyc7", "prereqs": "PSYC 60"}
+{"code": "PSYC 115B", "title": "Laboratory in Cognitive Psychology II", "units": "4", "anchor": "psyc7", "prereqs": "PSYC 115A"}
+{"code": "PSYC 116A", "title": "Laboratory in Clinical Psychology Research I", "units": "4", "anchor": "psyc7", "prereqs": {"type": "all", "courses": ["PSYC 70", "PSYC 100"]}}
+{"code": "PSYC 116B", "title": "Laboratory in Clinical Psychology Research II", "units": "4", "anchor": "psyc7", "prereqs": "PSYC 116A"}
+{"code": "PSYC 116C", "title": "Laboratory in Clinical Psychology Research III", "units": "4", "anchor": "psyc7", "prereqs": "PSYC 116B"}
+{"code": "PSYC 117", "title": "Laboratory in Educational Research and Outreach", "units": "4", "anchor": "psyc7"}
+{"code": "PSYC 118", "title": "Laboratory in Animal Behavior", "units": "4", "anchor": "psyc7"}
+{"code": "PSYC 120", "title": "Learning and Motivation", "units": "4", "anchor": "psyc7"}
+{"code": "PSYC 121", "title": "Laboratory in Operant Psychology", "units": "4", "anchor": "psyc7"}
+{"code": "PSYC 122", "title": "Mechanisms of Animal Behavior", "units": "4", "anchor": "psyc122"}
+{"code": "PSYC 123", "title": "Cognitive Control and Frontal Lobe Function", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 124", "title": "Clinical Assessment and Treatment", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 125", "title": "Clinical Neuropsychology", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 126", "title": "Practicum in Community Mental Health Care", "units": "4", "anchor": "psyc123", "prereqs": {"type": "all", "courses": ["PSYC 100", "PSYC 124"]}}
+{"code": "PSYC 128", "title": "Psychology of Reading", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 129", "title": "Logic of Perception", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 130", "title": "Delay of Gratification", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 131", "title": "Scientific Racism: Genetics, Intelligence, and Race", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 132", "title": "Hormones and Behavior", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 133", "title": "Circadian Rhythms\u2014Biological Clocks", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 134", "title": "Eating Disorders", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 136", "title": "Cognitive Development", "units": "4", "anchor": "psyc123", "prereqs": {"type": "one", "courses": ["PSYC 101", "PSYC 105"]}}
+{"code": "PSYC 137", "title": "Social Cognition", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 138", "title": "Sound and Music Perception", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 139", "title": "The Social Psychology of Sport", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 140", "title": "Human Behavior Laboratory", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 141", "title": "Evolution and Human Nature", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 142", "title": "Psychology of Consciousness", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 143", "title": "Control and Analysis of Human Behavior", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 144", "title": "Memory and Amnesia", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 145", "title": "Psychology of Language", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 146", "title": "Language and Conceptual Development", "units": "4", "anchor": "psyc123"}
+{"code": "PSYC 147", "title": "Gender", "units": "4", "anchor": "psyc147"}
+{"code": "PSYC 148", "title": "Psychology of Judgment and Decision", "units": "4", "anchor": "psyc147"}
+{"code": "PSYC 150", "title": "Cognitive Neuroscience of Vision", "units": "4", "anchor": "psyc147", "prereqs": {"type": "one", "courses": ["COGS 101A", "COGS 107C", "PSYC 102", "PSYC 108"]}}
+{"code": "PSYC 151", "title": "Tests and Measurement", "units": "4", "anchor": "psyc147", "prereqs": {"type": "one", "courses": ["COGS 14B", "MATH 11", "PSYC 60"]}}
+{"code": "PSYC 152", "title": "Conceptions of Intelligence", "units": "4", "anchor": "psyc147"}
+{"code": "PSYC 153", "title": "Psychology of Emotion", "units": "4", "anchor": "psyc147"}
+{"code": "PSYC 154", "title": "Behavior Modification", "units": "4", "anchor": "psyc147"}
+{"code": "PSYC 155", "title": "Social Psychology and Medicine", "units": "4", "anchor": "psyc147"}
+{"code": "PSYC 156", "title": "Cognitive Development in Infancy", "units": "4", "anchor": "psyc147", "prereqs": {"type": "one", "courses": ["PSYC 101", "HDS 1"]}}
+{"code": "PSYC 157", "title": "Happiness", "units": "4", "anchor": "psyc147"}
+{"code": "PSYC 158", "title": "Interpersonal Relationships", "units": "4", "anchor": "psyc147"}
+{"code": "PSYC 159", "title": "Physiological Basis of Perception", "units": "4", "anchor": "psyc147", "prereqs": {"type": "one", "courses": ["PSYC 102", "COGS 101A"]}}
+{"code": "PSYC 161", "title": "Engineering Psychology", "units": "4", "anchor": "psyc147"}
+{"code": "PSYC 162", "title": "Psychology and the Law", "units": "4", "anchor": "psyc147"}
+{"code": "PSYC 164", "title": "Criminology", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 166", "title": "History of Psychology", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 167", "title": "Science of Imagination", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 168", "title": "Psychological Disorders of Childhood", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 169", "title": "Brain Damage and Mental Function", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 170", "title": "Cognitive Neuropsychology", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 171", "title": "Neurobiology of Learning and Memory", "units": "4", "anchor": "psyc164", "prereqs": {"type": "one", "courses": ["BILD 12", "COGS 107B", "COGS 17", "PSYC 106", "PSYC 181", "PSYC 181GS", "PSYC 2"]}}
+{"code": "PSYC 172", "title": "Psychology of Human Sexuality", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 173", "title": "Psychology of Food and Behavior", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 174", "title": "Visual Cognition", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 175", "title": "Science of Mindfulness", "units": "4", "anchor": "psyc164", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["COGS 14B", "MATH 11", "PSYC 60"]}, {"type": "one", "courses": ["COGS 14A", "PSYC 70"]}]}}
+{"code": "PSYC 176", "title": "Creativity", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 178", "title": "Industrial Organizational Psychology", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 179", "title": "Drugs, Addiction, and Mental Disorders", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 180", "title": "Adolescence", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 181", "title": "Psychopharmacology\u2014Drugs and Behavior", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 182", "title": "Illusions and the Brain", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 184", "title": "Choice and Self-Control", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 185", "title": "Psychology of Climate Crisis", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 186", "title": "Evolutionary Psychology", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 186GS", "title": "Global Seminar\u2014Early History of Psychiatry: Psychiatry, Neuroscience, and Pharmacology of the Renaissance through the Enlightenment", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 187", "title": "Development of Social Cognition", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 188", "title": "Impulse Control Disorders", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 189", "title": "Brain, Behavior, and Evolution", "units": "4", "anchor": "psyc164", "prereqs": {"type": "one", "courses": ["BILD 2", "COGS 101A", "COGS 107B", "PSYC 102", "PSYC 106"]}}
+{"code": "PSYC 190", "title": "Science of Parenting", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 191", "title": "Psychology of Sleep", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 192", "title": "Senior Seminar in Psychology", "units": "1", "anchor": "psyc164"}
+{"code": "PSYC 193", "title": "Topics in Psychology", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 193L", "title": "Psychology Laboratory Topics", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 194A", "title": "Honors Thesis I", "units": "4", "anchor": "psyc164", "prereqs": {"type": "all", "courses": ["PSYC 110", "PSYC 111A", "PSYC 111B"]}}
+{"code": "PSYC 194B", "title": "Honors Thesis II", "units": "4", "anchor": "psyc164", "prereqs": "PSYC 194A"}
+{"code": "PSYC 194C", "title": "Honors Thesis III", "units": "4", "anchor": "psyc164", "prereqs": "PSYC 194B"}
+{"code": "PSYC 195", "title": "Instruction in Psychology", "units": "1 or 4", "anchor": "psyc164"}
+{"code": "PSYC 196A-B-C", "title": ". Research Seminar", "units": "4-4-4", "anchor": "psyc164"}
+{"code": "PSYC 198", "title": "Directed Group Study in Psychology", "units": "2 or 4", "anchor": "psyc164"}
+{"code": "PSYC 199", "title": "Independent Study", "units": "2, 3, 4", "anchor": "psyc164"}
+{"code": "PSYC 201A", "title": "Quantitative Methods in Psychology I", "units": "6", "anchor": "psyc164"}
+{"code": "PSYC 201B", "title": "Quantitative Methods in Psychology II", "units": "6", "anchor": "psyc164", "prereqs": "PSYC 201A"}
+{"code": "PSYC 201C", "title": "Quantitative Methods in Psychology III", "units": "6", "anchor": "psyc164", "prereqs": "PSYC 201B"}
+{"code": "PSYC 202", "title": "Writing and Presenting Academic Research Papers", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 205", "title": "Emotion", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 206", "title": "Mathematical Modeling", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 209", "title": "Judgment and Decision Making", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 210", "title": "The Methods of Human Cognitive Neuroscience", "units": "5", "anchor": "psyc164"}
+{"code": "PSYC 211", "title": "Proseminar in Computational Models of Mind", "units": "5", "anchor": "psyc164"}
+{"code": "PSYC 212", "title": "Visual Science", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 213", "title": "Professional Procedures and Survival in Psychology", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 217", "title": "Proseminar in Developmental Psychology", "units": "5", "anchor": "psyc164"}
+{"code": "PSYC 218", "title": "Proseminar in Cognitive Psychology", "units": "5", "anchor": "psyc164"}
+{"code": "PSYC 219", "title": "Writing about Thinking", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 220", "title": "Proseminar in Social Psychology", "units": "5", "anchor": "psyc164"}
+{"code": "PSYC 221", "title": "Proseminar in Sensation and Perception", "units": "5", "anchor": "psyc164"}
+{"code": "PSYC 222", "title": "Proseminar in Biological Psychology", "units": "5", "anchor": "psyc164"}
+{"code": "PSYC 223", "title": "Current Directions in Vision", "units": "1", "anchor": "psyc164"}
+{"code": "PSYC 224", "title": "Current Directions in Cognitive Neural Systems", "units": "CNS", "anchor": "psyc164"}
+{"code": "PSYC 229", "title": "Happiness", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 230", "title": "Computational Approaches to Visual Abstraction", "units": "4", "anchor": "psyc164"}
+{"code": "PSYC 231", "title": "Tools for Experimental Analysis", "units": "4", "anchor": "psyc231"}
+{"code": "PSYC 232", "title": "Probabilistic Models of Cognition", "units": "4", "anchor": "psyc232"}
+{"code": "PSYC 233", "title": "Learning and Motivation", "units": "4", "anchor": "psyc232"}
+{"code": "PSYC 234", "title": "Evolution of Language", "units": "4", "anchor": "psyc232"}
+{"code": "PSYC 235", "title": "Thought and Language", "units": "4", "anchor": "psyc232"}
+{"code": "PSYC 236", "title": "Substance Abuse", "units": "4", "anchor": "psyc232"}
+{"code": "PSYC 237", "title": "Human Rationality", "units": "4", "anchor": "psyc232"}
+{"code": "PSYC 240", "title": "The Primate Brain", "units": "4", "anchor": "psyc240"}
+{"code": "PSYC 241", "title": "Programming Web-Based Experiments for Psychology Research", "units": "4", "anchor": "psyc241"}
+{"code": "PSYC 242", "title": "Current Directions in Developmental Psychology", "units": "1", "anchor": "psyc241"}
+{"code": "PSYC 243", "title": "Sound and Music Perception", "units": "4", "anchor": "psyc241"}
+{"code": "PSYC 244", "title": "Special Topics in Psycholinguistics", "units": "4", "anchor": "psyc241"}
+{"code": "PSYC 246", "title": "Emotion and Cognition", "units": "4", "anchor": "psyc241"}
+{"code": "PSYC 247", "title": "Learning by Thinking in Children", "units": "and Adults", "anchor": "psyc241"}
+{"code": "PSYC 249A", "title": "Advanced Topics in Applied Behavior Analysis I", "units": "1", "anchor": "psyc241"}
+{"code": "PSYC 249B", "title": "Advanced Topics in Applied Behavior Analysis II", "units": "1", "anchor": "psyc241"}
+{"code": "PSYC 249C", "title": "Advanced Topics in Applied Behavior Analysis III", "units": "1", "anchor": "psyc241"}
+{"code": "PSYC 251", "title": "Advanced Topics in Learning and Motivation", "units": "1", "anchor": "psyc241"}
+{"code": "PSYC 252", "title": "Cognitive Neuroscience", "units": "4", "anchor": "psyc241"}
+{"code": "PSYC 255A", "title": "Advanced Topics in Biological Psychology I", "units": "1", "anchor": "psyc241"}
+{"code": "PSYC 255B", "title": "Advanced Topics in Biological Psychology II", "units": "1", "anchor": "psyc241"}
+{"code": "PSYC 255C", "title": "Advanced Topics in Biological Psychology III", "units": "1", "anchor": "psyc241"}
+{"code": "PSYC 257", "title": "Development and Neurobiology of Theory of Mind", "units": "4", "anchor": "psyc257"}
+{"code": "PSYC 258", "title": "Delay of Gratification", "units": "4", "anchor": "psyc257"}
+{"code": "PSYC 260", "title": "Language and Conceptual Development", "units": "4", "anchor": "psyc257"}
+{"code": "PSYC 262", "title": "Functional Construction of the Vertebrate Brain\u2019s Social Behavior Network", "units": "4", "anchor": "psyc257"}
+{"code": "PSYC 263", "title": "Science of Mindfulness", "units": "4", "anchor": "psyc257"}
+{"code": "PSYC 264A", "title": "Advanced Topics in Language Processes I", "units": "1", "anchor": "psyc257"}
+{"code": "PSYC 264B", "title": "Advanced Topics in Language Processes II", "units": "1", "anchor": "psyc257"}
+{"code": "PSYC 264C", "title": "Advanced Topics in Language Processes III", "units": "1", "anchor": "psyc257"}
+{"code": "PSYC 265", "title": "Social Psychology and Medicine", "units": "4", "anchor": "psyc265"}
+{"code": "PSYC 266", "title": "Psychology of Reading", "units": "4", "anchor": "psyc266"}
+{"code": "PSYC 267A", "title": "Advanced Topics in Behavior Medicine I", "units": "1", "anchor": "psyc266"}
+{"code": "PSYC 267B", "title": "Advanced Topics in Behavior Medicine II", "units": "1", "anchor": "psyc266"}
+{"code": "PSYC 267C", "title": "Advanced Topics in Behavior Medicine III", "units": "1", "anchor": "psyc266"}
+{"code": "PSYC 268", "title": "Neurobiology of Action", "units": "4", "anchor": "psyc266"}
+{"code": "PSYC 269A", "title": "Advanced Topics in Sound and Music Perception I", "units": "1", "anchor": "psyc266"}
+{"code": "PSYC 269B", "title": "Advanced Topics in Sound and Music Perception II", "units": "1", "anchor": "psyc266"}
+{"code": "PSYC 269C", "title": "Advanced Topics in Sound and Music Perception III", "units": "1", "anchor": "psyc266"}
+{"code": "PSYC 270A", "title": "Introduction to Laboratory Experimentation I", "units": "4", "anchor": "psyc266"}
+{"code": "PSYC 270B", "title": "Introduction to Laboratory Experimentation II", "units": "4", "anchor": "psyc266"}
+{"code": "PSYC 270C", "title": "Introduction to Laboratory Experimentation III", "units": "4", "anchor": "psyc266"}
+{"code": "PSYC 271", "title": "Neurobiology of Learning and Memory", "units": "4", "anchor": "psyc266"}
+{"code": "PSYC 272", "title": "Selected Topics in Cognitive Psychology", "units": "4", "anchor": "psyc266"}
+{"code": "PSYC 273", "title": "Selected Topics in Quantitative Methods in Psychology", "units": "4", "anchor": "psyc273"}
+{"code": "PSYC 274", "title": "Current Directions in Social Psychology", "units": "1", "anchor": "psyc273"}
+{"code": "PSYC 275", "title": "Current Directions in Cognitive Psychology", "units": "1", "anchor": "psyc275"}
+{"code": "PSYC 276", "title": "Selected Topics in Social Psychology", "units": "4", "anchor": "psyc275"}
+{"code": "PSYC 280", "title": "Seminar in Communication and Information Processing", "units": "1", "anchor": "psyc275"}
+{"code": "PSYC 282", "title": "Auditory Neuroscience", "units": "4", "anchor": "psyc275"}
+{"code": "PSYC 296", "title": "Research Practicum", "units": "1\u201312", "anchor": "psyc275"}
+{"code": "PSYC 299", "title": "Research Practicum", "units": "1\u201312", "anchor": "psyc275"}
+{"code": "PSYC 500", "title": "Apprentice Teaching", "units": "4", "anchor": "psyc275"}

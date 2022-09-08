@@ -1,43 +1,43 @@
-{"code": "CGS 2A", "title": "Introduction to Critical Gender Studies: Key Terms and Concepts", "units": "4", "prereqs": null}
-{"code": "CGS 2B", "title": "Introduction to Critical Gender Studies: Social Formations", "units": "4", "prereqs": null}
-{"code": "CGS 87", "title": "Critical Gender Studies First-year Seminar", "units": "1", "prereqs": null}
-{"code": "CGS 100A", "title": "Conceptualizing Gender: Theoretical Approaches", "units": "4", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B"]}}
-{"code": "CGS 100B", "title": "Conceptualizing Gender: Methods and Methodologies", "units": "4", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B"]}}
-{"code": "CGS 101", "title": "Gender and Globalization", "units": "4", "prereqs": null}
-{"code": "CGS 105", "title": "Queer Theory", "units": "4", "prereqs": null}
-{"code": "CGS 106", "title": "Gender and the Law", "units": "4", "prereqs": null}
-{"code": "CGS 108", "title": "Gender, Race, and Artificial Intelligence", "units": "4", "prereqs": null}
-{"code": "CGS 109", "title": "Sexual Violence", "units": "4", "prereqs": null}
-{"code": "CGS 110", "title": "Intersectional Struggles for Environmental Justice", "units": "4", "prereqs": null}
-{"code": "CGS 111", "title": "Gender and the Body", "units": "4", "prereqs": null}
-{"code": "CGS 112", "title": "Sexuality and Nation", "units": "4", "prereqs": null}
-{"code": "CGS 113", "title": "Gender and Sexuality in the Arts", "units": "4", "prereqs": null}
-{"code": "CGS 114", "title": "Gender, Race, Ethnicity, and Class", "units": "4", "prereqs": null}
-{"code": "CGS 117", "title": "Transgenderisms", "units": "4", "prereqs": null}
-{"code": "CGS 118", "title": "Gender and Incarceration", "units": "4", "prereqs": null}
-{"code": "CGS 119", "title": "Asian American Film, Video, and New Media: The Politics of Pleasure", "units": "4", "prereqs": null}
-{"code": "CGS 120", "title": "Capitalism and Gender", "units": "4", "prereqs": null}
-{"code": "CGS 121", "title": "Selected Topics in Critical Gender Studies", "units": "4", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B"]}}
-{"code": "CGS 122", "title": "Advanced Topics in Comparative Perspectives", "units": "4", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B"]}}
-{"code": "CGS 123", "title": "Gender and Reproductive Politics", "units": "4", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B"]}}
-{"code": "CGS 124", "title": "Girls and Sexuality", "units": "4", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B"]}}
-{"code": "CGS 125", "title": "Women of Color Writers", "units": "4", "prereqs": {"type": "one", "courses": ["CGS 2A", "CGS 2B"]}}
-{"code": "CGS 126", "title": "Muslims on Gender and Sexuality", "units": "4", "prereqs": {"type": "one", "courses": ["CGS 2A", "CGS 2B"]}}
-{"code": "CGS 127", "title": "Feminist Border Studies", "units": "4", "prereqs": {"type": "one", "courses": ["CGS 2A", "CGS 2B"]}}
-{"code": "CGS 128", "title": "Transnational Feminisms", "units": "4", "prereqs": {"type": "one", "courses": ["CGS 2A", "CGS 2B"]}}
-{"code": "CGS 130", "title": "Queer Performativity", "units": "4", "prereqs": {"type": "one", "courses": ["CGS 2A", "CGS 2B"]}}
-{"code": "CGS 137", "title": "Latina Issues and Cultural Production", "units": "4", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["CGS 2A", "CGS 2B"]}, "ETHN 1", "ETHN 2", "ETHN 3"]}}
-{"code": "CGS 147", "title": "Black Feminisms, Past and Present", "units": "4", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B", "ETHN 1", "ETHN 2", "ETHN 3"]}}
-{"code": "CGS 150", "title": "Visuality, Sexuality, and Race", "units": "4", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B", "ETHN 1", "ETHN 2", "ETHN 3"]}}
-{"code": "CGS 165", "title": "Gender and Sexuality in African American Communities", "units": "4", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B", "ETHN 1", "ETHN 2", "ETHN 3"]}}
-{"code": "CGS 187", "title": "Latinx Sexualities", "units": "4", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B", "ETHN 1", "ETHN 2", "ETHN 3"]}}
-{"code": "CGS 190", "title": "Honors Seminar", "units": "4", "prereqs": null}
-{"code": "CGS 196A", "title": "Critical Gender Studies Honors Research", "units": "4", "prereqs": null}
-{"code": "CGS 196B", "title": "Honors Thesis", "units": "4", "prereqs": null}
-{"code": "CGS 198", "title": "Directed Group Study", "units": "2\u20134", "prereqs": null}
-{"code": "CGS 199", "title": "Independent Study", "units": "2\u20134", "prereqs": null}
-{"code": "CGS 200", "title": "Advanced Studies in Critical Gender Studies", "units": "4", "prereqs": null}
-{"code": "CGS 208", "title": "Gender Variance", "units": "4", "prereqs": null}
-{"code": "CGS 280", "title": "Special Topics in Critical Gender Studies", "units": "4", "prereqs": null}
-{"code": "CGS 299", "title": "Advanced Practicum in Critical Gender Studies", "units": "4", "prereqs": null}
-{"code": "CGS 500", "title": "Apprentice Teaching in Critical Gender Studies", "units": "4", "prereqs": null}
+{"code": "CGS 2A", "title": "Introduction to Critical Gender Studies: Key Terms and Concepts", "units": "4", "anchor": "cgs2a"}
+{"code": "CGS 2B", "title": "Introduction to Critical Gender Studies: Social Formations", "units": "4", "anchor": "cgs2b"}
+{"code": "CGS 87", "title": "Critical Gender Studies First-year Seminar", "units": "1", "anchor": "cgs87"}
+{"code": "CGS 100A", "title": "Conceptualizing Gender: Theoretical Approaches", "units": "4", "anchor": "cgs100a", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B"]}}
+{"code": "CGS 100B", "title": "Conceptualizing Gender: Methods and Methodologies", "units": "4", "anchor": "cgs100b", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B"]}}
+{"code": "CGS 101", "title": "Gender and Globalization", "units": "4", "anchor": "cgs101"}
+{"code": "CGS 105", "title": "Queer Theory", "units": "4", "anchor": "cgs105"}
+{"code": "CGS 106", "title": "Gender and the Law", "units": "4", "anchor": "cgs106"}
+{"code": "CGS 108", "title": "Gender, Race, and Artificial Intelligence", "units": "4", "anchor": "cgs108"}
+{"code": "CGS 109", "title": "Sexual Violence", "units": "4", "anchor": "cgs109"}
+{"code": "CGS 110", "title": "Intersectional Struggles for Environmental Justice", "units": "4", "anchor": "cgs110"}
+{"code": "CGS 111", "title": "Gender and the Body", "units": "4", "anchor": "cgs111"}
+{"code": "CGS 112", "title": "Sexuality and Nation", "units": "4", "anchor": "cgs112"}
+{"code": "CGS 113", "title": "Gender and Sexuality in the Arts", "units": "4", "anchor": "cgs113"}
+{"code": "CGS 114", "title": "Gender, Race, Ethnicity, and Class", "units": "4", "anchor": "cgs114"}
+{"code": "CGS 117", "title": "Transgenderisms", "units": "4", "anchor": "cgs117"}
+{"code": "CGS 118", "title": "Gender and Incarceration", "units": "4", "anchor": "cgs118"}
+{"code": "CGS 119", "title": "Asian American Film, Video, and New Media: The Politics of Pleasure", "units": "4", "anchor": "cgs119"}
+{"code": "CGS 120", "title": "Capitalism and Gender", "units": "4", "anchor": "cgs120"}
+{"code": "CGS 121", "title": "Selected Topics in Critical Gender Studies", "units": "4", "anchor": "cgs121", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B"]}}
+{"code": "CGS 122", "title": "Advanced Topics in Comparative Perspectives", "units": "4", "anchor": "cgs122", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B"]}}
+{"code": "CGS 123", "title": "Gender and Reproductive Politics", "units": "4", "anchor": "cgs123", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B"]}}
+{"code": "CGS 124", "title": "Girls and Sexuality", "units": "4", "anchor": "cgs124", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B"]}}
+{"code": "CGS 125", "title": "Women of Color Writers", "units": "4", "anchor": "cgs125", "prereqs": {"type": "one", "courses": ["CGS 2A", "CGS 2B"]}}
+{"code": "CGS 126", "title": "Muslims on Gender and Sexuality", "units": "4", "anchor": "cgs126", "prereqs": {"type": "one", "courses": ["CGS 2A", "CGS 2B"]}}
+{"code": "CGS 127", "title": "Feminist Border Studies", "units": "4", "anchor": "cgs127", "prereqs": {"type": "one", "courses": ["CGS 2A", "CGS 2B"]}}
+{"code": "CGS 128", "title": "Transnational Feminisms", "units": "4", "anchor": "cgs128", "prereqs": {"type": "one", "courses": ["CGS 2A", "CGS 2B"]}}
+{"code": "CGS 130", "title": "Queer Performativity", "units": "4", "anchor": "cgs130", "prereqs": {"type": "one", "courses": ["CGS 2A", "CGS 2B"]}}
+{"code": "CGS 137", "title": "Latina Issues and Cultural Production", "units": "4", "anchor": "cgs137", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["CGS 2A", "CGS 2B"]}, "ETHN 1", "ETHN 2", "ETHN 3"]}}
+{"code": "CGS 147", "title": "Black Feminisms, Past and Present", "units": "4", "anchor": "cgs147", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B", "ETHN 1", "ETHN 2", "ETHN 3"]}}
+{"code": "CGS 150", "title": "Visuality, Sexuality, and Race", "units": "4", "anchor": "cgs150", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B", "ETHN 1", "ETHN 2", "ETHN 3"]}}
+{"code": "CGS 165", "title": "Gender and Sexuality in African American Communities", "units": "4", "anchor": "cgs165", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B", "ETHN 1", "ETHN 2", "ETHN 3"]}}
+{"code": "CGS 187", "title": "Latinx Sexualities", "units": "4", "anchor": "cgs187", "prereqs": {"type": "all", "courses": ["CGS 2A", "CGS 2B", "ETHN 1", "ETHN 2", "ETHN 3"]}}
+{"code": "CGS 190", "title": "Honors Seminar", "units": "4", "anchor": "cgs190"}
+{"code": "CGS 196A", "title": "Critical Gender Studies Honors Research", "units": "4", "anchor": "cgs196a"}
+{"code": "CGS 196B", "title": "Honors Thesis", "units": "4", "anchor": "cgs196b"}
+{"code": "CGS 198", "title": "Directed Group Study", "units": "2\u20134", "anchor": "cgs198"}
+{"code": "CGS 199", "title": "Independent Study", "units": "2\u20134", "anchor": "cgs199"}
+{"code": "CGS 200", "title": "Advanced Studies in Critical Gender Studies", "units": "4", "anchor": "cgs200"}
+{"code": "CGS 208", "title": "Gender Variance", "units": "4", "anchor": "cgs208"}
+{"code": "CGS 280", "title": "Special Topics in Critical Gender Studies", "units": "4", "anchor": "cgs280"}
+{"code": "CGS 299", "title": "Advanced Practicum in Critical Gender Studies", "units": "4", "anchor": "cgs299"}
+{"code": "CGS 500", "title": "Apprentice Teaching in Critical Gender Studies", "units": "4", "anchor": "cgs500"}

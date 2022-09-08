@@ -1,3 +1,3 @@
-{"code": "SEV 20", "title": "First-Year Honors Seminar", "units": "1", "prereqs": null}
-{"code": "SEV 195", "title": "Instructional Apprenticeship", "units": "4", "prereqs": null}
-{"code": "SEV 500", "title": "Apprentice Teaching", "units": "4", "prereqs": null}
+{"code": "SEV 20", "title": "First-Year Honors Seminar", "units": "1", "anchor": "sev20"}
+{"code": "SEV 195", "title": "Instructional Apprenticeship", "units": "4", "anchor": "sev195"}
+{"code": "SEV 500", "title": "Apprentice Teaching", "units": "4", "anchor": "sev500"}

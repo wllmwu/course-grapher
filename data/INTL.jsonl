@@ -1,7 +1,7 @@
-{"code": "INTL 97", "title": "Internship", "units": "1", "prereqs": null}
-{"code": "INTL 101", "title": "Culture and Society in International Perspective", "units": "4", "prereqs": null}
-{"code": "INTL 102", "title": "Economics, Politics, and International Change", "units": "4", "prereqs": null}
-{"code": "INTL 190", "title": "Seminar in International Studies", "units": "4", "prereqs": {"type": "all", "courses": ["INTL 101", "INTL 102"]}}
-{"code": "INTL 190H", "title": "Honors Seminar in International Studies", "units": "4", "prereqs": null}
-{"code": "INTL 196H", "title": "International Studies Honors Program", "units": "4", "prereqs": null}
-{"code": "INTL 197", "title": "Internship", "units": "1", "prereqs": null}
+{"code": "INTL 97", "title": "Internship", "units": "1", "anchor": "intl97"}
+{"code": "INTL 101", "title": "Culture and Society in International Perspective", "units": "4", "anchor": "intl101"}
+{"code": "INTL 102", "title": "Economics, Politics, and International Change", "units": "4", "anchor": "intl102"}
+{"code": "INTL 190", "title": "Seminar in International Studies", "units": "4", "anchor": "intl190", "prereqs": {"type": "all", "courses": ["INTL 101", "INTL 102"]}}
+{"code": "INTL 190H", "title": "Honors Seminar in International Studies", "units": "4", "anchor": "intl190h"}
+{"code": "INTL 196H", "title": "International Studies Honors Program", "units": "4", "anchor": "intl196h"}
+{"code": "INTL 197", "title": "Internship", "units": "1", "anchor": "intl197"}

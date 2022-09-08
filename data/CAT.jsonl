@@ -1,16 +1,16 @@
-{"code": "CAT 1", "title": "Culture, Art, and Technology 1", "units": "4", "prereqs": null}
-{"code": "CAT 2", "title": "Culture, Art, and Technology 2", "units": "6", "prereqs": "CAT 1"}
-{"code": "CAT 3", "title": "Culture, Art, and Technology 3", "units": "6", "prereqs": "CAT 2"}
-{"code": "CAT 24", "title": "Introduction to Special Projects/Topics", "units": "2 or 4", "prereqs": null}
-{"code": "CAT 75", "title": "Experience Art!\u2014Sixth College Seminar Series", "units": "1", "prereqs": null}
-{"code": "CAT 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
-{"code": "CAT 98", "title": "Culture, Art, and Technology Lower-Division Group Study", "units": "2 or 4", "prereqs": null}
-{"code": "CAT 124", "title": "Sixth College Practicum", "units": "4", "prereqs": null}
-{"code": "CAT 125", "title": "Public Rhetoric and Practical Communication", "units": "4", "prereqs": null}
-{"code": "CAT 125GS", "title": "Public Rhetoric and Practical Communication Global Seminar", "units": "4", "prereqs": null}
-{"code": "CAT 125R", "title": "Public Rhetoric and Practical Communication Online", "units": "4", "prereqs": null}
-{"code": "CAT 192", "title": "Senior Seminar in Culture, Art, and Technology", "units": "1", "prereqs": null}
-{"code": "CAT 195", "title": "Apprentice Teaching", "units": "4", "prereqs": null}
-{"code": "CAT 197", "title": "Culture, Art, and Technology Field Studies", "units": "4", "prereqs": {"type": "all", "courses": ["CAT 1", "CAT 2", "CAT 3"]}}
-{"code": "CAT 198", "title": "Culture, Art, and Technology Directed Group Studies", "units": "4", "prereqs": {"type": "all", "courses": ["CAT 1", "CAT 2", "CAT 3"]}}
-{"code": "CAT 199", "title": "Culture, Art, and Technology Independent Studies", "units": "4", "prereqs": {"type": "all", "courses": ["CAT 1", "CAT 2", "CAT 3"]}}
+{"code": "CAT 1", "title": "Culture, Art, and Technology 1", "units": "4", "anchor": "cat1"}
+{"code": "CAT 2", "title": "Culture, Art, and Technology 2", "units": "6", "anchor": "cat2", "prereqs": "CAT 1"}
+{"code": "CAT 3", "title": "Culture, Art, and Technology 3", "units": "6", "anchor": "cat3", "prereqs": "CAT 2"}
+{"code": "CAT 24", "title": "Introduction to Special Projects/Topics", "units": "2 or 4", "anchor": "cat24"}
+{"code": "CAT 75", "title": "Experience Art!\u2014Sixth College Seminar Series", "units": "1", "anchor": "cat87"}
+{"code": "CAT 87", "title": "First-year Student Seminar", "units": "1", "anchor": "cat87"}
+{"code": "CAT 98", "title": "Culture, Art, and Technology Lower-Division Group Study", "units": "2 or 4", "anchor": "cat98"}
+{"code": "CAT 124", "title": "Sixth College Practicum", "units": "4", "anchor": "cat124"}
+{"code": "CAT 125", "title": "Public Rhetoric and Practical Communication", "units": "4", "anchor": "cat125"}
+{"code": "CAT 125GS", "title": "Public Rhetoric and Practical Communication Global Seminar", "units": "4", "anchor": "cat125gs"}
+{"code": "CAT 125R", "title": "Public Rhetoric and Practical Communication Online", "units": "4", "anchor": "cat125r"}
+{"code": "CAT 192", "title": "Senior Seminar in Culture, Art, and Technology", "units": "1", "anchor": "cat192"}
+{"code": "CAT 195", "title": "Apprentice Teaching", "units": "4", "anchor": "cat195"}
+{"code": "CAT 197", "title": "Culture, Art, and Technology Field Studies", "units": "4", "anchor": "cat197", "prereqs": {"type": "all", "courses": ["CAT 1", "CAT 2", "CAT 3"]}}
+{"code": "CAT 198", "title": "Culture, Art, and Technology Directed Group Studies", "units": "4", "anchor": "cat198", "prereqs": {"type": "all", "courses": ["CAT 1", "CAT 2", "CAT 3"]}}
+{"code": "CAT 199", "title": "Culture, Art, and Technology Independent Studies", "units": "4", "anchor": "cat199", "prereqs": {"type": "all", "courses": ["CAT 1", "CAT 2", "CAT 3"]}}

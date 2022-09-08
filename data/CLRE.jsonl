@@ -1,32 +1,32 @@
-{"code": "CLRE 230", "title": "Digital Health", "units": "2", "prereqs": null}
-{"code": "CLRE 231", "title": "Implementation Science", "units": "2", "prereqs": null}
-{"code": "CLRE 232", "title": "Qualitative Research", "units": "2", "prereqs": null}
-{"code": "CLRE 233", "title": "Regulatory Science", "units": "2", "prereqs": null}
-{"code": "CLRE 234", "title": "Social Media Research", "units": "2", "prereqs": null}
-{"code": "CLRE 235", "title": "Team Science", "units": "2", "prereqs": null}
-{"code": "CLRE 236", "title": "Translational Research Fundamentals", "units": "2", "prereqs": null}
-{"code": "CLRE 237", "title": "Translational Regenerative Medicine", "units": "2", "prereqs": null}
-{"code": "CLRE 238", "title": "Applied Translational Research", "units": "2", "prereqs": "CLRE 236"}
-{"code": "CLRE 239", "title": "Applied Translational Research II", "units": "2", "prereqs": "CLRE 238"}
-{"code": "CLRE 250", "title": "Patient-Oriented Research I", "units": "2", "prereqs": null}
-{"code": "CLRE 251", "title": "Epidemiology I", "units": "2", "prereqs": null}
-{"code": "CLRE 252", "title": "Health Services Research", "units": "2", "prereqs": null}
-{"code": "CLRE 253", "title": "Biostatistics I", "units": "2", "prereqs": null}
-{"code": "CLRE 254", "title": "Biostatistics II", "units": "2", "prereqs": "CLRE 253"}
-{"code": "CLRE 255", "title": "Data Management and Informatics", "units": "2", "prereqs": null}
-{"code": "CLRE 256", "title": "Patient-Oriented Research II", "units": "2", "prereqs": "CLRE 250"}
-{"code": "CLRE 257", "title": "Epidemiology II", "units": "2", "prereqs": "CLRE 251"}
-{"code": "CLRE 258", "title": "Professional Development in Clinical Research", "units": "2", "prereqs": null}
-{"code": "CLRE 259", "title": "Scientific Communication Skills", "units": "2", "prereqs": null}
-{"code": "CLRE 260", "title": "Directed Studies in Clinical Research", "units": "2", "prereqs": null}
-{"code": "CLRE 262", "title": "Analyzing Medical Data Using \u201cR\u201d", "units": "2", "prereqs": "CLRE 253"}
-{"code": "CLRE 263", "title": "Longitudinal Data Analysis", "units": "2", "prereqs": "CLRE 253"}
-{"code": "CLRE 264", "title": "Clinical Decision Analysis", "units": "2", "prereqs": null}
-{"code": "CLRE 265", "title": "Advanced Regression Methods", "units": "2", "prereqs": {"type": "all", "courses": ["CLRE 253", "CLRE 254"]}}
-{"code": "CLRE 267", "title": "Advanced Statistics Using \u201cR\u201d", "units": "2", "prereqs": {"type": "all", "courses": ["CLRE 253", "CLRE 254", "CLRE 262"]}}
-{"code": "CLRE 268", "title": "Behavioral Science Research Methods", "units": "2", "prereqs": null}
-{"code": "CLRE 270", "title": "Experiential Learning in Clinical Research", "units": "2", "prereqs": {"type": "all", "courses": ["CLRE 250", "CLRE 251"]}}
-{"code": "CLRE 295A", "title": "Independent Study Project", "units": "ISP", "prereqs": null}
-{"code": "CLRE 295B", "title": "Independent Study Project", "units": "ISP", "prereqs": "CLRE 295A"}
-{"code": "CLRE 297", "title": "Independent Study Project", "units": "2", "prereqs": "CLRE 295A"}
-{"code": "CLRE 298", "title": "Independent Study Project", "units": "4", "prereqs": null}
+{"code": "CLRE 230", "title": "Digital Health", "units": "2", "anchor": "clre230"}
+{"code": "CLRE 231", "title": "Implementation Science", "units": "2", "anchor": "clre231"}
+{"code": "CLRE 232", "title": "Qualitative Research", "units": "2", "anchor": "clre232"}
+{"code": "CLRE 233", "title": "Regulatory Science", "units": "2", "anchor": "clre233"}
+{"code": "CLRE 234", "title": "Social Media Research", "units": "2", "anchor": "clre234"}
+{"code": "CLRE 235", "title": "Team Science", "units": "2", "anchor": "clre235"}
+{"code": "CLRE 236", "title": "Translational Research Fundamentals", "units": "2", "anchor": "clre236"}
+{"code": "CLRE 237", "title": "Translational Regenerative Medicine", "units": "2", "anchor": "clre237"}
+{"code": "CLRE 238", "title": "Applied Translational Research", "units": "2", "anchor": "clre238", "prereqs": "CLRE 236"}
+{"code": "CLRE 239", "title": "Applied Translational Research II", "units": "2", "anchor": "clre239", "prereqs": "CLRE 238"}
+{"code": "CLRE 250", "title": "Patient-Oriented Research I", "units": "2", "anchor": "clre250"}
+{"code": "CLRE 251", "title": "Epidemiology I", "units": "2", "anchor": "clre251"}
+{"code": "CLRE 252", "title": "Health Services Research", "units": "2", "anchor": "clre252"}
+{"code": "CLRE 253", "title": "Biostatistics I", "units": "2", "anchor": "clre253"}
+{"code": "CLRE 254", "title": "Biostatistics II", "units": "2", "anchor": "clre254", "prereqs": "CLRE 253"}
+{"code": "CLRE 255", "title": "Data Management and Informatics", "units": "2", "anchor": "clre255"}
+{"code": "CLRE 256", "title": "Patient-Oriented Research II", "units": "2", "anchor": "clre256", "prereqs": "CLRE 250"}
+{"code": "CLRE 257", "title": "Epidemiology II", "units": "2", "anchor": "clre257", "prereqs": "CLRE 251"}
+{"code": "CLRE 258", "title": "Professional Development in Clinical Research", "units": "2", "anchor": "clre258"}
+{"code": "CLRE 259", "title": "Scientific Communication Skills", "units": "2", "anchor": "clre259"}
+{"code": "CLRE 260", "title": "Directed Studies in Clinical Research", "units": "2", "anchor": "clre260"}
+{"code": "CLRE 262", "title": "Analyzing Medical Data Using \u201cR\u201d", "units": "2", "anchor": "clre262", "prereqs": "CLRE 253"}
+{"code": "CLRE 263", "title": "Longitudinal Data Analysis", "units": "2", "anchor": "clre263", "prereqs": "CLRE 253"}
+{"code": "CLRE 264", "title": "Clinical Decision Analysis", "units": "2", "anchor": "clre264"}
+{"code": "CLRE 265", "title": "Advanced Regression Methods", "units": "2", "anchor": "clre265", "prereqs": {"type": "all", "courses": ["CLRE 253", "CLRE 254"]}}
+{"code": "CLRE 267", "title": "Advanced Statistics Using \u201cR\u201d", "units": "2", "anchor": "clre267", "prereqs": {"type": "all", "courses": ["CLRE 253", "CLRE 254", "CLRE 262"]}}
+{"code": "CLRE 268", "title": "Behavioral Science Research Methods", "units": "2", "anchor": "clre268"}
+{"code": "CLRE 270", "title": "Experiential Learning in Clinical Research", "units": "2", "anchor": "clre270", "prereqs": {"type": "all", "courses": ["CLRE 250", "CLRE 251"]}}
+{"code": "CLRE 295A", "title": "Independent Study Project", "units": "ISP", "anchor": "clre295a"}
+{"code": "CLRE 295B", "title": "Independent Study Project", "units": "ISP", "anchor": "clre295b", "prereqs": "CLRE 295A"}
+{"code": "CLRE 297", "title": "Independent Study Project", "units": "2", "anchor": "clre297", "prereqs": "CLRE 295A"}
+{"code": "CLRE 298", "title": "Independent Study Project", "units": "4", "anchor": "clre298"}

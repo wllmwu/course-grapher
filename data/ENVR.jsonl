@@ -1,14 +1,14 @@
-{"code": "ENVR 30", "title": "Environmental Issues: Natural Sciences", "units": "4", "prereqs": null}
-{"code": "ENVR 87", "title": "Environmental Studies First-year Seminar", "units": "1", "prereqs": null}
-{"code": "ENVR 102", "title": "Selected Topics in Environmental Studies", "units": "4", "prereqs": null}
-{"code": "ENVR 105", "title": "Conservation Solutions", "units": "4", "prereqs": null}
-{"code": "ENVR 110", "title": "Environmental Law", "units": "4", "prereqs": null}
-{"code": "ENVR 120", "title": "Coastal Ecology", "units": "4", "prereqs": null}
-{"code": "ENVR 140", "title": "Wilderness and Human Values", "units": "4", "prereqs": null}
-{"code": "ENVR 141", "title": "Wilderness and Human Values Workshop", "units": "2", "prereqs": null}
-{"code": "ENVR 142GS", "title": "Wilderness and Human Values Abroad", "units": "4", "prereqs": null}
-{"code": "ENVR 144", "title": "Wilderness Training", "units": "2", "prereqs": null}
-{"code": "ENVR 195", "title": "Apprentice Teaching", "units": "0-4", "prereqs": null}
-{"code": "ENVR 198", "title": "Directed Group Study", "units": "4", "prereqs": null}
-{"code": "ENVR 199", "title": "Independent Study", "units": "4", "prereqs": null}
-{"code": "ENVR 500", "title": "Apprentice Teaching in Environmental Studies", "units": "4", "prereqs": null}
+{"code": "ENVR 30", "title": "Environmental Issues: Natural Sciences", "units": "4", "anchor": "envr30"}
+{"code": "ENVR 87", "title": "Environmental Studies First-year Seminar", "units": "1", "anchor": "envr87"}
+{"code": "ENVR 102", "title": "Selected Topics in Environmental Studies", "units": "4", "anchor": "envr102"}
+{"code": "ENVR 105", "title": "Conservation Solutions", "units": "4", "anchor": "envr105"}
+{"code": "ENVR 110", "title": "Environmental Law", "units": "4", "anchor": "envr110"}
+{"code": "ENVR 120", "title": "Coastal Ecology", "units": "4", "anchor": "envr120"}
+{"code": "ENVR 140", "title": "Wilderness and Human Values", "units": "4", "anchor": "envr140"}
+{"code": "ENVR 141", "title": "Wilderness and Human Values Workshop", "units": "2", "anchor": "envr141"}
+{"code": "ENVR 142GS", "title": "Wilderness and Human Values Abroad", "units": "4", "anchor": "envr142gs"}
+{"code": "ENVR 144", "title": "Wilderness Training", "units": "2", "anchor": "envr144"}
+{"code": "ENVR 195", "title": "Apprentice Teaching", "units": "0-4", "anchor": "envr195"}
+{"code": "ENVR 198", "title": "Directed Group Study", "units": "4", "anchor": "envr198"}
+{"code": "ENVR 199", "title": "Independent Study", "units": "4", "anchor": "envr199"}
+{"code": "ENVR 500", "title": "Apprentice Teaching in Environmental Studies", "units": "4", "anchor": "envr500"}

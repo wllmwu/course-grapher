@@ -1,15 +1,15 @@
-{"code": "LHCO 202", "title": "Strategic Management and Organizational Change", "units": "4", "prereqs": null}
-{"code": "LHCO 203", "title": "Using and Managing Information and Information Technologies", "units": "4", "prereqs": null}
-{"code": "LHCO 204", "title": "Conflict Resolution, Negotiation, and Team Building", "units": "2", "prereqs": null}
-{"code": "LHCO 206", "title": "Topics in Financial Management and Decision Making", "units": "2", "prereqs": null}
-{"code": "LHCO 209", "title": "Outcomes and Quality Improvement", "units": "4", "prereqs": null}
-{"code": "LHCO 212", "title": "Statistics and Applied Decision Making", "units": "2", "prereqs": null}
-{"code": "LHCO 213", "title": "Financial Accounting and Analysis", "units": "2", "prereqs": null}
-{"code": "LHCO 215", "title": "Modern Health Care", "units": "2", "prereqs": null}
-{"code": "LHCO 216", "title": "Healthcare Leadership", "units": "4", "prereqs": null}
-{"code": "LHCO 217", "title": "Project Management for Healthcare Professionals", "units": "2", "prereqs": null}
-{"code": "LHCO 218", "title": "Professional Development Seminar: Mentorship and Assessment", "units": "2", "prereqs": null}
-{"code": "LHCO 219", "title": "Process Improvement in Health Care", "units": "4", "prereqs": null}
-{"code": "LHCO 220", "title": "Topics in Health Law", "units": "2", "prereqs": null}
-{"code": "LHCO 221", "title": "Current Topics in Healthcare", "units": "2", "prereqs": null}
-{"code": "LHCO 298", "title": "Independent Study Project in the Management of Health Care", "units": "4", "prereqs": "LHCO 218"}
+{"code": "LHCO 202", "title": "Strategic Management and Organizational Change", "units": "4", "anchor": "lhco202"}
+{"code": "LHCO 203", "title": "Using and Managing Information and Information Technologies", "units": "4", "anchor": "lhco203"}
+{"code": "LHCO 204", "title": "Conflict Resolution, Negotiation, and Team Building", "units": "2", "anchor": "lhco204"}
+{"code": "LHCO 206", "title": "Topics in Financial Management and Decision Making", "units": "2", "anchor": "lhco206"}
+{"code": "LHCO 209", "title": "Outcomes and Quality Improvement", "units": "4", "anchor": "lhco209"}
+{"code": "LHCO 212", "title": "Statistics and Applied Decision Making", "units": "2", "anchor": "lhco212"}
+{"code": "LHCO 213", "title": "Financial Accounting and Analysis", "units": "2", "anchor": "lhco213"}
+{"code": "LHCO 215", "title": "Modern Health Care", "units": "2", "anchor": "lhco215"}
+{"code": "LHCO 216", "title": "Healthcare Leadership", "units": "4", "anchor": "lhco216"}
+{"code": "LHCO 217", "title": "Project Management for Healthcare Professionals", "units": "2", "anchor": "lhco217"}
+{"code": "LHCO 218", "title": "Professional Development Seminar: Mentorship and Assessment", "units": "2", "anchor": "lhco218"}
+{"code": "LHCO 219", "title": "Process Improvement in Health Care", "units": "4", "anchor": "lhco218"}
+{"code": "LHCO 220", "title": "Topics in Health Law", "units": "2", "anchor": "lhco218"}
+{"code": "LHCO 221", "title": "Current Topics in Healthcare", "units": "2", "anchor": "lhco218"}
+{"code": "LHCO 298", "title": "Independent Study Project in the Management of Health Care", "units": "4", "anchor": "lhco218", "prereqs": "LHCO 218"}

@@ -1,22 +1,22 @@
-{"code": "MATS 200", "title": "Graduate Seminar", "units": "0", "prereqs": null}
-{"code": "MATS 201A", "title": "Thermodynamics of Solids", "units": "4", "prereqs": null}
-{"code": "MATS 201B", "title": "Solid State Diffusion and Reaction Kinetics", "units": "4", "prereqs": null}
-{"code": "MATS 201C", "title": "Phase Transformations", "units": "4", "prereqs": null}
-{"code": "MATS 205A", "title": "Imperfections in Solids", "units": "4", "prereqs": null}
-{"code": "MATS 213A", "title": "Dynamic Behavior of Materials I", "units": "4", "prereqs": null}
-{"code": "MATS 227", "title": "Structure and Analysis of Solids", "units": "4", "prereqs": null}
-{"code": "MATS 231", "title": "Mechanics of Soft Materials", "units": "4", "prereqs": null}
-{"code": "MATS 236", "title": "Advanced Ceramic", "units": "4", "prereqs": null}
-{"code": "MATS 251A", "title": "Electronic and Photonic Properties of Materials", "units": "4", "prereqs": null}
-{"code": "MATS 251B", "title": "Magnetic Materials: Principles and Applications", "units": "4", "prereqs": null}
-{"code": "MATS 252", "title": "Biomaterials and Medical Devices", "units": "4", "prereqs": null}
-{"code": "MATS 253", "title": "Nanomaterials and Properties", "units": "4", "prereqs": null}
-{"code": "MATS 254", "title": "Frontier Micro-Electro-Mechanical Systems", "units": "MEMS", "prereqs": null}
-{"code": "MATS 255", "title": "Biomaterials and Biomimetics", "units": "4", "prereqs": null}
-{"code": "MATS 256", "title": "Energy Materials and Applications", "units": "4", "prereqs": null}
-{"code": "MATS 257", "title": "Polymer Science and Engineering", "units": "4", "prereqs": null}
-{"code": "MATS 261A", "title": "Processing of Polymers and Composites", "units": "4", "prereqs": null}
-{"code": "MATS 261B", "title": "Mechanical Behavior of Polymers and Composites", "units": "4", "prereqs": null}
-{"code": "MATS 295", "title": "Research Conference", "units": "2", "prereqs": null}
-{"code": "MATS 296", "title": "Independent Study", "units": "4", "prereqs": null}
-{"code": "MATS 299", "title": "Graduate Research", "units": "1\u201312", "prereqs": null}
+{"code": "MATS 200", "title": "Graduate Seminar", "units": "0", "anchor": "mats200"}
+{"code": "MATS 201A", "title": "Thermodynamics of Solids", "units": "4", "anchor": "mats201a"}
+{"code": "MATS 201B", "title": "Solid State Diffusion and Reaction Kinetics", "units": "4", "anchor": "mats201b"}
+{"code": "MATS 201C", "title": "Phase Transformations", "units": "4", "anchor": "mats201c"}
+{"code": "MATS 205A", "title": "Imperfections in Solids", "units": "4", "anchor": "mats205a"}
+{"code": "MATS 213A", "title": "Dynamic Behavior of Materials I", "units": "4", "anchor": "mats213a"}
+{"code": "MATS 227", "title": "Structure and Analysis of Solids", "units": "4", "anchor": "mats227"}
+{"code": "MATS 231", "title": "Mechanics of Soft Materials", "units": "4", "anchor": "mats231"}
+{"code": "MATS 236", "title": "Advanced Ceramic", "units": "4", "anchor": "mats236"}
+{"code": "MATS 251A", "title": "Electronic and Photonic Properties of Materials", "units": "4", "anchor": "mats251a"}
+{"code": "MATS 251B", "title": "Magnetic Materials: Principles and Applications", "units": "4", "anchor": "mats251b"}
+{"code": "MATS 252", "title": "Biomaterials and Medical Devices", "units": "4", "anchor": "mats252"}
+{"code": "MATS 253", "title": "Nanomaterials and Properties", "units": "4", "anchor": "mats253"}
+{"code": "MATS 254", "title": "Frontier Micro-Electro-Mechanical Systems", "units": "MEMS", "anchor": "mats254"}
+{"code": "MATS 255", "title": "Biomaterials and Biomimetics", "units": "4", "anchor": "mats255"}
+{"code": "MATS 256", "title": "Energy Materials and Applications", "units": "4", "anchor": "mats256"}
+{"code": "MATS 257", "title": "Polymer Science and Engineering", "units": "4", "anchor": "mats257"}
+{"code": "MATS 261A", "title": "Processing of Polymers and Composites", "units": "4", "anchor": "mats261a"}
+{"code": "MATS 261B", "title": "Mechanical Behavior of Polymers and Composites", "units": "4", "anchor": "mats261b"}
+{"code": "MATS 295", "title": "Research Conference", "units": "2", "anchor": "mats295"}
+{"code": "MATS 296", "title": "Independent Study", "units": "4", "anchor": "mats296"}
+{"code": "MATS 299", "title": "Graduate Research", "units": "1\u201312", "anchor": "mats299"}

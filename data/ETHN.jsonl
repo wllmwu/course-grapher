@@ -1,143 +1,143 @@
-{"code": "ETHN 1", "title": "Introduction to Ethnic Studies: Land and Labor", "units": "4", "prereqs": null}
-{"code": "ETHN 2", "title": "Introduction to Ethnic Studies: Circulations of Difference", "units": "4", "prereqs": null}
-{"code": "ETHN 3", "title": "Introduction to Ethnic Studies: Making Culture", "units": "4", "prereqs": null}
-{"code": "ETHN 20", "title": "Introduction to Asian American Studies", "units": "4", "prereqs": null}
-{"code": "ETHN 30", "title": "Introduction to Chicanx and Latinx Studies", "units": "4", "prereqs": null}
-{"code": "ETHN 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
-{"code": "ETHN 97", "title": "Field Studies in Racial and Ethnic Communities", "units": "1\u20134", "prereqs": null}
-{"code": "ETHN 98", "title": "Directed Group Studies", "units": "1\u20134", "prereqs": null}
-{"code": "ETHN 99", "title": "Independent Study", "units": "1\u20134", "prereqs": null}
-{"code": "ETHN 100A", "title": "Ethnic Studies: Theoretical Approaches", "units": "4", "prereqs": {"type": "one", "courses": ["ETHN 1", "ETHN 2", "ETHN 3"]}}
-{"code": "ETHN 100B", "title": "Interdisciplinary Methodologies", "units": "4", "prereqs": "ETHN 100A"}
-{"code": "ETHN 100C", "title": "Social Justice Praxis", "units": "4", "prereqs": {"type": "all", "courses": ["ETHN 100A", "ETHN 100B"]}}
-{"code": "ETHN 100H", "title": "Honors Research Design", "units": "4", "prereqs": {"type": "all", "courses": ["ETHN 100A", "ETHN 100B"]}}
-{"code": "ETHN 101", "title": "Ethnic Images in Film", "units": "4", "prereqs": null}
-{"code": "ETHN 101TV", "title": "Ethnic Images in TV", "units": "4", "prereqs": null}
-{"code": "ETHN 102", "title": "Science and Technology in Society: Race/Gender/Class", "units": "4", "prereqs": null}
-{"code": "ETHN 103", "title": "Environmental Racism", "units": "4", "prereqs": null}
-{"code": "ETHN 103A", "title": "The United States and the Pacific World", "units": "4", "prereqs": null}
-{"code": "ETHN 104", "title": "Race, Space, and Segregation", "units": "4", "prereqs": null}
-{"code": "ETHN 105", "title": "Ethnic Diversity and the City", "units": "4", "prereqs": null}
-{"code": "ETHN 106", "title": "Life, Death, and the Human", "units": "4", "prereqs": null}
-{"code": "ETHN 107", "title": "Fieldwork in Racial and Ethnic Communities", "units": "4", "prereqs": null}
-{"code": "ETHN 108", "title": "Race, Culture, and Social Change", "units": "4", "prereqs": null}
-{"code": "ETHN 109", "title": "Race and Social Movements", "units": "4", "prereqs": null}
-{"code": "ETHN 110", "title": "Cultural Worldviews of Indigenous America", "units": "4", "prereqs": null}
-{"code": "ETHN 111", "title": "Native American Literature", "units": "4", "prereqs": null}
-{"code": "ETHN 112A", "title": "History of Native Americans and Indigenous Peoples in the U.S. I", "units": "4", "prereqs": null}
-{"code": "ETHN 112B", "title": "History of Native Americans and Indigenous Peoples in the U.S. II", "units": "4", "prereqs": null}
-{"code": "ETHN 112C", "title": "California Native American History", "units": "4", "prereqs": null}
-{"code": "ETHN 113", "title": "Decolonizing Education", "units": "4", "prereqs": null}
-{"code": "ETHN 113A", "title": "Decolonizing Geology", "units": "4", "prereqs": null}
-{"code": "ETHN 114A", "title": "Representing Native America", "units": "4", "prereqs": null}
-{"code": "ETHN 114B", "title": "Representing Native America\u2014Exhibition Design", "units": "4", "prereqs": "ETHN 114A"}
-{"code": "ETHN 115", "title": "Monsters, Orphans, and\u00a0Robots", "units": "4", "prereqs": null}
-{"code": "ETHN 116", "title": "The United States\u2013Mexico Border in Comparative Perspective", "units": "4", "prereqs": null}
-{"code": "ETHN 117", "title": "Organic Social Movements", "units": "4", "prereqs": null}
-{"code": "ETHN 118", "title": "Contemporary Immigration Issues", "units": "4", "prereqs": null}
-{"code": "ETHN 119", "title": "Race in the Americas", "units": "4", "prereqs": null}
-{"code": "ETHN 120", "title": "Race and Performance: The Politics of Popular Culture", "units": "4", "prereqs": null}
-{"code": "ETHN 120D", "title": "Race and Oral History in San Diego", "units": "4", "prereqs": null}
-{"code": "ETHN 121", "title": "Contemporary Asian American History", "units": "4", "prereqs": null}
-{"code": "ETHN 122", "title": "Asian American Culture and Identity", "units": "4", "prereqs": null}
-{"code": "ETHN 123", "title": "Asian American Politics", "units": "4", "prereqs": null}
-{"code": "ETHN 124", "title": "Asian American Literature", "units": "4", "prereqs": null}
-{"code": "ETHN 125", "title": "Asian American History", "units": "4", "prereqs": null}
-{"code": "ETHN 126", "title": "Comparative Filipino and Vietnamese American Identities and Communities", "units": "4", "prereqs": null}
-{"code": "ETHN 127", "title": "Sexuality and Nation", "units": "4", "prereqs": null}
-{"code": "ETHN 128", "title": "Hip-Hop: The Politics of Culture", "units": "4", "prereqs": null}
-{"code": "ETHN 129", "title": "Asian and Latina Immigrant Workers in the Global Economy", "units": "4", "prereqs": null}
-{"code": "ETHN 130", "title": "Social and Economic History of the Southwest I", "units": "4", "prereqs": null}
-{"code": "ETHN 131", "title": "Social and Economic History of the Southwest II", "units": "4", "prereqs": null}
-{"code": "ETHN 132", "title": "Chicano Dramatic Literature", "units": "4", "prereqs": null}
-{"code": "ETHN 133", "title": "Hispanic American Dramatic Literature", "units": "4", "prereqs": null}
-{"code": "ETHN 134", "title": "Immigration and Ethnicity in Modern American Society", "units": "4", "prereqs": null}
-{"code": "ETHN 135A", "title": "Early Latino/a-Chicano/a Cultural Production: 1848 to 1960", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 50A", "LTSP 50B", "LTSP 50C"]}}
-{"code": "ETHN 135B", "title": "Contemporary Latino/a-Chicano/a Cultural Production: 1960 to Present", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 50A", "LTSP 50B", "LTSP 50C"]}}
-{"code": "ETHN 136", "title": "The Science and Critical Analysis of Environmental Justice", "units": "4", "prereqs": null}
-{"code": "ETHN 137", "title": "Latina Issues and Cultural Production", "units": "4", "prereqs": null}
-{"code": "ETHN 138", "title": "Black and Latinx Crossing", "units": "4", "prereqs": null}
-{"code": "ETHN 139", "title": "Chicano Literature in English", "units": "4", "prereqs": null}
-{"code": "ETHN 140", "title": "Comparative Refugee Communities from Vietnam, Laos, and Cambodia", "units": "4", "prereqs": null}
-{"code": "ETHN 140A", "title": "Refugee San Diego", "units": "4", "prereqs": null}
-{"code": "ETHN 141", "title": "Gandhi in the Modern World: From Civil Rights to the Arab Spring", "units": "4", "prereqs": null}
-{"code": "ETHN 142", "title": "Medicine, Race, and the Global Politics of Inequality", "units": "4", "prereqs": null}
-{"code": "ETHN 143", "title": "Chicana/o Film and Media Studies", "units": "4", "prereqs": null}
-{"code": "ETHN 144M", "title": "Antiracist Medicine and New Perspectives in Health Care", "units": "4", "prereqs": null}
-{"code": "ETHN 146A", "title": "Ensemble", "units": "4", "prereqs": null}
-{"code": "ETHN 147", "title": "Black Feminisms, Past and Present", "units": "4", "prereqs": null}
-{"code": "ETHN 149", "title": "African American History in the Twentieth Century", "units": "4", "prereqs": null}
-{"code": "ETHN 150", "title": "Visuality, Sexuality, and Race", "units": "4", "prereqs": null}
-{"code": "ETHN 151", "title": "Ethnic Politics in America", "units": "4", "prereqs": null}
-{"code": "ETHN 152", "title": "Law and Civil Rights", "units": "4", "prereqs": null}
-{"code": "ETHN 153", "title": "Citizenship and Civil Rights in the Twentieth Century", "units": "4", "prereqs": null}
-{"code": "ETHN 154", "title": "History of Mexican America", "units": "4", "prereqs": null}
-{"code": "ETHN 155", "title": "US Militarism", "units": "4", "prereqs": null}
-{"code": "ETHN 155GS", "title": "Critical Perspectives on the Vietnam War", "units": "4", "prereqs": null}
-{"code": "ETHN 157", "title": "Madness and Urbanization", "units": "4", "prereqs": null}
-{"code": "ETHN 158", "title": "Native American Intellectuals in the Twentieth Century", "units": "4", "prereqs": null}
-{"code": "ETHN 159", "title": "Topics in African American History", "units": "4", "prereqs": null}
-{"code": "ETHN 160", "title": "Global Indigenous Studies", "units": "4", "prereqs": null}
-{"code": "ETHN 162", "title": "Practicum in California Tribal Law and Journalism", "units": "4", "prereqs": null}
-{"code": "ETHN 163E", "title": "Decolonial Theory", "units": "4", "prereqs": null}
-{"code": "ETHN 163F", "title": "Playing Indian: Native American and First Nations Cinema", "units": "4", "prereqs": null}
-{"code": "ETHN 163G", "title": "Indigenous Theatre and Performance", "units": "4", "prereqs": null}
-{"code": "ETHN 163I", "title": "Asian American Histography", "units": "4", "prereqs": null}
-{"code": "ETHN 163J", "title": "Asian American Social Movements", "units": "4", "prereqs": null}
-{"code": "ETHN 164", "title": "African Americans and the Mass Media", "units": "4", "prereqs": null}
-{"code": "ETHN 165", "title": "Gender and Sexuality in African American Communities", "units": "4", "prereqs": null}
-{"code": "ETHN 166", "title": "Arab/Muslim American Identity and Culture", "units": "4", "prereqs": null}
-{"code": "ETHN 167", "title": "Muslim Identity in America", "units": "4", "prereqs": null}
-{"code": "ETHN 168", "title": "Comparative Ethnic Literature", "units": "4", "prereqs": null}
-{"code": "ETHN 169", "title": "Origins of the Atlantic World, c. 1450\u20131650", "units": "4", "prereqs": null}
-{"code": "ETHN 170", "title": "Slavery and the Atlantic World", "units": "4", "prereqs": null}
-{"code": "ETHN 172", "title": "Afro-American Prose", "units": "4", "prereqs": null}
-{"code": "ETHN 173GS", "title": "Gender, Sexuality, and War", "units": "4", "prereqs": null}
-{"code": "ETHN 174", "title": "Themes in Afro-American Literature", "units": "4", "prereqs": null}
-{"code": "ETHN 175", "title": "Literature of the Harlem Renaissance", "units": "4", "prereqs": null}
-{"code": "ETHN 177", "title": "Race, Sound, and Music", "units": "4", "prereqs": null}
-{"code": "ETHN 178", "title": "Blues: An Oral Tradition", "units": "4", "prereqs": null}
-{"code": "ETHN 179", "title": "Discover Jazz", "units": "4", "prereqs": null}
-{"code": "ETHN 182", "title": "Race, Gender, and Sexuality in Fantasy and Science Fiction", "units": "4", "prereqs": null}
-{"code": "ETHN 183", "title": "Gender, Race, Ethnicity, and Class", "units": "4", "prereqs": null}
-{"code": "ETHN 187", "title": "Latinx Sexualities", "units": "4", "prereqs": null}
-{"code": "ETHN 188", "title": "African Americans, Religion, and the City", "units": "4", "prereqs": null}
-{"code": "ETHN 180", "title": "Topics in Mexican American History", "units": "4", "prereqs": null}
-{"code": "ETHN 184", "title": "Black Intellectuals in the Twentieth Century", "units": "4", "prereqs": null}
-{"code": "ETHN 185", "title": "Discourse, Power, and Inequality", "units": "4", "prereqs": null}
-{"code": "ETHN 189", "title": "Special Topics in Ethnic Studies", "units": "4", "prereqs": null}
-{"code": "ETHN 190", "title": "Research Methods: Studying Racial and Ethnic Communities", "units": "4", "prereqs": null}
-{"code": "ETHN 196H", "title": "Honors Thesis", "units": "4", "prereqs": {"type": "all", "courses": ["ETHN 100A", "ETHN 100B", "ETHN 100H"]}}
-{"code": "ETHN 197", "title": "Fieldwork in Racial and Ethnic Communities", "units": "4", "prereqs": null}
-{"code": "ETHN 198", "title": "Directed Group Studies", "units": "4", "prereqs": null}
-{"code": "ETHN 199", "title": "Supervised Independent Study and Research", "units": "4", "prereqs": null}
-{"code": "ETHN 200A", "title": "Departures: A Genealogy of Critical Racial and Ethnic Studies", "units": "4", "prereqs": null}
-{"code": "ETHN 200B", "title": "Formulations: Interdisciplinarity and Knowledge Production in Ethnic Studies", "units": "4", "prereqs": null}
-{"code": "ETHN 200C", "title": "Projects", "units": "Proseminar", "prereqs": null}
-{"code": "ETHN 201", "title": "Historical Methods and Archives", "units": "4", "prereqs": null}
-{"code": "ETHN 202", "title": "Qualitative Methods/Ethnography", "units": "4", "prereqs": null}
-{"code": "ETHN 203", "title": "Cultural Studies and Cultural Production", "units": "4", "prereqs": null}
-{"code": "ETHN 214A", "title": "Representing Native America", "units": "4", "prereqs": null}
-{"code": "ETHN 214B", "title": "Representing Native America: Exhibition Design", "units": "4", "prereqs": "ETHN 214A"}
-{"code": "ETHN 230", "title": "Departmental Colloquium", "units": "1", "prereqs": null}
-{"code": "ETHN 252", "title": "Race, Gender, and Space", "units": "4", "prereqs": null}
-{"code": "ETHN 255", "title": "Race and Psychoanalysis", "units": "4", "prereqs": null}
-{"code": "ETHN 256", "title": "Gender, Sexuality, and Race", "units": "4", "prereqs": null}
-{"code": "ETHN 257A-B", "title": ". Social Theory", "units": "4-4", "prereqs": null}
-{"code": "ETHN 260", "title": "Transnationalism and Borderlands: The Local and Global", "units": "4", "prereqs": null}
-{"code": "ETHN 265", "title": "Critical Immigration and Refugee Studies", "units": "4", "prereqs": null}
-{"code": "ETHN 266", "title": "Popular Culture and Pedagogy", "units": "4", "prereqs": null}
-{"code": "ETHN 267", "title": "History and Memory", "units": "4", "prereqs": null}
-{"code": "ETHN 268", "title": "Theories and Cultures of US Imperialism", "units": "4", "prereqs": null}
-{"code": "ETHN 270", "title": "Indigenous Epistemologies and their Disruptions", "units": "4", "prereqs": null}
-{"code": "ETHN 275", "title": "Marxist Thought", "units": "4", "prereqs": null}
-{"code": "ETHN 280", "title": "Black Thought: Roots and Routes", "units": "4", "prereqs": null}
-{"code": "ETHN 287", "title": "Ethnography Practicum", "units": "4", "prereqs": null}
-{"code": "ETHN 289", "title": "Topics in Ethnic Studies Research", "units": "4", "prereqs": null}
-{"code": "ETHN 291", "title": "Comprehensive Examination Preparation", "units": "4", "prereqs": null}
-{"code": "ETHN 291A", "title": "Comprehensive Research Preparation: The Literature Review", "units": "4", "prereqs": null}
-{"code": "ETHN 291B", "title": "Comprehensive Research Preparation: The Methodologies Paper", "units": "4", "prereqs": "ETHN 291A"}
-{"code": "ETHN 298", "title": "Directed Reading", "units": "1\u201312", "prereqs": null}
-{"code": "ETHN 299", "title": "Thesis Research", "units": "1\u201312", "prereqs": null}
-{"code": "ETHN 500", "title": "Apprentice Teaching in Ethnic Studies", "units": "4", "prereqs": null}
-{"code": "ETIM 289", "title": "Interdisciplinary Methods Seminar: Special Topics", "units": "4", "prereqs": null}
+{"code": "ETHN 1", "title": "Introduction to Ethnic Studies: Land and Labor", "units": "4", "anchor": "ethn1"}
+{"code": "ETHN 2", "title": "Introduction to Ethnic Studies: Circulations of Difference", "units": "4", "anchor": "ethn2"}
+{"code": "ETHN 3", "title": "Introduction to Ethnic Studies: Making Culture", "units": "4", "anchor": "ethn3"}
+{"code": "ETHN 20", "title": "Introduction to Asian American Studies", "units": "4", "anchor": "ethn20"}
+{"code": "ETHN 30", "title": "Introduction to Chicanx and Latinx Studies", "units": "4", "anchor": "ethn30"}
+{"code": "ETHN 87", "title": "First-year Student Seminar", "units": "1", "anchor": "ethn87"}
+{"code": "ETHN 97", "title": "Field Studies in Racial and Ethnic Communities", "units": "1\u20134", "anchor": "ethn97"}
+{"code": "ETHN 98", "title": "Directed Group Studies", "units": "1\u20134", "anchor": "ethn98"}
+{"code": "ETHN 99", "title": "Independent Study", "units": "1\u20134", "anchor": "ethn99"}
+{"code": "ETHN 100A", "title": "Ethnic Studies: Theoretical Approaches", "units": "4", "anchor": "ethn100a", "prereqs": {"type": "one", "courses": ["ETHN 1", "ETHN 2", "ETHN 3"]}}
+{"code": "ETHN 100B", "title": "Interdisciplinary Methodologies", "units": "4", "anchor": "ethn100b", "prereqs": "ETHN 100A"}
+{"code": "ETHN 100C", "title": "Social Justice Praxis", "units": "4", "anchor": "ethn100c", "prereqs": {"type": "all", "courses": ["ETHN 100A", "ETHN 100B"]}}
+{"code": "ETHN 100H", "title": "Honors Research Design", "units": "4", "anchor": "ethn100h", "prereqs": {"type": "all", "courses": ["ETHN 100A", "ETHN 100B"]}}
+{"code": "ETHN 101", "title": "Ethnic Images in Film", "units": "4", "anchor": "ethn101"}
+{"code": "ETHN 101TV", "title": "Ethnic Images in TV", "units": "4", "anchor": "ethn101"}
+{"code": "ETHN 102", "title": "Science and Technology in Society: Race/Gender/Class", "units": "4", "anchor": "ethn102"}
+{"code": "ETHN 103", "title": "Environmental Racism", "units": "4", "anchor": "ethn103"}
+{"code": "ETHN 103A", "title": "The United States and the Pacific World", "units": "4", "anchor": "hius103"}
+{"code": "ETHN 104", "title": "Race, Space, and Segregation", "units": "4", "anchor": "ethn104"}
+{"code": "ETHN 105", "title": "Ethnic Diversity and the City", "units": "4", "anchor": "ethn105"}
+{"code": "ETHN 106", "title": "Life, Death, and the Human", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 107", "title": "Fieldwork in Racial and Ethnic Communities", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 108", "title": "Race, Culture, and Social Change", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 109", "title": "Race and Social Movements", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 110", "title": "Cultural Worldviews of Indigenous America", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 111", "title": "Native American Literature", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 112A", "title": "History of Native Americans and Indigenous Peoples in the U.S. I", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 112B", "title": "History of Native Americans and Indigenous Peoples in the U.S. II", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 112C", "title": "California Native American History", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 113", "title": "Decolonizing Education", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 113A", "title": "Decolonizing Geology", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 114A", "title": "Representing Native America", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 114B", "title": "Representing Native America\u2014Exhibition Design", "units": "4", "anchor": "ethn106", "prereqs": "ETHN 114A"}
+{"code": "ETHN 115", "title": "Monsters, Orphans, and\u00a0Robots", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 116", "title": "The United States\u2013Mexico Border in Comparative Perspective", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 117", "title": "Organic Social Movements", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 118", "title": "Contemporary Immigration Issues", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 119", "title": "Race in the Americas", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 120", "title": "Race and Performance: The Politics of Popular Culture", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 120D", "title": "Race and Oral History in San Diego", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 121", "title": "Contemporary Asian American History", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 122", "title": "Asian American Culture and Identity", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 123", "title": "Asian American Politics", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 124", "title": "Asian American Literature", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 125", "title": "Asian American History", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 126", "title": "Comparative Filipino and Vietnamese American Identities and Communities", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 127", "title": "Sexuality and Nation", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 128", "title": "Hip-Hop: The Politics of Culture", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 129", "title": "Asian and Latina Immigrant Workers in the Global Economy", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 130", "title": "Social and Economic History of the Southwest I", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 131", "title": "Social and Economic History of the Southwest II", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 132", "title": "Chicano Dramatic Literature", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 133", "title": "Hispanic American Dramatic Literature", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 134", "title": "Immigration and Ethnicity in Modern American Society", "units": "4", "anchor": "ethn106"}
+{"code": "ETHN 135A", "title": "Early Latino/a-Chicano/a Cultural Production: 1848 to 1960", "units": "4", "anchor": "ethn106", "prereqs": {"type": "one", "courses": ["LTSP 50A", "LTSP 50B", "LTSP 50C"]}}
+{"code": "ETHN 135B", "title": "Contemporary Latino/a-Chicano/a Cultural Production: 1960 to Present", "units": "4", "anchor": "ethn106", "prereqs": {"type": "one", "courses": ["LTSP 50A", "LTSP 50B", "LTSP 50C"]}}
+{"code": "ETHN 136", "title": "The Science and Critical Analysis of Environmental Justice", "units": "4", "anchor": "ethn136"}
+{"code": "ETHN 137", "title": "Latina Issues and Cultural Production", "units": "4", "anchor": "ethn137"}
+{"code": "ETHN 138", "title": "Black and Latinx Crossing", "units": "4", "anchor": "ethn138"}
+{"code": "ETHN 139", "title": "Chicano Literature in English", "units": "4", "anchor": "ethn139"}
+{"code": "ETHN 140", "title": "Comparative Refugee Communities from Vietnam, Laos, and Cambodia", "units": "4", "anchor": "ethn140"}
+{"code": "ETHN 140A", "title": "Refugee San Diego", "units": "4", "anchor": "ethn140a"}
+{"code": "ETHN 141", "title": "Gandhi in the Modern World: From Civil Rights to the Arab Spring", "units": "4", "anchor": "ethn141"}
+{"code": "ETHN 142", "title": "Medicine, Race, and the Global Politics of Inequality", "units": "4", "anchor": "ethn141"}
+{"code": "ETHN 143", "title": "Chicana/o Film and Media Studies", "units": "4", "anchor": "ethn141"}
+{"code": "ETHN 144M", "title": "Antiracist Medicine and New Perspectives in Health Care", "units": "4", "anchor": "ethn141"}
+{"code": "ETHN 146A", "title": "Ensemble", "units": "4", "anchor": "ethn141"}
+{"code": "ETHN 147", "title": "Black Feminisms, Past and Present", "units": "4", "anchor": "ethn141"}
+{"code": "ETHN 149", "title": "African American History in the Twentieth Century", "units": "4", "anchor": "ethn141"}
+{"code": "ETHN 150", "title": "Visuality, Sexuality, and Race", "units": "4", "anchor": "ethn141"}
+{"code": "ETHN 151", "title": "Ethnic Politics in America", "units": "4", "anchor": "ethn141"}
+{"code": "ETHN 152", "title": "Law and Civil Rights", "units": "4", "anchor": "ethn141"}
+{"code": "ETHN 153", "title": "Citizenship and Civil Rights in the Twentieth Century", "units": "4", "anchor": "ethn141"}
+{"code": "ETHN 154", "title": "History of Mexican America", "units": "4", "anchor": "ethn141"}
+{"code": "ETHN 155", "title": "US Militarism", "units": "4", "anchor": "ethn141"}
+{"code": "ETHN 155GS", "title": "Critical Perspectives on the Vietnam War", "units": "4", "anchor": "ethn15gs"}
+{"code": "ETHN 157", "title": "Madness and Urbanization", "units": "4", "anchor": "ethn15gs"}
+{"code": "ETHN 158", "title": "Native American Intellectuals in the Twentieth Century", "units": "4", "anchor": "ethn15gs"}
+{"code": "ETHN 159", "title": "Topics in African American History", "units": "4", "anchor": "ethn15gs"}
+{"code": "ETHN 160", "title": "Global Indigenous Studies", "units": "4", "anchor": "ethn15gs"}
+{"code": "ETHN 162", "title": "Practicum in California Tribal Law and Journalism", "units": "4", "anchor": "ethn15gs"}
+{"code": "ETHN 163E", "title": "Decolonial Theory", "units": "4", "anchor": "ethn15gs"}
+{"code": "ETHN 163F", "title": "Playing Indian: Native American and First Nations Cinema", "units": "4", "anchor": "ethn15gs"}
+{"code": "ETHN 163G", "title": "Indigenous Theatre and Performance", "units": "4", "anchor": "ethn15gs"}
+{"code": "ETHN 163I", "title": "Asian American Histography", "units": "4", "anchor": "ethn15gs"}
+{"code": "ETHN 163J", "title": "Asian American Social Movements", "units": "4", "anchor": "ethn15gs"}
+{"code": "ETHN 164", "title": "African Americans and the Mass Media", "units": "4", "anchor": "ethn15gs"}
+{"code": "ETHN 165", "title": "Gender and Sexuality in African American Communities", "units": "4", "anchor": "ethn15gs"}
+{"code": "ETHN 166", "title": "Arab/Muslim American Identity and Culture", "units": "4", "anchor": "ethn166"}
+{"code": "ETHN 167", "title": "Muslim Identity in America", "units": "4", "anchor": "ethn166"}
+{"code": "ETHN 168", "title": "Comparative Ethnic Literature", "units": "4", "anchor": "ethn166"}
+{"code": "ETHN 169", "title": "Origins of the Atlantic World, c. 1450\u20131650", "units": "4", "anchor": "ethn166"}
+{"code": "ETHN 170", "title": "Slavery and the Atlantic World", "units": "4", "anchor": "ethn166"}
+{"code": "ETHN 172", "title": "Afro-American Prose", "units": "4", "anchor": "ethn166"}
+{"code": "ETHN 173GS", "title": "Gender, Sexuality, and War", "units": "4", "anchor": "ethn166"}
+{"code": "ETHN 174", "title": "Themes in Afro-American Literature", "units": "4", "anchor": "ethn166"}
+{"code": "ETHN 175", "title": "Literature of the Harlem Renaissance", "units": "4", "anchor": "ethn166"}
+{"code": "ETHN 177", "title": "Race, Sound, and Music", "units": "4", "anchor": "ethn166"}
+{"code": "ETHN 178", "title": "Blues: An Oral Tradition", "units": "4", "anchor": "ethn166"}
+{"code": "ETHN 179", "title": "Discover Jazz", "units": "4", "anchor": "ethn166"}
+{"code": "ETHN 182", "title": "Race, Gender, and Sexuality in Fantasy and Science Fiction", "units": "4", "anchor": "ethn182"}
+{"code": "ETHN 183", "title": "Gender, Race, Ethnicity, and Class", "units": "4", "anchor": "ethn183"}
+{"code": "ETHN 187", "title": "Latinx Sexualities", "units": "4", "anchor": "ethn187"}
+{"code": "ETHN 188", "title": "African Americans, Religion, and the City", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 180", "title": "Topics in Mexican American History", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 184", "title": "Black Intellectuals in the Twentieth Century", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 185", "title": "Discourse, Power, and Inequality", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 189", "title": "Special Topics in Ethnic Studies", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 190", "title": "Research Methods: Studying Racial and Ethnic Communities", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 196H", "title": "Honors Thesis", "units": "4", "anchor": "ethn188", "prereqs": {"type": "all", "courses": ["ETHN 100A", "ETHN 100B", "ETHN 100H"]}}
+{"code": "ETHN 197", "title": "Fieldwork in Racial and Ethnic Communities", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 198", "title": "Directed Group Studies", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 199", "title": "Supervised Independent Study and Research", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 200A", "title": "Departures: A Genealogy of Critical Racial and Ethnic Studies", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 200B", "title": "Formulations: Interdisciplinarity and Knowledge Production in Ethnic Studies", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 200C", "title": "Projects", "units": "Proseminar", "anchor": "ethn188"}
+{"code": "ETHN 201", "title": "Historical Methods and Archives", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 202", "title": "Qualitative Methods/Ethnography", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 203", "title": "Cultural Studies and Cultural Production", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 214A", "title": "Representing Native America", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 214B", "title": "Representing Native America: Exhibition Design", "units": "4", "anchor": "ethn188", "prereqs": "ETHN 214A"}
+{"code": "ETHN 230", "title": "Departmental Colloquium", "units": "1", "anchor": "ethn188"}
+{"code": "ETHN 252", "title": "Race, Gender, and Space", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 255", "title": "Race and Psychoanalysis", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 256", "title": "Gender, Sexuality, and Race", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 257A-B", "title": ". Social Theory", "units": "4-4", "anchor": "ethn188"}
+{"code": "ETHN 260", "title": "Transnationalism and Borderlands: The Local and Global", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 265", "title": "Critical Immigration and Refugee Studies", "units": "4", "anchor": "ethn188"}
+{"code": "ETHN 266", "title": "Popular Culture and Pedagogy", "units": "4", "anchor": "ethn266"}
+{"code": "ETHN 267", "title": "History and Memory", "units": "4", "anchor": "ethn267"}
+{"code": "ETHN 268", "title": "Theories and Cultures of US Imperialism", "units": "4", "anchor": "ethn268"}
+{"code": "ETHN 270", "title": "Indigenous Epistemologies and their Disruptions", "units": "4", "anchor": "ethn270"}
+{"code": "ETHN 275", "title": "Marxist Thought", "units": "4", "anchor": "ethn275"}
+{"code": "ETHN 280", "title": "Black Thought: Roots and Routes", "units": "4", "anchor": "ethn280"}
+{"code": "ETHN 287", "title": "Ethnography Practicum", "units": "4", "anchor": "ethn280"}
+{"code": "ETHN 289", "title": "Topics in Ethnic Studies Research", "units": "4", "anchor": "ethn280"}
+{"code": "ETHN 291", "title": "Comprehensive Examination Preparation", "units": "4", "anchor": "ethn280"}
+{"code": "ETHN 291A", "title": "Comprehensive Research Preparation: The Literature Review", "units": "4", "anchor": "ethn280"}
+{"code": "ETHN 291B", "title": "Comprehensive Research Preparation: The Methodologies Paper", "units": "4", "anchor": "ethn280", "prereqs": "ETHN 291A"}
+{"code": "ETHN 298", "title": "Directed Reading", "units": "1\u201312", "anchor": "ethn280"}
+{"code": "ETHN 299", "title": "Thesis Research", "units": "1\u201312", "anchor": "ethn280"}
+{"code": "ETHN 500", "title": "Apprentice Teaching in Ethnic Studies", "units": "4", "anchor": "ethn280"}
+{"code": "ETIM 289", "title": "Interdisciplinary Methods Seminar: Special Topics", "units": "4", "anchor": "ethn280"}

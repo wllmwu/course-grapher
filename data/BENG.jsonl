@@ -1,127 +1,127 @@
-{"code": "BENG 1", "title": "Introduction to Bioengineering", "units": "2", "prereqs": null}
-{"code": "BENG 2", "title": "Introductory Computer Programming and MATLAB", "units": "2", "prereqs": null}
-{"code": "BENG 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
-{"code": "BENG 91", "title": "Topics in Bioengineering and Medicine", "units": "1", "prereqs": null}
-{"code": "BENG 97", "title": "Internship/Field Studies", "units": "1\u20134", "prereqs": null}
-{"code": "BENG 98", "title": "Directed Group Study", "units": "1\u20134", "prereqs": null}
-{"code": "BENG 99", "title": "Independent Study for Undergraduates", "units": "4", "prereqs": null}
-{"code": "BENG 99H", "title": "Independent Study", "units": "1", "prereqs": null}
-{"code": "BENG 100", "title": "Introduction to Probability and Statistics for Bioengineers", "units": "4", "prereqs": {"type": "all", "courses": ["BENG 1", {"type": "one", "courses": ["MATH 18", "MATH 31AH", "MATH 20F"]}, {"type": "one", "courses": ["MATH 20C", "MATH 31BH"]}]}}
-{"code": "BENG 102", "title": "Molecular Components of Living Systems", "units": "4", "prereqs": "BENG 120"}
-{"code": "BENG 103B", "title": "Bioengineering Mass Transfer", "units": "4", "prereqs": {"type": "one", "courses": ["CENG 101A", "MAE 101A", "BENG 112A"]}}
-{"code": "BENG 110", "title": "Musculoskeletal Biomechanics", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 20D", {"type": "one", "courses": ["MATH 20E", "MATH 31CH"]}, {"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, "PHYS 2C"]}}
-{"code": "BENG 112A", "title": "Soft Tissue Biomechanics", "units": "4", "prereqs": "BENG 110"}
-{"code": "BENG 112B", "title": "Fluid and Cell Biomechanics", "units": "4", "prereqs": "BENG 112A"}
-{"code": "BENG 119A", "title": "Design Development in Biomechanics", "units": "3", "prereqs": "BENG 187B"}
-{"code": "BENG 119B", "title": "Design Implementation in Biomechanics", "units": "3", "prereqs": "BENG 187C"}
-{"code": "BENG 120", "title": "Organic Chemistry Structural and Design Principles", "units": "4", "prereqs": {"type": "all", "courses": ["CHEM 6A", "CHEM 6B"]}}
-{"code": "BENG 122A", "title": "Biosystems and Control", "units": "4", "prereqs": {"type": "one", "courses": ["MAE 140", "BENG 134"]}}
-{"code": "BENG 123", "title": "Dynamic Simulation in Bioengineering", "units": "4", "prereqs": {"type": "one", "courses": ["MATH 18", "MATH 31AH", "MATH 20D", "BENG 120", "CHEM 40B"]}}
-{"code": "BENG 125", "title": "Modeling and Computation in Bioengineering", "units": "4", "prereqs": {"type": "one", "courses": ["BENG 122A", "BENG 123"]}}
-{"code": "BENG 126A", "title": "Design Development in Bioinformatics Bioengineering", "units": "3", "prereqs": "BENG 187B"}
-{"code": "BENG 126B", "title": "Design Implementation in Bioinformatics Bioengineering", "units": "3", "prereqs": "BENG 126A"}
-{"code": "BENG 127A", "title": "Design Development in Molecular Systems Bioengineering", "units": "3", "prereqs": "BENG 187B"}
-{"code": "BENG 127B", "title": "Design Implementation in Molecular Systems Bioengineering", "units": "3", "prereqs": "BENG 127A"}
-{"code": "BENG 128A", "title": "Design Development in Genetic Circuits Bioengineering", "units": "3", "prereqs": "BENG 187B"}
-{"code": "BENG 128B", "title": "Design Implementation in Genetic Circuits Bioengineering", "units": "3", "prereqs": "BENG 128A"}
-{"code": "BENG 129A", "title": "Design Development in Cell Systems Bioengineering", "units": "3", "prereqs": "BENG 187B"}
-{"code": "BENG 129B", "title": "Design Implementation in Cell Systems Bioengineering", "units": "3", "prereqs": "BENG 129A"}
-{"code": "BENG 130", "title": "Biotechnology Thermodynamics and Kinetics", "units": "4", "prereqs": {"type": "all", "courses": ["CHEM 6B", "MATH 20A", "MATH 20B", "MATH 20D", "PHYS 2A", "PHYS 2B", "PHYS 2C"]}}
-{"code": "BENG 133", "title": "Numerical Analysis and Computational Engineering", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 20D", "MATH 18"]}}
-{"code": "BENG 134", "title": "Measurements, Statistics, and Probability", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 20D", {"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, "BENG 100"]}}
-{"code": "BENG 135", "title": "Biomedical Signals and Systems", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 45", "BENG 133"]}}
-{"code": "BENG 139A", "title": "Design Development in Molecular Bioengineering", "units": "3", "prereqs": "BENG 187B"}
-{"code": "BENG 139B", "title": "Design Implementation in Molecular Bioengineering", "units": "3", "prereqs": "BENG 139A"}
-{"code": "BENG 140A", "title": "Bioengineering Physiology", "units": "4", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["CHEM 6A", "CHEM 6B"]}, {"type": "all", "courses": ["PHYS 2A", "PHYS 2B", "PHYS 2C"]}, "BILD 1", "BENG 102"]}}
-{"code": "BENG 140B", "title": "Bioengineering Physiology", "units": "4", "prereqs": "BENG 140A"}
-{"code": "BENG 141", "title": "Biomedical Optics and Imaging", "units": "4", "prereqs": "BENG 100"}
-{"code": "BENG 147A", "title": "Design Development in Neural Engineering", "units": "3", "prereqs": "BENG 187B"}
-{"code": "BENG 147B", "title": "Design Implementation in Neural Engineering", "units": "3", "prereqs": "BENG 147A"}
-{"code": "BENG 148A", "title": "Design Development in Cardiac Bioengineering", "units": "3", "prereqs": "BENG 187B"}
-{"code": "BENG 148B", "title": "Design Implementation in Cardiac Bioengineering", "units": "3", "prereqs": "BENG 148A"}
-{"code": "BENG 149A", "title": "Design Development in Vascular Bioengineering", "units": "3", "prereqs": "BENG 187B"}
-{"code": "BENG 149B", "title": "Design Implementation in Vascular Bioengineering", "units": "3", "prereqs": "BENG 149A"}
-{"code": "BENG 152", "title": "Biosystems Engineering Laboratory", "units": "4", "prereqs": "BENG 102"}
-{"code": "BENG 160", "title": "Chemical and Molecular Bioengineering Techniques", "units": "4", "prereqs": {"type": "all", "courses": ["BICD 100", "BENG 100", "MAE 170"]}}
-{"code": "BENG 161A", "title": "Bioreactor Engineering", "units": "4", "prereqs": {"type": "all", "courses": ["BENG 123", "BENG 160"]}}
-{"code": "BENG 161B", "title": "Biochemical Engineering", "units": "4", "prereqs": "BENG 161A"}
-{"code": "BENG 162", "title": "Biotechnology Laboratory", "units": "4", "prereqs": {"type": "all", "courses": ["MAE 170", "BENG 160"]}}
-{"code": "BENG 166A", "title": "Cell and Tissue Engineering", "units": "4", "prereqs": {"type": "one", "courses": ["BENG 103B", "BENG 112B"]}}
-{"code": "BENG 168", "title": "Biomolecular Engineering", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 1", "BENG 100"]}}
-{"code": "BENG 169A", "title": "Design Development in Tissue Engineering", "units": "3", "prereqs": "BENG 187B"}
-{"code": "BENG 169B", "title": "Design Implementation in Tissue Engineering", "units": "3", "prereqs": "BENG 169A"}
-{"code": "BENG 172", "title": "Bioengineering Laboratory", "units": "4", "prereqs": "MAE 170"}
-{"code": "BENG 179A", "title": "Design Development in Bioinstrumentation", "units": "3", "prereqs": "BENG 187B"}
-{"code": "BENG 179B", "title": "Design Implementation in Bioinstrumentation", "units": "3", "prereqs": "BENG 179A"}
-{"code": "BENG 181", "title": ". Molecular Sequence Analysis", "units": "4", "prereqs": {"type": "all", "courses": ["CSE 100", "CSE 101", {"type": "one", "courses": ["BIMM 100", "CHEM 114C"]}]}}
-{"code": "BENG 182", "title": ". Biological Databases", "units": "4", "prereqs": "CSE 100"}
-{"code": "BENG 183", "title": "Applied Genomic Technologies", "units": "4", "prereqs": {"type": "one", "courses": ["BIMM 100", "CHEM 114C"]}}
-{"code": "BENG 184", "title": ". Computational Molecular Biology", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["BENG 181", "BIMM 181", "CSE 181"]}, {"type": "one", "courses": ["BENG 182", "BIMM 182", "CSE 182", "CHEM 182"]}]}}
-{"code": "BENG 186A", "title": "Principles of Biomaterials Design", "units": "4", "prereqs": {"type": "one", "courses": ["BENG 112B", "BENG 123"]}}
-{"code": "BENG 186B", "title": "Principles of Bioinstrumentation Design", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["ECE 35", "MAE 140"]}, {"type": "one", "courses": ["ECE 45", "MAE 170"]}]}}
-{"code": "BENG 187A", "title": "Bioengineering Design Project: Planning", "units": "1", "prereqs": {"type": "one", "courses": ["BENG 112A", "BENG 152", "BENG 168"]}}
-{"code": "BENG 187B", "title": "Bioengineering Design Project: Development", "units": "1", "prereqs": "BENG 187A"}
-{"code": "BENG 187C", "title": "Bioengineering Design Project: Implementation", "units": "1", "prereqs": "BENG 187B"}
-{"code": "BENG 187D", "title": "Bioengineering Design Project: Presentation", "units": "1", "prereqs": "BENG 187C"}
-{"code": "BENG 189", "title": "Physiological Systems Engineering", "units": "4", "prereqs": {"type": "all", "courses": ["BENG 133", "BENG 134", "BENG 135", "BENG 140A", "BENG 140B"]}}
-{"code": "BENG 191", "title": ". Senior Seminar I: Professional Issues in Bioengineering", "units": "2", "prereqs": null}
-{"code": "BENG 193", "title": "Clinical Experience in Bioengineering", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["BENG 140A", "BIPN 100"]}, {"type": "one", "courses": ["BENG 140B", "BIPN 102"]}]}}
-{"code": "BENG 195", "title": "Teaching", "units": "2\u20134", "prereqs": null}
-{"code": "BENG 196", "title": "Bioengineering Industrial Internship", "units": "1\u20134", "prereqs": null}
-{"code": "BENG 197", "title": "Engineering Internship", "units": "1\u20134", "prereqs": null}
-{"code": "BENG 198", "title": "Directed Group Study", "units": "1\u20134", "prereqs": null}
-{"code": "BENG 199", "title": "Independent Study for Undergraduates", "units": "4", "prereqs": null}
-{"code": "BENG 202", "title": "Bioinformatics II: Introduction to Bioinformatics Algorithms", "units": "4", "prereqs": null}
-{"code": "BENG 203", "title": "Genomics, Proteomics, and Network Biology", "units": "4", "prereqs": {"type": "one", "courses": ["BENG 202", "CSE 282"]}}
-{"code": "BENG 207", "title": "Topics in Bioengineering", "units": "4", "prereqs": null}
-{"code": "BENG 208", "title": "Topics in Bioengineering with Lab", "units": "4", "prereqs": null}
-{"code": "BENG 211", "title": "Systems Biology and Bioengineering I: Biological Components", "units": "4", "prereqs": {"type": "one", "courses": ["BENG 230A", "BIMM 100"]}}
-{"code": "BENG 212", "title": "Systems Biology and Bioengineering II: Large-Scale Data Analysis", "units": "4", "prereqs": null}
-{"code": "BENG 213", "title": "Systems Biology and Bioengineering III: Building and Simulating Large-Scale in Silico Models", "units": "4", "prereqs": "BENG 212"}
-{"code": "BENG 221", "title": "Mathematical Methods for Bioengineering", "units": "4", "prereqs": null}
-{"code": "BENG 223", "title": "Thermodynamics, Statistical Mechanics, Interfacial Phenomena in Living Systems", "units": "4", "prereqs": null}
-{"code": "BENG 224", "title": "Regulatory Affairs", "units": "4", "prereqs": null}
-{"code": "BENG 225", "title": "Business of Biotech", "units": "4", "prereqs": null}
-{"code": "BENG 226", "title": "Foundations of Bioengineering I: Tissue and Cell Properties", "units": "4", "prereqs": null}
-{"code": "BENG 227", "title": "Transport Phenomena in Living Systems", "units": "4", "prereqs": "BENG 221"}
-{"code": "BENG 230A", "title": "Biochemistry", "units": "4", "prereqs": null}
-{"code": "BENG 230B", "title": "Cell and Molecular Biology", "units": "4", "prereqs": "BENG 230A"}
-{"code": "BENG 230C", "title": "Cardiovascular Physiology", "units": "4", "prereqs": "BENG 230B"}
-{"code": "BENG 230D", "title": "Respiratory and Renal Physiology", "units": "4", "prereqs": {"type": "all", "courses": ["BIPN 100", "BIPN 102", "BENG 230C"]}}
-{"code": "BENG 232", "title": "Musculoskeletal Health, Injury, and Disease", "units": "4", "prereqs": null}
-{"code": "BENG 233", "title": "Neuromuscular Physiology and Biomechanics", "units": "4", "prereqs": null}
-{"code": "BENG 234", "title": "Intro to Neurophysiology: Molecules to Systems", "units": "4", "prereqs": null}
-{"code": "BENG 235", "title": "Molecular Imaging and Quantitation in Living Cells", "units": "4", "prereqs": null}
-{"code": "BENG 238", "title": "Molecular Biology of the Cardiovascular System", "units": "4", "prereqs": null}
-{"code": "BENG 241A", "title": "Tissue Engineering and Regenerative Medicine: Foundations", "units": "4", "prereqs": null}
-{"code": "BENG 241B", "title": "Tissue Engineering and Regenerative Medicine: Cell Microenvironment", "units": "4", "prereqs": "BENG 241A"}
-{"code": "BENG 241C", "title": "Tissue Engineering and Regenerative Medicine: Development and Growth", "units": "4", "prereqs": "BENG 241A"}
-{"code": "BENG 242", "title": "Polymer Science and Engineering", "units": "4", "prereqs": null}
-{"code": "BENG 247A", "title": "Advanced Biophotonics", "units": "4", "prereqs": null}
-{"code": "BENG 247B", "title": "Bioelectronics", "units": "4", "prereqs": null}
-{"code": "BENG 247C", "title": "Bionanotechnology", "units": "4", "prereqs": null}
-{"code": "BENG 254", "title": "Synthetic Biology", "units": "4", "prereqs": null}
-{"code": "BENG 260", "title": "Neurodynamics", "units": "4", "prereqs": null}
-{"code": "BENG 267", "title": "Microcirculation in Health and Disease", "units": "4", "prereqs": null}
-{"code": "BENG 276", "title": "Numerical Analysis in Multiscale Biology", "units": "4", "prereqs": null}
-{"code": "BENG 277", "title": "Tissue Engineering Laboratory", "units": "4", "prereqs": null}
-{"code": "BENG 278", "title": "Magnetic Resonance Imaging", "units": "4", "prereqs": "BENG 280A"}
-{"code": "BENG 280A", "title": "Principles of Biomedical Imaging", "units": "4", "prereqs": null}
-{"code": "BENG 280B", "title": "Comparative Biomedical Imaging", "units": "4", "prereqs": null}
-{"code": "BENG 280C", "title": "Imaging Cardiovascular Disease", "units": "4", "prereqs": null}
-{"code": "BENG 281", "title": "Seminar in Bioengineering", "units": "1", "prereqs": null}
-{"code": "BENG 282", "title": "Seminar: Faculty Research", "units": "1", "prereqs": null}
-{"code": "BENG 283", "title": "Supramolecular Structure Determination Laboratory", "units": "4", "prereqs": null}
-{"code": "BENG 285", "title": "Statistical Learning in Bioinformatics", "units": "4", "prereqs": {"type": "one", "courses": ["ECE 271A", "ECE 271B", "MATH 283"]}}
-{"code": "BENG 291", "title": ". Senior Seminar I: Professional Issues in Bioengineering", "units": "2", "prereqs": null}
-{"code": "BENG 292", "title": "Scientific Ethics", "units": "1", "prereqs": null}
-{"code": "BENG 294A", "title": "Patient-Centered Clinical Medicine for Bioengineers", "units": "4", "prereqs": null}
-{"code": "BENG 294B", "title": "Engineering in the Patient Healthcare System", "units": "4", "prereqs": "BENG 294A"}
-{"code": "BENG 294C", "title": "Clinical Experience in Bioengineering", "units": "4", "prereqs": "BENG 294B"}
-{"code": "BENG 295", "title": "Bioengineering Design Project and Industrial Training", "units": "4", "prereqs": null}
-{"code": "BENG 296", "title": "Independent Study", "units": "4", "prereqs": null}
-{"code": "BENG 298", "title": "Directed Group Study", "units": "1\u20134", "prereqs": null}
-{"code": "BENG 298L", "title": "Laboratory Research Rotation", "units": "4", "prereqs": null}
-{"code": "BENG 299", "title": "Graduate Research", "units": "1\u201312", "prereqs": null}
-{"code": "BENG 500", "title": "Apprentice Teaching for Specialization in Multi-Scale Biology", "units": "2, 4", "prereqs": null}
-{"code": "BENG 501", "title": "Teaching Experience", "units": "2, 4", "prereqs": null}
+{"code": "BENG 1", "title": "Introduction to Bioengineering", "units": "2", "anchor": "beng1"}
+{"code": "BENG 2", "title": "Introductory Computer Programming and MATLAB", "units": "2", "anchor": "beng2"}
+{"code": "BENG 87", "title": "First-year Student Seminar", "units": "1", "anchor": "beng87"}
+{"code": "BENG 91", "title": "Topics in Bioengineering and Medicine", "units": "1", "anchor": "beng91"}
+{"code": "BENG 97", "title": "Internship/Field Studies", "units": "1\u20134", "anchor": "beng97"}
+{"code": "BENG 98", "title": "Directed Group Study", "units": "1\u20134", "anchor": "beng98"}
+{"code": "BENG 99", "title": "Independent Study for Undergraduates", "units": "4", "anchor": "beng99"}
+{"code": "BENG 99H", "title": "Independent Study", "units": "1", "anchor": "beng99h"}
+{"code": "BENG 100", "title": "Introduction to Probability and Statistics for Bioengineers", "units": "4", "anchor": "beng100", "prereqs": {"type": "all", "courses": ["BENG 1", {"type": "one", "courses": ["MATH 18", "MATH 31AH", "MATH 20F"]}, {"type": "one", "courses": ["MATH 20C", "MATH 31BH"]}]}}
+{"code": "BENG 102", "title": "Molecular Components of Living Systems", "units": "4", "anchor": "beng102", "prereqs": "BENG 120"}
+{"code": "BENG 103B", "title": "Bioengineering Mass Transfer", "units": "4", "anchor": "beng103b", "prereqs": {"type": "one", "courses": ["CENG 101A", "MAE 101A", "BENG 112A"]}}
+{"code": "BENG 110", "title": "Musculoskeletal Biomechanics", "units": "4", "anchor": "beng110", "prereqs": {"type": "all", "courses": ["MATH 20D", {"type": "one", "courses": ["MATH 20E", "MATH 31CH"]}, {"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, "PHYS 2C"]}}
+{"code": "BENG 112A", "title": "Soft Tissue Biomechanics", "units": "4", "anchor": "beng112a", "prereqs": "BENG 110"}
+{"code": "BENG 112B", "title": "Fluid and Cell Biomechanics", "units": "4", "anchor": "beng112b", "prereqs": "BENG 112A"}
+{"code": "BENG 119A", "title": "Design Development in Biomechanics", "units": "3", "anchor": "beng119a", "prereqs": "BENG 187B"}
+{"code": "BENG 119B", "title": "Design Implementation in Biomechanics", "units": "3", "anchor": "beng119b", "prereqs": "BENG 187C"}
+{"code": "BENG 120", "title": "Organic Chemistry Structural and Design Principles", "units": "4", "anchor": "beng120", "prereqs": {"type": "all", "courses": ["CHEM 6A", "CHEM 6B"]}}
+{"code": "BENG 122A", "title": "Biosystems and Control", "units": "4", "anchor": "beng122a", "prereqs": {"type": "one", "courses": ["MAE 140", "BENG 134"]}}
+{"code": "BENG 123", "title": "Dynamic Simulation in Bioengineering", "units": "4", "anchor": "beng123", "prereqs": {"type": "one", "courses": ["MATH 18", "MATH 31AH", "MATH 20D", "BENG 120", "CHEM 40B"]}}
+{"code": "BENG 125", "title": "Modeling and Computation in Bioengineering", "units": "4", "anchor": "beng125", "prereqs": {"type": "one", "courses": ["BENG 122A", "BENG 123"]}}
+{"code": "BENG 126A", "title": "Design Development in Bioinformatics Bioengineering", "units": "3", "anchor": "beng126a", "prereqs": "BENG 187B"}
+{"code": "BENG 126B", "title": "Design Implementation in Bioinformatics Bioengineering", "units": "3", "anchor": "beng126b", "prereqs": "BENG 126A", "coreqs": "BENG 187C"}
+{"code": "BENG 127A", "title": "Design Development in Molecular Systems Bioengineering", "units": "3", "anchor": "beng127a", "prereqs": "BENG 187B"}
+{"code": "BENG 127B", "title": "Design Implementation in Molecular Systems Bioengineering", "units": "3", "anchor": "beng127b", "prereqs": "BENG 127A", "coreqs": "BENG 187C"}
+{"code": "BENG 128A", "title": "Design Development in Genetic Circuits Bioengineering", "units": "3", "anchor": "beng128a", "prereqs": "BENG 187B"}
+{"code": "BENG 128B", "title": "Design Implementation in Genetic Circuits Bioengineering", "units": "3", "anchor": "beng128b", "prereqs": "BENG 128A", "coreqs": "BENG 187C"}
+{"code": "BENG 129A", "title": "Design Development in Cell Systems Bioengineering", "units": "3", "anchor": "beng129a", "prereqs": "BENG 187B"}
+{"code": "BENG 129B", "title": "Design Implementation in Cell Systems Bioengineering", "units": "3", "anchor": "beng129b", "prereqs": "BENG 129A", "coreqs": "BENG 187C"}
+{"code": "BENG 130", "title": "Biotechnology Thermodynamics and Kinetics", "units": "4", "anchor": "beng130", "prereqs": {"type": "all", "courses": ["CHEM 6B", "MATH 20A", "MATH 20B", "MATH 20D", "PHYS 2A", "PHYS 2B", "PHYS 2C"]}}
+{"code": "BENG 133", "title": "Numerical Analysis and Computational Engineering", "units": "4", "anchor": "beng133", "prereqs": {"type": "all", "courses": ["MATH 20D", "MATH 18"]}}
+{"code": "BENG 134", "title": "Measurements, Statistics, and Probability", "units": "4", "anchor": "beng134", "prereqs": {"type": "all", "courses": ["MATH 20D", {"type": "one", "courses": ["MATH 18", "MATH 31AH"]}, "BENG 100"]}}
+{"code": "BENG 135", "title": "Biomedical Signals and Systems", "units": "4", "anchor": "beng135", "prereqs": {"type": "all", "courses": ["ECE 45", "BENG 133"]}}
+{"code": "BENG 139A", "title": "Design Development in Molecular Bioengineering", "units": "3", "anchor": "beng139a", "prereqs": "BENG 187B"}
+{"code": "BENG 139B", "title": "Design Implementation in Molecular Bioengineering", "units": "3", "anchor": "beng139b", "prereqs": "BENG 139A", "coreqs": "BENG 187C"}
+{"code": "BENG 140A", "title": "Bioengineering Physiology", "units": "4", "anchor": "beng140a", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["CHEM 6A", "CHEM 6B"]}, {"type": "all", "courses": ["PHYS 2A", "PHYS 2B", "PHYS 2C"]}, "BILD 1", "BENG 102"]}}
+{"code": "BENG 140B", "title": "Bioengineering Physiology", "units": "4", "anchor": "beng140b", "prereqs": "BENG 140A"}
+{"code": "BENG 141", "title": "Biomedical Optics and Imaging", "units": "4", "anchor": "beng141", "prereqs": "BENG 100"}
+{"code": "BENG 147A", "title": "Design Development in Neural Engineering", "units": "3", "anchor": "beng147a", "prereqs": "BENG 187B"}
+{"code": "BENG 147B", "title": "Design Implementation in Neural Engineering", "units": "3", "anchor": "beng147b", "prereqs": "BENG 147A", "coreqs": "BENG 187C"}
+{"code": "BENG 148A", "title": "Design Development in Cardiac Bioengineering", "units": "3", "anchor": "beng148a", "prereqs": "BENG 187B"}
+{"code": "BENG 148B", "title": "Design Implementation in Cardiac Bioengineering", "units": "3", "anchor": "beng148b", "prereqs": "BENG 148A", "coreqs": "BENG 187C"}
+{"code": "BENG 149A", "title": "Design Development in Vascular Bioengineering", "units": "3", "anchor": "beng149a", "prereqs": "BENG 187B"}
+{"code": "BENG 149B", "title": "Design Implementation in Vascular Bioengineering", "units": "3", "anchor": "beng149b", "prereqs": "BENG 149A", "coreqs": "BENG 187C"}
+{"code": "BENG 152", "title": "Biosystems Engineering Laboratory", "units": "4", "anchor": "beng152", "prereqs": "BENG 102"}
+{"code": "BENG 160", "title": "Chemical and Molecular Bioengineering Techniques", "units": "4", "anchor": "beng160", "prereqs": {"type": "all", "courses": ["BICD 100", "BENG 100", "MAE 170"]}}
+{"code": "BENG 161A", "title": "Bioreactor Engineering", "units": "4", "anchor": "beng161a", "prereqs": {"type": "all", "courses": ["BENG 123", "BENG 160"]}}
+{"code": "BENG 161B", "title": "Biochemical Engineering", "units": "4", "anchor": "beng161b", "prereqs": "BENG 161A"}
+{"code": "BENG 162", "title": "Biotechnology Laboratory", "units": "4", "anchor": "beng162", "prereqs": {"type": "all", "courses": ["MAE 170", "BENG 160"]}}
+{"code": "BENG 166A", "title": "Cell and Tissue Engineering", "units": "4", "anchor": "beng166a", "prereqs": {"type": "one", "courses": ["BENG 103B", "BENG 112B"]}}
+{"code": "BENG 168", "title": "Biomolecular Engineering", "units": "4", "anchor": "beng168", "prereqs": {"type": "all", "courses": ["BILD 1", "BENG 100"]}}
+{"code": "BENG 169A", "title": "Design Development in Tissue Engineering", "units": "3", "anchor": "beng169a", "prereqs": "BENG 187B"}
+{"code": "BENG 169B", "title": "Design Implementation in Tissue Engineering", "units": "3", "anchor": "beng169b", "prereqs": "BENG 169A", "coreqs": "BENG 187C"}
+{"code": "BENG 172", "title": "Bioengineering Laboratory", "units": "4", "anchor": "beng172", "prereqs": "MAE 170"}
+{"code": "BENG 179A", "title": "Design Development in Bioinstrumentation", "units": "3", "anchor": "beng179a", "prereqs": "BENG 187B"}
+{"code": "BENG 179B", "title": "Design Implementation in Bioinstrumentation", "units": "3", "anchor": "beng179b", "prereqs": "BENG 179A", "coreqs": "BENG 187C"}
+{"code": "BENG 181", "title": ". Molecular Sequence Analysis", "units": "4", "anchor": "beng181", "prereqs": {"type": "all", "courses": ["CSE 100", "CSE 101", {"type": "one", "courses": ["BIMM 100", "CHEM 114C"]}]}}
+{"code": "BENG 182", "title": ". Biological Databases", "units": "4", "anchor": "beng182", "prereqs": "CSE 100"}
+{"code": "BENG 183", "title": "Applied Genomic Technologies", "units": "4", "anchor": "beng183", "prereqs": {"type": "one", "courses": ["BIMM 100", "CHEM 114C"]}}
+{"code": "BENG 184", "title": ". Computational Molecular Biology", "units": "4", "anchor": "beng184", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["BENG 181", "BIMM 181", "CSE 181"]}, {"type": "one", "courses": ["BENG 182", "BIMM 182", "CSE 182", "CHEM 182"]}]}}
+{"code": "BENG 186A", "title": "Principles of Biomaterials Design", "units": "4", "anchor": "beng186a", "prereqs": {"type": "one", "courses": ["BENG 112B", "BENG 123"]}}
+{"code": "BENG 186B", "title": "Principles of Bioinstrumentation Design", "units": "4", "anchor": "beng186b", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["ECE 35", "MAE 140"]}, {"type": "one", "courses": ["ECE 45", "MAE 170"]}]}}
+{"code": "BENG 187A", "title": "Bioengineering Design Project: Planning", "units": "1", "anchor": "beng187a", "prereqs": {"type": "one", "courses": ["BENG 112A", "BENG 152", "BENG 168"]}}
+{"code": "BENG 187B", "title": "Bioengineering Design Project: Development", "units": "1", "anchor": "beng187b", "prereqs": "BENG 187A", "coreqs": {"type": "one", "courses": ["BENG 119A", "BENG 126A", "BENG 127A", "BENG 128A", "BENG 129A", "BENG 139A", "BENG 147A", "BENG 148A", "BENG 149A", "BENG 169A", "BENG 179A"]}}
+{"code": "BENG 187C", "title": "Bioengineering Design Project: Implementation", "units": "1", "anchor": "beng187c", "prereqs": "BENG 187B", "coreqs": {"type": "one", "courses": ["BENG 119B", "BENG 126B", "BENG 127B", "BENG 128B", "BENG 129B", "BENG 139B", "BENG 147B", "BENG 148B", "BENG 149B", "BENG 169B", "BENG 179B"]}}
+{"code": "BENG 187D", "title": "Bioengineering Design Project: Presentation", "units": "1", "anchor": "beng187d", "prereqs": "BENG 187C"}
+{"code": "BENG 189", "title": "Physiological Systems Engineering", "units": "4", "anchor": "beng189", "prereqs": {"type": "all", "courses": ["BENG 133", "BENG 134", "BENG 135", "BENG 140A", "BENG 140B"]}}
+{"code": "BENG 191", "title": ". Senior Seminar I: Professional Issues in Bioengineering", "units": "2", "anchor": "beng291"}
+{"code": "BENG 193", "title": "Clinical Experience in Bioengineering", "units": "4", "anchor": "beng193", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["BENG 140A", "BIPN 100"]}, {"type": "one", "courses": ["BENG 140B", "BIPN 102"]}]}}
+{"code": "BENG 195", "title": "Teaching", "units": "2\u20134", "anchor": "beng195"}
+{"code": "BENG 196", "title": "Bioengineering Industrial Internship", "units": "1\u20134", "anchor": "beng196"}
+{"code": "BENG 197", "title": "Engineering Internship", "units": "1\u20134", "anchor": "beng197"}
+{"code": "BENG 198", "title": "Directed Group Study", "units": "1\u20134", "anchor": "beng198"}
+{"code": "BENG 199", "title": "Independent Study for Undergraduates", "units": "4", "anchor": "beng199"}
+{"code": "BENG 202", "title": "Bioinformatics II: Introduction to Bioinformatics Algorithms", "units": "4", "anchor": "beng202"}
+{"code": "BENG 203", "title": "Genomics, Proteomics, and Network Biology", "units": "4", "anchor": "beng203", "prereqs": {"type": "one", "courses": ["BENG 202", "CSE 282"]}}
+{"code": "BENG 207", "title": "Topics in Bioengineering", "units": "4", "anchor": "beng207"}
+{"code": "BENG 208", "title": "Topics in Bioengineering with Lab", "units": "4", "anchor": "beng208"}
+{"code": "BENG 211", "title": "Systems Biology and Bioengineering I: Biological Components", "units": "4", "anchor": "beng211", "prereqs": {"type": "one", "courses": ["BENG 230A", "BIMM 100"]}}
+{"code": "BENG 212", "title": "Systems Biology and Bioengineering II: Large-Scale Data Analysis", "units": "4", "anchor": "beng212"}
+{"code": "BENG 213", "title": "Systems Biology and Bioengineering III: Building and Simulating Large-Scale in Silico Models", "units": "4", "anchor": "beng213", "prereqs": "BENG 212"}
+{"code": "BENG 221", "title": "Mathematical Methods for Bioengineering", "units": "4", "anchor": "beng221"}
+{"code": "BENG 223", "title": "Thermodynamics, Statistical Mechanics, Interfacial Phenomena in Living Systems", "units": "4", "anchor": "beng223"}
+{"code": "BENG 224", "title": "Regulatory Affairs", "units": "4", "anchor": "beng224"}
+{"code": "BENG 225", "title": "Business of Biotech", "units": "4", "anchor": "beng225"}
+{"code": "BENG 226", "title": "Foundations of Bioengineering I: Tissue and Cell Properties", "units": "4", "anchor": "beng226"}
+{"code": "BENG 227", "title": "Transport Phenomena in Living Systems", "units": "4", "anchor": "beng227", "prereqs": "BENG 221"}
+{"code": "BENG 230A", "title": "Biochemistry", "units": "4", "anchor": "beng230a"}
+{"code": "BENG 230B", "title": "Cell and Molecular Biology", "units": "4", "anchor": "beng230b", "prereqs": "BENG 230A"}
+{"code": "BENG 230C", "title": "Cardiovascular Physiology", "units": "4", "anchor": "beng230c", "prereqs": "BENG 230B"}
+{"code": "BENG 230D", "title": "Respiratory and Renal Physiology", "units": "4", "anchor": "beng230d", "prereqs": {"type": "all", "courses": ["BIPN 100", "BIPN 102", "BENG 230C"]}}
+{"code": "BENG 232", "title": "Musculoskeletal Health, Injury, and Disease", "units": "4", "anchor": "beng232"}
+{"code": "BENG 233", "title": "Neuromuscular Physiology and Biomechanics", "units": "4", "anchor": "beng233"}
+{"code": "BENG 234", "title": "Intro to Neurophysiology: Molecules to Systems", "units": "4", "anchor": "beng234"}
+{"code": "BENG 235", "title": "Molecular Imaging and Quantitation in Living Cells", "units": "4", "anchor": "beng235"}
+{"code": "BENG 238", "title": "Molecular Biology of the Cardiovascular System", "units": "4", "anchor": "beng238"}
+{"code": "BENG 241A", "title": "Tissue Engineering and Regenerative Medicine: Foundations", "units": "4", "anchor": "beng241a"}
+{"code": "BENG 241B", "title": "Tissue Engineering and Regenerative Medicine: Cell Microenvironment", "units": "4", "anchor": "beng241b", "prereqs": "BENG 241A"}
+{"code": "BENG 241C", "title": "Tissue Engineering and Regenerative Medicine: Development and Growth", "units": "4", "anchor": "beng241c", "prereqs": "BENG 241A"}
+{"code": "BENG 242", "title": "Polymer Science and Engineering", "units": "4", "anchor": "beng242"}
+{"code": "BENG 247A", "title": "Advanced Biophotonics", "units": "4", "anchor": "beng247a"}
+{"code": "BENG 247B", "title": "Bioelectronics", "units": "4", "anchor": "beng247b"}
+{"code": "BENG 247C", "title": "Bionanotechnology", "units": "4", "anchor": "beng247c"}
+{"code": "BENG 254", "title": "Synthetic Biology", "units": "4", "anchor": "beng254"}
+{"code": "BENG 260", "title": "Neurodynamics", "units": "4", "anchor": "beng260"}
+{"code": "BENG 267", "title": "Microcirculation in Health and Disease", "units": "4", "anchor": "beng267"}
+{"code": "BENG 276", "title": "Numerical Analysis in Multiscale Biology", "units": "4", "anchor": "beng276"}
+{"code": "BENG 277", "title": "Tissue Engineering Laboratory", "units": "4", "anchor": "beng-277"}
+{"code": "BENG 278", "title": "Magnetic Resonance Imaging", "units": "4", "anchor": "beng278", "prereqs": "BENG 280A"}
+{"code": "BENG 280A", "title": "Principles of Biomedical Imaging", "units": "4", "anchor": "beng280a"}
+{"code": "BENG 280B", "title": "Comparative Biomedical Imaging", "units": "4", "anchor": "beng280b"}
+{"code": "BENG 280C", "title": "Imaging Cardiovascular Disease", "units": "4", "anchor": "beng280c"}
+{"code": "BENG 281", "title": "Seminar in Bioengineering", "units": "1", "anchor": "beng281"}
+{"code": "BENG 282", "title": "Seminar: Faculty Research", "units": "1", "anchor": "beng282"}
+{"code": "BENG 283", "title": "Supramolecular Structure Determination Laboratory", "units": "4", "anchor": "beng283"}
+{"code": "BENG 285", "title": "Statistical Learning in Bioinformatics", "units": "4", "anchor": "beng285", "prereqs": {"type": "one", "courses": ["ECE 271A", "ECE 271B", "MATH 283"]}}
+{"code": "BENG 291", "title": ". Senior Seminar I: Professional Issues in Bioengineering", "units": "2", "anchor": "beng291"}
+{"code": "BENG 292", "title": "Scientific Ethics", "units": "1", "anchor": "beng292"}
+{"code": "BENG 294A", "title": "Patient-Centered Clinical Medicine for Bioengineers", "units": "4", "anchor": "beng294a"}
+{"code": "BENG 294B", "title": "Engineering in the Patient Healthcare System", "units": "4", "anchor": "beng294b", "prereqs": "BENG 294A"}
+{"code": "BENG 294C", "title": "Clinical Experience in Bioengineering", "units": "4", "anchor": "beng294c", "prereqs": "BENG 294B"}
+{"code": "BENG 295", "title": "Bioengineering Design Project and Industrial Training", "units": "4", "anchor": "beng295"}
+{"code": "BENG 296", "title": "Independent Study", "units": "4", "anchor": "beng296"}
+{"code": "BENG 298", "title": "Directed Group Study", "units": "1\u20134", "anchor": "beng298"}
+{"code": "BENG 298L", "title": "Laboratory Research Rotation", "units": "4", "anchor": "beng298l"}
+{"code": "BENG 299", "title": "Graduate Research", "units": "1\u201312", "anchor": "beng299"}
+{"code": "BENG 500", "title": "Apprentice Teaching for Specialization in Multi-Scale Biology", "units": "2, 4", "anchor": "beng500"}
+{"code": "BENG 501", "title": "Teaching Experience", "units": "2, 4", "anchor": "beng501"}
