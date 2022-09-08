@@ -18,6 +18,8 @@ def _get_args() -> argparse.Namespace:
                         dest='log_file', help='file to write log messages to (existing file will be overwritten); defaults to stderr')
     parser.add_argument('--nolog', action='store_false', dest='log_enabled',
                         help='silence logs entirely')
+    parser.add_argument('--dryrun', action='store_true', dest='dry_run',
+                        help='run program without writing any scraped data')
     return parser.parse_args()
 
 
@@ -29,5 +31,5 @@ if __name__ == '__main__':
         'LOG_FILE_APPEND': False,
         'LOG_LEVEL': args.log_level,
     })
-    process.crawl(CatalogSpider)
+    process.crawl(CatalogSpider, dry_run=args.dry_run)
     process.start()

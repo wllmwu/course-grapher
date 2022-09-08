@@ -18,17 +18,20 @@ class CatalogSpider(scrapy.Spider):
         }
     }
 
-    def __init__(self, name=None, **kwargs):
-        super().__init__(name, **kwargs)
+    def __init__(self, dry_run=None, *args, **kwargs):
+        super().__init__(*args, **kwargs)
         self.metrics = ScrapingMetrics()
         self.parser = CourseInfoParser(self.logger, self.metrics)
+        self.dry_run = bool(dry_run)
+        if self.dry_run:
+            self.logger.info('This is a dry run! No data will be written')
 
     def closed(self, reason):
         self.metrics.pretty_print()
 
     def parse(self, response):
-        selectors = response.xpath(
-            '//span[@class="courseFacLink"]/a[text()[contains(.,"courses")]]/@href')
+        selectors = response.css('span.courseFacLink').xpath(
+            './a[text()[contains(.,"courses")]]/@href')
         self.logger.info('Found %d department course pages', len(selectors))
         self.metrics.set_departments(len(selectors))
         for link in selectors.getall():
@@ -36,52 +39,49 @@ class CatalogSpider(scrapy.Spider):
 
     def parse_courses(self, response):
         dept = self._department_from_url(response.url)
-        name_selectors = response.xpath(
-            '//p[@class="course-name"]').xpath('string()')
-        description_selectors = response.xpath(
-            '//p[@class="course-name"]/following-sibling::p[1]').xpath('string()')
-
-        num_courses = len(name_selectors)
-        num_descriptions = len(description_selectors)
-        difference = num_courses - num_descriptions
+        title_line_selectors = response.css('p.course-name')
         self.logger.info('Found %d courses in department %s',
-                         num_courses, dept)
-        self.metrics.add_courses(num_courses)
-        if difference > 0:
-            self.logger.error(
-                'Found %d more course names than descriptions in department %s',
-                difference,
-                dept
-            )
-            self.metrics.add_missing_descriptions(difference)
-        elif difference < 0:
-            self.logger.error(
-                'Found %d more course descriptions than names in department %s',
-                -difference,
-                dept
-            )
-            self.metrics.add_extra_descriptions(-difference)
+                         len(title_line_selectors), dept)
+        self.metrics.add_courses(len(title_line_selectors))
 
-        for i, line in enumerate(name_selectors.getall()):
-            course_info = self.parser.parse_course(line)
-            if course_info is not None:
-                subject, number, title, units = course_info
-                prereqs = coreqs = None
-                self.logger.info('%s %s', subject, number)
-                result = {
-                    'dept': dept,
-                    'code': f'{subject} {number}',
-                    'title': title,
-                    'units': units
-                }
-                if i < num_descriptions:
-                    description = description_selectors[i].get()
-                    prereqs, coreqs = self.parser.parse_requirements(
-                        description)
-                    if prereqs is not None:
-                        result['prereqs'] = prereqs
-                    if coreqs is not None:
-                        result['coreqs'] = coreqs
+        for selector in title_line_selectors:
+            title_line = selector.xpath('string()').get()
+            course_info = self.parser.parse_course(title_line)
+            if course_info is None:
+                continue
+            subject, number, title, units = course_info
+            self.logger.info('%s %s', subject, number)
+
+            result = {
+                'dept': dept,
+                'code': f'{subject} {number}',
+                'title': title,
+                'units': units
+            }
+
+            anchor = selector.xpath(
+                './preceding-sibling::p[1]/a/@id|./preceding-sibling::a[1]/@id').get()
+            if anchor is None:
+                self.logger.warning('No anchor tag for %s %s', subject, number)
+                self.metrics.inc_missing_anchors()
+            else:
+                result['anchor'] = anchor
+
+            description = selector.xpath(
+                './following-sibling::p[1]').xpath('string()').get()
+            if description is None:
+                self.logger.error(
+                    'Missing description for %s %s', subject, number)
+                self.metrics.inc_missing_descriptions()
+            else:
+                prereqs, coreqs = self.parser.parse_requirements(
+                    description)
+                if prereqs is not None:
+                    result['prereqs'] = prereqs
+                if coreqs is not None:
+                    result['coreqs'] = coreqs
+
+            if not self.dry_run:
                 yield result
 
     def _department_from_url(self, url):
