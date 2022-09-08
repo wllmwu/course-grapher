@@ -1,3 +1,4 @@
+{"code": "MBC", "name": "Marine Biodiversity and Conservation", "link": "https://catalog.ucsd.edu/courses/MBC.html"}
 {"code": "SIO 295S", "title": "Introduction to Marine Biodiversity and Conservation\u2014Seminar", "units": "8", "anchor": "sio295s", "coreqs": "SIO 295LS"}
 {"code": "SIO 295LS", "title": "Introduction to Marine Biodiversity and Conservation\u2014Lab", "units": "8", "anchor": "sio295ls", "coreqs": "SIO 295S"}
 {"code": "MBC 258", "title": "Marine Conservation and Communication Practicum 1", "units": "2", "anchor": "mbc258", "prereqs": {"type": "all", "courses": ["SIO 295S", "SIO 295LS"]}}

@@ -1,3 +1,4 @@
+{"code": "CSE", "name": "Computer Science and Engineering", "link": "https://catalog.ucsd.edu/courses/CSE.html"}
 {"code": "CSE 3", "title": "Fluency in Information Technology", "units": "4", "anchor": "cse3"}
 {"code": "CSE 4GS", "title": "Mathematical Beauty in Rome", "units": "4", "anchor": "cse4gs", "prereqs": {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}, "coreqs": "CSE 6GS"}
 {"code": "CSE 6GS", "title": "Mathematical Beauty in Rome Lab", "units": "4", "anchor": "cse6gs", "prereqs": {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}, "coreqs": "CSE 4GS"}

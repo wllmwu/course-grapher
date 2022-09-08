@@ -1,3 +1,4 @@
+{"code": "CAT", "name": "Culture, Art, and Technology", "link": "https://catalog.ucsd.edu/courses/CAT.html"}
 {"code": "CAT 1", "title": "Culture, Art, and Technology 1", "units": "4", "anchor": "cat1"}
 {"code": "CAT 2", "title": "Culture, Art, and Technology 2", "units": "6", "anchor": "cat2", "prereqs": "CAT 1"}
 {"code": "CAT 3", "title": "Culture, Art, and Technology 3", "units": "6", "anchor": "cat3", "prereqs": "CAT 2"}

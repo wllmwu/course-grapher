@@ -1,3 +1,4 @@
+{"code": "ECON", "name": "Economics", "link": "https://catalog.ucsd.edu/courses/ECON.html"}
 {"code": "ECON 1", "title": "Principles of Microeconomics", "units": "4", "anchor": "econ1"}
 {"code": "ECON 2", "title": "Market Imperfections and Policy", "units": "4", "anchor": "econ2", "prereqs": "ECON 1"}
 {"code": "ECON 3", "title": "Principles of Macroeconomics", "units": "4", "anchor": "econ3", "prereqs": "ECON 1"}

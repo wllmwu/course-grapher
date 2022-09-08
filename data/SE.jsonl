@@ -1,3 +1,4 @@
+{"code": "SE", "name": "Structural Engineering", "link": "https://catalog.ucsd.edu/courses/SE.html"}
 {"code": "SE 1", "title": "Introduction to Structures and Design", "units": "4", "anchor": "se1"}
 {"code": "SE 3", "title": "Graphical Communication for Engineering Design", "units": "4", "anchor": "se3", "prereqs": "SE 1"}
 {"code": "SE 7", "title": "Spatial Visualization", "units": "1", "anchor": "se7"}

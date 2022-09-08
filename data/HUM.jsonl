@@ -1,3 +1,4 @@
+{"code": "HUM", "name": "Humanities", "link": "https://catalog.ucsd.edu/courses/HUM.html"}
 {"code": "HUM 1", "title": "The Foundations of Western Civilization: Israel and Greece", "units": "6", "anchor": "hum1"}
 {"code": "HUM 2", "title": "Rome, Christianity, and the Middle Ages", "units": "6", "anchor": "hum2"}
 {"code": "HUM 3", "title": "Renaissance, Reformation, and Early Modern Europe", "units": "4", "anchor": "hum3", "prereqs": {"type": "one", "courses": ["HUM 1", "HUM 2"]}}

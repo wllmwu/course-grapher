@@ -1,3 +1,4 @@
+{"code": "NANO", "name": "NanoEngineering", "link": "https://catalog.ucsd.edu/courses/NANO.html"}
 {"code": "NANO 4", "title": "Experience\u00a0NanoEngineering", "units": "1", "anchor": "nano4"}
 {"code": "NANO 11", "title": "Introduction to NanoEngineering", "units": "4", "anchor": "nano11", "prereqs": "NANO 4"}
 {"code": "NANO 15", "title": "Engineering Computation Using MATLAB", "units": "4", "anchor": "nano15"}

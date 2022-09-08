@@ -1,3 +1,4 @@
+{"code": "FMPH", "name": "Public Health", "link": "https://catalog.ucsd.edu/courses/FMPH.html"}
 {"code": "FMPH 40", "title": "Introduction to Public Health", "units": "4", "anchor": "fmph40"}
 {"code": "FMPH 50", "title": "Primary Care and Public Health", "units": "4", "anchor": "fmph50"}
 {"code": "FMPH 101", "title": "Epidemiology", "units": "4", "anchor": "fmph101", "prereqs": {"type": "all", "courses": ["FMPH 40", {"type": "one", "courses": ["PSYC 60", "MATH 11", "COGS 14B"]}]}}

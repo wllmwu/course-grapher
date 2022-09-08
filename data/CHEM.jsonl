@@ -1,3 +1,4 @@
+{"code": "CHEM", "name": "Chemistry and Biochemistry", "link": "https://catalog.ucsd.edu/courses/CHEM.html"}
 {"code": "CHEM 1", "title": "The Scope of Chemistry and Biochemistry", "units": "1", "anchor": "chem1"}
 {"code": "CHEM 4", "title": "Chemical Thinking", "units": "4", "anchor": "chem4"}
 {"code": "CHEM 6A", "title": "General Chemistry I", "units": "4", "anchor": "chem6a", "coreqs": {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}}

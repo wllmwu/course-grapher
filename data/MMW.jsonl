@@ -1,3 +1,4 @@
+{"code": "MMW", "name": "The Making of the Modern World", "link": "https://catalog.ucsd.edu/courses/MMW.html"}
 {"code": "MMW 11", "title": "Prehistory and Ancient Foundations", "units": "4", "anchor": "mmw11"}
 {"code": "MMW 12", "title": "Classical and Medieval Traditions", "units": "6", "anchor": "mmw12"}
 {"code": "MMW 13", "title": "New Ideas and Cultural Encounters", "units": "6", "anchor": "mmw13", "prereqs": {"type": "one", "courses": ["MMW 12", "MMW 2"]}}
