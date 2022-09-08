@@ -1,3 +1,4 @@
+{"code": "PHYS", "name": "Physics", "link": "https://catalog.ucsd.edu/courses/PHYS.html"}
 {"code": "PHYS 1A", "title": "Mechanics", "units": "3", "anchor": "phys1a", "prereqs": {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}}
 {"code": "PHYS 1AL", "title": "Mechanics Laboratory", "units": "2", "anchor": "phys1al", "prereqs": {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}}
 {"code": "PHYS 1B", "title": "Electricity and Magnetism", "units": "3", "anchor": "phys1b", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PHYS 1A", "PHYS 2A"]}, {"type": "one", "courses": ["MATH 10B", "MATH 20B"]}]}}

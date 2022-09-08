@@ -1,3 +1,4 @@
+{"code": "MATH", "name": "Mathematics", "link": "https://catalog.ucsd.edu/courses/MATH.html"}
 {"code": "MATH 2", "title": "Introduction to College Mathematics", "units": "4", "anchor": "math2"}
 {"code": "MATH 3C", "title": "Precalculus", "units": "4", "anchor": "math3c"}
 {"code": "MATH 4C", "title": "Precalculus for Science and Engineering", "units": "4", "anchor": "math4c", "prereqs": "MATH 3C"}

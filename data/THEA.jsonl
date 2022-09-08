@@ -1,3 +1,4 @@
+{"code": "THEA", "name": "Theatre and Dance", "link": "https://catalog.ucsd.edu/courses/THEA.html"}
 {"code": "TDAC 1", "title": "Introduction to Acting", "units": "4", "anchor": "tdac1"}
 {"code": "TDAC 101", "title": "Acting I", "units": "4", "anchor": "tdac101", "prereqs": "TDAC 1"}
 {"code": "TDAC 102", "title": "Acting II", "units": "4", "anchor": "tdac102", "prereqs": "TDAC 101"}

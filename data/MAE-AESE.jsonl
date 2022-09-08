@@ -1,3 +1,4 @@
+{"code": "MAE-AESE", "name": "Mechanical and Aerospace Engineering", "link": "https://catalog.ucsd.edu/courses/MAE-AESE.html"}
 {"code": "AESE 278A", "title": "Complexity and Large-Scale Systems", "units": "4", "anchor": "aese278a"}
 {"code": "AESE 278B", "title": "Enterprise Architecting", "units": "4", "anchor": "aese278b", "prereqs": {"type": "all", "courses": ["MGT 291", "MGT 406", {"type": "one", "courses": ["AESE 278A", "MAE 277A", "ECE 205", "CSE 278A"]}]}}
 {"code": "AESE 278C", "title": "Modeling, Simulation, and Analysis", "units": "4", "anchor": "aese278c", "prereqs": {"type": "all", "courses": ["MGT 291", "AESE 278A", "AESE 278B"]}}

@@ -1,3 +1,4 @@
+{"code": "CSS", "name": "Computational Social Science", "link": "https://catalog.ucsd.edu/courses/css.html"}
 {"code": "CSS 1", "title": "Introductory Programming for Computational Social Science", "units": "4", "anchor": "css1"}
 {"code": "CSS 2", "title": "Data and Model Programming for Computational Social Science", "units": "4", "anchor": "css2", "prereqs": {"type": "all", "courses": ["CSS 1", {"type": "one", "courses": ["COGS 14B", "MATH 11", "MGT 3", "POLI 30", "POLI 30D", "PSYC 60"]}]}}
 {"code": "CSS 100", "title": "Advanced Programming for Computational Social Science", "units": "4", "anchor": "css100", "prereqs": "CSS 2"}

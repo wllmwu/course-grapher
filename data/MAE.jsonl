@@ -1,3 +1,4 @@
+{"code": "MAE", "name": "Mechanical and Aerospace Engineering", "link": "https://catalog.ucsd.edu/courses/MAE.html"}
 {"code": "MAE 02", "title": "Introduction to Aerospace Engineering", "units": "4", "anchor": "mae2"}
 {"code": "MAE 03", "title": "Introduction to Engineering Graphics and Design", "units": "4", "anchor": "mae3", "prereqs": {"type": "one", "courses": ["PHYS 2A", "PHYS 4A"]}}
 {"code": "MAE 05", "title": "Quantitative Computer Skills", "units": "4", "anchor": "mae5"}

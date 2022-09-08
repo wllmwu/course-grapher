@@ -1,3 +1,4 @@
+{"code": "DSC", "name": "Data Science", "link": "https://catalog.ucsd.edu/courses/DSC.html"}
 {"code": "DSC 10", "title": "Principles of Data Science", "units": "4", "anchor": "dsc10"}
 {"code": "DSC 20", "title": "Programming and Basic Data Structures for Data Science", "units": "4", "anchor": "dsc20", "prereqs": "DSC 10"}
 {"code": "DSC 30", "title": "Data Structures and Algorithms for Data Science", "units": "4", "anchor": "dsc30", "prereqs": "DSC 20"}

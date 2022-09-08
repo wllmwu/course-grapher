@@ -1,3 +1,4 @@
+{"code": "MUS", "name": "Music", "link": "https://catalog.ucsd.edu/courses/MUS.html"}
 {"code": "MUS 1A", "title": "Fundamentals of Music A", "units": "4", "anchor": "mus1a"}
 {"code": "MUS 1B", "title": "Fundamentals of Music B", "units": "4", "anchor": "mus1b", "prereqs": "MUS 1A"}
 {"code": "MUS 1C", "title": "Fundamentals of Music C", "units": "4", "anchor": "mus1c", "prereqs": "MUS 1B"}

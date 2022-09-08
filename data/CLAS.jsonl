@@ -1,3 +1,4 @@
+{"code": "CLAS", "name": "Classical Studies", "link": "https://catalog.ucsd.edu/courses/CLAS.html"}
 {"code": "CLAS 109", "title": "Greek Seminar", "units": "4", "anchor": "clas-109", "prereqs": {"type": "all", "courses": ["LTGK 1", "LTGK 2", "LTGK 3"]}}
 {"code": "CLAS 110", "title": "Latin Seminar", "units": "4", "anchor": "clas-110", "prereqs": {"type": "all", "courses": ["LTLA 1", "LTLA 2", "LTLA 3"]}}
 {"code": "CLAS 120", "title": "Classical Diversities", "units": "4", "anchor": "clas-120"}

@@ -1,3 +1,4 @@
+{"code": "SYN", "name": "Synthesis Program", "link": "https://catalog.ucsd.edu/courses/SYN.html"}
 {"code": "SYN 1", "title": "Perspectives on a Changing Planet", "units": "4", "anchor": "syn1"}
 {"code": "SYN 2", "title": "Explorations of a Changing Planet", "units": "4", "anchor": "syn2", "prereqs": "SYN 1"}
 {"code": "SYN 100", "title": "Solutions for a Changing Planet", "units": "4", "anchor": "syn100", "prereqs": {"type": "all", "courses": ["SYN 1", "SYN 2"]}}

@@ -1,3 +1,4 @@
+{"code": "BIOL", "name": "Biological Sciences, School of", "link": "https://catalog.ucsd.edu/courses/BIOL.html"}
 {"code": "BILD 1", "title": "The Cell", "units": "4", "anchor": "bild1"}
 {"code": "BILD 2", "title": "Multicellular Life", "units": "4", "anchor": "bild2", "prereqs": "BILD 1"}
 {"code": "BILD 3", "title": "Organismic and Evolutionary Biology", "units": "4", "anchor": "bild3"}
