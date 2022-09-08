@@ -39,11 +39,25 @@ class CatalogSpider(scrapy.Spider):
 
     def parse_courses(self, response):
         dept = self._department_from_url(response.url)
+        dept_name = response.xpath(
+            '//h1').xpath('string()').re_first(r'^[^(]*')
+        if dept_name is None:
+            self.logger.error('Failed to parse name of department %s', dept)
+        else:
+            dept_name = dept_name.strip()
+
         title_line_selectors = response.css('p.course-name')
         self.logger.info('Found %d courses in department %s',
                          len(title_line_selectors), dept)
         self.metrics.add_courses(len(title_line_selectors))
 
+        if not self.dry_run:
+            yield {
+                'dept': dept,
+                'code': dept,
+                'name': dept_name,
+                'link': response.url
+            }
         for selector in title_line_selectors:
             title_line = selector.xpath('string()').get()
             course_info = self.parser.parse_course(title_line)
