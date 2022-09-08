@@ -1,165 +1,165 @@
-{"code": "EDS 20S", "title": "Introduction to Principles of Learning", "units": "4", "prereqs": null}
-{"code": "EDS 21S", "title": "Writing and Learning\u2014Triton Transition", "units": "4", "prereqs": null}
-{"code": "EDS 22", "title": "Education in Cuba: Institutional Structures, History, and Culture", "units": "2", "prereqs": null}
-{"code": "EDS 22S", "title": "Education in Cuba\u2014Field Experience", "units": "4", "prereqs": null}
-{"code": "EDS 23", "title": "Success and Satisfaction in the Second Year of Higher Education: Research Trends and Conclusions", "units": "2", "prereqs": null}
-{"code": "EDS 24", "title": "Thriving in College", "units": "2", "prereqs": null}
-{"code": "EDS 25", "title": "American Higher Education and the Collegiate Experience", "units": "4", "prereqs": null}
-{"code": "EDS 30", "title": "Introduction to Math Teaching", "units": "2", "prereqs": null}
-{"code": "EDS 31", "title": "Introduction to Teaching Science", "units": "2", "prereqs": null}
-{"code": "EDS 38", "title": "Explorations in Education", "units": "2", "prereqs": null}
-{"code": "EDS 39", "title": "Explorations in Secondary STEM Education", "units": "2", "prereqs": null}
-{"code": "EDS 50", "title": "Chancellor\u2019s Associates Scholars Program First-year Student Introductory Course", "units": "1", "prereqs": null}
-{"code": "EDS 87", "title": "First-year Student Seminar in Education Studies", "units": "1", "prereqs": null}
-{"code": "EDS 102", "title": "Introduction to Qualitative Methods in Education Research", "units": "4", "prereqs": null}
-{"code": "EDS 103", "title": "Introduction to Quantitative Methods in Education Research", "units": "4", "prereqs": null}
-{"code": "EDS 105", "title": "Teaching and Learning Physics", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PHYS 1A", "PHYS 2A", "PHYS 4A"]}, {"type": "one", "courses": ["PHYS 1B", "PHYS 2B", "PHYS 4C"]}, {"type": "one", "courses": ["PHYS 1C", "PHYS 2C", "PHYS 2D", "PHYS 4B"]}]}}
-{"code": "EDS 110R", "title": "Early Learning Environments for Diverse Learners", "units": "4", "prereqs": null}
-{"code": "EDS 111", "title": "Child, Family, and Community Partnerships with Schools", "units": "4", "prereqs": null}
-{"code": "EDS 111GS", "title": "Child, Family, and Community Partnerships with Schools", "units": "4", "prereqs": null}
-{"code": "EDS 112", "title": "Urban Education in the United States", "units": "4", "prereqs": null}
-{"code": "EDS 113", "title": "Chicanas/os and Latinos in Education: Policy, Practice, and Challenges to Equity", "units": "4", "prereqs": null}
-{"code": "EDS 114", "title": "Cognitive Development and Interactive Computing Environments", "units": "4", "prereqs": null}
-{"code": "EDS 115", "title": "Cognitive Development and Education", "units": "4", "prereqs": null}
-{"code": "EDS 115GS", "title": "Cognitive Development and Education", "units": "4", "prereqs": null}
-{"code": "EDS 116", "title": "Equity-Minded Education", "units": "4", "prereqs": null}
-{"code": "EDS 117", "title": "Language, Culture, and Education", "units": "4", "prereqs": null}
-{"code": "EDS 117GS", "title": "Language, Culture, and Education", "units": "4", "prereqs": null}
-{"code": "EDS 118", "title": "Adolescent Development and Education", "units": "4", "prereqs": null}
-{"code": "EDS 119", "title": ". First and Second Language Learning: From Childhood through Adolescence", "units": "4", "prereqs": null}
-{"code": "EDS 120", "title": "Introduction to Design-Based Educational Research: A Field Experience for Improving San Diego Schools", "units": "4", "prereqs": {"type": "one", "courses": ["HIUS 180", "HIUS 136", "HITO 156", "HITO 136", "EDS 126", "EDS 136", "USP 129", "SOCI 139", "SOCI 127", "SOCI 126", "POLI 108", "POLI 100Q", "POLI 100O", "POLI 100H", "LTCS 130", "HILD 7C", "HILD 7B", "HILD 7A", "ETHN 3", "ETHN 2", "ANTH 131", "ANTH 21", "ANTH 23", "DOC 1", "DOC 100D", "EDS 112", "EDS 113", "EDS 117", "SOCI 117", "EDS 125"]}}
-{"code": "EDS 121A", "title": "Foundations of Teaching and Learning Mathematics I", "units": "4", "prereqs": {"type": "one", "courses": ["EDS 30", "MATH 95"]}}
-{"code": "EDS 121B", "title": "Foundations of Teaching and Learning Math II", "units": "4", "prereqs": {"type": "one", "courses": ["EDS 121A", "MATH 121A"]}}
-{"code": "EDS 122", "title": "Foundations of Teaching and Learning Science", "units": "4", "prereqs": {"type": "one", "courses": ["EDS 31", "CHEM 87"]}}
-{"code": "EDS 123", "title": "Capstone Seminar in Science Education", "units": "4", "prereqs": {"type": "one", "courses": ["EDS 122", "CHEM 187"]}}
-{"code": "EDS 124A", "title": "Teaching Computation in the Digital World", "units": "4", "prereqs": null}
-{"code": "EDS 124AR", "title": "Teaching Computation in the Digital World", "units": "4", "prereqs": null}
-{"code": "EDS 124BR", "title": "Teaching Computational Thinking for Everyone", "units": "4", "prereqs": null}
-{"code": "EDS 125", "title": "History, Politics, and Theory of Bilingual Education", "units": "4", "prereqs": null}
-{"code": "EDS 126", "title": "Social Organization of Education", "units": "4", "prereqs": null}
-{"code": "EDS 128", "title": "A-B. Introduction to Teaching and Learning", "units": "Elementary", "prereqs": "EDS 139"}
-{"code": "EDS 129", "title": "A-B-C. Introduction to Teaching and Learning", "units": "Secondary", "prereqs": "EDS 139"}
-{"code": "EDS 130", "title": "Introduction to Academic Mentoring of Elementary/School Students", "units": "4", "prereqs": "EDS 139"}
-{"code": "EDS 131", "title": "Early Childhood Development and Education", "units": "4", "prereqs": null}
-{"code": "EDS 133", "title": "Counseling, Mentoring, and Academic Advising", "units": "Preschool through Twelfth Grade", "prereqs": null}
-{"code": "EDS 135", "title": "Working with Newcomer Communities in San Diego", "units": "6", "prereqs": null}
-{"code": "EDS 136", "title": "Introduction to Academic Tutoring of Secondary School Students", "units": "4", "prereqs": "EDS 139"}
-{"code": "EDS 137", "title": "Introduction to Discipline-Specific Teaching and Learning", "units": "4", "prereqs": "EDS 139"}
-{"code": "EDS 139", "title": "Practicum in Teaching and Learning", "units": "2", "prereqs": null}
-{"code": "EDS 140", "title": "Introduction to Action Research in P\u201312 Schools", "units": "4", "prereqs": {"type": "one", "courses": ["EDS 130", "EDS 131", "EDS 133", "EDS 135", "EDS 136", "EDS 137"]}}
-{"code": "EDS 141", "title": "Action Research in P\u201312 Education: Advanced Practicum in P\u201312 Schools and Communities", "units": "4", "prereqs": "EDS 140"}
-{"code": "EDS 145", "title": "Artsbridge: Integrating the Arts Across the Curriculum", "units": "4", "prereqs": "EDS 139"}
-{"code": "EDS 146", "title": "Mindfulness and Education", "units": "4", "prereqs": "EDS 139"}
-{"code": "EDS 150", "title": "Chancellor\u2019s Associates Scholars Program Transfer Introductory Course", "units": "2", "prereqs": null}
-{"code": "EDS 164R", "title": "Early Childhood Policy: Children, Contexts, and Policies in Diverse Societies", "units": "4", "prereqs": null}
-{"code": "EDS 180", "title": "Topics in Education Studies", "units": "4", "prereqs": null}
-{"code": "EDS 190", "title": "Research Practicum", "units": "1\u20136", "prereqs": null}
-{"code": "EDS 195", "title": "Apprentice Teaching", "units": "2\u20134", "prereqs": null}
-{"code": "EDS 198", "title": "Directed Group Study", "units": "4\u20132", "prereqs": null}
-{"code": "EDS 199", "title": "Special Studies", "units": "4", "prereqs": null}
-{"code": "EDS 324AR", "title": "Teaching Impacts of Technology", "units": "4", "prereqs": null}
-{"code": "EDS 324BR", "title": "Computational Thinking and Block-Based Programming", "units": "4", "prereqs": null}
-{"code": "EDS 324CR", "title": "Learn to Teach Java", "units": "4", "prereqs": null}
-{"code": "EDS 324DR", "title": "Teaching Methods in Computer Science", "units": "4", "prereqs": null}
-{"code": "EDS 342A", "title": "ASL-English Bilingual Education Practices", "units": "4", "prereqs": null}
-{"code": "EDS 342B", "title": "ASL-English Bilingual Education Practices", "units": "4", "prereqs": {"type": "all", "courses": ["EDS 342A", "EDS 361A"]}}
-{"code": "EDS 342C", "title": "ASL-English Bilingual Education Practices", "units": "4", "prereqs": {"type": "all", "courses": ["EDS 342A", "EDS 342B", "EDS 361A"]}}
-{"code": "EDS 349", "title": "Deaf Education Specialist Student Teaching Practicum", "units": "9", "prereqs": null}
-{"code": "EDS 351", "title": "Teaching the English Language Learner", "units": "4", "prereqs": null}
-{"code": "EDS 352A", "title": "Bilingual Instructional Practices I", "units": "2", "prereqs": null}
-{"code": "EDS 352B", "title": "Bilingual Instructional Practices II", "units": "2", "prereqs": "EDS 352A"}
-{"code": "EDS 355A", "title": "Advanced Mathematics Teaching Practices for Grades K\u20136", "units": "2", "prereqs": "EDS 361A"}
-{"code": "EDS 355B", "title": "Advanced Mathematics Teaching Practices for Grades K\u20136", "units": "2", "prereqs": "EDS 355A"}
-{"code": "EDS 355C", "title": "Advanced Mathematics Teaching Practices for Grades K\u20136", "units": "2", "prereqs": "EDS 355B"}
-{"code": "EDS 361A", "title": "Innovative Instructional Practices I", "units": "6", "prereqs": null}
-{"code": "EDS 361B", "title": "Innovative Instructional Practices II", "units": "6", "prereqs": "EDS 361A"}
-{"code": "EDS 361C", "title": "Innovative Instructional Practices III", "units": "4", "prereqs": "EDS 361B"}
-{"code": "EDS 369A", "title": "Multiple Subject", "units": "Elementary", "prereqs": null}
-{"code": "EDS 369B", "title": "Multiple Subject", "units": "Elementary", "prereqs": "EDS 369A"}
-{"code": "EDS 372", "title": "World Language Teaching Practices", "units": "4", "prereqs": null}
-{"code": "EDS 373", "title": "Secondary English Teaching Practices", "units": "4", "prereqs": null}
-{"code": "EDS 374", "title": "Secondary Mathematics Teaching Practices", "units": "4", "prereqs": null}
-{"code": "EDS 375", "title": "Secondary Science Teaching Practices", "units": "4", "prereqs": null}
-{"code": "EDS 376", "title": "Language and Learning Instruction", "units": "4", "prereqs": null}
-{"code": "EDS 379A", "title": "Single Subject", "units": "Secondary", "prereqs": null}
-{"code": "EDS 379B", "title": "Single Subject", "units": "Secondary", "prereqs": "EDS 379A"}
-{"code": "EDS 379C", "title": "Single Subject", "units": "Secondary", "prereqs": "EDS 379B"}
-{"code": "EDS 381", "title": "Health Education", "units": "4", "prereqs": null}
-{"code": "EDS 382", "title": "Inclusive Educational Practices", "units": "4", "prereqs": null}
-{"code": "EDS 385", "title": "Elementary School Mathematics Content and Pedagogy", "units": "4", "prereqs": null}
-{"code": "EDS 201", "title": "Introduction to Resources for Teaching and Learning", "units": "4", "prereqs": null}
-{"code": "EDS 203", "title": "Technology, Teaching, and Learning", "units": "4", "prereqs": null}
-{"code": "EDS 204", "title": "Technology and Professional Assessment", "units": "4", "prereqs": null}
-{"code": "EDS 205A", "title": "Reflective Teaching Practice", "units": "2", "prereqs": null}
-{"code": "EDS 205B", "title": "Reflective Teaching Practice", "units": "2", "prereqs": "EDS 205A"}
-{"code": "EDS 206", "title": "Teaching Performance Assessment Portfolio", "units": "4", "prereqs": null}
-{"code": "EDS 229", "title": "Introduction to Educational Resources", "units": "4", "prereqs": null}
-{"code": "EDS 230A-B-C", "title": ". Research in Curriculum Design", "units": "4-4-4", "prereqs": null}
-{"code": "EDS 231", "title": "Advanced Topics in Instructional Practices", "units": "4", "prereqs": null}
-{"code": "EDS 232", "title": "Special Topics in Education", "units": "4", "prereqs": null}
-{"code": "EDS 233A", "title": "Topics in Education Research and Design", "units": "2", "prereqs": null}
-{"code": "EDS 233B", "title": "Topics in Education Research and Design", "units": "2", "prereqs": "EDS 233A"}
-{"code": "EDS 240A", "title": "Research in ASL-English Bilingual Education", "units": "4", "prereqs": null}
-{"code": "EDS 240B", "title": "Research in ASL-English Bilingual Education", "units": "4", "prereqs": "EDS 240A"}
-{"code": "EDS 240C", "title": "Research in ASL-English Bilingual Education", "units": "4", "prereqs": {"type": "one", "courses": ["EDS 240A", "EDS 240B"]}}
-{"code": "EDS 249", "title": "Equity in Higher Education", "units": "4", "prereqs": null}
-{"code": "EDS 250", "title": "Equitable Educational Research and Practice", "units": "4", "prereqs": null}
-{"code": "EDS 251", "title": "Transforming Learning Environments", "units": "4", "prereqs": null}
-{"code": "EDS 252", "title": "Transforming Inequities in Student Outcomes", "units": "4", "prereqs": null}
-{"code": "EDS 253", "title": "Transforming Educational Systems and Policy", "units": "4", "prereqs": null}
-{"code": "EDS 254", "title": "Introduction to Research Design and Quantitative Data Analysis", "units": "4", "prereqs": null}
-{"code": "EDS 255", "title": "Advanced Quantitative Data Analysis", "units": "4", "prereqs": "EDS 254"}
-{"code": "EDS 256", "title": "Introduction to Mixed Methods Research Design and Analysis", "units": "4", "prereqs": {"type": "all", "courses": ["EDS 254", "EDS 264"]}}
-{"code": "EDS 257", "title": "Case Study Research", "units": "4", "prereqs": null}
-{"code": "EDS 259", "title": "Communicating Research", "units": "2", "prereqs": null}
-{"code": "EDS 260A", "title": "Educational Research and Evaluation Design", "units": "4", "prereqs": null}
-{"code": "EDS 260B", "title": "Educational Research and Evaluation Design", "units": "4", "prereqs": "EDS 260A"}
-{"code": "EDS 260C", "title": "Educational Research and Evaluation Design", "units": "4", "prereqs": "EDS 260B"}
-{"code": "EDS 261A", "title": "Advanced Research and Evaluation Methods", "units": "4", "prereqs": null}
-{"code": "EDS 261B", "title": "Advanced Research and Evaluation Methods", "units": "4", "prereqs": "EDS 261A"}
-{"code": "EDS 261C", "title": "Advanced Research and Evaluation Methods", "units": "4", "prereqs": "EDS 261B"}
-{"code": "EDS 262A", "title": "Dissertation Writing Seminar", "units": "4", "prereqs": null}
-{"code": "EDS 262B", "title": "Dissertation Writing Seminar", "units": "4", "prereqs": "EDS 262A"}
-{"code": "EDS 262C", "title": "Dissertation Writing Seminar", "units": "4", "prereqs": "EDS 262B"}
-{"code": "EDS 263", "title": "Developmental Theory and Culture", "units": "4", "prereqs": null}
-{"code": "EDS 264", "title": "Introduction to Qualitative Analysis", "units": "4", "prereqs": null}
-{"code": "EDS 265", "title": "Special Topics in Qualitative Methods", "units": "4", "prereqs": null}
-{"code": "EDS 266", "title": "Special Topics in Quantitative Methods", "units": "4", "prereqs": null}
-{"code": "EDS 267", "title": "Contexts for Teaching and Change", "units": "4", "prereqs": null}
-{"code": "EDS 268", "title": "Introduction to Critical Race Theory and Education", "units": "4", "prereqs": {"type": "one", "courses": ["EDS 251", "EDS 252", "EDS 253"]}}
-{"code": "EDS 269", "title": "Diverse College Students", "units": "4", "prereqs": null}
-{"code": "EDS 270", "title": "Leadership and Equity in Educational Reform", "units": "4", "prereqs": null}
-{"code": "EDS 272", "title": "Education and Culture", "units": "4", "prereqs": null}
-{"code": "EDS 278", "title": "Talking Culture, Culture Talking: Voices of Diversity", "units": "4", "prereqs": null}
-{"code": "EDS 279", "title": "Campus Activism", "units": "4", "prereqs": null}
-{"code": "EDS 280", "title": "Rethinking Leadership", "units": "4", "prereqs": null}
-{"code": "EDS 281", "title": "Leadership for Learning", "units": "4", "prereqs": null}
-{"code": "EDS 282", "title": "Leadership for a Diverse Society", "units": "4", "prereqs": null}
-{"code": "EDS 283", "title": "Leadership for Organizational Change", "units": "4", "prereqs": null}
-{"code": "EDS 284", "title": "Leadership for Organizational Development", "units": "4", "prereqs": null}
-{"code": "EDS 285", "title": "Leadership for the Future", "units": "4", "prereqs": null}
-{"code": "EDS 286", "title": "Advanced Topics in Leadership", "units": "4", "prereqs": null}
-{"code": "EDS 287A", "title": "Educational Research and Evaluation Design A", "units": "4", "prereqs": null}
-{"code": "EDS 287B", "title": "Educational Research and Evaluation Design B", "units": "4", "prereqs": "EDS 287A"}
-{"code": "EDS 287C", "title": "Educational Research and Evaluation Design C\u2014Qualitative Methods", "units": "4", "prereqs": {"type": "all", "courses": ["EDS 287A", "EDS 287B"]}}
-{"code": "EDS 288A", "title": "Advanced Research and Evaluation Methods A\u2014Quantitative Methods", "units": "4", "prereqs": null}
-{"code": "EDS 288B", "title": "Advanced Research and Evaluation Methods B\u2014Qualitative Methods", "units": "4", "prereqs": null}
-{"code": "EDS 288C", "title": "Advanced Research and Evaluation Methods C\u2014Quantitative Methods", "units": "4", "prereqs": null}
-{"code": "EDS 289A", "title": "Dissertation Writing Seminar", "units": "4", "prereqs": null}
-{"code": "EDS 289B", "title": "Dissertation Writing Seminar", "units": "4", "prereqs": "EDS 289A"}
-{"code": "EDS 289C", "title": "Dissertation Writing Seminar", "units": "4", "prereqs": "EDS 289B"}
-{"code": "EDS 289D", "title": "Dissertation Writing Seminar", "units": "4", "prereqs": "EDS 289C"}
-{"code": "EDS 290", "title": "Research Practicum", "units": "1\u201312", "prereqs": null}
-{"code": "EDS 291A", "title": "Leadership Research Practicum", "units": "2", "prereqs": null}
-{"code": "EDS 291B", "title": "Leadership Research Practicum", "units": "2", "prereqs": "EDS 291A"}
-{"code": "EDS 292", "title": "Qualifying Paper Preparation", "units": "2", "prereqs": null}
-{"code": "EDS 293A", "title": "Advanced Leadership Research Practicum", "units": "2", "prereqs": null}
-{"code": "EDS 293B", "title": "Advanced Leadership Research Practicum", "units": "2", "prereqs": "EDS 293A"}
-{"code": "EDS 294A", "title": "Colloquium on Educational Leadership", "units": "2", "prereqs": null}
-{"code": "EDS 294B", "title": "Colloquium on Educational Leadership", "units": "2", "prereqs": "EDS 294A"}
-{"code": "EDS 295", "title": "MA Thesis", "units": "1\u20138", "prereqs": null}
-{"code": "EDS 296", "title": "Research Apprenticeship Course", "units": "2\u201312", "prereqs": null}
-{"code": "EDS 297", "title": "Directed Group Study", "units": "1\u20136", "prereqs": null}
-{"code": "EDS 298", "title": "Independent Study", "units": "1\u20136", "prereqs": null}
-{"code": "EDS 299", "title": "Dissertation Research", "units": "1\u201312", "prereqs": null}
-{"code": "EDS 500", "title": "Apprentice Teaching in Education", "units": "2\u20134", "prereqs": null}
+{"code": "EDS 20S", "title": "Introduction to Principles of Learning", "units": "4", "anchor": "eds20s"}
+{"code": "EDS 21S", "title": "Writing and Learning\u2014Triton Transition", "units": "4", "anchor": "eds21s"}
+{"code": "EDS 22", "title": "Education in Cuba: Institutional Structures, History, and Culture", "units": "2", "anchor": "eds22"}
+{"code": "EDS 22S", "title": "Education in Cuba\u2014Field Experience", "units": "4", "anchor": "eds22s"}
+{"code": "EDS 23", "title": "Success and Satisfaction in the Second Year of Higher Education: Research Trends and Conclusions", "units": "2", "anchor": "eds23"}
+{"code": "EDS 24", "title": "Thriving in College", "units": "2", "anchor": "eds24"}
+{"code": "EDS 25", "title": "American Higher Education and the Collegiate Experience", "units": "4", "anchor": "eds25"}
+{"code": "EDS 30", "title": "Introduction to Math Teaching", "units": "2", "anchor": "eds30"}
+{"code": "EDS 31", "title": "Introduction to Teaching Science", "units": "2", "anchor": "eds31"}
+{"code": "EDS 38", "title": "Explorations in Education", "units": "2", "anchor": "eds38"}
+{"code": "EDS 39", "title": "Explorations in Secondary STEM Education", "units": "2", "anchor": "eds39"}
+{"code": "EDS 50", "title": "Chancellor\u2019s Associates Scholars Program First-year Student Introductory Course", "units": "1", "anchor": "eds50"}
+{"code": "EDS 87", "title": "First-year Student Seminar in Education Studies", "units": "1", "anchor": "eds87"}
+{"code": "EDS 102", "title": "Introduction to Qualitative Methods in Education Research", "units": "4", "anchor": "eds102"}
+{"code": "EDS 103", "title": "Introduction to Quantitative Methods in Education Research", "units": "4", "anchor": "eds103"}
+{"code": "EDS 105", "title": "Teaching and Learning Physics", "units": "4", "anchor": "eds105", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PHYS 1A", "PHYS 2A", "PHYS 4A"]}, {"type": "one", "courses": ["PHYS 1B", "PHYS 2B", "PHYS 4C"]}, {"type": "one", "courses": ["PHYS 1C", "PHYS 2C", "PHYS 2D", "PHYS 4B"]}]}}
+{"code": "EDS 110R", "title": "Early Learning Environments for Diverse Learners", "units": "4", "anchor": "eds110r"}
+{"code": "EDS 111", "title": "Child, Family, and Community Partnerships with Schools", "units": "4", "anchor": "eds111"}
+{"code": "EDS 111GS", "title": "Child, Family, and Community Partnerships with Schools", "units": "4", "anchor": "eds111gs"}
+{"code": "EDS 112", "title": "Urban Education in the United States", "units": "4", "anchor": "eds112"}
+{"code": "EDS 113", "title": "Chicanas/os and Latinos in Education: Policy, Practice, and Challenges to Equity", "units": "4", "anchor": "eds113"}
+{"code": "EDS 114", "title": "Cognitive Development and Interactive Computing Environments", "units": "4", "anchor": "eds114"}
+{"code": "EDS 115", "title": "Cognitive Development and Education", "units": "4", "anchor": "eds115"}
+{"code": "EDS 115GS", "title": "Cognitive Development and Education", "units": "4", "anchor": "eds115s"}
+{"code": "EDS 116", "title": "Equity-Minded Education", "units": "4", "anchor": "eds116"}
+{"code": "EDS 117", "title": "Language, Culture, and Education", "units": "4", "anchor": "eds117"}
+{"code": "EDS 117GS", "title": "Language, Culture, and Education", "units": "4", "anchor": "eds117gs"}
+{"code": "EDS 118", "title": "Adolescent Development and Education", "units": "4", "anchor": "eds118"}
+{"code": "EDS 119", "title": ". First and Second Language Learning: From Childhood through Adolescence", "units": "4", "anchor": "lign119"}
+{"code": "EDS 120", "title": "Introduction to Design-Based Educational Research: A Field Experience for Improving San Diego Schools", "units": "4", "anchor": "eds120", "prereqs": {"type": "one", "courses": ["HIUS 180", "HIUS 136", "HITO 156", "HITO 136", "EDS 126", "EDS 136", "USP 129", "SOCI 139", "SOCI 127", "SOCI 126", "POLI 108", "POLI 100Q", "POLI 100O", "POLI 100H", "LTCS 130", "HILD 7C", "HILD 7B", "HILD 7A", "ETHN 3", "ETHN 2", "ANTH 131", "ANTH 21", "ANTH 23", "DOC 1", "DOC 100D", "EDS 112", "EDS 113", "EDS 117", "SOCI 117", "EDS 125"]}}
+{"code": "EDS 121A", "title": "Foundations of Teaching and Learning Mathematics I", "units": "4", "anchor": "eds121a", "prereqs": {"type": "one", "courses": ["EDS 30", "MATH 95"]}}
+{"code": "EDS 121B", "title": "Foundations of Teaching and Learning Math II", "units": "4", "anchor": "eds121b", "prereqs": {"type": "one", "courses": ["EDS 121A", "MATH 121A"]}}
+{"code": "EDS 122", "title": "Foundations of Teaching and Learning Science", "units": "4", "anchor": "eds122", "prereqs": {"type": "one", "courses": ["EDS 31", "CHEM 87"]}}
+{"code": "EDS 123", "title": "Capstone Seminar in Science Education", "units": "4", "anchor": "eds123", "prereqs": {"type": "one", "courses": ["EDS 122", "CHEM 187"]}}
+{"code": "EDS 124A", "title": "Teaching Computation in the Digital World", "units": "4", "anchor": "eds124a"}
+{"code": "EDS 124AR", "title": "Teaching Computation in the Digital World", "units": "4", "anchor": "eds124ar"}
+{"code": "EDS 124BR", "title": "Teaching Computational Thinking for Everyone", "units": "4", "anchor": "eds124br"}
+{"code": "EDS 125", "title": "History, Politics, and Theory of Bilingual Education", "units": "4", "anchor": "eds125"}
+{"code": "EDS 126", "title": "Social Organization of Education", "units": "4", "anchor": "eds126"}
+{"code": "EDS 128", "title": "A-B. Introduction to Teaching and Learning", "units": "Elementary", "anchor": "eds128b", "prereqs": "EDS 139"}
+{"code": "EDS 129", "title": "A-B-C. Introduction to Teaching and Learning", "units": "Secondary", "anchor": "eds129c", "prereqs": "EDS 139"}
+{"code": "EDS 130", "title": "Introduction to Academic Mentoring of Elementary/School Students", "units": "4", "anchor": "eds130", "prereqs": "EDS 139"}
+{"code": "EDS 131", "title": "Early Childhood Development and Education", "units": "4", "anchor": "eds131"}
+{"code": "EDS 133", "title": "Counseling, Mentoring, and Academic Advising", "units": "Preschool through Twelfth Grade", "anchor": "eds133"}
+{"code": "EDS 135", "title": "Working with Newcomer Communities in San Diego", "units": "6", "anchor": "eds135"}
+{"code": "EDS 136", "title": "Introduction to Academic Tutoring of Secondary School Students", "units": "4", "anchor": "eds136", "prereqs": "EDS 139"}
+{"code": "EDS 137", "title": "Introduction to Discipline-Specific Teaching and Learning", "units": "4", "anchor": "eds137", "prereqs": "EDS 139"}
+{"code": "EDS 139", "title": "Practicum in Teaching and Learning", "units": "2", "anchor": "eds139", "coreqs": {"type": "one", "courses": [{"type": "all", "courses": ["EDS 128A", "EDS 128B"]}, {"type": "all", "courses": ["EDS 129A", "EDS 129B", "EDS 129C"]}, "EDS 130", "EDS 131", "EDS 133", "EDS 136", "EDS 137", "EDS 140", "EDS 141"]}}
+{"code": "EDS 140", "title": "Introduction to Action Research in P\u201312 Schools", "units": "4", "anchor": "eds140", "prereqs": {"type": "one", "courses": ["EDS 130", "EDS 131", "EDS 133", "EDS 135", "EDS 136", "EDS 137"]}}
+{"code": "EDS 141", "title": "Action Research in P\u201312 Education: Advanced Practicum in P\u201312 Schools and Communities", "units": "4", "anchor": "eds141", "prereqs": "EDS 140"}
+{"code": "EDS 145", "title": "Artsbridge: Integrating the Arts Across the Curriculum", "units": "4", "anchor": "eds145", "prereqs": "EDS 139"}
+{"code": "EDS 146", "title": "Mindfulness and Education", "units": "4", "anchor": "eds146", "prereqs": "EDS 139"}
+{"code": "EDS 150", "title": "Chancellor\u2019s Associates Scholars Program Transfer Introductory Course", "units": "2", "anchor": "eds150"}
+{"code": "EDS 164R", "title": "Early Childhood Policy: Children, Contexts, and Policies in Diverse Societies", "units": "4", "anchor": "eds165r"}
+{"code": "EDS 180", "title": "Topics in Education Studies", "units": "4", "anchor": "eds180"}
+{"code": "EDS 190", "title": "Research Practicum", "units": "1\u20136", "anchor": "eds190"}
+{"code": "EDS 195", "title": "Apprentice Teaching", "units": "2\u20134", "anchor": "eds195"}
+{"code": "EDS 198", "title": "Directed Group Study", "units": "4\u20132", "anchor": "eds198"}
+{"code": "EDS 199", "title": "Special Studies", "units": "4", "anchor": "eds199"}
+{"code": "EDS 324AR", "title": "Teaching Impacts of Technology", "units": "4", "anchor": "eds324ar"}
+{"code": "EDS 324BR", "title": "Computational Thinking and Block-Based Programming", "units": "4", "anchor": "eds324br"}
+{"code": "EDS 324CR", "title": "Learn to Teach Java", "units": "4", "anchor": "eds324cr"}
+{"code": "EDS 324DR", "title": "Teaching Methods in Computer Science", "units": "4", "anchor": "eds324dr"}
+{"code": "EDS 342A", "title": "ASL-English Bilingual Education Practices", "units": "4", "anchor": "eds342a"}
+{"code": "EDS 342B", "title": "ASL-English Bilingual Education Practices", "units": "4", "anchor": "eds342b", "prereqs": {"type": "all", "courses": ["EDS 342A", "EDS 361A"]}}
+{"code": "EDS 342C", "title": "ASL-English Bilingual Education Practices", "units": "4", "anchor": "eds342c", "prereqs": {"type": "all", "courses": ["EDS 342A", "EDS 342B", "EDS 361A"]}}
+{"code": "EDS 349", "title": "Deaf Education Specialist Student Teaching Practicum", "units": "9", "anchor": "eds349"}
+{"code": "EDS 351", "title": "Teaching the English Language Learner", "units": "4", "anchor": "eds351"}
+{"code": "EDS 352A", "title": "Bilingual Instructional Practices I", "units": "2", "anchor": "eds352a"}
+{"code": "EDS 352B", "title": "Bilingual Instructional Practices II", "units": "2", "anchor": "eds352b", "prereqs": "EDS 352A"}
+{"code": "EDS 355A", "title": "Advanced Mathematics Teaching Practices for Grades K\u20136", "units": "2", "anchor": "eds355a", "prereqs": "EDS 361A"}
+{"code": "EDS 355B", "title": "Advanced Mathematics Teaching Practices for Grades K\u20136", "units": "2", "anchor": "eds355b", "prereqs": "EDS 355A", "coreqs": "EDS 361B"}
+{"code": "EDS 355C", "title": "Advanced Mathematics Teaching Practices for Grades K\u20136", "units": "2", "anchor": "eds355c", "prereqs": "EDS 355B"}
+{"code": "EDS 361A", "title": "Innovative Instructional Practices I", "units": "6", "anchor": "eds361a"}
+{"code": "EDS 361B", "title": "Innovative Instructional Practices II", "units": "6", "anchor": "eds361b", "prereqs": "EDS 361A"}
+{"code": "EDS 361C", "title": "Innovative Instructional Practices III", "units": "4", "anchor": "eds361c", "prereqs": "EDS 361B"}
+{"code": "EDS 369A", "title": "Multiple Subject", "units": "Elementary", "anchor": "eds369a"}
+{"code": "EDS 369B", "title": "Multiple Subject", "units": "Elementary", "anchor": "eds369b", "prereqs": "EDS 369A"}
+{"code": "EDS 372", "title": "World Language Teaching Practices", "units": "4", "anchor": "eds372"}
+{"code": "EDS 373", "title": "Secondary English Teaching Practices", "units": "4", "anchor": "eds373"}
+{"code": "EDS 374", "title": "Secondary Mathematics Teaching Practices", "units": "4", "anchor": "eds374"}
+{"code": "EDS 375", "title": "Secondary Science Teaching Practices", "units": "4", "anchor": "eds375"}
+{"code": "EDS 376", "title": "Language and Learning Instruction", "units": "4", "anchor": "eds376"}
+{"code": "EDS 379A", "title": "Single Subject", "units": "Secondary", "anchor": "eds379a"}
+{"code": "EDS 379B", "title": "Single Subject", "units": "Secondary", "anchor": "eds379b", "prereqs": "EDS 379A"}
+{"code": "EDS 379C", "title": "Single Subject", "units": "Secondary", "anchor": "eds379c", "prereqs": "EDS 379B"}
+{"code": "EDS 381", "title": "Health Education", "units": "4", "anchor": "eds381"}
+{"code": "EDS 382", "title": "Inclusive Educational Practices", "units": "4", "anchor": "eds382"}
+{"code": "EDS 385", "title": "Elementary School Mathematics Content and Pedagogy", "units": "4", "anchor": "eds385"}
+{"code": "EDS 201", "title": "Introduction to Resources for Teaching and Learning", "units": "4", "anchor": "eds201"}
+{"code": "EDS 203", "title": "Technology, Teaching, and Learning", "units": "4", "anchor": "eds203"}
+{"code": "EDS 204", "title": "Technology and Professional Assessment", "units": "4", "anchor": "eds204"}
+{"code": "EDS 205A", "title": "Reflective Teaching Practice", "units": "2", "anchor": "eds205a"}
+{"code": "EDS 205B", "title": "Reflective Teaching Practice", "units": "2", "anchor": "eds205b", "prereqs": "EDS 205A"}
+{"code": "EDS 206", "title": "Teaching Performance Assessment Portfolio", "units": "4", "anchor": "eds206"}
+{"code": "EDS 229", "title": "Introduction to Educational Resources", "units": "4", "anchor": "eds229"}
+{"code": "EDS 230A-B-C", "title": ". Research in Curriculum Design", "units": "4-4-4", "anchor": "eds230c"}
+{"code": "EDS 231", "title": "Advanced Topics in Instructional Practices", "units": "4", "anchor": "eds231"}
+{"code": "EDS 232", "title": "Special Topics in Education", "units": "4", "anchor": "eds232"}
+{"code": "EDS 233A", "title": "Topics in Education Research and Design", "units": "2", "anchor": "eds233a"}
+{"code": "EDS 233B", "title": "Topics in Education Research and Design", "units": "2", "anchor": "eds233b", "prereqs": "EDS 233A"}
+{"code": "EDS 240A", "title": "Research in ASL-English Bilingual Education", "units": "4", "anchor": "eds240a"}
+{"code": "EDS 240B", "title": "Research in ASL-English Bilingual Education", "units": "4", "anchor": "eds240b", "prereqs": "EDS 240A"}
+{"code": "EDS 240C", "title": "Research in ASL-English Bilingual Education", "units": "4", "anchor": "eds240c", "prereqs": {"type": "one", "courses": ["EDS 240A", "EDS 240B"]}}
+{"code": "EDS 249", "title": "Equity in Higher Education", "units": "4", "anchor": "eds249"}
+{"code": "EDS 250", "title": "Equitable Educational Research and Practice", "units": "4", "anchor": "eds250"}
+{"code": "EDS 251", "title": "Transforming Learning Environments", "units": "4", "anchor": "eds251"}
+{"code": "EDS 252", "title": "Transforming Inequities in Student Outcomes", "units": "4", "anchor": "eds252"}
+{"code": "EDS 253", "title": "Transforming Educational Systems and Policy", "units": "4", "anchor": "eds253"}
+{"code": "EDS 254", "title": "Introduction to Research Design and Quantitative Data Analysis", "units": "4", "anchor": "eds254"}
+{"code": "EDS 255", "title": "Advanced Quantitative Data Analysis", "units": "4", "anchor": "eds255", "prereqs": "EDS 254"}
+{"code": "EDS 256", "title": "Introduction to Mixed Methods Research Design and Analysis", "units": "4", "anchor": "eds256", "prereqs": {"type": "all", "courses": ["EDS 254", "EDS 264"]}}
+{"code": "EDS 257", "title": "Case Study Research", "units": "4", "anchor": "eds257"}
+{"code": "EDS 259", "title": "Communicating Research", "units": "2", "anchor": "eds259"}
+{"code": "EDS 260A", "title": "Educational Research and Evaluation Design", "units": "4", "anchor": "eds260a"}
+{"code": "EDS 260B", "title": "Educational Research and Evaluation Design", "units": "4", "anchor": "eds260b", "prereqs": "EDS 260A"}
+{"code": "EDS 260C", "title": "Educational Research and Evaluation Design", "units": "4", "anchor": "eds260c", "prereqs": "EDS 260B"}
+{"code": "EDS 261A", "title": "Advanced Research and Evaluation Methods", "units": "4", "anchor": "eds261a"}
+{"code": "EDS 261B", "title": "Advanced Research and Evaluation Methods", "units": "4", "anchor": "eds261b", "prereqs": "EDS 261A"}
+{"code": "EDS 261C", "title": "Advanced Research and Evaluation Methods", "units": "4", "anchor": "eds261c", "prereqs": "EDS 261B"}
+{"code": "EDS 262A", "title": "Dissertation Writing Seminar", "units": "4", "anchor": "eds262a"}
+{"code": "EDS 262B", "title": "Dissertation Writing Seminar", "units": "4", "anchor": "eds262b", "prereqs": "EDS 262A"}
+{"code": "EDS 262C", "title": "Dissertation Writing Seminar", "units": "4", "anchor": "eds262c", "prereqs": "EDS 262B"}
+{"code": "EDS 263", "title": "Developmental Theory and Culture", "units": "4", "anchor": "eds263"}
+{"code": "EDS 264", "title": "Introduction to Qualitative Analysis", "units": "4", "anchor": "eds264"}
+{"code": "EDS 265", "title": "Special Topics in Qualitative Methods", "units": "4", "anchor": "eds265"}
+{"code": "EDS 266", "title": "Special Topics in Quantitative Methods", "units": "4", "anchor": "eds266"}
+{"code": "EDS 267", "title": "Contexts for Teaching and Change", "units": "4", "anchor": "eds267"}
+{"code": "EDS 268", "title": "Introduction to Critical Race Theory and Education", "units": "4", "anchor": "eds268", "prereqs": {"type": "one", "courses": ["EDS 251", "EDS 252", "EDS 253"]}}
+{"code": "EDS 269", "title": "Diverse College Students", "units": "4", "anchor": "eds269"}
+{"code": "EDS 270", "title": "Leadership and Equity in Educational Reform", "units": "4", "anchor": "eds270"}
+{"code": "EDS 272", "title": "Education and Culture", "units": "4", "anchor": "eds272"}
+{"code": "EDS 278", "title": "Talking Culture, Culture Talking: Voices of Diversity", "units": "4", "anchor": "eds278"}
+{"code": "EDS 279", "title": "Campus Activism", "units": "4", "anchor": "eds279"}
+{"code": "EDS 280", "title": "Rethinking Leadership", "units": "4", "anchor": "eds280"}
+{"code": "EDS 281", "title": "Leadership for Learning", "units": "4", "anchor": "eds281"}
+{"code": "EDS 282", "title": "Leadership for a Diverse Society", "units": "4", "anchor": "eds282"}
+{"code": "EDS 283", "title": "Leadership for Organizational Change", "units": "4", "anchor": "eds283"}
+{"code": "EDS 284", "title": "Leadership for Organizational Development", "units": "4", "anchor": "eds284"}
+{"code": "EDS 285", "title": "Leadership for the Future", "units": "4", "anchor": "eds285"}
+{"code": "EDS 286", "title": "Advanced Topics in Leadership", "units": "4", "anchor": "eds286"}
+{"code": "EDS 287A", "title": "Educational Research and Evaluation Design A", "units": "4", "anchor": "eds287a"}
+{"code": "EDS 287B", "title": "Educational Research and Evaluation Design B", "units": "4", "anchor": "eds287b", "prereqs": "EDS 287A"}
+{"code": "EDS 287C", "title": "Educational Research and Evaluation Design C\u2014Qualitative Methods", "units": "4", "anchor": "eds287c", "prereqs": {"type": "all", "courses": ["EDS 287A", "EDS 287B"]}}
+{"code": "EDS 288A", "title": "Advanced Research and Evaluation Methods A\u2014Quantitative Methods", "units": "4", "anchor": "eds288a"}
+{"code": "EDS 288B", "title": "Advanced Research and Evaluation Methods B\u2014Qualitative Methods", "units": "4", "anchor": "eds288b"}
+{"code": "EDS 288C", "title": "Advanced Research and Evaluation Methods C\u2014Quantitative Methods", "units": "4", "anchor": "eds288c"}
+{"code": "EDS 289A", "title": "Dissertation Writing Seminar", "units": "4", "anchor": "eds289a"}
+{"code": "EDS 289B", "title": "Dissertation Writing Seminar", "units": "4", "anchor": "eds289b", "prereqs": "EDS 289A"}
+{"code": "EDS 289C", "title": "Dissertation Writing Seminar", "units": "4", "anchor": "eds289c", "prereqs": "EDS 289B"}
+{"code": "EDS 289D", "title": "Dissertation Writing Seminar", "units": "4", "anchor": "eds289d", "prereqs": "EDS 289C"}
+{"code": "EDS 290", "title": "Research Practicum", "units": "1\u201312", "anchor": "eds290"}
+{"code": "EDS 291A", "title": "Leadership Research Practicum", "units": "2", "anchor": "eds291a"}
+{"code": "EDS 291B", "title": "Leadership Research Practicum", "units": "2", "anchor": "eds291b", "prereqs": "EDS 291A"}
+{"code": "EDS 292", "title": "Qualifying Paper Preparation", "units": "2", "anchor": "eds292"}
+{"code": "EDS 293A", "title": "Advanced Leadership Research Practicum", "units": "2", "anchor": "eds293a"}
+{"code": "EDS 293B", "title": "Advanced Leadership Research Practicum", "units": "2", "anchor": "eds293b", "prereqs": "EDS 293A"}
+{"code": "EDS 294A", "title": "Colloquium on Educational Leadership", "units": "2", "anchor": "eds294a"}
+{"code": "EDS 294B", "title": "Colloquium on Educational Leadership", "units": "2", "anchor": "eds294b", "prereqs": "EDS 294A"}
+{"code": "EDS 295", "title": "MA Thesis", "units": "1\u20138", "anchor": "eds295"}
+{"code": "EDS 296", "title": "Research Apprenticeship Course", "units": "2\u201312", "anchor": "eds296"}
+{"code": "EDS 297", "title": "Directed Group Study", "units": "1\u20136", "anchor": "eds297"}
+{"code": "EDS 298", "title": "Independent Study", "units": "1\u20136", "anchor": "eds298"}
+{"code": "EDS 299", "title": "Dissertation Research", "units": "1\u201312", "anchor": "eds299"}
+{"code": "EDS 500", "title": "Apprentice Teaching in Education", "units": "2\u20134", "anchor": "eds500"}

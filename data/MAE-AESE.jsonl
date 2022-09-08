@@ -1,9 +1,9 @@
-{"code": "AESE 278A", "title": "Complexity and Large-Scale Systems", "units": "4", "prereqs": null}
-{"code": "AESE 278B", "title": "Enterprise Architecting", "units": "4", "prereqs": {"type": "all", "courses": ["MGT 291", "MGT 406", {"type": "one", "courses": ["AESE 278A", "MAE 277A", "ECE 205", "CSE 278A"]}]}}
-{"code": "AESE 278C", "title": "Modeling, Simulation, and Analysis", "units": "4", "prereqs": {"type": "all", "courses": ["MGT 291", "AESE 278A", "AESE 278B"]}}
-{"code": "AESE 278D", "title": "Engineering Essentials for Open, Distributed Systems", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["AESE 278A", "CSE 278A", "ECE 205A", "MAE 277A"]}, {"type": "one", "courses": ["AESE 278C", "CSE 278C", "ECE 206", "MAE 278A"]}]}}
-{"code": "AESE 278E", "title": "Patterns for Enterprise Architecting", "units": "4", "prereqs": {"type": "all", "courses": ["AESE 278B", "AESE 278C", "AESE 278D"]}}
-{"code": "AESE 241", "title": "Decision and Risk Analysis", "units": "4", "prereqs": null}
-{"code": "AESE 261", "title": "Managing Stakeholder Relationships", "units": "4", "prereqs": "MGT 406"}
-{"code": "AESE 279A", "title": "Architecture-based Enterprise Systems Engineering Quarterly Team Project", "units": "1", "prereqs": null}
-{"code": "AESE 279B", "title": "Architecture-based Enterprise Systems Engineering Capstone Team Project", "units": "3", "prereqs": "AESE 279A"}
+{"code": "AESE 278A", "title": "Complexity and Large-Scale Systems", "units": "4", "anchor": "aese278a"}
+{"code": "AESE 278B", "title": "Enterprise Architecting", "units": "4", "anchor": "aese278b", "prereqs": {"type": "all", "courses": ["MGT 291", "MGT 406", {"type": "one", "courses": ["AESE 278A", "MAE 277A", "ECE 205", "CSE 278A"]}]}}
+{"code": "AESE 278C", "title": "Modeling, Simulation, and Analysis", "units": "4", "anchor": "aese278c", "prereqs": {"type": "all", "courses": ["MGT 291", "AESE 278A", "AESE 278B"]}}
+{"code": "AESE 278D", "title": "Engineering Essentials for Open, Distributed Systems", "units": "4", "anchor": "aese278d", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["AESE 278A", "CSE 278A", "ECE 205A", "MAE 277A"]}, {"type": "one", "courses": ["AESE 278C", "CSE 278C", "ECE 206", "MAE 278A"]}]}}
+{"code": "AESE 278E", "title": "Patterns for Enterprise Architecting", "units": "4", "anchor": "aese278e", "prereqs": {"type": "all", "courses": ["AESE 278B", "AESE 278C", "AESE 278D"]}}
+{"code": "AESE 241", "title": "Decision and Risk Analysis", "units": "4", "anchor": "aese241"}
+{"code": "AESE 261", "title": "Managing Stakeholder Relationships", "units": "4", "anchor": "aese261", "prereqs": "MGT 406"}
+{"code": "AESE 279A", "title": "Architecture-based Enterprise Systems Engineering Quarterly Team Project", "units": "1", "anchor": "aese279a"}
+{"code": "AESE 279B", "title": "Architecture-based Enterprise Systems Engineering Capstone Team Project", "units": "3", "anchor": "aese279b", "prereqs": "AESE 279A"}

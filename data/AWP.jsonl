@@ -1,10 +1,10 @@
-{"code": "AWP 3", "title": "Analytical Writing", "units": "4", "prereqs": null}
-{"code": "AWP 4A", "title": "Analytical Writing and Academic English A", "units": "4", "prereqs": null}
-{"code": "AWP 4B", "title": "Analytical Writing and Academic English B", "units": "4", "prereqs": "AWP 4A"}
-{"code": "AWP 10", "title": "Language and Learning in the American Academy", "units": "4", "prereqs": null}
-{"code": "AWP 100", "title": "Writing a Researched Argument", "units": "4", "prereqs": null}
-{"code": "AWP 101", "title": "Writing about Science", "units": "4", "prereqs": null}
-{"code": "AWP 102", "title": "Writing for the Professions", "units": "4", "prereqs": null}
-{"code": "AWP 103", "title": "Writing about the Law", "units": "4", "prereqs": null}
-{"code": "AWP 195", "title": "Academic Mentoring in Writing", "units": "2", "prereqs": null}
-{"code": "AWP 500", "title": "Apprentice Teaching in the Analytical Writing Program", "units": "1\u20134", "prereqs": null}
+{"code": "AWP 3", "title": "Analytical Writing", "units": "4", "anchor": "awp3"}
+{"code": "AWP 4A", "title": "Analytical Writing and Academic English A", "units": "4", "anchor": "awp4a"}
+{"code": "AWP 4B", "title": "Analytical Writing and Academic English B", "units": "4", "anchor": "awp4b", "prereqs": "AWP 4A"}
+{"code": "AWP 10", "title": "Language and Learning in the American Academy", "units": "4", "anchor": "awp10"}
+{"code": "AWP 100", "title": "Writing a Researched Argument", "units": "4", "anchor": "awp100"}
+{"code": "AWP 101", "title": "Writing about Science", "units": "4", "anchor": "awp101"}
+{"code": "AWP 102", "title": "Writing for the Professions", "units": "4", "anchor": "awp102"}
+{"code": "AWP 103", "title": "Writing about the Law", "units": "4", "anchor": "awp103"}
+{"code": "AWP 195", "title": "Academic Mentoring in Writing", "units": "2", "anchor": "awp195"}
+{"code": "AWP 500", "title": "Apprentice Teaching in the Analytical Writing Program", "units": "1\u20134", "anchor": "awp500"}

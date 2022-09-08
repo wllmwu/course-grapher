@@ -1,16 +1,16 @@
-{"code": "JWSP 1", "title": "Beginning Hebrew", "units": "5", "prereqs": null}
-{"code": "JWSP 2", "title": "Intermediate Hebrew", "units": "5", "prereqs": null}
-{"code": "JWSP 3", "title": "Intermediate Hebrew, Continued", "units": "5", "prereqs": null}
-{"code": "JWSP 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
-{"code": "JWSP 101", "title": "Introduction to Hebrew Texts", "units": "4", "prereqs": null}
-{"code": "JWSP 102", "title": "Intermediate Hebrew Texts", "units": "4", "prereqs": null}
-{"code": "JWSP 103", "title": "Advanced Hebrew Texts", "units": "4", "prereqs": null}
-{"code": "JWSP 104", "title": "Practicum in Advanced Hebrew", "units": "4", "prereqs": null}
-{"code": "JWSP 110", "title": "Introduction to Judaism", "units": "4", "prereqs": null}
-{"code": "JWSP 111", "title": "Topics in Judaic Studies", "units": "4", "prereqs": null}
-{"code": "JWSP 130", "title": "Introduction to the Old Testament: The Historical Books", "units": "4", "prereqs": null}
-{"code": "JWSP 131", "title": "Introduction to the Old Testament: The Poetic Books", "units": "4", "prereqs": "JWSP 100A"}
-{"code": "JWSP 196A", "title": "Jewish Studies Honors Course", "units": "4", "prereqs": {"type": "all", "courses": ["JWSP 100", "HITO 104", "HITO 105"]}}
-{"code": "JWSP 196B", "title": "Jewish Studies Honors Course", "units": "4", "prereqs": {"type": "all", "courses": ["JWSP 196A", "JWSP 100", "JWSP 103", "HITO 104", "HITO 105"]}}
-{"code": "JWSP 198", "title": "Directed Group Study in Jewish Studies", "units": "1-4", "prereqs": null}
-{"code": "JWSP 199", "title": "Independent Study in Jewish Studies", "units": "1-4", "prereqs": null}
+{"code": "JWSP 1", "title": "Beginning Hebrew", "units": "5", "anchor": "jwsp1"}
+{"code": "JWSP 2", "title": "Intermediate Hebrew", "units": "5", "anchor": "jwsp2"}
+{"code": "JWSP 3", "title": "Intermediate Hebrew, Continued", "units": "5", "anchor": "jwsp3"}
+{"code": "JWSP 87", "title": "First-year Student Seminar", "units": "1", "anchor": "jwsp87"}
+{"code": "JWSP 101", "title": "Introduction to Hebrew Texts", "units": "4", "anchor": "jwsp101"}
+{"code": "JWSP 102", "title": "Intermediate Hebrew Texts", "units": "4", "anchor": "jwsp102"}
+{"code": "JWSP 103", "title": "Advanced Hebrew Texts", "units": "4", "anchor": "jwsp103"}
+{"code": "JWSP 104", "title": "Practicum in Advanced Hebrew", "units": "4", "anchor": "jwsp104"}
+{"code": "JWSP 110", "title": "Introduction to Judaism", "units": "4", "anchor": "jwsp110"}
+{"code": "JWSP 111", "title": "Topics in Judaic Studies", "units": "4", "anchor": "jwsp111"}
+{"code": "JWSP 130", "title": "Introduction to the Old Testament: The Historical Books", "units": "4", "anchor": "jwsp130"}
+{"code": "JWSP 131", "title": "Introduction to the Old Testament: The Poetic Books", "units": "4", "anchor": "jwsp131", "prereqs": "JWSP 100A"}
+{"code": "JWSP 196A", "title": "Jewish Studies Honors Course", "units": "4", "anchor": "jwsp196a", "prereqs": {"type": "all", "courses": ["JWSP 100", "HITO 104", "HITO 105"]}}
+{"code": "JWSP 196B", "title": "Jewish Studies Honors Course", "units": "4", "anchor": "jwsp196b", "prereqs": {"type": "all", "courses": ["JWSP 196A", "JWSP 100", "JWSP 103", "HITO 104", "HITO 105"]}}
+{"code": "JWSP 198", "title": "Directed Group Study in Jewish Studies", "units": "1-4", "anchor": "jwsp198"}
+{"code": "JWSP 199", "title": "Independent Study in Jewish Studies", "units": "1-4", "anchor": "jwsp199"}

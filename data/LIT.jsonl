@@ -1,398 +1,398 @@
-{"code": "LTAF 120", "title": "Literature and Film of Modern Africa", "units": "4", "prereqs": null}
-{"code": "LTAF 120GS", "title": "Literature and Film of Modern Africa", "units": "4", "prereqs": null}
-{"code": "LTAM 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
-{"code": "LTAM 100", "title": "Latino/a Cultures in the United States", "units": "4", "prereqs": null}
-{"code": "LTAM 105", "title": "Gender and Sexuality in Latino/a-Chicano/a Cultural Production", "units": "4", "prereqs": null}
-{"code": "LTAM 107", "title": "Comparative Latino/a and US Ethnic Cultures", "units": "4", "prereqs": null}
-{"code": "LTAM 108", "title": "Chicano/a and Latino/a Cultures: Intellectual and Political Traditions", "units": "4", "prereqs": null}
-{"code": "LTAM 110", "title": "Latin American Literature in Translation", "units": "4", "prereqs": null}
-{"code": "LTAM 110GS", "title": "Latin American Literature in Translation", "units": "4", "prereqs": null}
-{"code": "LTAM 111", "title": "Comparative Caribbean Discourse", "units": "4", "prereqs": null}
-{"code": "LTAM 140", "title": "Topics in Culture and Politics", "units": "4", "prereqs": null}
-{"code": "LTCH 101", "title": "Readings in Contemporary Chinese Literature", "units": "4", "prereqs": null}
-{"code": "LTCO 201", "title": "Theories and Methods of Literary Analysis", "units": "4", "prereqs": null}
-{"code": "LTCO 274", "title": "Genre Studies", "units": "4", "prereqs": null}
-{"code": "LTCO 281", "title": "Literature and Film", "units": "4", "prereqs": null}
-{"code": "LTCO 282", "title": "Literature and Philosophy", "units": "4", "prereqs": null}
-{"code": "LTCO 284", "title": "Performativity", "units": "4", "prereqs": null}
-{"code": "LTCO 285", "title": "Literature and Aesthetics", "units": "4", "prereqs": null}
-{"code": "LTCO 287", "title": "Culture and Political Theory", "units": "4", "prereqs": null}
-{"code": "LTCO 297", "title": "Directed Studies: Reading Course", "units": "1\u201312", "prereqs": null}
-{"code": "LTCO 298", "title": "Special Projects: Writing Course", "units": "1\u201312", "prereqs": null}
-{"code": "LTCO 299", "title": "Dissertation", "units": "1\u201312", "prereqs": null}
-{"code": "LTCS 50", "title": "Introduction to Cultural Studies", "units": "4", "prereqs": null}
-{"code": "LTCS 52", "title": "Topics in Cultural Studies", "units": "4", "prereqs": null}
-{"code": "LTCS 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
-{"code": "LTCS 100", "title": "Theories and Methods in Cultural Studies", "units": "4", "prereqs": null}
-{"code": "LTCS 102", "title": "Practicing Cultural Studies", "units": "4", "prereqs": null}
-{"code": "LTCS 108", "title": "Gender, Race, and Artificial Intelligence", "units": "4", "prereqs": null}
-{"code": "LTCS 110", "title": "Popular Culture", "units": "4", "prereqs": null}
-{"code": "LTCS 111", "title": "Special Topics in Popular Culture in Historical Context", "units": "4", "prereqs": null}
-{"code": "LTCS 119", "title": "Asian American Film and Media", "units": "4", "prereqs": null}
-{"code": "LTCS 120", "title": "Historical Perspectives on Culture", "units": "4", "prereqs": null}
-{"code": "LTCS 125", "title": "Cultural Perspectives on Immigration and Citizenship", "units": "4", "prereqs": null}
-{"code": "LTCS 130", "title": "Gender, Race/Ethnicity, Class, and Culture", "units": "4", "prereqs": null}
-{"code": "LTCS 131", "title": "Topics in Queer Cultures/Queer Subcultures", "units": "4", "prereqs": null}
-{"code": "LTCS 132", "title": "Special Topics in Social Identities and the Media", "units": "4", "prereqs": null}
-{"code": "LTCS 133", "title": "Globalization and Culture", "units": "4", "prereqs": null}
-{"code": "LTCS 134", "title": "Culture and Revolution", "units": "4", "prereqs": null}
-{"code": "LTCS 141", "title": "Special Topics in Race and Empire", "units": "4", "prereqs": null}
-{"code": "LTCS 150", "title": "Topics in Cultural Studies", "units": "4", "prereqs": null}
-{"code": "LTCS 155", "title": "Health, Illness, and Global Culture", "units": "4", "prereqs": null}
-{"code": "LTCS 165", "title": "Special Topics: The Politics of Food", "units": "4", "prereqs": null}
-{"code": "LTCS 170", "title": "Visual Culture", "units": "4", "prereqs": null}
-{"code": "LTCS 172", "title": "Special Topics in Screening Race/Ethnicity, Gender and Sexuality", "units": "4", "prereqs": null}
-{"code": "LTCS 173", "title": "Topics in Violence and Visual Culture", "units": "4", "prereqs": null}
-{"code": "LTCS 180", "title": "Programming for the Humanities", "units": "4", "prereqs": null}
-{"code": "LTCS 198", "title": "Directed Group Study", "units": "4", "prereqs": null}
-{"code": "LTCS 199", "title": "Special Studies", "units": "2 or 4", "prereqs": null}
-{"code": "LTCS 222", "title": "Topics in Theory and History of Film", "units": "4", "prereqs": null}
-{"code": "LTCS 225", "title": "Interdisciplinary and Historical Analysis of Cultural Texts", "units": "4", "prereqs": null}
-{"code": "LTCS 250", "title": "Topics in Cultural Studies", "units": "4", "prereqs": null}
-{"code": "LTCS 256", "title": "Cultural Studies of Technoscience", "units": "4", "prereqs": null}
-{"code": "LTCS 260", "title": "National Cultures", "units": "4", "prereqs": null}
-{"code": "LTCS 297", "title": "Directed Studies: Reading Course", "units": "1\u201312", "prereqs": null}
-{"code": "LTCS 298", "title": "Special Projects: Writing Course", "units": "1\u201312", "prereqs": null}
-{"code": "LTCS 299", "title": "Dissertation", "units": "1\u201312", "prereqs": null}
-{"code": "LTEA 100A", "title": "Classical Chinese Poetry in Translation", "units": "4", "prereqs": null}
-{"code": "LTEA 100B", "title": "Modern Chinese Poetry in Translation", "units": "4", "prereqs": null}
-{"code": "LTEA 100C", "title": "Contemporary Chinese Poetry in Translation", "units": "4", "prereqs": null}
-{"code": "LTEA 110A", "title": "Classical Chinese Fiction in Translation", "units": "4", "prereqs": null}
-{"code": "LTEA 110B", "title": "Modern Chinese Fiction in Translation", "units": "4", "prereqs": null}
-{"code": "LTEA 110C", "title": "Contemporary Chinese Fiction in Translation", "units": "4", "prereqs": null}
-{"code": "LTEA 120A", "title": "Chinese Films", "units": "4", "prereqs": null}
-{"code": "LTEA 120B", "title": "Taiwan Films", "units": "4", "prereqs": null}
-{"code": "LTEA 120C", "title": "Hong Kong Films", "units": "4", "prereqs": null}
-{"code": "LTEA 132", "title": "Later Japanese Literature in Translation", "units": "4", "prereqs": null}
-{"code": "LTEA 138", "title": "Japanese Films", "units": "4", "prereqs": null}
-{"code": "LTEA 140", "title": "Modern Korean Literature in Translation from Colonial Period", "units": "4", "prereqs": null}
-{"code": "LTEA 141", "title": "Modern Korean Literature in Translation from 1945 to Present", "units": "4", "prereqs": null}
-{"code": "LTEA 142", "title": "Korean Film, Literature, and Popular Culture", "units": "4", "prereqs": null}
-{"code": "LTEA 143", "title": "Gender and Sexuality in Korean Literature and Culture", "units": "4", "prereqs": null}
-{"code": "LTEA 144", "title": "Korean American Literature and Other Literatures of Korean Diaspora", "units": "4", "prereqs": null}
-{"code": "LTEA 151", "title": "Readings in Tagalog Literature and Culture I", "units": "4", "prereqs": null}
-{"code": "LTEA 152B", "title": "Topics in Filipino Literature and Culture", "units": "World War II\u2013Present", "prereqs": null}
-{"code": "LTEA 198", "title": "Directed Group Study", "units": "4", "prereqs": null}
-{"code": "LTEA 199", "title": "Special Studies", "units": "2 or 4", "prereqs": null}
-{"code": "LTEN 21", "title": "Introduction to the Literature of the British Isles: Pre-1660", "units": "4", "prereqs": null}
-{"code": "LTEN 22", "title": "Introduction to the Literature of the British Isles: 1660\u20131832", "units": "4", "prereqs": null}
-{"code": "LTEN 23", "title": "Introduction to the Literature of the British Isles: 1832\u2013Present", "units": "4", "prereqs": null}
-{"code": "LTEN 25", "title": "Introduction to the Literature of the United States, Beginnings to 1865", "units": "4", "prereqs": null}
-{"code": "LTEN 26", "title": "Introduction to the Literature of the United States, 1865 to the Present", "units": "4", "prereqs": null}
-{"code": "LTEN 27", "title": "Introduction to African American Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 28", "title": "Introduction to Asian American Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 29", "title": "Introduction to Chicano Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 30", "title": "Poetry for Physicists", "units": "4", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["CAT 2", "CAT 3"]}, {"type": "all", "courses": ["DOC 2", "DOC 3"]}, {"type": "all", "courses": ["HUM 1", "HUM 2"]}, {"type": "all", "courses": ["MCWP 40", "MCWP 50"]}, {"type": "all", "courses": ["MMW 12", "MMW 13"]}, {"type": "all", "courses": ["WARR 11A", "WARR 11B"]}, {"type": "all", "courses": ["WCWP 10A", "WCWP 10B"]}]}}
-{"code": "LTEN 31", "title": "Introduction to Indigenous Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
-{"code": "LTEN 107", "title": "Chaucer", "units": "4", "prereqs": null}
-{"code": "LTEN 110", "title": "Topics: The Renaissance", "units": "4", "prereqs": null}
-{"code": "LTEN 112", "title": "Shakespeare I: The Elizabethan Period", "units": "4", "prereqs": null}
-{"code": "LTEN 113", "title": "Shakespeare II: The Jacobean Period", "units": "4", "prereqs": null}
-{"code": "LTEN 114", "title": "Shakespeare III: Text, Stage, and Film", "units": "4", "prereqs": null}
-{"code": "LTEN 117", "title": "Topics: The Seventeenth Century", "units": "4", "prereqs": null}
-{"code": "LTEN 120", "title": "Topics: The Eighteenth Century", "units": "4", "prereqs": null}
-{"code": "LTEN 124", "title": "Topics: The Nineteenth Century", "units": "4", "prereqs": null}
-{"code": "LTEN 125", "title": "Romantic Poetry", "units": "4", "prereqs": null}
-{"code": "LTEN 127", "title": "Victorian Poetry", "units": "4", "prereqs": null}
-{"code": "LTEN 128", "title": "British and Irish Poetry: 1900 to Present", "units": "4", "prereqs": null}
-{"code": "LTEN 130", "title": "Modern British Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 130GS", "title": "Modern British Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 132", "title": "Modern Irish Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 138", "title": "The British Novel: 1680\u20131790", "units": "4", "prereqs": null}
-{"code": "LTEN 140", "title": "The British Novel: 1790\u20131830", "units": "4", "prereqs": null}
-{"code": "LTEN 142", "title": "The British Novel: 1830\u20131890", "units": "4", "prereqs": null}
-{"code": "LTEN 144", "title": "The British Novel: 1890 to Present", "units": "4", "prereqs": null}
-{"code": "LTEN 148", "title": "Genres in English and American Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 149", "title": "Topics: English-Language Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 150", "title": "Gender, Text, and Culture", "units": "4", "prereqs": null}
-{"code": "LTEN 152", "title": "The Origins of American Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 153", "title": "The Revolutionary War and the Early National Period in US Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 154", "title": "The American Renaissance", "units": "4", "prereqs": null}
-{"code": "LTEN 155", "title": "Interactions between American Literature and the Visual Arts", "units": "4", "prereqs": null}
-{"code": "LTEN 156", "title": "American Literature from the Civil War to World War I", "units": "4", "prereqs": null}
-{"code": "LTEN 157", "title": "Captivity and Prison Narratives", "units": "4", "prereqs": null}
-{"code": "LTEN 158", "title": "Modern American Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 159", "title": "Contemporary American Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 169", "title": "Topics in Latino/a Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 171", "title": "Comparative Issues in Latino/a Immigration in US Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 172", "title": "American Poetry II\u2014Whitman through the Modernists", "units": "4", "prereqs": null}
-{"code": "LTEN 174", "title": "American Fiction II\u2014Since Middle James", "units": "4", "prereqs": null}
-{"code": "LTEN 175A", "title": "New American Fiction\u2014Post-World War II to the Present", "units": "4", "prereqs": null}
-{"code": "LTEN 175B", "title": "New American Poetry\u2014Post-World War II to the Present", "units": "4", "prereqs": null}
-{"code": "LTEN 176", "title": "Major American Writers", "units": "4", "prereqs": null}
-{"code": "LTEN 178", "title": "Comparative Ethnic Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 179", "title": "Topics: Arab/Muslim American Identity and Culture", "units": "4", "prereqs": null}
-{"code": "LTEN 180", "title": "Chicano Literature in English", "units": "4", "prereqs": null}
-{"code": "LTEN 181", "title": "Asian American Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 182", "title": "Diaspora, Race, and Iranian American Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 183", "title": "African American Prose", "units": "4", "prereqs": null}
-{"code": "LTEN 185", "title": "Themes in African American Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 186", "title": "Literature of the Harlem Renaissance", "units": "4", "prereqs": null}
-{"code": "LTEN 188", "title": "Contemporary Caribbean Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 189", "title": "Twentieth-Century Postcolonial Literatures", "units": "4", "prereqs": null}
-{"code": "LTEN 192", "title": "Senior Seminar in Literatures in English", "units": "1", "prereqs": null}
-{"code": "LTEN 196", "title": "Honors Thesis", "units": "4", "prereqs": null}
-{"code": "LTEN 198", "title": "Directed Group Study", "units": "4", "prereqs": null}
-{"code": "LTEN 199", "title": "Special Studies", "units": "2 or 4", "prereqs": null}
-{"code": "LTEN 222", "title": "Elizabethan Studies", "units": "4", "prereqs": null}
-{"code": "LTEN 231", "title": "Restoration and Eighteenth-Century English Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 245", "title": "Nineteenth-Century American Studies", "units": "4", "prereqs": null}
-{"code": "LTEN 246", "title": "Victorian Literature", "units": "4", "prereqs": null}
-{"code": "LTEN 252", "title": "Studies in Modern American Literature and Culture", "units": "4", "prereqs": null}
-{"code": "LTEN 254", "title": "Topics in US Minority Literatures and Cultures", "units": "4", "prereqs": null}
-{"code": "LTEN 256", "title": "Postcolonial Discourses", "units": "4", "prereqs": null}
-{"code": "LTEN 258", "title": "Studies in Anglophone African and/or African Diaspora Literature and Culture", "units": "4", "prereqs": null}
-{"code": "LTEN 259", "title": "Transnational Literary Studies", "units": "4", "prereqs": null}
-{"code": "LTEN 271", "title": "Genres in English", "units": "4", "prereqs": null}
-{"code": "LTEN 272", "title": "Cultural Traditions in English", "units": "4", "prereqs": null}
-{"code": "LTEN 281", "title": "Practicum in Literary Research and Criticism", "units": "4", "prereqs": null}
-{"code": "LTEN 297", "title": "Directed Studies: Reading Course", "units": "1\u201312", "prereqs": null}
-{"code": "LTEN 298", "title": "Special Projects: Writing Course", "units": "1\u201312", "prereqs": null}
-{"code": "LTEN 299", "title": "Dissertation", "units": "1\u201312", "prereqs": null}
-{"code": "LTEU 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
-{"code": "LTEU 100", "title": "Introduction to Italian Literature", "units": "4", "prereqs": null}
-{"code": "LTEU 105", "title": "Medieval Studies", "units": "4", "prereqs": null}
-{"code": "LTEU 109", "title": "Studies in Eighteenth-Century European Literature", "units": "4", "prereqs": null}
-{"code": "LTEU 110", "title": "European Romanticism", "units": "4", "prereqs": null}
-{"code": "LTEU 111", "title": "European Realism", "units": "4", "prereqs": null}
-{"code": "LTEU 130", "title": "German Literature in Translation", "units": "4", "prereqs": null}
-{"code": "LTEU 137", "title": "Seminars in German Culture", "units": "4", "prereqs": null}
-{"code": "LTEU 140", "title": "Italian Literature in Translation", "units": "4", "prereqs": null}
-{"code": "LTEU 141", "title": "French Literature in English Translation", "units": "4", "prereqs": null}
-{"code": "LTEU 146", "title": "Studies in Modern Italian Prose", "units": "4", "prereqs": null}
-{"code": "LTEU 150A", "title": "Survey of Russian and Soviet Literature in Translation, 1800\u20131860", "units": "4", "prereqs": null}
-{"code": "LTEU 150B", "title": "Survey of Russian and Soviet Literature in Translation, 1860\u20131917", "units": "4", "prereqs": null}
-{"code": "LTEU 150C", "title": "Survey of Russian and Soviet Literature in Translation, 1917\u2013Present", "units": "4", "prereqs": null}
-{"code": "LTEU 153GS", "title": "Environmental Studies in Russia: Lake Baikal", "units": "4", "prereqs": null}
-{"code": "LTEU 154", "title": "Russian Culture", "units": "4", "prereqs": null}
-{"code": "LTEU 158", "title": "Single Author in Russian Literature in Translation", "units": "4", "prereqs": null}
-{"code": "LTFR 2A", "title": "Intermediate French I", "units": "5", "prereqs": {"type": "one", "courses": ["LIFR 1C", "LIFR 1CX"]}}
-{"code": "LTFR 2B", "title": "Intermediate French II", "units": "5", "prereqs": "LTFR 2A"}
-{"code": "LTFR 2C", "title": "Intermediate French III: Composition and Cultural Contexts", "units": "4", "prereqs": "LTFR 2B"}
-{"code": "LTFR 104", "title": "Advanced French Reading and Writing", "units": "4", "prereqs": "LTFR 50"}
-{"code": "LTFR 115", "title": "Themes in Intellectual and Literary History", "units": "4", "prereqs": "LTFR 104"}
-{"code": "LTFR 116", "title": "Themes in Intellectual and Literary History", "units": "4", "prereqs": "LTFR 104"}
-{"code": "LTFR 121", "title": "The Middle Ages and the Renaissance", "units": "4", "prereqs": "LTFR 104"}
-{"code": "LTFR 122", "title": "Topics in Seventeenth-Century French Literature", "units": "4", "prereqs": "LTFR 104"}
-{"code": "LTFR 123", "title": "Eighteenth Century", "units": "4", "prereqs": "LTFR 104"}
-{"code": "LTFR 124", "title": "Nineteenth Century", "units": "4", "prereqs": "LTFR 104"}
-{"code": "LTFR 125", "title": "Twentieth Century", "units": "4", "prereqs": "LTFR 104"}
-{"code": "LTFR 141", "title": "Topics in Literatures in French", "units": "4", "prereqs": "LTFR 104"}
-{"code": "LTFR 142", "title": "Topics in Literary Genres in French", "units": "4", "prereqs": "LTFR 104"}
-{"code": "LTFR 143", "title": "Topics in Major Authors in French", "units": "4", "prereqs": "LTFR 104"}
-{"code": "LTFR 164", "title": "Topics in Modern French Culture", "units": "4", "prereqs": "LTFR 104"}
-{"code": "LTFR 198", "title": "Directed Group Study", "units": "4", "prereqs": null}
-{"code": "LTFR 199", "title": "Special Studies", "units": "2 or 4", "prereqs": null}
-{"code": "LTFR 297", "title": "Directed Studies: Reading Course", "units": "1\u201312", "prereqs": null}
-{"code": "LTFR 298", "title": "Special Projects: Writing Course", "units": "1\u201312", "prereqs": null}
-{"code": "LTFR 299", "title": "Dissertation", "units": "1\u201312", "prereqs": null}
-{"code": "LTGM 2A", "title": "Intermediate German I", "units": "5", "prereqs": {"type": "one", "courses": ["LTGM 1C", "LTGM 1CX"]}}
-{"code": "LTGM 2B", "title": "Intermediate German II", "units": "5", "prereqs": "LTGM 2A"}
-{"code": "LTGM 2C", "title": "Intermediate German III", "units": "4", "prereqs": "LTGM 2B"}
-{"code": "LTGM 100", "title": "German Studies I: Aesthetic Cultures", "units": "4", "prereqs": null}
-{"code": "LTGM 101", "title": "German Studies II: National Identities", "units": "4", "prereqs": null}
-{"code": "LTGM 130", "title": "German Literary Prose", "units": "4", "prereqs": null}
-{"code": "LTGM 132", "title": "German Poetry", "units": "4", "prereqs": null}
-{"code": "LTGM 134", "title": "New German Cinema", "units": "4", "prereqs": null}
-{"code": "LTGM 190", "title": "Seminars in German Culture", "units": "4", "prereqs": null}
-{"code": "LTGM 198", "title": "Directed Group Study", "units": "4", "prereqs": null}
-{"code": "LTGM 199", "title": "Special Studies", "units": "2 or 4", "prereqs": null}
-{"code": "LTGM 297", "title": "Directed Studies: Reading Course", "units": "1\u201312", "prereqs": null}
-{"code": "LTGM 298", "title": "Special Projects: Writing Course", "units": "1\u201312", "prereqs": null}
-{"code": "LTGK 1", "title": "Beginning Greek", "units": "4", "prereqs": null}
-{"code": "LTGK 2", "title": "Intermediate Greek", "units": "I", "prereqs": "LTGK 1"}
-{"code": "LTGK 3", "title": "Intermediate Greek", "units": "II", "prereqs": {"type": "all", "courses": ["LTGK 1", "LTGK 2"]}}
-{"code": "LTGK 101", "title": "Greek Composition", "units": "4", "prereqs": null}
-{"code": "LTGK 102", "title": "Greek Poetry", "units": "4", "prereqs": {"type": "all", "courses": ["LTGK 1", "LTGK 2", "LTGK 3"]}}
-{"code": "LTGK 103", "title": "Greek Drama", "units": "4", "prereqs": {"type": "all", "courses": ["LTGK 1", "LTGK 2", "LTGK 3"]}}
-{"code": "LTGK 104", "title": "Greek Prose", "units": "4", "prereqs": {"type": "all", "courses": ["LTGK 1", "LTGK 2", "LTGK 3"]}}
-{"code": "LTGK 105", "title": "Topics in Greek Literature", "units": "4", "prereqs": {"type": "all", "courses": ["LTGK 1", "LTGK 2", "LTGK 3"]}}
-{"code": "LTGK 198", "title": "Directed Group Study", "units": "4", "prereqs": null}
-{"code": "LTGK 199", "title": "Special Studies", "units": "2 or 4", "prereqs": null}
-{"code": "LTIT 2A", "title": "Intermediate Italian I", "units": "5", "prereqs": {"type": "one", "courses": ["LTIT 1C", "LIIT 1C", "LIIT 1CX"]}}
-{"code": "LTIT 2B", "title": "Intermediate Italian II", "units": "5", "prereqs": "LTIT 2A"}
-{"code": "LTIT 12AR", "title": "Italian for Spanish Speakers I", "units": "4", "prereqs": null}
-{"code": "LTIT 12BR", "title": "Italian for Spanish Speakers II", "units": "4", "prereqs": "LTIT 12AR"}
-{"code": "LTIT 50", "title": "Advanced Italian", "units": "4", "prereqs": {"type": "all", "courses": ["LTIT 2A", "LTIT 2B"]}}
-{"code": "LTIT 100", "title": "Introduction to Literatures in Italian", "units": "4", "prereqs": "LTIT 50"}
-{"code": "LTIT 115", "title": "Medieval Studies", "units": "4", "prereqs": null}
-{"code": "LTIT 122", "title": "Studies in Modern Italian Culture", "units": "4", "prereqs": "LTIT 50"}
-{"code": "LTIT 137", "title": "Studies in Modern Italian Prose", "units": "4", "prereqs": null}
-{"code": "LTIT 161", "title": "Advanced Stylistics and Conversation", "units": "4", "prereqs": "LTIT 100"}
-{"code": "LTIT 192", "title": "Senior Seminar in Literatures in Italian", "units": "1", "prereqs": null}
-{"code": "LTIT 198", "title": "Directed Group Study", "units": "4", "prereqs": null}
-{"code": "LTIT 199", "title": "Special Studies", "units": "2 or 4", "prereqs": null}
-{"code": "LTKO 1A", "title": "Beginning Korean: First Year I", "units": "5", "prereqs": null}
-{"code": "LTKO 1B", "title": "Beginning Korean: First Year II", "units": "5", "prereqs": "LTKO 1A"}
-{"code": "LTKO 1C", "title": "Beginning Korean: First Year III", "units": "5", "prereqs": "LTKO 1B"}
-{"code": "LTKO 2A", "title": "Intermediate Korean: Second Year I", "units": "5", "prereqs": "LTKO 1C"}
-{"code": "LTKO 2B", "title": "Intermediate Korean: Second Year II", "units": "5", "prereqs": "LTKO 2A"}
-{"code": "LTKO 2C", "title": "Intermediate Korean: Second Year III", "units": "5", "prereqs": "LTKO 2B"}
-{"code": "LTKO 130", "title": "Advanced Korean: Third Year", "units": "4", "prereqs": "LTKO 2C"}
-{"code": "LTKO 140", "title": "Readings in Korean Literature", "units": "4", "prereqs": "LTKO 130"}
-{"code": "LTKO 149", "title": "Readings in Korean Language History and Structure", "units": "4", "prereqs": "LTKO 130"}
-{"code": "LTLA 1", "title": "Beginning Latin", "units": "4", "prereqs": null}
-{"code": "LTLA 2", "title": "Intermediate Latin", "units": "I", "prereqs": "LTLA 1"}
-{"code": "LTLA 3", "title": "Intermediate Latin", "units": "II", "prereqs": "LTLA 2"}
-{"code": "LTLA 100", "title": "Introduction to Latin Literature", "units": "4", "prereqs": "LTLA 3"}
-{"code": "LTLA 102", "title": "Latin Poetry", "units": "4", "prereqs": {"type": "all", "courses": ["LTLA 1", "LTLA 2", "LTLA 3"]}}
-{"code": "LTLA 103", "title": "Latin Drama", "units": "4", "prereqs": {"type": "all", "courses": ["LTLA 1", "LTLA 2", "LTLA 3"]}}
-{"code": "LTLA 104", "title": "Latin Prose", "units": "4", "prereqs": {"type": "all", "courses": ["LTLA 1", "LTLA 2", "LTLA 3"]}}
-{"code": "LTLA 105", "title": "Topics in Latin Literature", "units": "4", "prereqs": {"type": "all", "courses": ["LTLA 1", "LTLA 2", "LTLA 3"]}}
-{"code": "LTLA 198", "title": "Directed Group Study", "units": "4", "prereqs": null}
-{"code": "LTLA 199", "title": "Special Studies", "units": "2 or 4", "prereqs": null}
-{"code": "LTRU 1A", "title": "First-Year Russian", "units": "5", "prereqs": null}
-{"code": "LTRU 1B", "title": "First-Year Russian", "units": "5", "prereqs": "LTRU 1A"}
-{"code": "LTRU 1C", "title": "First-Year Russian", "units": "5", "prereqs": "LTRU 1B"}
-{"code": "LTRU 2A", "title": "Second-Year Russian", "units": "5", "prereqs": "LTRU 1C"}
-{"code": "LTRU 2B", "title": "Second-Year Russian", "units": "5", "prereqs": "LTRU 2A"}
-{"code": "LTRU 104A", "title": "Advanced Practicum in Russian: Linguistic Skills Development", "units": "4", "prereqs": "LTRU 2B"}
-{"code": "LTRU 104B", "title": "Advanced Practicum in Russian: Analysis of Text and Film", "units": "4", "prereqs": "LTRU 104A"}
-{"code": "LTRU 104C", "title": "Advanced Practicum in Russian: Analysis of Text and Film", "units": "4", "prereqs": "LTRU 104A"}
-{"code": "LTRU 110A", "title": "Survey of Russian and Soviet Literature in Translation, 1800\u20131860", "units": "4", "prereqs": null}
-{"code": "LTRU 110B", "title": "Survey of Russian and Soviet Literature in Translation, 1860\u20131917", "units": "4", "prereqs": null}
-{"code": "LTRU 110C", "title": "Survey of Russian and Soviet Literature in Translation, 1917\u2013present", "units": "4", "prereqs": null}
-{"code": "LTRU 123", "title": "Single Author in Russian Literature in Translation", "units": "4", "prereqs": null}
-{"code": "LTRU 150", "title": "Russian Culture", "units": "4", "prereqs": null}
-{"code": "LTRU 198", "title": "Directed Group Study", "units": "4", "prereqs": null}
-{"code": "LTRU 199", "title": "Special Studies", "units": "2 or 4", "prereqs": null}
-{"code": "LTSP 2A", "title": "Intermediate Spanish I: Foundations", "units": "5", "prereqs": {"type": "one", "courses": ["LISP 1C", "LISP 1CX", "LISP 1D", "LISP 1DX"]}}
-{"code": "LTSP 2B", "title": "Intermediate Spanish II: Readings and Composition", "units": "5", "prereqs": "LTSP 2A"}
-{"code": "LTSP 2C", "title": "Intermediate Spanish III: Cultural Topics and Composition", "units": "5", "prereqs": "LTSP 2B"}
-{"code": "LTSP 2D", "title": "Intermediate Spanish I: Spanish for Bilingual Speakers", "units": "4", "prereqs": null}
-{"code": "LTSP 2E", "title": "Intermediate Spanish II: Spanish for Bilingual Speakers", "units": "4", "prereqs": "LTSP 2D"}
-{"code": "LTSP 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
-{"code": "LTSP 100A", "title": "Advanced Spanish Reading and Writing for the Humanities and the Social Sciences", "units": "4", "prereqs": "LTSP 2C"}
-{"code": "LTSP 100B", "title": "Advanced Spanish Reading and Writing for the Humanities and the Social Sciences", "units": "heritage speakers", "prereqs": "LTSP 2E"}
-{"code": "LTSP 101", "title": "Major Works of the Middle Ages", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 116", "title": "Representations of Spanish Colonialism", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 123", "title": "Topics in Modern Spanish Culture", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 130A", "title": "Development of Spanish Literature", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 130B", "title": "Development of Latin American Literature", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 133", "title": "Contemporary Latin American Literature", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 134", "title": "Literature of the Southern Cone", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 135A", "title": "Mexican Literature before 1910", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 135B", "title": "Modern Mexican Literature", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 136", "title": "Andean Literatures", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 137", "title": "Caribbean Literature", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 138", "title": "Central American Literature", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 140", "title": "Latin American Novel", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 141", "title": "Latin American Poetry", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 142", "title": "Latin American Short Story", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 150A", "title": "Early Latino/a-Chicano/a Cultural Production: 1848 to 1960", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 150B", "title": "Contemporary Chicano/a-Latino/a Cultural Production: 1960 to Present", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 151", "title": "Topics in Chicano/a-Latino/a Cultures", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 154", "title": "Latino/a and Chicano/a Literature", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 159", "title": "Methodological Approaches to the Study of History and Culture in Latin America and the Caribbean", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 160", "title": "Spanish Phonetics", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 162", "title": "Spanish Language in the United States", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 166", "title": "Creative Writing", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 170", "title": "Contemporary Theories of Cultural Production", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 171", "title": "Studies in Peninsular and/or Latin American Literature and Society", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 172", "title": "Indigenista Themes in Latin American Literature", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 174", "title": "Topics in Culture and Politics", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 175", "title": "Gender, Sexuality, and Culture", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 176", "title": "Literature and Nation", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 177", "title": "Literary and Historical Migrations", "units": "4", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
-{"code": "LTSP 196", "title": "Honors Thesis", "units": "4", "prereqs": null}
-{"code": "LTSP 198", "title": "Directed Group Study", "units": "4", "prereqs": null}
-{"code": "LTSP 199", "title": "Special Studies", "units": "2 or 4", "prereqs": null}
-{"code": "LTSP 258", "title": "Spanish American Prose", "units": "4", "prereqs": null}
-{"code": "LTSP 272", "title": "Literature and Society Studies", "units": "4", "prereqs": null}
-{"code": "LTSP 297", "title": "Directed Studies: Reading Course", "units": "1\u201312", "prereqs": null}
-{"code": "LTSP 298", "title": "Special Projects: Writing Course", "units": "1\u201312", "prereqs": null}
-{"code": "LTSP 299", "title": "Dissertation", "units": "1\u201312", "prereqs": null}
-{"code": "LTTH 110", "title": "History of Criticism", "units": "4", "prereqs": null}
-{"code": "LTTH 115", "title": "Introduction to Critical Theory", "units": "4", "prereqs": null}
-{"code": "LTTH 150", "title": "Topics in Critical Theory", "units": "4", "prereqs": null}
-{"code": "LTTH 198", "title": "Directed Group Study", "units": "4", "prereqs": null}
-{"code": "LTTH 199", "title": "Special Studies", "units": "2 or 4", "prereqs": null}
-{"code": "LTTH 210A", "title": "Proseminar on Literary Scholarship", "units": "4", "prereqs": null}
-{"code": "LTTH 210B", "title": "Introduction to Literary Theory", "units": "4", "prereqs": null}
-{"code": "LTTH 210C", "title": "Practicum in Contemporary Literary Theory", "units": "4", "prereqs": null}
-{"code": "LTTH 250", "title": "Writing and Theory", "units": "4", "prereqs": null}
-{"code": "LTTH 255", "title": "Modern Art Movements and Aesthetics", "units": "4", "prereqs": null}
-{"code": "LTTH 298", "title": "Special Projects: Writing Course", "units": "1\u201312", "prereqs": null}
-{"code": "LTWL 19A-B-C", "title": ". Introduction to the Ancient Greeks and Romans", "units": "4-4-4", "prereqs": null}
-{"code": "LTWL 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
-{"code": "LTWL 100", "title": "Mythology", "units": "4", "prereqs": null}
-{"code": "LTWL 106", "title": "The Classical Tradition", "units": "4", "prereqs": null}
-{"code": "LTWL 110B", "title": "Folk and Fairy Tales", "units": "4", "prereqs": null}
-{"code": "LTWL 114", "title": "Children\u2019s Literature", "units": "4", "prereqs": null}
-{"code": "LTWL 116", "title": "Adolescent Literature", "units": "4", "prereqs": null}
-{"code": "LTWL 120", "title": "Popular Literature and Culture", "units": "4", "prereqs": null}
-{"code": "LTWL 123", "title": "Vampires in Literature", "units": "4", "prereqs": null}
-{"code": "LTWL 124", "title": "Science Fiction", "units": "4", "prereqs": null}
-{"code": "LTWL 128", "title": "Introduction to Semiotics and Applications", "units": "4", "prereqs": null}
-{"code": "LTWL 129", "title": "Wisdom: The Literature of Authority", "units": "4", "prereqs": null}
-{"code": "LTWL 134", "title": "Cinema and Islam", "units": "4", "prereqs": null}
-{"code": "LTWL 135", "title": "The Buddhist Imaginary", "units": "4", "prereqs": null}
-{"code": "LTWL 136", "title": "Socially Engaged Buddhism", "units": "4", "prereqs": null}
-{"code": "LTWL 138", "title": "Critical Religion Studies", "units": "4", "prereqs": null}
-{"code": "LTWL 140", "title": "Novel and History in the Third World", "units": "4", "prereqs": null}
-{"code": "LTWL 143", "title": "Arab Literatures and Cultures", "units": "4", "prereqs": null}
-{"code": "LTWL 145", "title": "South Asian Religious Literatures: Selected Topics", "units": "4", "prereqs": null}
-{"code": "LTWL 150", "title": "Modernity and Literature", "units": "4", "prereqs": null}
-{"code": "LTWL 155", "title": "Gender Studies", "units": "4", "prereqs": null}
-{"code": "LTWL 156", "title": "Asian Diasporic Cinema", "units": "4", "prereqs": null}
-{"code": "LTWL 157", "title": "Iranian Film", "units": "4", "prereqs": null}
-{"code": "LTWL 158A", "title": "Topics in the New Testament", "units": "4", "prereqs": null}
-{"code": "LTWL 158B", "title": "Topics in Early Christian Texts and Cultures", "units": "4", "prereqs": null}
-{"code": "LTWL 158C", "title": "Topics in Other Christianities", "units": "4", "prereqs": null}
-{"code": "LTWL 159", "title": "Digital Middle East: Culture, Politics, and Religion", "units": "4", "prereqs": null}
-{"code": "LTWL 160", "title": "Women and Literature", "units": "4", "prereqs": null}
-{"code": "LTWL 165", "title": "Literature and the Environment", "units": "4", "prereqs": null}
-{"code": "LTWL 166", "title": "The Yiddish Novel", "units": "4", "prereqs": null}
-{"code": "LTWL 168", "title": "Death and Desire in India", "units": "4", "prereqs": null}
-{"code": "LTWL 172", "title": "Special Topics in Literature", "units": "4", "prereqs": null}
-{"code": "LTWL 174", "title": "Law and Literature", "units": "4", "prereqs": null}
-{"code": "LTWL 176", "title": "Literature and Ideas", "units": "4", "prereqs": null}
-{"code": "LTWL 177", "title": "Literature and Aging", "units": "4", "prereqs": null}
-{"code": "LTWL 180", "title": "Film Studies and Literature: Film History", "units": "4", "prereqs": null}
-{"code": "LTWL 181", "title": "Film Studies and Literature: Film Movement", "units": "4", "prereqs": null}
-{"code": "LTWL 183", "title": "Film Studies and Literature: Director\u2019s Work", "units": "4", "prereqs": null}
-{"code": "LTWL 184", "title": "Film Studies and Literature: Close Analysis of Filmic Text", "units": "4", "prereqs": null}
-{"code": "LTWL 191", "title": "Honors Seminar", "units": "4", "prereqs": null}
-{"code": "LTWL 192", "title": "Senior Seminar in Literatures of the World", "units": "1", "prereqs": null}
-{"code": "LTWL 194", "title": "Capstone Course for Literature Majors", "units": "4", "prereqs": null}
-{"code": "LTWL 194A", "title": "Honors Practicum", "units": "1", "prereqs": {"type": "one", "courses": ["LTWL 194", "LTWR 194"]}}
-{"code": "LTWL 196", "title": "Honors Thesis", "units": "4", "prereqs": null}
-{"code": "LTWL 198", "title": "Directed Group Study", "units": "4", "prereqs": null}
-{"code": "LTWL 199", "title": "Special Studies", "units": "2 or 4", "prereqs": null}
-{"code": "LTWL 500", "title": "Apprentice Teaching in Literature", "units": "2 or 4", "prereqs": null}
-{"code": "LTWR 8A", "title": "Writing Fiction", "units": "4", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["CAT 2", "CAT 3"]}, {"type": "all", "courses": ["DOC 2", "DOC 3"]}, {"type": "all", "courses": ["HUM 1", "HUM 2"]}, {"type": "all", "courses": ["MCWP 40", "MCWP 50"]}, {"type": "all", "courses": ["MMW 12", "MMW 13"]}, {"type": "all", "courses": ["WARR 11A", "WARR 11B"]}, {"type": "all", "courses": ["WCWP 10A", "WCWP 10B"]}, {"type": "all", "courses": ["SYN 1", "SYN 2"]}]}}
-{"code": "LTWR 8B", "title": "Writing Poetry", "units": "4", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["CAT 2", "CAT 3"]}, {"type": "all", "courses": ["DOC 2", "DOC 3"]}, {"type": "all", "courses": ["HUM 1", "HUM 2"]}, {"type": "all", "courses": ["MCWP 40", "MCWP 50"]}, {"type": "all", "courses": ["MMW 12", "MMW 13"]}, {"type": "all", "courses": ["WARR 11A", "WARR 11B"]}, {"type": "all", "courses": ["WCWP 10A", "WCWP 10B"]}, {"type": "all", "courses": ["SYN 1", "SYN 2"]}]}}
-{"code": "LTWR 8C", "title": "Writing Nonfiction", "units": "4", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["CAT 2", "CAT 3"]}, {"type": "all", "courses": ["DOC 2", "DOC 3"]}, {"type": "all", "courses": ["HUM 1", "HUM 2"]}, {"type": "all", "courses": ["MCWP 40", "MCWP 50"]}, {"type": "all", "courses": ["MMW 12", "MMW 13"]}, {"type": "all", "courses": ["WARR 11A", "WARR 11B"]}, {"type": "all", "courses": ["WCWP 10A", "WCWP 10B"]}, {"type": "all", "courses": ["SYN 1", "SYN 2"]}]}}
-{"code": "LTWR 100", "title": "Short Fiction Workshop", "units": "4", "prereqs": "LTWR 8A"}
-{"code": "LTWR 101", "title": "Writing Fiction in Spanish", "units": "4", "prereqs": {"type": "all", "courses": ["LTWR 8A", {"type": "one", "courses": ["LTSP 50A", "LTSP 50B", "LTSP 50C"]}]}}
-{"code": "LTWR 102", "title": "Poetry Workshop", "units": "4", "prereqs": "LTWR 8B"}
-{"code": "LTWR 103", "title": "Digital Poetics Workshop", "units": "4", "prereqs": "LTWR 8B"}
-{"code": "LTWR 104A", "title": "The Novella I", "units": "4", "prereqs": "LTWR 100"}
-{"code": "LTWR 104B", "title": "The Novella II", "units": "4", "prereqs": "LTWR 104A"}
-{"code": "LTWR 106", "title": "Science Fiction, Fantasy, and Irrealism Workshop", "units": "4", "prereqs": "LTWR 8A"}
-{"code": "LTWR 109", "title": "Writing and Publishing Children\u2019s Literature", "units": "4", "prereqs": "LTWR 8A"}
-{"code": "LTWR 110", "title": "Screen Writing", "units": "4", "prereqs": null}
-{"code": "LTWR 113", "title": "Intercultural Writing Workshop", "units": "4", "prereqs": {"type": "one", "courses": ["LTWR 8A", "LTWR 8B", "LTWR 8C"]}}
-{"code": "LTWR 114", "title": "Graphic Texts Workshop", "units": "4", "prereqs": {"type": "one", "courses": ["LTWR 8A", "LTWR 8B", "LTWR 8C"]}}
-{"code": "LTWR 115", "title": "Experimental Writing Workshop", "units": "4", "prereqs": {"type": "one", "courses": ["LTWR 8A", "LTWR 8B", "LTWR 8C"]}}
-{"code": "LTWR 119", "title": "Writing for Performance Workshop", "units": "4", "prereqs": {"type": "one", "courses": ["LTWR 8A", "LTWR 8B"]}}
-{"code": "LTWR 120", "title": "Personal Narrative Workshop", "units": "4", "prereqs": {"type": "one", "courses": ["LTWR 8A", "LTWR 8B", "LTWR 8C"]}}
-{"code": "LTWR 121", "title": "Media Writing Workshop", "units": "4", "prereqs": "LTWR 8C"}
-{"code": "LTWR 122", "title": "Writing for the Sciences Workshop", "units": "4", "prereqs": null}
-{"code": "LTWR 124", "title": "Translation of Literary Texts Workshop", "units": "4", "prereqs": {"type": "one", "courses": ["LTWR 8A", "LTWR 8B", "LTWR 8C"]}}
-{"code": "LTWR 126", "title": "Creative Nonfiction Workshop", "units": "4", "prereqs": "LTWR 8C"}
-{"code": "LTWR 129", "title": "Distributing Literature Workshop", "units": "4", "prereqs": {"type": "one", "courses": ["LTWR 100", "LTWR 102", "LTWR 120"]}}
-{"code": "LTWR 140", "title": "History of Writing", "units": "4", "prereqs": null}
-{"code": "LTWR 143", "title": "Stylistics and Grammar", "units": "4", "prereqs": null}
-{"code": "LTWR 144", "title": "The Teaching of Writing", "units": "4", "prereqs": null}
-{"code": "LTWR 148", "title": "Theory for Writers/Writing for Theory", "units": "4", "prereqs": null}
-{"code": "LTWR 194", "title": "Capstone Course for Writing Majors", "units": "4", "prereqs": null}
-{"code": "LTWR 195", "title": "Apprentice Teaching", "units": "4", "prereqs": null}
-{"code": "LTWR 196", "title": "Honors Thesis", "units": "4", "prereqs": null}
-{"code": "LTWR 198", "title": "Directed Group Study", "units": "2 or 4", "prereqs": null}
-{"code": "LTWR 199", "title": "Special Studies", "units": "2 or 4", "prereqs": null}
-{"code": "LTWR 215", "title": "Cross-Genre Workshop", "units": "4", "prereqs": null}
-{"code": "LTWR 220", "title": "Topics in Writing", "units": "4", "prereqs": null}
-{"code": "LTWR 295", "title": "MFA Thesis", "units": "1\u201312", "prereqs": null}
-{"code": "LTWR 298", "title": "Directed Studies: Writing Course", "units": "1\u201312", "prereqs": null}
+{"code": "LTAF 120", "title": "Literature and Film of Modern Africa", "units": "4", "anchor": "ltaf120"}
+{"code": "LTAF 120GS", "title": "Literature and Film of Modern Africa", "units": "4", "anchor": "ltaf120gs"}
+{"code": "LTAM 87", "title": "First-year Student Seminar", "units": "1", "anchor": "ltam87"}
+{"code": "LTAM 100", "title": "Latino/a Cultures in the United States", "units": "4", "anchor": "ltam100"}
+{"code": "LTAM 105", "title": "Gender and Sexuality in Latino/a-Chicano/a Cultural Production", "units": "4", "anchor": "ltam105"}
+{"code": "LTAM 107", "title": "Comparative Latino/a and US Ethnic Cultures", "units": "4", "anchor": "ltam107"}
+{"code": "LTAM 108", "title": "Chicano/a and Latino/a Cultures: Intellectual and Political Traditions", "units": "4", "anchor": "ltam108"}
+{"code": "LTAM 110", "title": "Latin American Literature in Translation", "units": "4", "anchor": "ltam110"}
+{"code": "LTAM 110GS", "title": "Latin American Literature in Translation", "units": "4", "anchor": "ltam110gs"}
+{"code": "LTAM 111", "title": "Comparative Caribbean Discourse", "units": "4", "anchor": "ltam111"}
+{"code": "LTAM 140", "title": "Topics in Culture and Politics", "units": "4", "anchor": "ltam140"}
+{"code": "LTCH 101", "title": "Readings in Contemporary Chinese Literature", "units": "4", "anchor": "ltch101"}
+{"code": "LTCO 201", "title": "Theories and Methods of Literary Analysis", "units": "4", "anchor": "ltco201"}
+{"code": "LTCO 274", "title": "Genre Studies", "units": "4", "anchor": "ltco274"}
+{"code": "LTCO 281", "title": "Literature and Film", "units": "4", "anchor": "ltco281"}
+{"code": "LTCO 282", "title": "Literature and Philosophy", "units": "4", "anchor": "ltco282"}
+{"code": "LTCO 284", "title": "Performativity", "units": "4", "anchor": "ltco284"}
+{"code": "LTCO 285", "title": "Literature and Aesthetics", "units": "4", "anchor": "ltco285"}
+{"code": "LTCO 287", "title": "Culture and Political Theory", "units": "4", "anchor": "ltco287"}
+{"code": "LTCO 297", "title": "Directed Studies: Reading Course", "units": "1\u201312", "anchor": "ltco297"}
+{"code": "LTCO 298", "title": "Special Projects: Writing Course", "units": "1\u201312", "anchor": "ltco298"}
+{"code": "LTCO 299", "title": "Dissertation", "units": "1\u201312", "anchor": "ltco299"}
+{"code": "LTCS 50", "title": "Introduction to Cultural Studies", "units": "4", "anchor": "ltcs50"}
+{"code": "LTCS 52", "title": "Topics in Cultural Studies", "units": "4", "anchor": "ltcs52"}
+{"code": "LTCS 87", "title": "First-year Student Seminar", "units": "1", "anchor": "ltcs87"}
+{"code": "LTCS 100", "title": "Theories and Methods in Cultural Studies", "units": "4", "anchor": "ltcs100"}
+{"code": "LTCS 102", "title": "Practicing Cultural Studies", "units": "4", "anchor": "ltcs102"}
+{"code": "LTCS 108", "title": "Gender, Race, and Artificial Intelligence", "units": "4", "anchor": "ltcs108"}
+{"code": "LTCS 110", "title": "Popular Culture", "units": "4", "anchor": "ltcs110"}
+{"code": "LTCS 111", "title": "Special Topics in Popular Culture in Historical Context", "units": "4", "anchor": "ltcs111"}
+{"code": "LTCS 119", "title": "Asian American Film and Media", "units": "4", "anchor": "ltcs119"}
+{"code": "LTCS 120", "title": "Historical Perspectives on Culture", "units": "4", "anchor": "ltcs120"}
+{"code": "LTCS 125", "title": "Cultural Perspectives on Immigration and Citizenship", "units": "4", "anchor": "ltcs125"}
+{"code": "LTCS 130", "title": "Gender, Race/Ethnicity, Class, and Culture", "units": "4", "anchor": "ltcs130"}
+{"code": "LTCS 131", "title": "Topics in Queer Cultures/Queer Subcultures", "units": "4", "anchor": "ltcs131"}
+{"code": "LTCS 132", "title": "Special Topics in Social Identities and the Media", "units": "4", "anchor": "ltcs132"}
+{"code": "LTCS 133", "title": "Globalization and Culture", "units": "4", "anchor": "ltcs133"}
+{"code": "LTCS 134", "title": "Culture and Revolution", "units": "4", "anchor": "ltcs134"}
+{"code": "LTCS 141", "title": "Special Topics in Race and Empire", "units": "4", "anchor": "ltcs141"}
+{"code": "LTCS 150", "title": "Topics in Cultural Studies", "units": "4", "anchor": "ltcs150"}
+{"code": "LTCS 155", "title": "Health, Illness, and Global Culture", "units": "4", "anchor": "ltcs155"}
+{"code": "LTCS 165", "title": "Special Topics: The Politics of Food", "units": "4", "anchor": "ltcs165"}
+{"code": "LTCS 170", "title": "Visual Culture", "units": "4", "anchor": "ltcs165"}
+{"code": "LTCS 172", "title": "Special Topics in Screening Race/Ethnicity, Gender and Sexuality", "units": "4", "anchor": "ltcs165"}
+{"code": "LTCS 173", "title": "Topics in Violence and Visual Culture", "units": "4", "anchor": "ltcs165"}
+{"code": "LTCS 180", "title": "Programming for the Humanities", "units": "4", "anchor": "ltcs165"}
+{"code": "LTCS 198", "title": "Directed Group Study", "units": "4", "anchor": "ltcs165"}
+{"code": "LTCS 199", "title": "Special Studies", "units": "2 or 4", "anchor": "ltcs165"}
+{"code": "LTCS 222", "title": "Topics in Theory and History of Film", "units": "4", "anchor": "ltcs165"}
+{"code": "LTCS 225", "title": "Interdisciplinary and Historical Analysis of Cultural Texts", "units": "4", "anchor": "ltcs165"}
+{"code": "LTCS 250", "title": "Topics in Cultural Studies", "units": "4", "anchor": "ltcs165"}
+{"code": "LTCS 256", "title": "Cultural Studies of Technoscience", "units": "4", "anchor": "ltcs165"}
+{"code": "LTCS 260", "title": "National Cultures", "units": "4", "anchor": "ltcs165"}
+{"code": "LTCS 297", "title": "Directed Studies: Reading Course", "units": "1\u201312", "anchor": "ltcs165"}
+{"code": "LTCS 298", "title": "Special Projects: Writing Course", "units": "1\u201312", "anchor": "ltcs165"}
+{"code": "LTCS 299", "title": "Dissertation", "units": "1\u201312", "anchor": "ltcs165"}
+{"code": "LTEA 100A", "title": "Classical Chinese Poetry in Translation", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEA 100B", "title": "Modern Chinese Poetry in Translation", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEA 100C", "title": "Contemporary Chinese Poetry in Translation", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEA 110A", "title": "Classical Chinese Fiction in Translation", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEA 110B", "title": "Modern Chinese Fiction in Translation", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEA 110C", "title": "Contemporary Chinese Fiction in Translation", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEA 120A", "title": "Chinese Films", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEA 120B", "title": "Taiwan Films", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEA 120C", "title": "Hong Kong Films", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEA 132", "title": "Later Japanese Literature in Translation", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEA 138", "title": "Japanese Films", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEA 140", "title": "Modern Korean Literature in Translation from Colonial Period", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEA 141", "title": "Modern Korean Literature in Translation from 1945 to Present", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEA 142", "title": "Korean Film, Literature, and Popular Culture", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEA 143", "title": "Gender and Sexuality in Korean Literature and Culture", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEA 144", "title": "Korean American Literature and Other Literatures of Korean Diaspora", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEA 151", "title": "Readings in Tagalog Literature and Culture I", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEA 152B", "title": "Topics in Filipino Literature and Culture", "units": "World War II\u2013Present", "anchor": "ltcs165"}
+{"code": "LTEA 198", "title": "Directed Group Study", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEA 199", "title": "Special Studies", "units": "2 or 4", "anchor": "ltcs165"}
+{"code": "LTEN 21", "title": "Introduction to the Literature of the British Isles: Pre-1660", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 22", "title": "Introduction to the Literature of the British Isles: 1660\u20131832", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 23", "title": "Introduction to the Literature of the British Isles: 1832\u2013Present", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 25", "title": "Introduction to the Literature of the United States, Beginnings to 1865", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 26", "title": "Introduction to the Literature of the United States, 1865 to the Present", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 27", "title": "Introduction to African American Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 28", "title": "Introduction to Asian American Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 29", "title": "Introduction to Chicano Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 30", "title": "Poetry for Physicists", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["CAT 2", "CAT 3"]}, {"type": "all", "courses": ["DOC 2", "DOC 3"]}, {"type": "all", "courses": ["HUM 1", "HUM 2"]}, {"type": "all", "courses": ["MCWP 40", "MCWP 50"]}, {"type": "all", "courses": ["MMW 12", "MMW 13"]}, {"type": "all", "courses": ["WARR 11A", "WARR 11B"]}, {"type": "all", "courses": ["WCWP 10A", "WCWP 10B"]}]}}
+{"code": "LTEN 31", "title": "Introduction to Indigenous Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 87", "title": "First-year Student Seminar", "units": "1", "anchor": "ltcs165"}
+{"code": "LTEN 107", "title": "Chaucer", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 110", "title": "Topics: The Renaissance", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 112", "title": "Shakespeare I: The Elizabethan Period", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 113", "title": "Shakespeare II: The Jacobean Period", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 114", "title": "Shakespeare III: Text, Stage, and Film", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 117", "title": "Topics: The Seventeenth Century", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 120", "title": "Topics: The Eighteenth Century", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 124", "title": "Topics: The Nineteenth Century", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 125", "title": "Romantic Poetry", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 127", "title": "Victorian Poetry", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 128", "title": "British and Irish Poetry: 1900 to Present", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 130", "title": "Modern British Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 130GS", "title": "Modern British Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 132", "title": "Modern Irish Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 138", "title": "The British Novel: 1680\u20131790", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 140", "title": "The British Novel: 1790\u20131830", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 142", "title": "The British Novel: 1830\u20131890", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 144", "title": "The British Novel: 1890 to Present", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 148", "title": "Genres in English and American Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 149", "title": "Topics: English-Language Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 150", "title": "Gender, Text, and Culture", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 152", "title": "The Origins of American Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 153", "title": "The Revolutionary War and the Early National Period in US Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 154", "title": "The American Renaissance", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 155", "title": "Interactions between American Literature and the Visual Arts", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 156", "title": "American Literature from the Civil War to World War I", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 157", "title": "Captivity and Prison Narratives", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 158", "title": "Modern American Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 159", "title": "Contemporary American Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 169", "title": "Topics in Latino/a Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 171", "title": "Comparative Issues in Latino/a Immigration in US Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 172", "title": "American Poetry II\u2014Whitman through the Modernists", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 174", "title": "American Fiction II\u2014Since Middle James", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 175A", "title": "New American Fiction\u2014Post-World War II to the Present", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 175B", "title": "New American Poetry\u2014Post-World War II to the Present", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 176", "title": "Major American Writers", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 178", "title": "Comparative Ethnic Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 179", "title": "Topics: Arab/Muslim American Identity and Culture", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 180", "title": "Chicano Literature in English", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 181", "title": "Asian American Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 182", "title": "Diaspora, Race, and Iranian American Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 183", "title": "African American Prose", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 185", "title": "Themes in African American Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 186", "title": "Literature of the Harlem Renaissance", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 188", "title": "Contemporary Caribbean Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 189", "title": "Twentieth-Century Postcolonial Literatures", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 192", "title": "Senior Seminar in Literatures in English", "units": "1", "anchor": "ltcs165"}
+{"code": "LTEN 196", "title": "Honors Thesis", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 198", "title": "Directed Group Study", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 199", "title": "Special Studies", "units": "2 or 4", "anchor": "ltcs165"}
+{"code": "LTEN 222", "title": "Elizabethan Studies", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 231", "title": "Restoration and Eighteenth-Century English Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 245", "title": "Nineteenth-Century American Studies", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 246", "title": "Victorian Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 252", "title": "Studies in Modern American Literature and Culture", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 254", "title": "Topics in US Minority Literatures and Cultures", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 256", "title": "Postcolonial Discourses", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 258", "title": "Studies in Anglophone African and/or African Diaspora Literature and Culture", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 259", "title": "Transnational Literary Studies", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 271", "title": "Genres in English", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 272", "title": "Cultural Traditions in English", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 281", "title": "Practicum in Literary Research and Criticism", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEN 297", "title": "Directed Studies: Reading Course", "units": "1\u201312", "anchor": "ltcs165"}
+{"code": "LTEN 298", "title": "Special Projects: Writing Course", "units": "1\u201312", "anchor": "ltcs165"}
+{"code": "LTEN 299", "title": "Dissertation", "units": "1\u201312", "anchor": "ltcs165"}
+{"code": "LTEU 87", "title": "First-year Student Seminar", "units": "1", "anchor": "ltcs165"}
+{"code": "LTEU 100", "title": "Introduction to Italian Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEU 105", "title": "Medieval Studies", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEU 109", "title": "Studies in Eighteenth-Century European Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEU 110", "title": "European Romanticism", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEU 111", "title": "European Realism", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEU 130", "title": "German Literature in Translation", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEU 137", "title": "Seminars in German Culture", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEU 140", "title": "Italian Literature in Translation", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEU 141", "title": "French Literature in English Translation", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEU 146", "title": "Studies in Modern Italian Prose", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEU 150A", "title": "Survey of Russian and Soviet Literature in Translation, 1800\u20131860", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEU 150B", "title": "Survey of Russian and Soviet Literature in Translation, 1860\u20131917", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEU 150C", "title": "Survey of Russian and Soviet Literature in Translation, 1917\u2013Present", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEU 153GS", "title": "Environmental Studies in Russia: Lake Baikal", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEU 154", "title": "Russian Culture", "units": "4", "anchor": "ltcs165"}
+{"code": "LTEU 158", "title": "Single Author in Russian Literature in Translation", "units": "4", "anchor": "ltcs165"}
+{"code": "LTFR 2A", "title": "Intermediate French I", "units": "5", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LIFR 1C", "LIFR 1CX"]}}
+{"code": "LTFR 2B", "title": "Intermediate French II", "units": "5", "anchor": "ltcs165", "prereqs": "LTFR 2A"}
+{"code": "LTFR 2C", "title": "Intermediate French III: Composition and Cultural Contexts", "units": "4", "anchor": "ltcs165", "prereqs": "LTFR 2B"}
+{"code": "LTFR 104", "title": "Advanced French Reading and Writing", "units": "4", "anchor": "ltcs165", "prereqs": "LTFR 50"}
+{"code": "LTFR 115", "title": "Themes in Intellectual and Literary History", "units": "4", "anchor": "ltcs165", "prereqs": "LTFR 104"}
+{"code": "LTFR 116", "title": "Themes in Intellectual and Literary History", "units": "4", "anchor": "ltcs165", "prereqs": "LTFR 104"}
+{"code": "LTFR 121", "title": "The Middle Ages and the Renaissance", "units": "4", "anchor": "ltcs165", "prereqs": "LTFR 104"}
+{"code": "LTFR 122", "title": "Topics in Seventeenth-Century French Literature", "units": "4", "anchor": "ltcs165", "prereqs": "LTFR 104"}
+{"code": "LTFR 123", "title": "Eighteenth Century", "units": "4", "anchor": "ltcs165", "prereqs": "LTFR 104"}
+{"code": "LTFR 124", "title": "Nineteenth Century", "units": "4", "anchor": "ltcs165", "prereqs": "LTFR 104"}
+{"code": "LTFR 125", "title": "Twentieth Century", "units": "4", "anchor": "ltcs165", "prereqs": "LTFR 104"}
+{"code": "LTFR 141", "title": "Topics in Literatures in French", "units": "4", "anchor": "ltcs165", "prereqs": "LTFR 104"}
+{"code": "LTFR 142", "title": "Topics in Literary Genres in French", "units": "4", "anchor": "ltcs165", "prereqs": "LTFR 104"}
+{"code": "LTFR 143", "title": "Topics in Major Authors in French", "units": "4", "anchor": "ltcs165", "prereqs": "LTFR 104"}
+{"code": "LTFR 164", "title": "Topics in Modern French Culture", "units": "4", "anchor": "ltcs165", "prereqs": "LTFR 104"}
+{"code": "LTFR 198", "title": "Directed Group Study", "units": "4", "anchor": "ltcs165"}
+{"code": "LTFR 199", "title": "Special Studies", "units": "2 or 4", "anchor": "ltcs165"}
+{"code": "LTFR 297", "title": "Directed Studies: Reading Course", "units": "1\u201312", "anchor": "ltcs165"}
+{"code": "LTFR 298", "title": "Special Projects: Writing Course", "units": "1\u201312", "anchor": "ltcs165"}
+{"code": "LTFR 299", "title": "Dissertation", "units": "1\u201312", "anchor": "ltcs165"}
+{"code": "LTGM 2A", "title": "Intermediate German I", "units": "5", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTGM 1C", "LTGM 1CX"]}}
+{"code": "LTGM 2B", "title": "Intermediate German II", "units": "5", "anchor": "ltcs165", "prereqs": "LTGM 2A"}
+{"code": "LTGM 2C", "title": "Intermediate German III", "units": "4", "anchor": "ltcs165", "prereqs": "LTGM 2B"}
+{"code": "LTGM 100", "title": "German Studies I: Aesthetic Cultures", "units": "4", "anchor": "ltcs165"}
+{"code": "LTGM 101", "title": "German Studies II: National Identities", "units": "4", "anchor": "ltcs165"}
+{"code": "LTGM 130", "title": "German Literary Prose", "units": "4", "anchor": "ltcs165"}
+{"code": "LTGM 132", "title": "German Poetry", "units": "4", "anchor": "ltcs165"}
+{"code": "LTGM 134", "title": "New German Cinema", "units": "4", "anchor": "ltcs165"}
+{"code": "LTGM 190", "title": "Seminars in German Culture", "units": "4", "anchor": "ltcs165"}
+{"code": "LTGM 198", "title": "Directed Group Study", "units": "4", "anchor": "ltcs165"}
+{"code": "LTGM 199", "title": "Special Studies", "units": "2 or 4", "anchor": "ltcs165"}
+{"code": "LTGM 297", "title": "Directed Studies: Reading Course", "units": "1\u201312", "anchor": "ltcs165"}
+{"code": "LTGM 298", "title": "Special Projects: Writing Course", "units": "1\u201312", "anchor": "ltcs165"}
+{"code": "LTGK 1", "title": "Beginning Greek", "units": "4", "anchor": "ltcs165"}
+{"code": "LTGK 2", "title": "Intermediate Greek", "units": "I", "anchor": "ltcs165", "prereqs": "LTGK 1"}
+{"code": "LTGK 3", "title": "Intermediate Greek", "units": "II", "anchor": "ltcs165", "prereqs": {"type": "all", "courses": ["LTGK 1", "LTGK 2"]}}
+{"code": "LTGK 101", "title": "Greek Composition", "units": "4", "anchor": "ltcs165"}
+{"code": "LTGK 102", "title": "Greek Poetry", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "all", "courses": ["LTGK 1", "LTGK 2", "LTGK 3"]}}
+{"code": "LTGK 103", "title": "Greek Drama", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "all", "courses": ["LTGK 1", "LTGK 2", "LTGK 3"]}}
+{"code": "LTGK 104", "title": "Greek Prose", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "all", "courses": ["LTGK 1", "LTGK 2", "LTGK 3"]}}
+{"code": "LTGK 105", "title": "Topics in Greek Literature", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "all", "courses": ["LTGK 1", "LTGK 2", "LTGK 3"]}}
+{"code": "LTGK 198", "title": "Directed Group Study", "units": "4", "anchor": "ltcs165"}
+{"code": "LTGK 199", "title": "Special Studies", "units": "2 or 4", "anchor": "ltcs165"}
+{"code": "LTIT 2A", "title": "Intermediate Italian I", "units": "5", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTIT 1C", "LIIT 1C", "LIIT 1CX"]}}
+{"code": "LTIT 2B", "title": "Intermediate Italian II", "units": "5", "anchor": "ltcs165", "prereqs": "LTIT 2A"}
+{"code": "LTIT 12AR", "title": "Italian for Spanish Speakers I", "units": "4", "anchor": "ltcs165"}
+{"code": "LTIT 12BR", "title": "Italian for Spanish Speakers II", "units": "4", "anchor": "ltcs165", "prereqs": "LTIT 12AR"}
+{"code": "LTIT 50", "title": "Advanced Italian", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "all", "courses": ["LTIT 2A", "LTIT 2B"]}}
+{"code": "LTIT 100", "title": "Introduction to Literatures in Italian", "units": "4", "anchor": "ltcs165", "prereqs": "LTIT 50"}
+{"code": "LTIT 115", "title": "Medieval Studies", "units": "4", "anchor": "ltcs165"}
+{"code": "LTIT 122", "title": "Studies in Modern Italian Culture", "units": "4", "anchor": "ltcs165", "prereqs": "LTIT 50"}
+{"code": "LTIT 137", "title": "Studies in Modern Italian Prose", "units": "4", "anchor": "ltcs165"}
+{"code": "LTIT 161", "title": "Advanced Stylistics and Conversation", "units": "4", "anchor": "ltcs165", "prereqs": "LTIT 100"}
+{"code": "LTIT 192", "title": "Senior Seminar in Literatures in Italian", "units": "1", "anchor": "ltcs165"}
+{"code": "LTIT 198", "title": "Directed Group Study", "units": "4", "anchor": "ltcs165"}
+{"code": "LTIT 199", "title": "Special Studies", "units": "2 or 4", "anchor": "ltcs165"}
+{"code": "LTKO 1A", "title": "Beginning Korean: First Year I", "units": "5", "anchor": "ltcs165"}
+{"code": "LTKO 1B", "title": "Beginning Korean: First Year II", "units": "5", "anchor": "ltcs165", "prereqs": "LTKO 1A"}
+{"code": "LTKO 1C", "title": "Beginning Korean: First Year III", "units": "5", "anchor": "ltcs165", "prereqs": "LTKO 1B"}
+{"code": "LTKO 2A", "title": "Intermediate Korean: Second Year I", "units": "5", "anchor": "ltcs165", "prereqs": "LTKO 1C"}
+{"code": "LTKO 2B", "title": "Intermediate Korean: Second Year II", "units": "5", "anchor": "ltcs165", "prereqs": "LTKO 2A"}
+{"code": "LTKO 2C", "title": "Intermediate Korean: Second Year III", "units": "5", "anchor": "ltcs165", "prereqs": "LTKO 2B"}
+{"code": "LTKO 130", "title": "Advanced Korean: Third Year", "units": "4", "anchor": "ltcs165", "prereqs": "LTKO 2C"}
+{"code": "LTKO 140", "title": "Readings in Korean Literature", "units": "4", "anchor": "ltcs165", "prereqs": "LTKO 130"}
+{"code": "LTKO 149", "title": "Readings in Korean Language History and Structure", "units": "4", "anchor": "ltcs165", "prereqs": "LTKO 130"}
+{"code": "LTLA 1", "title": "Beginning Latin", "units": "4", "anchor": "ltcs165"}
+{"code": "LTLA 2", "title": "Intermediate Latin", "units": "I", "anchor": "ltcs165", "prereqs": "LTLA 1"}
+{"code": "LTLA 3", "title": "Intermediate Latin", "units": "II", "anchor": "ltcs165", "prereqs": "LTLA 2"}
+{"code": "LTLA 100", "title": "Introduction to Latin Literature", "units": "4", "anchor": "ltcs165", "prereqs": "LTLA 3"}
+{"code": "LTLA 102", "title": "Latin Poetry", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "all", "courses": ["LTLA 1", "LTLA 2", "LTLA 3"]}}
+{"code": "LTLA 103", "title": "Latin Drama", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "all", "courses": ["LTLA 1", "LTLA 2", "LTLA 3"]}}
+{"code": "LTLA 104", "title": "Latin Prose", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "all", "courses": ["LTLA 1", "LTLA 2", "LTLA 3"]}}
+{"code": "LTLA 105", "title": "Topics in Latin Literature", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "all", "courses": ["LTLA 1", "LTLA 2", "LTLA 3"]}}
+{"code": "LTLA 198", "title": "Directed Group Study", "units": "4", "anchor": "ltcs165"}
+{"code": "LTLA 199", "title": "Special Studies", "units": "2 or 4", "anchor": "ltcs165"}
+{"code": "LTRU 1A", "title": "First-Year Russian", "units": "5", "anchor": "ltcs165"}
+{"code": "LTRU 1B", "title": "First-Year Russian", "units": "5", "anchor": "ltcs165", "prereqs": "LTRU 1A"}
+{"code": "LTRU 1C", "title": "First-Year Russian", "units": "5", "anchor": "ltcs165", "prereqs": "LTRU 1B"}
+{"code": "LTRU 2A", "title": "Second-Year Russian", "units": "5", "anchor": "ltcs165", "prereqs": "LTRU 1C"}
+{"code": "LTRU 2B", "title": "Second-Year Russian", "units": "5", "anchor": "ltcs165", "prereqs": "LTRU 2A"}
+{"code": "LTRU 104A", "title": "Advanced Practicum in Russian: Linguistic Skills Development", "units": "4", "anchor": "ltcs165", "prereqs": "LTRU 2B"}
+{"code": "LTRU 104B", "title": "Advanced Practicum in Russian: Analysis of Text and Film", "units": "4", "anchor": "ltcs165", "prereqs": "LTRU 104A"}
+{"code": "LTRU 104C", "title": "Advanced Practicum in Russian: Analysis of Text and Film", "units": "4", "anchor": "ltcs165", "prereqs": "LTRU 104A"}
+{"code": "LTRU 110A", "title": "Survey of Russian and Soviet Literature in Translation, 1800\u20131860", "units": "4", "anchor": "ltcs165"}
+{"code": "LTRU 110B", "title": "Survey of Russian and Soviet Literature in Translation, 1860\u20131917", "units": "4", "anchor": "ltcs165"}
+{"code": "LTRU 110C", "title": "Survey of Russian and Soviet Literature in Translation, 1917\u2013present", "units": "4", "anchor": "ltcs165"}
+{"code": "LTRU 123", "title": "Single Author in Russian Literature in Translation", "units": "4", "anchor": "ltcs165"}
+{"code": "LTRU 150", "title": "Russian Culture", "units": "4", "anchor": "ltcs165"}
+{"code": "LTRU 198", "title": "Directed Group Study", "units": "4", "anchor": "ltcs165"}
+{"code": "LTRU 199", "title": "Special Studies", "units": "2 or 4", "anchor": "ltcs165"}
+{"code": "LTSP 2A", "title": "Intermediate Spanish I: Foundations", "units": "5", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LISP 1C", "LISP 1CX", "LISP 1D", "LISP 1DX"]}}
+{"code": "LTSP 2B", "title": "Intermediate Spanish II: Readings and Composition", "units": "5", "anchor": "ltcs165", "prereqs": "LTSP 2A"}
+{"code": "LTSP 2C", "title": "Intermediate Spanish III: Cultural Topics and Composition", "units": "5", "anchor": "ltcs165", "prereqs": "LTSP 2B"}
+{"code": "LTSP 2D", "title": "Intermediate Spanish I: Spanish for Bilingual Speakers", "units": "4", "anchor": "ltcs165"}
+{"code": "LTSP 2E", "title": "Intermediate Spanish II: Spanish for Bilingual Speakers", "units": "4", "anchor": "ltcs165", "prereqs": "LTSP 2D"}
+{"code": "LTSP 87", "title": "First-year Student Seminar", "units": "1", "anchor": "ltcs165"}
+{"code": "LTSP 100A", "title": "Advanced Spanish Reading and Writing for the Humanities and the Social Sciences", "units": "4", "anchor": "ltcs165", "prereqs": "LTSP 2C"}
+{"code": "LTSP 100B", "title": "Advanced Spanish Reading and Writing for the Humanities and the Social Sciences", "units": "heritage speakers", "anchor": "ltcs165", "prereqs": "LTSP 2E"}
+{"code": "LTSP 101", "title": "Major Works of the Middle Ages", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 116", "title": "Representations of Spanish Colonialism", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 123", "title": "Topics in Modern Spanish Culture", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 130A", "title": "Development of Spanish Literature", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 130B", "title": "Development of Latin American Literature", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 133", "title": "Contemporary Latin American Literature", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 134", "title": "Literature of the Southern Cone", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 135A", "title": "Mexican Literature before 1910", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 135B", "title": "Modern Mexican Literature", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 136", "title": "Andean Literatures", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 137", "title": "Caribbean Literature", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 138", "title": "Central American Literature", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 140", "title": "Latin American Novel", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 141", "title": "Latin American Poetry", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 142", "title": "Latin American Short Story", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 150A", "title": "Early Latino/a-Chicano/a Cultural Production: 1848 to 1960", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 150B", "title": "Contemporary Chicano/a-Latino/a Cultural Production: 1960 to Present", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 151", "title": "Topics in Chicano/a-Latino/a Cultures", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 154", "title": "Latino/a and Chicano/a Literature", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 159", "title": "Methodological Approaches to the Study of History and Culture in Latin America and the Caribbean", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 160", "title": "Spanish Phonetics", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 162", "title": "Spanish Language in the United States", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 166", "title": "Creative Writing", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 170", "title": "Contemporary Theories of Cultural Production", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 171", "title": "Studies in Peninsular and/or Latin American Literature and Society", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 172", "title": "Indigenista Themes in Latin American Literature", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 174", "title": "Topics in Culture and Politics", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 175", "title": "Gender, Sexuality, and Culture", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 176", "title": "Literature and Nation", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 177", "title": "Literary and Historical Migrations", "units": "4", "anchor": "ltcs165", "prereqs": {"type": "one", "courses": ["LTSP 100A", "LTSP 100B"]}}
+{"code": "LTSP 196", "title": "Honors Thesis", "units": "4", "anchor": "ltcs165"}
+{"code": "LTSP 198", "title": "Directed Group Study", "units": "4", "anchor": "ltcs165"}
+{"code": "LTSP 199", "title": "Special Studies", "units": "2 or 4", "anchor": "ltcs165"}
+{"code": "LTSP 258", "title": "Spanish American Prose", "units": "4", "anchor": "ltcs165"}
+{"code": "LTSP 272", "title": "Literature and Society Studies", "units": "4", "anchor": "ltcs165"}
+{"code": "LTSP 297", "title": "Directed Studies: Reading Course", "units": "1\u201312", "anchor": "ltcs165"}
+{"code": "LTSP 298", "title": "Special Projects: Writing Course", "units": "1\u201312", "anchor": "ltcs165"}
+{"code": "LTSP 299", "title": "Dissertation", "units": "1\u201312", "anchor": "ltcs165"}
+{"code": "LTTH 110", "title": "History of Criticism", "units": "4", "anchor": "ltcs165"}
+{"code": "LTTH 115", "title": "Introduction to Critical Theory", "units": "4", "anchor": "ltcs165"}
+{"code": "LTTH 150", "title": "Topics in Critical Theory", "units": "4", "anchor": "ltcs165"}
+{"code": "LTTH 198", "title": "Directed Group Study", "units": "4", "anchor": "ltcs165"}
+{"code": "LTTH 199", "title": "Special Studies", "units": "2 or 4", "anchor": "ltcs165"}
+{"code": "LTTH 210A", "title": "Proseminar on Literary Scholarship", "units": "4", "anchor": "ltcs165"}
+{"code": "LTTH 210B", "title": "Introduction to Literary Theory", "units": "4", "anchor": "ltcs165"}
+{"code": "LTTH 210C", "title": "Practicum in Contemporary Literary Theory", "units": "4", "anchor": "ltcs165"}
+{"code": "LTTH 250", "title": "Writing and Theory", "units": "4", "anchor": "ltcs165"}
+{"code": "LTTH 255", "title": "Modern Art Movements and Aesthetics", "units": "4", "anchor": "ltcs165"}
+{"code": "LTTH 298", "title": "Special Projects: Writing Course", "units": "1\u201312", "anchor": "ltcs165"}
+{"code": "LTWL 19A-B-C", "title": ". Introduction to the Ancient Greeks and Romans", "units": "4-4-4", "anchor": "ltcs165"}
+{"code": "LTWL 87", "title": "First-year Student Seminar", "units": "1", "anchor": "ltcs165"}
+{"code": "LTWL 100", "title": "Mythology", "units": "4", "anchor": "ltcs165"}
+{"code": "LTWL 106", "title": "The Classical Tradition", "units": "4", "anchor": "ltcs165"}
+{"code": "LTWL 110B", "title": "Folk and Fairy Tales", "units": "4", "anchor": "ltcs165"}
+{"code": "LTWL 114", "title": "Children\u2019s Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTWL 116", "title": "Adolescent Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTWL 120", "title": "Popular Literature and Culture", "units": "4", "anchor": "ltcs165"}
+{"code": "LTWL 123", "title": "Vampires in Literature", "units": "4", "anchor": "ltcs165"}
+{"code": "LTWL 124", "title": "Science Fiction", "units": "4", "anchor": "ltcs165"}
+{"code": "LTWL 128", "title": "Introduction to Semiotics and Applications", "units": "4", "anchor": "ltcs165"}
+{"code": "LTWL 129", "title": "Wisdom: The Literature of Authority", "units": "4", "anchor": "ltcs165"}
+{"code": "LTWL 134", "title": "Cinema and Islam", "units": "4", "anchor": "ltcs165"}
+{"code": "LTWL 135", "title": "The Buddhist Imaginary", "units": "4"}
+{"code": "LTWL 136", "title": "Socially Engaged Buddhism", "units": "4", "anchor": "ltwl16"}
+{"code": "LTWL 138", "title": "Critical Religion Studies", "units": "4", "anchor": "ltwl138"}
+{"code": "LTWL 140", "title": "Novel and History in the Third World", "units": "4", "anchor": "ltwl140"}
+{"code": "LTWL 143", "title": "Arab Literatures and Cultures", "units": "4", "anchor": "ltwl142"}
+{"code": "LTWL 145", "title": "South Asian Religious Literatures: Selected Topics", "units": "4", "anchor": "ltwl145"}
+{"code": "LTWL 150", "title": "Modernity and Literature", "units": "4", "anchor": "ltwl150"}
+{"code": "LTWL 155", "title": "Gender Studies", "units": "4", "anchor": "ltwl155"}
+{"code": "LTWL 156", "title": "Asian Diasporic Cinema", "units": "4", "anchor": "ltwl156"}
+{"code": "LTWL 157", "title": "Iranian Film", "units": "4", "anchor": "ltwl157"}
+{"code": "LTWL 158A", "title": "Topics in the New Testament", "units": "4", "anchor": "ltwl158a"}
+{"code": "LTWL 158B", "title": "Topics in Early Christian Texts and Cultures", "units": "4", "anchor": "ltwl158b"}
+{"code": "LTWL 158C", "title": "Topics in Other Christianities", "units": "4", "anchor": "ltwl158c"}
+{"code": "LTWL 159", "title": "Digital Middle East: Culture, Politics, and Religion", "units": "4", "anchor": "ltwl159"}
+{"code": "LTWL 160", "title": "Women and Literature", "units": "4", "anchor": "ltwl160"}
+{"code": "LTWL 165", "title": "Literature and the Environment", "units": "4", "anchor": "ltwl165"}
+{"code": "LTWL 166", "title": "The Yiddish Novel", "units": "4", "anchor": "ltwl166"}
+{"code": "LTWL 168", "title": "Death and Desire in India", "units": "4", "anchor": "ltwl168"}
+{"code": "LTWL 172", "title": "Special Topics in Literature", "units": "4", "anchor": "ltwl172"}
+{"code": "LTWL 174", "title": "Law and Literature", "units": "4", "anchor": "ltwl174"}
+{"code": "LTWL 176", "title": "Literature and Ideas", "units": "4", "anchor": "ltwl176"}
+{"code": "LTWL 177", "title": "Literature and Aging", "units": "4", "anchor": "ltwl177"}
+{"code": "LTWL 180", "title": "Film Studies and Literature: Film History", "units": "4", "anchor": "ltwl180"}
+{"code": "LTWL 181", "title": "Film Studies and Literature: Film Movement", "units": "4", "anchor": "ltwl181"}
+{"code": "LTWL 183", "title": "Film Studies and Literature: Director\u2019s Work", "units": "4", "anchor": "ltwl183"}
+{"code": "LTWL 184", "title": "Film Studies and Literature: Close Analysis of Filmic Text", "units": "4", "anchor": "ltwl184"}
+{"code": "LTWL 191", "title": "Honors Seminar", "units": "4", "anchor": "ltwl191"}
+{"code": "LTWL 192", "title": "Senior Seminar in Literatures of the World", "units": "1", "anchor": "ltwl192"}
+{"code": "LTWL 194", "title": "Capstone Course for Literature Majors", "units": "4", "anchor": "ltwl194"}
+{"code": "LTWL 194A", "title": "Honors Practicum", "units": "1", "anchor": "ltwl194a", "prereqs": {"type": "one", "courses": ["LTWL 194", "LTWR 194"]}}
+{"code": "LTWL 196", "title": "Honors Thesis", "units": "4", "anchor": "ltwl196"}
+{"code": "LTWL 198", "title": "Directed Group Study", "units": "4", "anchor": "ltwl198"}
+{"code": "LTWL 199", "title": "Special Studies", "units": "2 or 4", "anchor": "ltwl199"}
+{"code": "LTWL 500", "title": "Apprentice Teaching in Literature", "units": "2 or 4", "anchor": "ltwl500"}
+{"code": "LTWR 8A", "title": "Writing Fiction", "units": "4", "anchor": "ltwr8a", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["CAT 2", "CAT 3"]}, {"type": "all", "courses": ["DOC 2", "DOC 3"]}, {"type": "all", "courses": ["HUM 1", "HUM 2"]}, {"type": "all", "courses": ["MCWP 40", "MCWP 50"]}, {"type": "all", "courses": ["MMW 12", "MMW 13"]}, {"type": "all", "courses": ["WARR 11A", "WARR 11B"]}, {"type": "all", "courses": ["WCWP 10A", "WCWP 10B"]}, {"type": "all", "courses": ["SYN 1", "SYN 2"]}]}}
+{"code": "LTWR 8B", "title": "Writing Poetry", "units": "4", "anchor": "ltwr8b", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["CAT 2", "CAT 3"]}, {"type": "all", "courses": ["DOC 2", "DOC 3"]}, {"type": "all", "courses": ["HUM 1", "HUM 2"]}, {"type": "all", "courses": ["MCWP 40", "MCWP 50"]}, {"type": "all", "courses": ["MMW 12", "MMW 13"]}, {"type": "all", "courses": ["WARR 11A", "WARR 11B"]}, {"type": "all", "courses": ["WCWP 10A", "WCWP 10B"]}, {"type": "all", "courses": ["SYN 1", "SYN 2"]}]}}
+{"code": "LTWR 8C", "title": "Writing Nonfiction", "units": "4", "anchor": "ltwr8c", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["CAT 2", "CAT 3"]}, {"type": "all", "courses": ["DOC 2", "DOC 3"]}, {"type": "all", "courses": ["HUM 1", "HUM 2"]}, {"type": "all", "courses": ["MCWP 40", "MCWP 50"]}, {"type": "all", "courses": ["MMW 12", "MMW 13"]}, {"type": "all", "courses": ["WARR 11A", "WARR 11B"]}, {"type": "all", "courses": ["WCWP 10A", "WCWP 10B"]}, {"type": "all", "courses": ["SYN 1", "SYN 2"]}]}}
+{"code": "LTWR 100", "title": "Short Fiction Workshop", "units": "4", "anchor": "ltwr100", "prereqs": "LTWR 8A"}
+{"code": "LTWR 101", "title": "Writing Fiction in Spanish", "units": "4", "anchor": "ltwr101", "prereqs": {"type": "all", "courses": ["LTWR 8A", {"type": "one", "courses": ["LTSP 50A", "LTSP 50B", "LTSP 50C"]}]}}
+{"code": "LTWR 102", "title": "Poetry Workshop", "units": "4", "anchor": "ltwr102", "prereqs": "LTWR 8B"}
+{"code": "LTWR 103", "title": "Digital Poetics Workshop", "units": "4", "anchor": "ltwr103", "prereqs": "LTWR 8B"}
+{"code": "LTWR 104A", "title": "The Novella I", "units": "4", "anchor": "ltwr104a", "prereqs": "LTWR 100"}
+{"code": "LTWR 104B", "title": "The Novella II", "units": "4", "anchor": "ltwr104b", "prereqs": "LTWR 104A"}
+{"code": "LTWR 106", "title": "Science Fiction, Fantasy, and Irrealism Workshop", "units": "4", "anchor": "ltwr106", "prereqs": "LTWR 8A"}
+{"code": "LTWR 109", "title": "Writing and Publishing Children\u2019s Literature", "units": "4", "anchor": "ltwr109", "prereqs": "LTWR 8A"}
+{"code": "LTWR 110", "title": "Screen Writing", "units": "4", "anchor": "ltwr110"}
+{"code": "LTWR 113", "title": "Intercultural Writing Workshop", "units": "4", "anchor": "ltwr113", "prereqs": {"type": "one", "courses": ["LTWR 8A", "LTWR 8B", "LTWR 8C"]}}
+{"code": "LTWR 114", "title": "Graphic Texts Workshop", "units": "4", "anchor": "ltwr114", "prereqs": {"type": "one", "courses": ["LTWR 8A", "LTWR 8B", "LTWR 8C"]}}
+{"code": "LTWR 115", "title": "Experimental Writing Workshop", "units": "4", "anchor": "ltwr115", "prereqs": {"type": "one", "courses": ["LTWR 8A", "LTWR 8B", "LTWR 8C"]}}
+{"code": "LTWR 119", "title": "Writing for Performance Workshop", "units": "4", "anchor": "ltwr119", "prereqs": {"type": "one", "courses": ["LTWR 8A", "LTWR 8B"]}}
+{"code": "LTWR 120", "title": "Personal Narrative Workshop", "units": "4", "anchor": "ltwr120", "prereqs": {"type": "one", "courses": ["LTWR 8A", "LTWR 8B", "LTWR 8C"]}}
+{"code": "LTWR 121", "title": "Media Writing Workshop", "units": "4", "anchor": "ltwr121", "prereqs": "LTWR 8C"}
+{"code": "LTWR 122", "title": "Writing for the Sciences Workshop", "units": "4", "anchor": "ltwr122"}
+{"code": "LTWR 124", "title": "Translation of Literary Texts Workshop", "units": "4", "anchor": "ltwr124", "prereqs": {"type": "one", "courses": ["LTWR 8A", "LTWR 8B", "LTWR 8C"]}}
+{"code": "LTWR 126", "title": "Creative Nonfiction Workshop", "units": "4", "anchor": "ltwr126", "prereqs": "LTWR 8C"}
+{"code": "LTWR 129", "title": "Distributing Literature Workshop", "units": "4", "anchor": "ltwr129", "prereqs": {"type": "one", "courses": ["LTWR 100", "LTWR 102", "LTWR 120"]}}
+{"code": "LTWR 140", "title": "History of Writing", "units": "4", "anchor": "spacer"}
+{"code": "LTWR 143", "title": "Stylistics and Grammar", "units": "4", "anchor": "spacer"}
+{"code": "LTWR 144", "title": "The Teaching of Writing", "units": "4", "anchor": "spacer"}
+{"code": "LTWR 148", "title": "Theory for Writers/Writing for Theory", "units": "4", "anchor": "spacer"}
+{"code": "LTWR 194", "title": "Capstone Course for Writing Majors", "units": "4", "anchor": "spacer"}
+{"code": "LTWR 195", "title": "Apprentice Teaching", "units": "4", "anchor": "spacer"}
+{"code": "LTWR 196", "title": "Honors Thesis", "units": "4", "anchor": "spacer"}
+{"code": "LTWR 198", "title": "Directed Group Study", "units": "2 or 4", "anchor": "spacer"}
+{"code": "LTWR 199", "title": "Special Studies", "units": "2 or 4", "anchor": "spacer"}
+{"code": "LTWR 215", "title": "Cross-Genre Workshop", "units": "4", "anchor": "spacer"}
+{"code": "LTWR 220", "title": "Topics in Writing", "units": "4", "anchor": "spacer"}
+{"code": "LTWR 295", "title": "MFA Thesis", "units": "1\u201312", "anchor": "spacer"}
+{"code": "LTWR 298", "title": "Directed Studies: Writing Course", "units": "1\u201312", "anchor": "spacer"}

@@ -1,6 +1,6 @@
-{"code": "AAS 10", "title": "Introduction to African American Studies", "units": "4", "prereqs": null}
-{"code": "AAS 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
-{"code": "AAS 185", "title": ". #BlackLivesMatter", "units": "4", "prereqs": null}
-{"code": "AAS 190", "title": "Special Topics in African American Studies", "units": "1\u20134", "prereqs": null}
-{"code": "AAS 198", "title": "Directed Group Study in African American Studies", "units": "2 or 4", "prereqs": null}
-{"code": "AAS 199", "title": "Independent Study in African American Studies", "units": "2 or 4", "prereqs": null}
+{"code": "AAS 10", "title": "Introduction to African American Studies", "units": "4", "anchor": "aasm10"}
+{"code": "AAS 87", "title": "First-year Student Seminar", "units": "1", "anchor": "aas87"}
+{"code": "AAS 185", "title": ". #BlackLivesMatter", "units": "4", "anchor": "aas185"}
+{"code": "AAS 190", "title": "Special Topics in African American Studies", "units": "1\u20134", "anchor": "aas190"}
+{"code": "AAS 198", "title": "Directed Group Study in African American Studies", "units": "2 or 4", "anchor": "aas198"}
+{"code": "AAS 199", "title": "Independent Study in African American Studies", "units": "2 or 4", "anchor": "aas199"}

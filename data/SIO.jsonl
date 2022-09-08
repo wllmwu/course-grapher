@@ -1,263 +1,263 @@
-{"code": "SIO 1", "title": "The Planets", "units": "4", "prereqs": null}
-{"code": "SIO 3", "title": "Life in the Oceans", "units": "4", "prereqs": null}
-{"code": "SIO 10", "title": "The Earth", "units": "4", "prereqs": null}
-{"code": "SIO 10GS", "title": "The Earth", "units": "In Iceland", "prereqs": null}
-{"code": "SIO 12", "title": "History of the Earth and Evolution", "units": "4", "prereqs": null}
-{"code": "SIO 15", "title": "Natural Disasters", "units": "4", "prereqs": null}
-{"code": "SIO 16", "title": "Geology of the National Parks", "units": "4", "prereqs": null}
-{"code": "SIO 20", "title": "The Atmosphere", "units": "4", "prereqs": null}
-{"code": "SIO 25", "title": "Climate Change and Society", "units": "4", "prereqs": null}
-{"code": "SIO 30", "title": "The Oceans", "units": "4", "prereqs": null}
-{"code": "SIO 35", "title": "Water", "units": "4", "prereqs": null}
-{"code": "SIO 40", "title": "Life and Climate on Earth", "units": "4", "prereqs": null}
-{"code": "SIO 45", "title": "Volcanoes", "units": "4", "prereqs": null}
-{"code": "SIO 45GS", "title": "Volcanoes", "units": "4", "prereqs": null}
-{"code": "SIO 46GS", "title": "Global Volcanism", "units": "4", "prereqs": null}
-{"code": "SIO 50", "title": "Introduction to Physical Geology", "units": "6", "prereqs": null}
-{"code": "SIO 60", "title": "Experiences in Oceanic and Atmospheric Sciences", "units": "4", "prereqs": null}
-{"code": "SIO 65", "title": "Geosciences Seminar", "units": "2", "prereqs": null}
-{"code": "SIO 75", "title": "Geological History of Earth", "units": "4", "prereqs": "SIO 50"}
-{"code": "SIO 87", "title": "First-year Seminar", "units": "1", "prereqs": null}
-{"code": "SIO 90", "title": "Undergraduate Seminar", "units": "1", "prereqs": null}
-{"code": "SIO 96", "title": "Frontiers in the Earth Sciences", "units": "2", "prereqs": null}
-{"code": "SIO 99", "title": "Independent Study", "units": "2 or 4", "prereqs": null}
-{"code": "SIO 100", "title": "Geological Field Methods", "units": "4", "prereqs": "SIO 50"}
-{"code": "SIO 101", "title": "California Coastal Oceanography", "units": "4", "prereqs": "CHEM 6A"}
-{"code": "SIO 102", "title": "Introduction to Geochemistry", "units": "4", "prereqs": {"type": "all", "courses": ["SIO 50", "CHEM 6A", "CHEM 6B", "CHEM 6C"]}}
-{"code": "SIO 103", "title": "Introduction to Geophysics", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 20C", "MATH 31BH"]}, "PHYS 2C", "SIO 50"]}}
-{"code": "SIO 104", "title": "Paleobiology and History of Life", "units": "6", "prereqs": "BILD 3"}
-{"code": "SIO 105", "title": "Sedimentology and Stratigraphy", "units": "4", "prereqs": "SIO 50"}
-{"code": "SIO 106", "title": "Introduction to Hydrogeology", "units": "4", "prereqs": {"type": "all", "courses": ["SIO 50", "MATH 20C", "PHYS 2C", "CHEM 6C"]}}
-{"code": "SIO 107", "title": "Water Pollution", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 6B", "CHEM 6BH"]}, {"type": "one", "courses": ["BILD 3", "SIO 50", "SIO 60"]}]}}
-{"code": "SIO 108", "title": "Paleoclimatology", "units": "4", "prereqs": {"type": "one", "courses": ["ESYS 102", "SIO 50", "SIO 12"]}}
-{"code": "SIO 109", "title": "Bending the Curve: Climate Change Solutions", "units": "4", "prereqs": null}
-{"code": "SIO 109R", "title": "Bending the Curve Online: Climate Change Solutions", "units": "4", "prereqs": null}
-{"code": "SIO 110", "title": "Introduction to GIS and GPS for Scientists", "units": "4", "prereqs": null}
-{"code": "SIO 111", "title": "Introduction to Ocean Waves", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": [{"type": "all", "courses": ["PHYS 2A", "PHYS 2B", "PHYS 2C"]}, {"type": "all", "courses": ["PHYS 4A", "PHYS 4B", "PHYS 4C"]}]}, "MATH 20A", "MATH 20B", "MATH 20C", "MATH 20D", "MATH 20E"]}}
-{"code": "SIO 113", "title": "Computing and Data Analysis in Geosciences", "units": "4", "prereqs": "SIO 50"}
-{"code": "SIO 114", "title": "The Science and Analysis of Environmental Justice", "units": "4", "prereqs": null}
-{"code": "SIO 115", "title": "Ice and the Climate System", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 20C", "MATH 31BH"]}, "PHYS 2C"]}}
-{"code": "SIO 116", "title": "Climate Change and Global Health: Understanding the Mechanisms", "units": "4", "prereqs": null}
-{"code": "SIO 116GS", "title": "Climate Change and Global Health: Understanding the Mechanisms", "units": "4", "prereqs": null}
-{"code": "SIO 117", "title": "The Physical Basis of Global Warming", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 20D", "PHYS 2C"]}}
-{"code": "SIO 118GS", "title": "Responding to Climate Change: Possible Solutions", "units": "4", "prereqs": null}
-{"code": "SIO 119", "title": "Physics and Chemistry of the Oceans", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PHYS 1C", "PHYS 2C"]}, "CHEM 6C"]}}
-{"code": "SIO 120", "title": "Mineralogy", "units": "4", "prereqs": "SIO 50"}
-{"code": "SIO 121", "title": "Biology of the Cryosphere", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 1", "BILD 2", "BILD 3"]}}
-{"code": "SIO 121GS", "title": "Geology of the Alps", "units": "4", "prereqs": {"type": "one", "courses": ["SIO 10", "SIO 50"]}}
-{"code": "SIO 122", "title": "Ecological Developmental Biology", "units": "4", "prereqs": "BILD 3"}
-{"code": "SIO 123", "title": "Microbial Environmental Systems Biology", "units": "4", "prereqs": "BICD 100"}
-{"code": "SIO 124", "title": "Marine Natural Products", "units": "4", "prereqs": {"type": "all", "courses": ["CHEM 6C", {"type": "one", "courses": ["BILD 1", "BILD 3"]}]}}
-{"code": "SIO 125", "title": "Biomechanics of Marine Life", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 3", {"type": "one", "courses": ["PHYS 1C", "PHYS 2C"]}]}}
-{"code": "SIO 126", "title": "Marine Microbiology", "units": "4", "prereqs": "BILD 1"}
-{"code": "SIO 127", "title": "Marine Molecular Ecology", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 3", "BICD 100"]}}
-{"code": "SIO 128", "title": "Microbial Life in Extreme Environments", "units": "4", "prereqs": {"type": "one", "courses": ["BILD 1", "BILD 2", "BILD 3"]}}
-{"code": "SIO 129", "title": "Marine Chemical Ecology", "units": "4", "prereqs": "CHEM 140C"}
-{"code": "SIO 130", "title": "Scientific Diving", "units": "4", "prereqs": null}
-{"code": "SIO 131", "title": "Parasitology", "units": "6", "prereqs": {"type": "all", "courses": ["BILD 3", {"type": "one", "courses": ["BILD 2", "SIO 183", "SIO 184", "SIO 188"]}]}}
-{"code": "SIO 132", "title": "Introduction to Marine Biology", "units": "4", "prereqs": "BILD 3"}
-{"code": "SIO 133", "title": "Marine Mammal Biology", "units": "4", "prereqs": "BILD 3"}
-{"code": "SIO 134", "title": "Introduction to Biological Oceanography", "units": "4", "prereqs": "BILD 3"}
-{"code": "SIO 135", "title": "Satellite Remote Sensing", "units": "4", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["PHYS 2A", "PHYS 2B"]}, {"type": "all", "courses": ["PHYS 4A", "PHYS 4B", "PHYS 4C"]}]}}
-{"code": "SIO 136", "title": "Marine Biology Laboratory", "units": "6", "prereqs": {"type": "all", "courses": ["BILD 3", "SIO 132", "SIO 134"]}}
-{"code": "SIO 137", "title": "Ecosystems and Fisheries", "units": "4", "prereqs": "SIO 134"}
-{"code": "SIO 138", "title": "The Coral Reef Environment", "units": "4", "prereqs": {"type": "all", "courses": ["BILD 3", {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}, "CHEM 6B"]}}
-{"code": "SIO 139", "title": "Current Research in Marine Biology Colloquium", "units": "2", "prereqs": null}
-{"code": "SIO 141", "title": "Chemical Principles of Marine Systems", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}}
-{"code": "SIO 143", "title": "Ocean Acidification", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PHYS 1C", "PHYS 2C"]}, {"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}]}}
-{"code": "SIO 144", "title": "Introduction to Isotope Geochemistry", "units": "4", "prereqs": {"type": "all", "courses": ["SIO 50", "SIO 102", "SIO 120"]}}
-{"code": "SIO 145", "title": "Introduction to Field Methods in Biological Oceanography", "units": "6", "prereqs": {"type": "one", "courses": ["SIO 134", "BIEB 134"]}}
-{"code": "SIO 146", "title": "Methods in Cell and Developmental Biology of Marine Organisms Lab", "units": "6", "prereqs": "BILD 2"}
-{"code": "SIO 147", "title": "Applications of Phylogenetics", "units": "6", "prereqs": "BILD 3"}
-{"code": "SIO 152", "title": "Petrology and Petrography", "units": "6", "prereqs": {"type": "all", "courses": ["SIO 50", "SIO 120"]}}
-{"code": "SIO 153", "title": "Geomorphology", "units": "4", "prereqs": "SIO 50"}
-{"code": "SIO 155", "title": "Whole Earth Geochemistry", "units": "4", "prereqs": "SIO 102"}
-{"code": "SIO 160", "title": "Introduction to Tectonics", "units": "4", "prereqs": "SIO 50"}
-{"code": "SIO 161", "title": "Seismology", "units": "4", "prereqs": {"type": "one", "courses": ["MATH 20D", "SIO 103"]}}
-{"code": "SIO 162", "title": "Structural Geology", "units": "4", "prereqs": "SIO 100"}
-{"code": "SIO 164", "title": "Underwater Archaeology: From Atlantis to Science", "units": "4", "prereqs": null}
-{"code": "SIO 166", "title": "Introduction to Environmental Archaeology\u2014Theory and Method of Socioecodynamics and Human Paleoecology", "units": "4", "prereqs": null}
-{"code": "SIO 167", "title": "Geoarchaeology in Theory and Practice", "units": "6", "prereqs": {"type": "all", "courses": ["ANTH 3", "SIO 50"]}}
-{"code": "SIO 170", "title": "Volcanology", "units": "4", "prereqs": {"type": "all", "courses": ["SIO 100", {"type": "one", "courses": ["CHEM 6A", "CHEM 6AH"]}]}}
-{"code": "SIO 170GS", "title": "Introduction to Volcanology", "units": "4", "prereqs": null}
-{"code": "SIO 170L", "title": "Introduction to Volcanology\u2014Field Experience", "units": "1\u20134", "prereqs": "SIO 170"}
-{"code": "SIO 171", "title": "Introduction to Physical Oceanography", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 20C", {"type": "one", "courses": ["PHYS 2C", "PHYS 4C"]}]}}
-{"code": "SIO 172", "title": "Physics of the Atmosphere", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 20C", "PHYS 2C"]}}
-{"code": "SIO 173", "title": "Dynamics of the Atmosphere and Climate", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 20E", "PHYS 2C"]}}
-{"code": "SIO 174", "title": "Chemistry of the Atmosphere and Oceans", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}, {"type": "one", "courses": ["MATH 20C", "MATH 31BH"]}]}}
-{"code": "SIO 175", "title": "Analysis of Oceanic and Atmospheric Data", "units": "4", "prereqs": {"type": "one", "courses": ["MATH 18", "MATH 20F", "MATH 31AH"]}}
-{"code": "SIO 176", "title": "Observational Physical Oceanography", "units": "4", "prereqs": "SIO 171"}
-{"code": "SIO 177", "title": "Fluid Dynamics", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 2A", "MATH 20D", "MATH 20E"]}}
-{"code": "SIO 178", "title": "Geophysical Fluid Dynamics", "units": "4", "prereqs": {"type": "all", "courses": ["PHYS 2C", "SIO 177", {"type": "one", "courses": ["MATH 18", "MATH 20F", "MATH 31AH"]}]}}
-{"code": "SIO 179", "title": "Ocean Instruments and Sensors", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 6A", "CHEM 6AH", "PHYS 2A", "PHYS 4A"]}}
-{"code": "SIO 180", "title": "Communicating Science to Informal Audiences", "units": "4", "prereqs": {"type": "one", "courses": ["CHEM 6A", "SIO 50", "BILD 1"]}}
-{"code": "SIO 181", "title": "Marine Biochemistry", "units": "4", "prereqs": null}
-{"code": "SIO 182", "title": "Environmental and Exploration Geophysics", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 20D", "PHYS 2C"]}}
-{"code": "SIO 183", "title": "Phycology: Marine Plant Biology", "units": "6", "prereqs": "BILD 3"}
-{"code": "SIO 184", "title": "Marine Invertebrates", "units": "6", "prereqs": "BILD 3"}
-{"code": "SIO 185", "title": "Marine Microbiology Laboratory", "units": "5", "prereqs": {"type": "all", "courses": ["BILD 1", {"type": "one", "courses": ["SIO 132", "SIO 134"]}]}}
-{"code": "SIO 187", "title": "Statistical Methods in Marine Biology", "units": "4", "prereqs": "BILD 3"}
-{"code": "SIO 188", "title": "Biology of Fishes", "units": "5", "prereqs": "BILD 3"}
-{"code": "SIO 189", "title": "Pollution, Environment and Health", "units": "4", "prereqs": {"type": "all", "courses": ["CHEM 6C", {"type": "one", "courses": ["BILD 1", "BILD 3"]}]}}
-{"code": "SIO 190", "title": "Special Topics in Earth, Oceans, and Atmosphere", "units": "4", "prereqs": null}
-{"code": "SIO 192", "title": "Senior Seminar in Scripps Institution of Oceanography", "units": "1", "prereqs": null}
-{"code": "SIO 194", "title": "Research Seminar in Washington, DC", "units": "4", "prereqs": null}
-{"code": "SIO 195", "title": "Methods of Teaching Earth Sciences", "units": "4", "prereqs": null}
-{"code": "SIO 196", "title": "Honors Thesis Research", "units": "4", "prereqs": null}
-{"code": "SIO 197", "title": "Earth Science Internship", "units": "2 or 4", "prereqs": null}
-{"code": "SIO 197BA", "title": "Birch Aquarium Internship", "units": "4", "prereqs": null}
-{"code": "SIO 198", "title": "Directed Group Study", "units": "2\u20134", "prereqs": null}
-{"code": "SIO 199", "title": "Independent Study for Undergraduates", "units": "4", "prereqs": null}
-{"code": "SIOG 228", "title": "Research Seminar", "units": "2", "prereqs": null}
-{"code": "SIOC 200A", "title": "Computational Ocean Acoustics and Signal Processing I", "units": "4", "prereqs": null}
-{"code": "SIOC 200B", "title": "Computational Ocean Acoustics and Signal Processing II", "units": "4", "prereqs": {"type": "one", "courses": ["SIOC 200A", "SIO 200A"]}}
-{"code": "SIOC 200C", "title": "Computational Ocean Acoustics and Signal Processing III", "units": "4", "prereqs": {"type": "one", "courses": ["SIOC 200B", "SIO 200B"]}}
-{"code": "SIOC 201", "title": "Geological Record of Climate Change", "units": "4", "prereqs": "SIO 101"}
-{"code": "SIOC 202A\u2013B", "title": ". Fundamentals of Wave Physics", "units": "4\u20134", "prereqs": null}
-{"code": "SIOC 203A", "title": "Introduction to Applied Mathematics I", "units": "4", "prereqs": {"type": "all", "courses": ["MATH 110", "MATH 120A"]}}
-{"code": "SIOC 203B", "title": "Introduction to Applied Mathematics II", "units": "4", "prereqs": {"type": "one", "courses": ["MAE 294A", "SIOC 203A", "SIO 203A"]}}
-{"code": "SIOC 203C", "title": "Introduction to Applied Mathematics III", "units": "5", "prereqs": {"type": "one", "courses": ["MAE 294B", "SIOC 203B", "SIO 203B", "SIOC 215B", "SIO 215B"]}}
-{"code": "SIOC 204", "title": "Underwater Acoustics", "units": "4", "prereqs": null}
-{"code": "SIOC 205", "title": "Estuarine and Coastal Processes", "units": "4", "prereqs": null}
-{"code": "SIOC 207A", "title": "Fundamentals of Digital Signal Processing", "units": "4", "prereqs": null}
-{"code": "SIOC 207B", "title": "Digital Signal Processing I", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 153", {"type": "one", "courses": ["ECE 161", "ECE 161A"]}, {"type": "one", "courses": ["SIOC 207A", "SIO 207A"]}]}}
-{"code": "SIOC 207C", "title": "Digital Signal Processing II", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 251A", {"type": "one", "courses": ["SIOC 207B", "SIO 207B"]}]}}
-{"code": "SIOC 207D", "title": "Array Processing", "units": "4", "prereqs": {"type": "all", "courses": ["ECE 251C", {"type": "one", "courses": ["SIOC 207C", "SIO 207C"]}]}}
-{"code": "SIOC 208", "title": "Seminar in Applied Ocean Sciences", "units": "1", "prereqs": null}
-{"code": "SIOC 209", "title": "Special Topics", "units": "1\u20134", "prereqs": null}
-{"code": "SIOC 210", "title": "Physical Oceanography", "units": "4", "prereqs": null}
-{"code": "SIOC 211A", "title": "Ocean Waves I", "units": "4", "prereqs": null}
-{"code": "SIOC 211B", "title": "Ocean Waves II", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOC 211A", "SIO 211A"]}, {"type": "one", "courses": ["SIOC 214A", "SIO 214A"]}]}}
-{"code": "SIOC 212A", "title": "Geophysical Fluid Dynamics I", "units": "4", "prereqs": null}
-{"code": "SIOC 212B", "title": "Geophysical Fluid Dynamics II", "units": "5", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOC 212A", "SIO 212A"]}, {"type": "one", "courses": ["SIOC 214A", "SIO 214A"]}]}}
-{"code": "SIOC 213", "title": "Turbulence and Mixing", "units": "4", "prereqs": null}
-{"code": "SIOC 214A", "title": "Introduction to Fluid Mechanics", "units": "4", "prereqs": null}
-{"code": "SIOC 214B", "title": "Environmental Fluid Dynamics", "units": "4", "prereqs": null}
-{"code": "SIOC 215A", "title": "Applied Mathematics for Oceanographers I", "units": "4", "prereqs": null}
-{"code": "SIOC 215B", "title": "Applied Mathematics for Oceanographers II", "units": "4", "prereqs": {"type": "one", "courses": ["SIOC 215A", "SIO 215A"]}}
-{"code": "SIOC 215C", "title": "Applied Mathematics for Oceanographers III", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOC 215A", "SIO 215A"]}, {"type": "one", "courses": ["SIOC 215B", "SIO 215B"]}]}}
-{"code": "SIOC 216A", "title": "Introduction to the Physics of Complex Systems", "units": "4", "prereqs": null}
-{"code": "SIOC 216B", "title": "Applied Complexity", "units": "4", "prereqs": {"type": "one", "courses": ["SIO 216", "SIOC 216", "SIOC 216A"]}}
-{"code": "SIOC 217A", "title": "Atmospheric and Climate Sciences I", "units": "4", "prereqs": null}
-{"code": "SIOC 217B", "title": "Atmospheric and Climate Sciences II", "units": "4", "prereqs": {"type": "one", "courses": ["SIOC 217A", "SIO 217A"]}}
-{"code": "SIOC 217C", "title": "Atmospheric and Climate Sciences III", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOC 217A", "SIO 217A"]}, {"type": "one", "courses": ["SIOC 217B", "SIO 217B"]}]}}
-{"code": "SIOC 217D", "title": "Atmospheric and Climate Sciences IV", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOC 217A", "SIO 217A"]}, {"type": "one", "courses": ["SIOC 217B", "SIO 217B"]}, {"type": "one", "courses": ["SIOC 217C", "SIO 217C"]}]}}
-{"code": "SIOC 218", "title": "Cloud Dynamics and Climate", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOC 217A", "SIO 217A"]}, {"type": "one", "courses": ["SIOC 217B", "SIO 217B"]}]}}
-{"code": "SIOC 218A", "title": "Observational Techniques in Oceanography", "units": "4", "prereqs": null}
-{"code": "SIOC 218B", "title": "Observational Techniques in Oceanography: At-Sea Practicum", "units": "4", "prereqs": null}
-{"code": "SIOC 219", "title": "Special Topics in Physical Oceanography", "units": "1\u20134", "prereqs": null}
-{"code": "SIOC 220", "title": "Observations of Large-Scale Ocean Circulation", "units": "4", "prereqs": null}
-{"code": "SIOC 221A", "title": "Analysis of Physical Oceanographic Data", "units": "A", "prereqs": null}
-{"code": "SIOC 221B", "title": "Analysis of Physical Oceanographic Data", "units": "B", "prereqs": {"type": "one", "courses": ["SIOC 221A", "SIO 221A"]}}
-{"code": "SIOC 221C", "title": "Data Analysis Laboratory", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOC 221A", "SIO 221A"]}, {"type": "one", "courses": ["SIOC 221B", "SIO 221B"]}]}}
-{"code": "SIOC 222", "title": "Underwater Bioacoustics", "units": "4", "prereqs": null}
-{"code": "SIOC 223", "title": "Proposal Writing and Oceanographic Experiment Design", "units": "4", "prereqs": null}
-{"code": "SIOC 224", "title": "Numerical Modeling of the Climate System", "units": "4", "prereqs": null}
-{"code": "SIOC 225", "title": "Ice Sheet-Ocean Interactions", "units": "4", "prereqs": null}
-{"code": "SIOC 228", "title": "Machine Learning for Physical Applications", "units": "4", "prereqs": null}
-{"code": "SIOC 235", "title": "Ocean-Atmosphere Interaction and Climate", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIO 210", "SIOC 210"]}, {"type": "one", "courses": ["SIO 211A", "SIO 211B", "SIO 212A", "SIO 212B", "SIO 217A", "SIO 217B", "SIOC 211A", "SIOC 211B", "SIOC 212A", "SIOC 212B", "SIOC 217A", "SIOC 217B"]}]}}
-{"code": "SIOC 237A", "title": "Introduction to Ocean Optics", "units": "4", "prereqs": null}
-{"code": "SIOC 237B", "title": "Ocean Color Remote Sensing", "units": "4", "prereqs": null}
-{"code": "SIOC 237C", "title": "Optical-Biological Interactions in the Ocean", "units": "4", "prereqs": null}
-{"code": "SIOC 241", "title": "Advanced Signal Processing for Structural Vibrations and Acoustics", "units": "4", "prereqs": null}
-{"code": "SIOC 250", "title": "Advanced Atmospheric Dynamics", "units": "4", "prereqs": {"type": "one", "courses": ["SIOC 212A", "SIO 212A", "SIOC 217B", "SIO 217B"]}}
-{"code": "SIOC 251", "title": "Radiation in the Atmosphere", "units": "4", "prereqs": null}
-{"code": "SIOC 254", "title": "Science of Climate Change", "units": "4", "prereqs": {"type": "one", "courses": ["SIOC 217A", "SIO 217A"]}}
-{"code": "SIOC 261", "title": "Nearshore Physical Oceanography", "units": "4", "prereqs": {"type": "one", "courses": ["SIOC 202A", "SIOC 211A", "SIOC 214A"]}}
-{"code": "SIOC 267", "title": "Biogeochemistry", "units": "4", "prereqs": null}
-{"code": "SIOC 290S", "title": "Climate Math and Science", "units": "6", "prereqs": null}
-{"code": "SIOC 291S", "title": "Introduction to Climate Policy", "units": "6", "prereqs": null}
-{"code": "SIOC 292", "title": "Introduction to Climate Science and Policy", "units": "4", "prereqs": null}
-{"code": "SIOC 293", "title": "Ocean-Atmosphere Processes and Climate Variability", "units": "4", "prereqs": "SIOC 290S"}
-{"code": "SIOC 296", "title": "Climate Science and Policy Forum", "units": "1", "prereqs": null}
-{"code": "SIOC 299", "title": "Climate Science and Policy Capstone Project", "units": "6\u201310", "prereqs": null}
-{"code": "SIOG 200A", "title": "Geophysics Research Skills I\u2014Effective Writing", "units": "2", "prereqs": null}
-{"code": "SIOG 200B", "title": "Geophysics Research Skills II\u2014Effective Presentation Techniques", "units": "2", "prereqs": null}
-{"code": "SIOG 200C", "title": "Geophysics Research Skills III\u2014Reading, Understanding, and Synthesis", "units": "2", "prereqs": null}
-{"code": "SIOG 221", "title": "Plate Tectonics in Practice", "units": "4", "prereqs": null}
-{"code": "SIOG 222", "title": "Introduction to Industry Reflection Seismic Methods", "units": "4", "prereqs": null}
-{"code": "SIOG 223A", "title": "Geophysical Data Analysis I", "units": "4", "prereqs": null}
-{"code": "SIOG 223B", "title": "Geophysical Data Analysis II", "units": "4", "prereqs": {"type": "one", "courses": ["SIOG 223A", "SIO 223A"]}}
-{"code": "SIOG 224", "title": "Internal Constitution of the Earth", "units": "4", "prereqs": null}
-{"code": "SIOG 225", "title": "Physics of Earth Materials", "units": "4", "prereqs": null}
-{"code": "SIOG 227A", "title": "Introduction to Seismology", "units": "4", "prereqs": null}
-{"code": "SIOG 227B", "title": "Advanced Seismology I", "units": "4", "prereqs": {"type": "one", "courses": ["SIOG 227A", "SIO 227A"]}}
-{"code": "SIOG 227C", "title": "Advanced Seismology II", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOG 227A", "SIO 227A"]}, {"type": "one", "courses": ["SIOG 227B", "SIO 227B"]}]}}
-{"code": "SIOG 229", "title": "Fundamentals of Gravity and Geodesy", "units": "4", "prereqs": null}
-{"code": "SIOG 230", "title": "Introduction to Inverse Theory", "units": "4", "prereqs": null}
-{"code": "SIOG 231", "title": "Geomagnetism and Electromagnetism", "units": "4", "prereqs": null}
-{"code": "SIOG 232", "title": "Ethical and Professional Science", "units": "2", "prereqs": null}
-{"code": "SIOG 233", "title": "Introduction to Computing at SIO", "units": "4", "prereqs": null}
-{"code": "SIOG 234", "title": "Geodynamics", "units": "4", "prereqs": null}
-{"code": "SIOG 236", "title": "Satellite Remote Sensing", "units": "4", "prereqs": null}
-{"code": "SIOG 237", "title": "Space Geodesy", "units": "2", "prereqs": null}
-{"code": "SIOG 238", "title": "Numerical Methods for Partial Differential Equations", "units": "4", "prereqs": null}
-{"code": "SIOG 239", "title": "Special Topics in Geophysics", "units": "1\u20134", "prereqs": null}
-{"code": "SIOG 240", "title": "Marine Geology", "units": "4", "prereqs": null}
-{"code": "SIOG 241", "title": "Geological Field Methods for Geophysicists", "units": "1", "prereqs": null}
-{"code": "SIOG 242", "title": "Rates and Dates: Applications of Modern Geochronology Methods", "units": "4", "prereqs": null}
-{"code": "SIOG 243", "title": "Material Characterization", "units": "4", "prereqs": null}
-{"code": "SIOG 244", "title": "Shape and Structure of the Ocean Floor", "units": "4", "prereqs": null}
-{"code": "SIOG 246", "title": "Global Tectonics and Basin Formation", "units": "4", "prereqs": null}
-{"code": "SIOG 247", "title": "Rock Magnetism and Paleomagnetism", "units": "4", "prereqs": null}
-{"code": "SIOG 249", "title": "Special Topics in Marine Geology", "units": "1\u20134", "prereqs": null}
-{"code": "SIOG 251", "title": "Whole Earth Geochemistry", "units": "4", "prereqs": null}
-{"code": "SIOG 252A", "title": "Introduction to Isotope Geochemistry", "units": "4", "prereqs": null}
-{"code": "SIOG 252B", "title": "Advanced Isotope Geochemistry I", "units": "4", "prereqs": {"type": "one", "courses": ["SIOG 252A", "SIO 252A"]}}
-{"code": "SIOG 252C", "title": "Advanced Isotope Geochemistry II", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOG 252A", "SIO 252A"]}, {"type": "one", "courses": ["SIOG 252B", "SIO 252B"]}]}}
-{"code": "SIOG 253", "title": "Interactions of Oceanic Plates and the California Margin", "units": "4", "prereqs": null}
-{"code": "SIOG 255", "title": "Paleobiology and History of Life", "units": "6", "prereqs": null}
-{"code": "SIOG 255A", "title": "Topics in Paleobiology and History of Life", "units": "3", "prereqs": null}
-{"code": "SIOG 257", "title": "Seminar in Petrology", "units": "4", "prereqs": null}
-{"code": "SIOG 260", "title": "Marine Chemistry", "units": "4", "prereqs": null}
-{"code": "SIOG 261", "title": "Introduction to Rheology of Solid Earth", "units": "4", "prereqs": null}
-{"code": "SIOG 263", "title": "Aqueous Chemistry", "units": "4", "prereqs": null}
-{"code": "SIOG 264", "title": "Ocean Acidification", "units": "4", "prereqs": null}
-{"code": "SIOG 267", "title": "Marine Chemistry Laboratory", "units": "4", "prereqs": null}
-{"code": "SIOG 268", "title": "Seminar in Geochemistry and Marine Chemistry", "units": "2", "prereqs": null}
-{"code": "SIOG 269", "title": "Special Topics in Marine Chemistry", "units": "1\u20134", "prereqs": null}
-{"code": "SIOG 270", "title": "The Archaeology of Climate Change\u2014Social Adaptation and Vulnerability in Temporal Perspective", "units": "4", "prereqs": null}
-{"code": "SIOG 275", "title": "Paleoethnobotany", "units": "6", "prereqs": null}
-{"code": "SIOB 218", "title": "Ocean Law and Policy", "units": "4", "prereqs": null}
-{"code": "SIOB 242A", "title": "Marine Biotechnology I: Tools and Methods", "units": "4", "prereqs": null}
-{"code": "SIOB 242B", "title": "Marine Biotechnology II: Applications", "units": "4", "prereqs": {"type": "one", "courses": ["SIOB 242A", "SIO 242A"]}}
-{"code": "SIOB 242C", "title": "Marine Biotechnology III: Introduction to Bioinformatics", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOB 242A", "SIO 242A"]}, {"type": "one", "courses": ["SIOB 242B", "SIO 242B"]}]}}
-{"code": "SIOB 243", "title": "Ecological and Medicinal Aspects of Natural Products", "units": "2", "prereqs": null}
-{"code": "SIOB 262", "title": "Marine Chemical Biology Seminar", "units": "2", "prereqs": null}
-{"code": "SIOB 264", "title": "Special Topics in Marine Natural Products Chemistry", "units": "4", "prereqs": null}
-{"code": "SIOB 265", "title": "Marine Chemical Ecology", "units": "4", "prereqs": null}
-{"code": "SIOB 269", "title": "Interdisciplinary Forum for Environmental Research", "units": "2", "prereqs": null}
-{"code": "SIOB 270", "title": "Pelagic Ecology", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOC 210", "SIO 210"]}, {"type": "one", "courses": ["SIOB 280", "SIO 280"]}]}}
-{"code": "SIOB 270A", "title": "Fisheries Oceanography", "units": "4", "prereqs": null}
-{"code": "SIOB 271", "title": "Marine Zooplankton", "units": "5", "prereqs": null}
-{"code": "SIOB 272", "title": "Advanced Statistical Techniques", "units": "4", "prereqs": null}
-{"code": "SIOB 273", "title": "Professional Ethics in Science", "units": "2\u20134", "prereqs": null}
-{"code": "SIOB 274", "title": "Natural History Below the Tides", "units": "6", "prereqs": null}
-{"code": "SIOB 275A", "title": "Benthic Ecology", "units": "4", "prereqs": null}
-{"code": "SIOB 276", "title": "Quantitative Theory of Populations and Communities", "units": "4", "prereqs": null}
-{"code": "SIOB 276L", "title": "Quantitative Ecology Project Lab", "units": "4", "prereqs": {"type": "one", "courses": ["SIOB 276", "SIO 276"]}}
-{"code": "SIOB 277", "title": "Deep-Sea Biology", "units": "4", "prereqs": null}
-{"code": "SIOB 278", "title": "Seminar in Ocean Biosciences", "units": "2", "prereqs": null}
-{"code": "SIOB 279", "title": "Ecology Seminar in Biological Oceanography", "units": "1", "prereqs": null}
-{"code": "SIOB 280", "title": "Biological Oceanography", "units": "4", "prereqs": null}
-{"code": "SIOB 281", "title": "Marine Physiology", "units": "4", "prereqs": null}
-{"code": "SIOB 282", "title": "Phytoplankton Diversity", "units": "4", "prereqs": null}
-{"code": "SIOB 283", "title": "Phycology: Marine Plant Biology", "units": "6", "prereqs": null}
-{"code": "SIOB 284", "title": "Marine Invertebrates", "units": "6", "prereqs": null}
-{"code": "SIOB 285", "title": "Physical-Biological Interactions", "units": "4", "prereqs": {"type": "one", "courses": ["SIOC 210", "SIO 210"]}}
-{"code": "SIOB 286", "title": "Marine Science, Economics, and Policy", "units": "4", "prereqs": null}
-{"code": "SIOB 287A", "title": "Marine Microbial Ecology", "units": "4", "prereqs": null}
-{"code": "SIOB 289", "title": "Pollution, Environment, and Health", "units": "4", "prereqs": null}
-{"code": "SIOB 290", "title": "Marine Biology", "units": "4", "prereqs": null}
-{"code": "SIOB 291", "title": "Biology Graduate Research Presentations", "units": "1", "prereqs": null}
-{"code": "SIOB 292", "title": "Communicating Science to Informal Audiences", "units": "4", "prereqs": null}
-{"code": "SIOB 293", "title": "Applications of Phylogenetics", "units": "6", "prereqs": null}
-{"code": "SIOB 294", "title": "Biology of Fishes", "units": "5", "prereqs": null}
-{"code": "SIOB 295", "title": "Behavior and Ecology of Fishes", "units": "4", "prereqs": null}
-{"code": "SIOB 296", "title": "Special Topics in Ocean Biosciences", "units": "1\u20135", "prereqs": null}
-{"code": "SIOB 297", "title": "Marine Biology Seminar", "units": "1", "prereqs": null}
-{"code": "SIOB 298", "title": "Special Studies in Marine Sciences", "units": "1\u20134", "prereqs": null}
-{"code": "SIO 295S", "title": "Introduction to Marine Biodiversity and Conservation\u2014Seminar", "units": "8", "prereqs": null}
-{"code": "SIO 295LS", "title": "Introduction to Marine Biodiversity and Conservation\u2014Lab", "units": "8", "prereqs": null}
-{"code": "SIO 299", "title": "Research", "units": "1\u201312", "prereqs": null}
-{"code": "SIO 500", "title": "Teaching Apprenticeship", "units": "1\u20134", "prereqs": null}
+{"code": "SIO 1", "title": "The Planets", "units": "4", "anchor": "sio1"}
+{"code": "SIO 3", "title": "Life in the Oceans", "units": "4", "anchor": "sio3"}
+{"code": "SIO 10", "title": "The Earth", "units": "4", "anchor": "sio10"}
+{"code": "SIO 10GS", "title": "The Earth", "units": "In Iceland", "anchor": "sio10gs"}
+{"code": "SIO 12", "title": "History of the Earth and Evolution", "units": "4", "anchor": "sio12"}
+{"code": "SIO 15", "title": "Natural Disasters", "units": "4", "anchor": "sio15"}
+{"code": "SIO 16", "title": "Geology of the National Parks", "units": "4", "anchor": "sio16"}
+{"code": "SIO 20", "title": "The Atmosphere", "units": "4", "anchor": "sio20"}
+{"code": "SIO 25", "title": "Climate Change and Society", "units": "4", "anchor": "sio25"}
+{"code": "SIO 30", "title": "The Oceans", "units": "4", "anchor": "sio30"}
+{"code": "SIO 35", "title": "Water", "units": "4", "anchor": "sio35"}
+{"code": "SIO 40", "title": "Life and Climate on Earth", "units": "4", "anchor": "sio35"}
+{"code": "SIO 45", "title": "Volcanoes", "units": "4", "anchor": "sio35"}
+{"code": "SIO 45GS", "title": "Volcanoes", "units": "4", "anchor": "sio35"}
+{"code": "SIO 46GS", "title": "Global Volcanism", "units": "4", "anchor": "sio35"}
+{"code": "SIO 50", "title": "Introduction to Physical Geology", "units": "6", "anchor": "sio35"}
+{"code": "SIO 60", "title": "Experiences in Oceanic and Atmospheric Sciences", "units": "4", "anchor": "sio35"}
+{"code": "SIO 65", "title": "Geosciences Seminar", "units": "2", "anchor": "sio35"}
+{"code": "SIO 75", "title": "Geological History of Earth", "units": "4", "anchor": "sio35", "prereqs": "SIO 50"}
+{"code": "SIO 87", "title": "First-year Seminar", "units": "1", "anchor": "sio35"}
+{"code": "SIO 90", "title": "Undergraduate Seminar", "units": "1", "anchor": "sio35"}
+{"code": "SIO 96", "title": "Frontiers in the Earth Sciences", "units": "2", "anchor": "sio35"}
+{"code": "SIO 99", "title": "Independent Study", "units": "2 or 4", "anchor": "sio35"}
+{"code": "SIO 100", "title": "Geological Field Methods", "units": "4", "anchor": "sio35", "prereqs": "SIO 50"}
+{"code": "SIO 101", "title": "California Coastal Oceanography", "units": "4", "anchor": "sio35", "prereqs": "CHEM 6A"}
+{"code": "SIO 102", "title": "Introduction to Geochemistry", "units": "4", "anchor": "sio35", "prereqs": {"type": "all", "courses": ["SIO 50", "CHEM 6A", "CHEM 6B", "CHEM 6C"]}}
+{"code": "SIO 103", "title": "Introduction to Geophysics", "units": "4", "anchor": "sio35", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 20C", "MATH 31BH"]}, "PHYS 2C", "SIO 50"]}}
+{"code": "SIO 104", "title": "Paleobiology and History of Life", "units": "6", "anchor": "sio35", "prereqs": "BILD 3"}
+{"code": "SIO 105", "title": "Sedimentology and Stratigraphy", "units": "4", "anchor": "sio35", "prereqs": "SIO 50"}
+{"code": "SIO 106", "title": "Introduction to Hydrogeology", "units": "4", "anchor": "sio35", "prereqs": {"type": "all", "courses": ["SIO 50", "MATH 20C", "PHYS 2C", "CHEM 6C"]}}
+{"code": "SIO 107", "title": "Water Pollution", "units": "4", "anchor": "sio35", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 6B", "CHEM 6BH"]}, {"type": "one", "courses": ["BILD 3", "SIO 50", "SIO 60"]}]}}
+{"code": "SIO 108", "title": "Paleoclimatology", "units": "4", "anchor": "sio35", "prereqs": {"type": "one", "courses": ["ESYS 102", "SIO 50", "SIO 12"]}}
+{"code": "SIO 109", "title": "Bending the Curve: Climate Change Solutions", "units": "4", "anchor": "sio35"}
+{"code": "SIO 109R", "title": "Bending the Curve Online: Climate Change Solutions", "units": "4", "anchor": "sio35"}
+{"code": "SIO 110", "title": "Introduction to GIS and GPS for Scientists", "units": "4", "anchor": "sio35"}
+{"code": "SIO 111", "title": "Introduction to Ocean Waves", "units": "4", "anchor": "sio35", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": [{"type": "all", "courses": ["PHYS 2A", "PHYS 2B", "PHYS 2C"]}, {"type": "all", "courses": ["PHYS 4A", "PHYS 4B", "PHYS 4C"]}]}, "MATH 20A", "MATH 20B", "MATH 20C", "MATH 20D", "MATH 20E"]}}
+{"code": "SIO 113", "title": "Computing and Data Analysis in Geosciences", "units": "4", "anchor": "sio35", "prereqs": "SIO 50"}
+{"code": "SIO 114", "title": "The Science and Analysis of Environmental Justice", "units": "4", "anchor": "sio35"}
+{"code": "SIO 115", "title": "Ice and the Climate System", "units": "4", "anchor": "sio35", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 20C", "MATH 31BH"]}, "PHYS 2C"]}}
+{"code": "SIO 116", "title": "Climate Change and Global Health: Understanding the Mechanisms", "units": "4", "anchor": "sio35"}
+{"code": "SIO 116GS", "title": "Climate Change and Global Health: Understanding the Mechanisms", "units": "4", "anchor": "sio35"}
+{"code": "SIO 117", "title": "The Physical Basis of Global Warming", "units": "4", "anchor": "sio35", "prereqs": {"type": "all", "courses": ["MATH 20D", "PHYS 2C"]}}
+{"code": "SIO 118GS", "title": "Responding to Climate Change: Possible Solutions", "units": "4", "anchor": "sio35"}
+{"code": "SIO 119", "title": "Physics and Chemistry of the Oceans", "units": "4", "anchor": "sio35", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PHYS 1C", "PHYS 2C"]}, "CHEM 6C"]}}
+{"code": "SIO 120", "title": "Mineralogy", "units": "4", "anchor": "sio35", "prereqs": "SIO 50"}
+{"code": "SIO 121", "title": "Biology of the Cryosphere", "units": "4", "anchor": "sio35", "prereqs": {"type": "all", "courses": ["BILD 1", "BILD 2", "BILD 3"]}}
+{"code": "SIO 121GS", "title": "Geology of the Alps", "units": "4", "anchor": "sio35", "prereqs": {"type": "one", "courses": ["SIO 10", "SIO 50"]}}
+{"code": "SIO 122", "title": "Ecological Developmental Biology", "units": "4", "anchor": "sio35", "prereqs": "BILD 3"}
+{"code": "SIO 123", "title": "Microbial Environmental Systems Biology", "units": "4", "anchor": "sio35", "prereqs": "BICD 100"}
+{"code": "SIO 124", "title": "Marine Natural Products", "units": "4", "anchor": "sio35", "prereqs": {"type": "all", "courses": ["CHEM 6C", {"type": "one", "courses": ["BILD 1", "BILD 3"]}]}}
+{"code": "SIO 125", "title": "Biomechanics of Marine Life", "units": "4", "anchor": "sio35", "prereqs": {"type": "all", "courses": ["BILD 3", {"type": "one", "courses": ["PHYS 1C", "PHYS 2C"]}]}}
+{"code": "SIO 126", "title": "Marine Microbiology", "units": "4", "anchor": "sio35", "prereqs": "BILD 1"}
+{"code": "SIO 127", "title": "Marine Molecular Ecology", "units": "4", "anchor": "sio35", "prereqs": {"type": "all", "courses": ["BILD 3", "BICD 100"]}}
+{"code": "SIO 128", "title": "Microbial Life in Extreme Environments", "units": "4", "anchor": "sio35", "prereqs": {"type": "one", "courses": ["BILD 1", "BILD 2", "BILD 3"]}}
+{"code": "SIO 129", "title": "Marine Chemical Ecology", "units": "4", "anchor": "sio35", "prereqs": "CHEM 140C"}
+{"code": "SIO 130", "title": "Scientific Diving", "units": "4", "anchor": "sio35"}
+{"code": "SIO 131", "title": "Parasitology", "units": "6", "anchor": "sio35", "prereqs": {"type": "all", "courses": ["BILD 3", {"type": "one", "courses": ["BILD 2", "SIO 183", "SIO 184", "SIO 188"]}]}}
+{"code": "SIO 132", "title": "Introduction to Marine Biology", "units": "4", "anchor": "sio35", "prereqs": "BILD 3"}
+{"code": "SIO 133", "title": "Marine Mammal Biology", "units": "4", "anchor": "sio35", "prereqs": "BILD 3"}
+{"code": "SIO 134", "title": "Introduction to Biological Oceanography", "units": "4", "anchor": "sio35", "prereqs": "BILD 3"}
+{"code": "SIO 135", "title": "Satellite Remote Sensing", "units": "4", "anchor": "sio35", "prereqs": {"type": "one", "courses": [{"type": "all", "courses": ["PHYS 2A", "PHYS 2B"]}, {"type": "all", "courses": ["PHYS 4A", "PHYS 4B", "PHYS 4C"]}]}}
+{"code": "SIO 136", "title": "Marine Biology Laboratory", "units": "6", "anchor": "sio35", "prereqs": {"type": "all", "courses": ["BILD 3", "SIO 132", "SIO 134"]}}
+{"code": "SIO 137", "title": "Ecosystems and Fisheries", "units": "4", "anchor": "sio35", "prereqs": "SIO 134"}
+{"code": "SIO 138", "title": "The Coral Reef Environment", "units": "4", "anchor": "sio35", "prereqs": {"type": "all", "courses": ["BILD 3", {"type": "one", "courses": ["MATH 10A", "MATH 20A"]}, "CHEM 6B"]}}
+{"code": "SIO 139", "title": "Current Research in Marine Biology Colloquium", "units": "2", "anchor": "sio35"}
+{"code": "SIO 141", "title": "Chemical Principles of Marine Systems", "units": "4", "anchor": "sio35", "prereqs": {"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}}
+{"code": "SIO 143", "title": "Ocean Acidification", "units": "4", "anchor": "sio35", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["PHYS 1C", "PHYS 2C"]}, {"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}]}}
+{"code": "SIO 144", "title": "Introduction to Isotope Geochemistry", "units": "4", "anchor": "sio35", "prereqs": {"type": "all", "courses": ["SIO 50", "SIO 102", "SIO 120"]}}
+{"code": "SIO 145", "title": "Introduction to Field Methods in Biological Oceanography", "units": "6", "anchor": "sio35", "prereqs": {"type": "one", "courses": ["SIO 134", "BIEB 134"]}}
+{"code": "SIO 146", "title": "Methods in Cell and Developmental Biology of Marine Organisms Lab", "units": "6", "anchor": "sio35", "prereqs": "BILD 2"}
+{"code": "SIO 147", "title": "Applications of Phylogenetics", "units": "6", "anchor": "sio35", "prereqs": "BILD 3"}
+{"code": "SIO 152", "title": "Petrology and Petrography", "units": "6", "anchor": "sio35", "prereqs": {"type": "all", "courses": ["SIO 50", "SIO 120"]}}
+{"code": "SIO 153", "title": "Geomorphology", "units": "4", "anchor": "sio35", "prereqs": "SIO 50"}
+{"code": "SIO 155", "title": "Whole Earth Geochemistry", "units": "4", "anchor": "sio35", "prereqs": "SIO 102"}
+{"code": "SIO 160", "title": "Introduction to Tectonics", "units": "4", "anchor": "sio35", "prereqs": "SIO 50"}
+{"code": "SIO 161", "title": "Seismology", "units": "4", "anchor": "sio35", "prereqs": {"type": "one", "courses": ["MATH 20D", "SIO 103"]}}
+{"code": "SIO 162", "title": "Structural Geology", "units": "4", "anchor": "sio35", "prereqs": "SIO 100"}
+{"code": "SIO 164", "title": "Underwater Archaeology: From Atlantis to Science", "units": "4", "anchor": "sio35"}
+{"code": "SIO 166", "title": "Introduction to Environmental Archaeology\u2014Theory and Method of Socioecodynamics and Human Paleoecology", "units": "4", "anchor": "sio35"}
+{"code": "SIO 167", "title": "Geoarchaeology in Theory and Practice", "units": "6", "anchor": "sio35", "prereqs": {"type": "all", "courses": ["ANTH 3", "SIO 50"]}}
+{"code": "SIO 170", "title": "Volcanology", "units": "4", "anchor": "sio35", "prereqs": {"type": "all", "courses": ["SIO 100", {"type": "one", "courses": ["CHEM 6A", "CHEM 6AH"]}]}}
+{"code": "SIO 170GS", "title": "Introduction to Volcanology", "units": "4", "anchor": "sio35"}
+{"code": "SIO 170L", "title": "Introduction to Volcanology\u2014Field Experience", "units": "1\u20134", "anchor": "sio35", "prereqs": "SIO 170"}
+{"code": "SIO 171", "title": "Introduction to Physical Oceanography", "units": "4", "anchor": "sio35", "prereqs": {"type": "all", "courses": ["MATH 20C", {"type": "one", "courses": ["PHYS 2C", "PHYS 4C"]}]}}
+{"code": "SIO 172", "title": "Physics of the Atmosphere", "units": "4", "anchor": "sio35", "prereqs": {"type": "all", "courses": ["MATH 20C", "PHYS 2C"]}}
+{"code": "SIO 173", "title": "Dynamics of the Atmosphere and Climate", "units": "4", "anchor": "sio173", "prereqs": {"type": "all", "courses": ["MATH 20E", "PHYS 2C"]}}
+{"code": "SIO 174", "title": "Chemistry of the Atmosphere and Oceans", "units": "4", "anchor": "sio174", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["CHEM 6C", "CHEM 6CH"]}, {"type": "one", "courses": ["MATH 20C", "MATH 31BH"]}]}}
+{"code": "SIO 175", "title": "Analysis of Oceanic and Atmospheric Data", "units": "4", "anchor": "sio175", "prereqs": {"type": "one", "courses": ["MATH 18", "MATH 20F", "MATH 31AH"]}}
+{"code": "SIO 176", "title": "Observational Physical Oceanography", "units": "4", "anchor": "sio176", "prereqs": "SIO 171"}
+{"code": "SIO 177", "title": "Fluid Dynamics", "units": "4", "anchor": "sio177", "prereqs": {"type": "all", "courses": ["PHYS 2A", "MATH 20D", "MATH 20E"]}}
+{"code": "SIO 178", "title": "Geophysical Fluid Dynamics", "units": "4", "anchor": "sio178", "prereqs": {"type": "all", "courses": ["PHYS 2C", "SIO 177", {"type": "one", "courses": ["MATH 18", "MATH 20F", "MATH 31AH"]}]}}
+{"code": "SIO 179", "title": "Ocean Instruments and Sensors", "units": "4", "anchor": "sio179", "prereqs": {"type": "one", "courses": ["CHEM 6A", "CHEM 6AH", "PHYS 2A", "PHYS 4A"]}}
+{"code": "SIO 180", "title": "Communicating Science to Informal Audiences", "units": "4", "anchor": "sio180", "prereqs": {"type": "one", "courses": ["CHEM 6A", "SIO 50", "BILD 1"]}}
+{"code": "SIO 181", "title": "Marine Biochemistry", "units": "4", "anchor": "sio180"}
+{"code": "SIO 182", "title": "Environmental and Exploration Geophysics", "units": "4", "anchor": "sio180", "prereqs": {"type": "all", "courses": ["MATH 20D", "PHYS 2C"]}}
+{"code": "SIO 183", "title": "Phycology: Marine Plant Biology", "units": "6", "anchor": "sio180", "prereqs": "BILD 3"}
+{"code": "SIO 184", "title": "Marine Invertebrates", "units": "6", "anchor": "sio180", "prereqs": "BILD 3"}
+{"code": "SIO 185", "title": "Marine Microbiology Laboratory", "units": "5", "anchor": "sio185", "prereqs": {"type": "all", "courses": ["BILD 1", {"type": "one", "courses": ["SIO 132", "SIO 134"]}]}}
+{"code": "SIO 187", "title": "Statistical Methods in Marine Biology", "units": "4", "anchor": "sio187", "prereqs": "BILD 3"}
+{"code": "SIO 188", "title": "Biology of Fishes", "units": "5", "anchor": "sio188", "prereqs": "BILD 3"}
+{"code": "SIO 189", "title": "Pollution, Environment and Health", "units": "4", "anchor": "sio189", "prereqs": {"type": "all", "courses": ["CHEM 6C", {"type": "one", "courses": ["BILD 1", "BILD 3"]}]}}
+{"code": "SIO 190", "title": "Special Topics in Earth, Oceans, and Atmosphere", "units": "4", "anchor": "sio189"}
+{"code": "SIO 192", "title": "Senior Seminar in Scripps Institution of Oceanography", "units": "1", "anchor": "sio189"}
+{"code": "SIO 194", "title": "Research Seminar in Washington, DC", "units": "4", "anchor": "sio189"}
+{"code": "SIO 195", "title": "Methods of Teaching Earth Sciences", "units": "4", "anchor": "sio189"}
+{"code": "SIO 196", "title": "Honors Thesis Research", "units": "4", "anchor": "sio189"}
+{"code": "SIO 197", "title": "Earth Science Internship", "units": "2 or 4", "anchor": "sio189"}
+{"code": "SIO 197BA", "title": "Birch Aquarium Internship", "units": "4", "anchor": "sio189"}
+{"code": "SIO 198", "title": "Directed Group Study", "units": "2\u20134", "anchor": "sio189"}
+{"code": "SIO 199", "title": "Independent Study for Undergraduates", "units": "4", "anchor": "sio189"}
+{"code": "SIOG 228", "title": "Research Seminar", "units": "2", "anchor": "sio189"}
+{"code": "SIOC 200A", "title": "Computational Ocean Acoustics and Signal Processing I", "units": "4", "anchor": "sio189"}
+{"code": "SIOC 200B", "title": "Computational Ocean Acoustics and Signal Processing II", "units": "4", "anchor": "sio189", "prereqs": {"type": "one", "courses": ["SIOC 200A", "SIO 200A"]}}
+{"code": "SIOC 200C", "title": "Computational Ocean Acoustics and Signal Processing III", "units": "4", "anchor": "sio189", "prereqs": {"type": "one", "courses": ["SIOC 200B", "SIO 200B"]}}
+{"code": "SIOC 201", "title": "Geological Record of Climate Change", "units": "4", "anchor": "sio189", "prereqs": "SIO 101"}
+{"code": "SIOC 202A\u2013B", "title": ". Fundamentals of Wave Physics", "units": "4\u20134", "anchor": "sio189"}
+{"code": "SIOC 203A", "title": "Introduction to Applied Mathematics I", "units": "4", "anchor": "sio189", "prereqs": {"type": "all", "courses": ["MATH 110", "MATH 120A"]}}
+{"code": "SIOC 203B", "title": "Introduction to Applied Mathematics II", "units": "4", "anchor": "sio189", "prereqs": {"type": "one", "courses": ["MAE 294A", "SIOC 203A", "SIO 203A"]}}
+{"code": "SIOC 203C", "title": "Introduction to Applied Mathematics III", "units": "5", "anchor": "sio189", "prereqs": {"type": "one", "courses": ["MAE 294B", "SIOC 203B", "SIO 203B", "SIOC 215B", "SIO 215B"]}}
+{"code": "SIOC 204", "title": "Underwater Acoustics", "units": "4", "anchor": "sio189"}
+{"code": "SIOC 205", "title": "Estuarine and Coastal Processes", "units": "4", "anchor": "sio189"}
+{"code": "SIOC 207A", "title": "Fundamentals of Digital Signal Processing", "units": "4", "anchor": "sio189"}
+{"code": "SIOC 207B", "title": "Digital Signal Processing I", "units": "4", "anchor": "sio189"}
+{"code": "SIOC 207C", "title": "Digital Signal Processing II", "units": "4", "anchor": "sio189", "prereqs": {"type": "all", "courses": ["ECE 251A", {"type": "one", "courses": ["SIOC 207B", "SIO 207B"]}]}}
+{"code": "SIOC 207D", "title": "Array Processing", "units": "4", "anchor": "sio189", "prereqs": {"type": "all", "courses": ["ECE 251C", {"type": "one", "courses": ["SIOC 207C", "SIO 207C"]}]}}
+{"code": "SIOC 208", "title": "Seminar in Applied Ocean Sciences", "units": "1", "anchor": "sio189"}
+{"code": "SIOC 209", "title": "Special Topics", "units": "1\u20134", "anchor": "sio189"}
+{"code": "SIOC 210", "title": "Physical Oceanography", "units": "4", "anchor": "sio189"}
+{"code": "SIOC 211A", "title": "Ocean Waves I", "units": "4", "anchor": "sio189"}
+{"code": "SIOC 211B", "title": "Ocean Waves II", "units": "4", "anchor": "sio189", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOC 211A", "SIO 211A"]}, {"type": "one", "courses": ["SIOC 214A", "SIO 214A"]}]}}
+{"code": "SIOC 212A", "title": "Geophysical Fluid Dynamics I", "units": "4", "anchor": "sio189"}
+{"code": "SIOC 212B", "title": "Geophysical Fluid Dynamics II", "units": "5", "anchor": "sioc212b", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOC 212A", "SIO 212A"]}, {"type": "one", "courses": ["SIOC 214A", "SIO 214A"]}]}}
+{"code": "SIOC 213", "title": "Turbulence and Mixing", "units": "4", "anchor": "sioc212b"}
+{"code": "SIOC 214A", "title": "Introduction to Fluid Mechanics", "units": "4", "anchor": "sioc212b"}
+{"code": "SIOC 214B", "title": "Environmental Fluid Dynamics", "units": "4", "anchor": "sioc212b"}
+{"code": "SIOC 215A", "title": "Applied Mathematics for Oceanographers I", "units": "4", "anchor": "sioc215a"}
+{"code": "SIOC 215B", "title": "Applied Mathematics for Oceanographers II", "units": "4", "anchor": "sioc215b", "prereqs": {"type": "one", "courses": ["SIOC 215A", "SIO 215A"]}}
+{"code": "SIOC 215C", "title": "Applied Mathematics for Oceanographers III", "units": "4", "anchor": "sioc215c", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOC 215A", "SIO 215A"]}, {"type": "one", "courses": ["SIOC 215B", "SIO 215B"]}]}}
+{"code": "SIOC 216A", "title": "Introduction to the Physics of Complex Systems", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOC 216B", "title": "Applied Complexity", "units": "4", "anchor": "sioc215c", "prereqs": {"type": "one", "courses": ["SIO 216", "SIOC 216", "SIOC 216A"]}}
+{"code": "SIOC 217A", "title": "Atmospheric and Climate Sciences I", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOC 217B", "title": "Atmospheric and Climate Sciences II", "units": "4", "anchor": "sioc215c", "prereqs": {"type": "one", "courses": ["SIOC 217A", "SIO 217A"]}}
+{"code": "SIOC 217C", "title": "Atmospheric and Climate Sciences III", "units": "4", "anchor": "sioc215c", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOC 217A", "SIO 217A"]}, {"type": "one", "courses": ["SIOC 217B", "SIO 217B"]}]}}
+{"code": "SIOC 217D", "title": "Atmospheric and Climate Sciences IV", "units": "4", "anchor": "sioc215c", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOC 217A", "SIO 217A"]}, {"type": "one", "courses": ["SIOC 217B", "SIO 217B"]}, {"type": "one", "courses": ["SIOC 217C", "SIO 217C"]}]}}
+{"code": "SIOC 218", "title": "Cloud Dynamics and Climate", "units": "4", "anchor": "sioc215c", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOC 217A", "SIO 217A"]}, {"type": "one", "courses": ["SIOC 217B", "SIO 217B"]}]}}
+{"code": "SIOC 218A", "title": "Observational Techniques in Oceanography", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOC 218B", "title": "Observational Techniques in Oceanography: At-Sea Practicum", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOC 219", "title": "Special Topics in Physical Oceanography", "units": "1\u20134", "anchor": "sioc215c"}
+{"code": "SIOC 220", "title": "Observations of Large-Scale Ocean Circulation", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOC 221A", "title": "Analysis of Physical Oceanographic Data", "units": "A", "anchor": "sioc215c"}
+{"code": "SIOC 221B", "title": "Analysis of Physical Oceanographic Data", "units": "B", "anchor": "sioc215c", "prereqs": {"type": "one", "courses": ["SIOC 221A", "SIO 221A"]}}
+{"code": "SIOC 221C", "title": "Data Analysis Laboratory", "units": "4", "anchor": "sioc215c", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOC 221A", "SIO 221A"]}, {"type": "one", "courses": ["SIOC 221B", "SIO 221B"]}]}}
+{"code": "SIOC 222", "title": "Underwater Bioacoustics", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOC 223", "title": "Proposal Writing and Oceanographic Experiment Design", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOC 224", "title": "Numerical Modeling of the Climate System", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOC 225", "title": "Ice Sheet-Ocean Interactions", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOC 228", "title": "Machine Learning for Physical Applications", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOC 235", "title": "Ocean-Atmosphere Interaction and Climate", "units": "4", "anchor": "sioc215c", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIO 210", "SIOC 210"]}, {"type": "one", "courses": ["SIO 211A", "SIO 211B", "SIO 212A", "SIO 212B", "SIO 217A", "SIO 217B", "SIOC 211A", "SIOC 211B", "SIOC 212A", "SIOC 212B", "SIOC 217A", "SIOC 217B"]}]}}
+{"code": "SIOC 237A", "title": "Introduction to Ocean Optics", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOC 237B", "title": "Ocean Color Remote Sensing", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOC 237C", "title": "Optical-Biological Interactions in the Ocean", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOC 241", "title": "Advanced Signal Processing for Structural Vibrations and Acoustics", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOC 250", "title": "Advanced Atmospheric Dynamics", "units": "4", "anchor": "sioc215c", "prereqs": {"type": "one", "courses": ["SIOC 212A", "SIO 212A", "SIOC 217B", "SIO 217B"]}}
+{"code": "SIOC 251", "title": "Radiation in the Atmosphere", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOC 254", "title": "Science of Climate Change", "units": "4", "anchor": "sioc215c", "prereqs": {"type": "one", "courses": ["SIOC 217A", "SIO 217A"]}}
+{"code": "SIOC 261", "title": "Nearshore Physical Oceanography", "units": "4", "anchor": "sioc215c", "prereqs": {"type": "one", "courses": ["SIOC 202A", "SIOC 211A", "SIOC 214A"]}}
+{"code": "SIOC 267", "title": "Biogeochemistry", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOC 290S", "title": "Climate Math and Science", "units": "6", "anchor": "sioc215c"}
+{"code": "SIOC 291S", "title": "Introduction to Climate Policy", "units": "6", "anchor": "sioc215c"}
+{"code": "SIOC 292", "title": "Introduction to Climate Science and Policy", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOC 293", "title": "Ocean-Atmosphere Processes and Climate Variability", "units": "4", "anchor": "sioc215c", "prereqs": "SIOC 290S"}
+{"code": "SIOC 296", "title": "Climate Science and Policy Forum", "units": "1", "anchor": "sioc215c"}
+{"code": "SIOC 299", "title": "Climate Science and Policy Capstone Project", "units": "6\u201310", "anchor": "sioc215c"}
+{"code": "SIOG 200A", "title": "Geophysics Research Skills I\u2014Effective Writing", "units": "2", "anchor": "sioc215c"}
+{"code": "SIOG 200B", "title": "Geophysics Research Skills II\u2014Effective Presentation Techniques", "units": "2", "anchor": "sioc215c"}
+{"code": "SIOG 200C", "title": "Geophysics Research Skills III\u2014Reading, Understanding, and Synthesis", "units": "2", "anchor": "sioc215c"}
+{"code": "SIOG 221", "title": "Plate Tectonics in Practice", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOG 222", "title": "Introduction to Industry Reflection Seismic Methods", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOG 223A", "title": "Geophysical Data Analysis I", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOG 223B", "title": "Geophysical Data Analysis II", "units": "4", "anchor": "sioc215c", "prereqs": {"type": "one", "courses": ["SIOG 223A", "SIO 223A"]}}
+{"code": "SIOG 224", "title": "Internal Constitution of the Earth", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOG 225", "title": "Physics of Earth Materials", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOG 227A", "title": "Introduction to Seismology", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOG 227B", "title": "Advanced Seismology I", "units": "4", "anchor": "sioc215c", "prereqs": {"type": "one", "courses": ["SIOG 227A", "SIO 227A"]}}
+{"code": "SIOG 227C", "title": "Advanced Seismology II", "units": "4", "anchor": "sioc215c", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOG 227A", "SIO 227A"]}, {"type": "one", "courses": ["SIOG 227B", "SIO 227B"]}]}}
+{"code": "SIOG 229", "title": "Fundamentals of Gravity and Geodesy", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOG 230", "title": "Introduction to Inverse Theory", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOG 231", "title": "Geomagnetism and Electromagnetism", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOG 232", "title": "Ethical and Professional Science", "units": "2", "anchor": "sioc215c"}
+{"code": "SIOG 233", "title": "Introduction to Computing at SIO", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOG 234", "title": "Geodynamics", "units": "4", "anchor": "sioc215c"}
+{"code": "SIOG 236", "title": "Satellite Remote Sensing", "units": "4", "anchor": "siog2"}
+{"code": "SIOG 237", "title": "Space Geodesy", "units": "2", "anchor": "siog2"}
+{"code": "SIOG 238", "title": "Numerical Methods for Partial Differential Equations", "units": "4", "anchor": "siog2"}
+{"code": "SIOG 239", "title": "Special Topics in Geophysics", "units": "1\u20134", "anchor": "siog2"}
+{"code": "SIOG 240", "title": "Marine Geology", "units": "4", "anchor": "siog2"}
+{"code": "SIOG 241", "title": "Geological Field Methods for Geophysicists", "units": "1", "anchor": "siog2"}
+{"code": "SIOG 242", "title": "Rates and Dates: Applications of Modern Geochronology Methods", "units": "4", "anchor": "siog2"}
+{"code": "SIOG 243", "title": "Material Characterization", "units": "4", "anchor": "siog2"}
+{"code": "SIOG 244", "title": "Shape and Structure of the Ocean Floor", "units": "4", "anchor": "siog2"}
+{"code": "SIOG 246", "title": "Global Tectonics and Basin Formation", "units": "4", "anchor": "siog2"}
+{"code": "SIOG 247", "title": "Rock Magnetism and Paleomagnetism", "units": "4", "anchor": "siog2"}
+{"code": "SIOG 249", "title": "Special Topics in Marine Geology", "units": "1\u20134", "anchor": "siog2"}
+{"code": "SIOG 251", "title": "Whole Earth Geochemistry", "units": "4", "anchor": "siog251"}
+{"code": "SIOG 252A", "title": "Introduction to Isotope Geochemistry", "units": "4", "anchor": "siog252A"}
+{"code": "SIOG 252B", "title": "Advanced Isotope Geochemistry I", "units": "4", "anchor": "siog252A", "prereqs": {"type": "one", "courses": ["SIOG 252A", "SIO 252A"]}}
+{"code": "SIOG 252C", "title": "Advanced Isotope Geochemistry II", "units": "4", "anchor": "siog252A", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOG 252A", "SIO 252A"]}, {"type": "one", "courses": ["SIOG 252B", "SIO 252B"]}]}}
+{"code": "SIOG 253", "title": "Interactions of Oceanic Plates and the California Margin", "units": "4", "anchor": "siog252A"}
+{"code": "SIOG 255", "title": "Paleobiology and History of Life", "units": "6", "anchor": "sio6"}
+{"code": "SIOG 255A", "title": "Topics in Paleobiology and History of Life", "units": "3", "anchor": "sio6"}
+{"code": "SIOG 257", "title": "Seminar in Petrology", "units": "4", "anchor": "sio6"}
+{"code": "SIOG 260", "title": "Marine Chemistry", "units": "4", "anchor": "sio6"}
+{"code": "SIOG 261", "title": "Introduction to Rheology of Solid Earth", "units": "4", "anchor": "sio6"}
+{"code": "SIOG 263", "title": "Aqueous Chemistry", "units": "4", "anchor": "sio6"}
+{"code": "SIOG 264", "title": "Ocean Acidification", "units": "4", "anchor": "sio6"}
+{"code": "SIOG 267", "title": "Marine Chemistry Laboratory", "units": "4", "anchor": "sio6"}
+{"code": "SIOG 268", "title": "Seminar in Geochemistry and Marine Chemistry", "units": "2", "anchor": "sio6"}
+{"code": "SIOG 269", "title": "Special Topics in Marine Chemistry", "units": "1\u20134", "anchor": "sio6"}
+{"code": "SIOG 270", "title": "The Archaeology of Climate Change\u2014Social Adaptation and Vulnerability in Temporal Perspective", "units": "4", "anchor": "sio6"}
+{"code": "SIOG 275", "title": "Paleoethnobotany", "units": "6", "anchor": "sio6"}
+{"code": "SIOB 218", "title": "Ocean Law and Policy", "units": "4", "anchor": "sio6"}
+{"code": "SIOB 242A", "title": "Marine Biotechnology I: Tools and Methods", "units": "4", "anchor": "sio6"}
+{"code": "SIOB 242B", "title": "Marine Biotechnology II: Applications", "units": "4", "anchor": "sio6", "prereqs": {"type": "one", "courses": ["SIOB 242A", "SIO 242A"]}}
+{"code": "SIOB 242C", "title": "Marine Biotechnology III: Introduction to Bioinformatics", "units": "4", "anchor": "sio6", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOB 242A", "SIO 242A"]}, {"type": "one", "courses": ["SIOB 242B", "SIO 242B"]}]}}
+{"code": "SIOB 243", "title": "Ecological and Medicinal Aspects of Natural Products", "units": "2", "anchor": "sio6"}
+{"code": "SIOB 262", "title": "Marine Chemical Biology Seminar", "units": "2", "anchor": "sio6"}
+{"code": "SIOB 264", "title": "Special Topics in Marine Natural Products Chemistry", "units": "4", "anchor": "sio6"}
+{"code": "SIOB 265", "title": "Marine Chemical Ecology", "units": "4", "anchor": "sio6"}
+{"code": "SIOB 269", "title": "Interdisciplinary Forum for Environmental Research", "units": "2", "anchor": "sio6"}
+{"code": "SIOB 270", "title": "Pelagic Ecology", "units": "4", "anchor": "sio6", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["SIOC 210", "SIO 210"]}, {"type": "one", "courses": ["SIOB 280", "SIO 280"]}]}}
+{"code": "SIOB 270A", "title": "Fisheries Oceanography", "units": "4", "anchor": "sio6"}
+{"code": "SIOB 271", "title": "Marine Zooplankton", "units": "5", "anchor": "sio6"}
+{"code": "SIOB 272", "title": "Advanced Statistical Techniques", "units": "4", "anchor": "sio6"}
+{"code": "SIOB 273", "title": "Professional Ethics in Science", "units": "2\u20134", "anchor": "sio6"}
+{"code": "SIOB 274", "title": "Natural History Below the Tides", "units": "6", "anchor": "sio6"}
+{"code": "SIOB 275A", "title": "Benthic Ecology", "units": "4", "anchor": "sio6"}
+{"code": "SIOB 276", "title": "Quantitative Theory of Populations and Communities", "units": "4", "anchor": "sio6"}
+{"code": "SIOB 276L", "title": "Quantitative Ecology Project Lab", "units": "4", "anchor": "sio6", "prereqs": {"type": "one", "courses": ["SIOB 276", "SIO 276"]}}
+{"code": "SIOB 277", "title": "Deep-Sea Biology", "units": "4", "anchor": "sio6"}
+{"code": "SIOB 278", "title": "Seminar in Ocean Biosciences", "units": "2", "anchor": "sio6"}
+{"code": "SIOB 279", "title": "Ecology Seminar in Biological Oceanography", "units": "1", "anchor": "sio6"}
+{"code": "SIOB 280", "title": "Biological Oceanography", "units": "4", "anchor": "sio6"}
+{"code": "SIOB 281", "title": "Marine Physiology", "units": "4", "anchor": "sio6"}
+{"code": "SIOB 282", "title": "Phytoplankton Diversity", "units": "4", "anchor": "sio6"}
+{"code": "SIOB 283", "title": "Phycology: Marine Plant Biology", "units": "6", "anchor": "sio6"}
+{"code": "SIOB 284", "title": "Marine Invertebrates", "units": "6", "anchor": "sio6"}
+{"code": "SIOB 285", "title": "Physical-Biological Interactions", "units": "4", "anchor": "sio6", "prereqs": {"type": "one", "courses": ["SIOC 210", "SIO 210"]}}
+{"code": "SIOB 286", "title": "Marine Science, Economics, and Policy", "units": "4", "anchor": "sio6"}
+{"code": "SIOB 287A", "title": "Marine Microbial Ecology", "units": "4", "anchor": "sio6"}
+{"code": "SIOB 289", "title": "Pollution, Environment, and Health", "units": "4", "anchor": "sio6"}
+{"code": "SIOB 290", "title": "Marine Biology", "units": "4", "anchor": "sio6"}
+{"code": "SIOB 291", "title": "Biology Graduate Research Presentations", "units": "1", "anchor": "sio6"}
+{"code": "SIOB 292", "title": "Communicating Science to Informal Audiences", "units": "4", "anchor": "siob292"}
+{"code": "SIOB 293", "title": "Applications of Phylogenetics", "units": "6", "anchor": "siob292"}
+{"code": "SIOB 294", "title": "Biology of Fishes", "units": "5", "anchor": "siob292"}
+{"code": "SIOB 295", "title": "Behavior and Ecology of Fishes", "units": "4", "anchor": "siob292"}
+{"code": "SIOB 296", "title": "Special Topics in Ocean Biosciences", "units": "1\u20135", "anchor": "siob292"}
+{"code": "SIOB 297", "title": "Marine Biology Seminar", "units": "1", "anchor": "siob292"}
+{"code": "SIOB 298", "title": "Special Studies in Marine Sciences", "units": "1\u20134", "anchor": "siob292"}
+{"code": "SIO 295S", "title": "Introduction to Marine Biodiversity and Conservation\u2014Seminar", "units": "8", "anchor": "siob292", "coreqs": "SIO 295LS"}
+{"code": "SIO 295LS", "title": "Introduction to Marine Biodiversity and Conservation\u2014Lab", "units": "8", "anchor": "siob292", "coreqs": "SIO 295S"}
+{"code": "SIO 299", "title": "Research", "units": "1\u201312", "anchor": "siob292"}
+{"code": "SIO 500", "title": "Teaching Apprenticeship", "units": "1\u20134", "anchor": "siob292"}

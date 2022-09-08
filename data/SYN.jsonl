@@ -1,4 +1,4 @@
-{"code": "SYN 1", "title": "Perspectives on a Changing Planet", "units": "4", "prereqs": null}
-{"code": "SYN 2", "title": "Explorations of a Changing Planet", "units": "4", "prereqs": "SYN 1"}
-{"code": "SYN 100", "title": "Solutions for a Changing Planet", "units": "4", "prereqs": {"type": "all", "courses": ["SYN 1", "SYN 2"]}}
-{"code": "SYN 500", "title": "Apprentice Teaching in Synthesis Program", "units": "2 or 4", "prereqs": null}
+{"code": "SYN 1", "title": "Perspectives on a Changing Planet", "units": "4", "anchor": "syn1"}
+{"code": "SYN 2", "title": "Explorations of a Changing Planet", "units": "4", "anchor": "syn2", "prereqs": "SYN 1"}
+{"code": "SYN 100", "title": "Solutions for a Changing Planet", "units": "4", "anchor": "syn100", "prereqs": {"type": "all", "courses": ["SYN 1", "SYN 2"]}}
+{"code": "SYN 500", "title": "Apprentice Teaching in Synthesis Program", "units": "2 or 4", "anchor": "syn500"}

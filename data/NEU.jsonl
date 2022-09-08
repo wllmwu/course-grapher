@@ -1,26 +1,26 @@
-{"code": "NEU 199", "title": "Independent Research", "units": "2 or 4", "prereqs": null}
-{"code": "NEU 200A-B-C", "title": ". Basic Neuroscience", "units": "4-4-4", "prereqs": null}
-{"code": "NEU 210", "title": "Neurobiology Boot Camp", "units": "4", "prereqs": null}
-{"code": "NEU 241", "title": "Ethics and Survival Skills in Academia", "units": "3", "prereqs": null}
-{"code": "NEU 243", "title": "Physiological Basis of Human Information", "units": "2", "prereqs": {"type": "one", "courses": ["NEU 238", "PSYC 231"]}}
-{"code": "NEU 266", "title": "Development of Neural Circuits", "units": "4", "prereqs": null}
-{"code": "NEU 268", "title": "Molecular and Cellular Neurobiology", "units": "4", "prereqs": null}
-{"code": "NEU 270A", "title": "Neurobiology of Disease: Mechanisms of Neurodegeneration", "units": "4", "prereqs": null}
-{"code": "NEU 270B", "title": "Neurobiology of Disease: Neurodevelopmental Disorders", "units": "4", "prereqs": null}
-{"code": "NEU 276", "title": "Neuroscience Research Rounds", "units": "1", "prereqs": null}
-{"code": "NEU 277", "title": "Neuropsychopharmacology", "units": "4", "prereqs": null}
-{"code": "NEU 285", "title": "Clinical Trails: Issues and Dilemmas in Clinical Trials", "units": "2", "prereqs": null}
-{"code": "NEU 298", "title": "Neurosciences Independent Study Project", "units": "ISP", "prereqs": null}
-{"code": "NEU 401", "title": "Neurology General Clinical Selective Clerkship", "units": "7", "prereqs": null}
-{"code": "NEU 426", "title": "Subintern Pediatric Neurology", "units": "7", "prereqs": null}
-{"code": "NEU 427", "title": "Neurology Outpatient", "units": "7", "prereqs": null}
-{"code": "NEU 496", "title": "Clinical Independent Study", "units": "1\u201321", "prereqs": null}
-{"code": "NEUG 221", "title": "Advanced Topics in Neurosciences", "units": "2", "prereqs": null}
-{"code": "NEUG 231", "title": "Tools for Experimental Data Analysis", "units": "4", "prereqs": null}
-{"code": "NEUG 240", "title": "Mathematical Foundations for Computational Neuroscience", "units": "3", "prereqs": null}
-{"code": "NEUG 257", "title": "Neuroanatomy", "units": "4", "prereqs": null}
-{"code": "NEUG 265", "title": "Mechanisms of Pain", "units": "2", "prereqs": null}
-{"code": "NEUG 280", "title": "Minor Proposition", "units": "4", "prereqs": null}
-{"code": "NEUG 296", "title": "Neurosciences Research Rotation", "units": "1\u201312", "prereqs": null}
-{"code": "NEUG 299", "title": "Neurosciences Research", "units": "1\u201312", "prereqs": null}
-{"code": "NEUG 500", "title": "Apprenticeship Teaching", "units": "1\u20134", "prereqs": null}
+{"code": "NEU 199", "title": "Independent Research", "units": "2 or 4", "anchor": "neu199"}
+{"code": "NEU 200A-B-C", "title": ". Basic Neuroscience", "units": "4-4-4", "anchor": "neu200c"}
+{"code": "NEU 210", "title": "Neurobiology Boot Camp", "units": "4", "anchor": "neu210"}
+{"code": "NEU 241", "title": "Ethics and Survival Skills in Academia", "units": "3", "anchor": "neu241"}
+{"code": "NEU 243", "title": "Physiological Basis of Human Information", "units": "2", "anchor": "neu243", "prereqs": {"type": "one", "courses": ["NEU 238", "PSYC 231"]}}
+{"code": "NEU 266", "title": "Development of Neural Circuits", "units": "4", "anchor": "neu266"}
+{"code": "NEU 268", "title": "Molecular and Cellular Neurobiology", "units": "4", "anchor": "neu268"}
+{"code": "NEU 270A", "title": "Neurobiology of Disease: Mechanisms of Neurodegeneration", "units": "4", "anchor": "neu270a"}
+{"code": "NEU 270B", "title": "Neurobiology of Disease: Neurodevelopmental Disorders", "units": "4", "anchor": "neu270b"}
+{"code": "NEU 276", "title": "Neuroscience Research Rounds", "units": "1", "anchor": "neu276"}
+{"code": "NEU 277", "title": "Neuropsychopharmacology", "units": "4", "anchor": "neu277"}
+{"code": "NEU 285", "title": "Clinical Trails: Issues and Dilemmas in Clinical Trials", "units": "2", "anchor": "neu285"}
+{"code": "NEU 298", "title": "Neurosciences Independent Study Project", "units": "ISP", "anchor": "neu298"}
+{"code": "NEU 401", "title": "Neurology General Clinical Selective Clerkship", "units": "7", "anchor": "neu401"}
+{"code": "NEU 426", "title": "Subintern Pediatric Neurology", "units": "7", "anchor": "neu426"}
+{"code": "NEU 427", "title": "Neurology Outpatient", "units": "7", "anchor": "neu427"}
+{"code": "NEU 496", "title": "Clinical Independent Study", "units": "1\u201321", "anchor": "neu496"}
+{"code": "NEUG 221", "title": "Advanced Topics in Neurosciences", "units": "2", "anchor": "neug221"}
+{"code": "NEUG 231", "title": "Tools for Experimental Data Analysis", "units": "4", "anchor": "neug231"}
+{"code": "NEUG 240", "title": "Mathematical Foundations for Computational Neuroscience", "units": "3", "anchor": "neug240"}
+{"code": "NEUG 257", "title": "Neuroanatomy", "units": "4", "anchor": "neug257"}
+{"code": "NEUG 265", "title": "Mechanisms of Pain", "units": "2", "anchor": "neug265"}
+{"code": "NEUG 280", "title": "Minor Proposition", "units": "4", "anchor": "neug280"}
+{"code": "NEUG 296", "title": "Neurosciences Research Rotation", "units": "1\u201312", "anchor": "neug296"}
+{"code": "NEUG 299", "title": "Neurosciences Research", "units": "1\u201312", "anchor": "neug299"}
+{"code": "NEUG 500", "title": "Apprenticeship Teaching", "units": "1\u20134", "anchor": "neug500"}

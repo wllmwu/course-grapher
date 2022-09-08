@@ -1,36 +1,36 @@
-{"code": "RELI 1", "title": "Introduction to Religion", "units": "4", "prereqs": null}
-{"code": "RELI 2", "title": "Comparative World Religions", "units": "4", "prereqs": null}
-{"code": "RELI 3", "title": "Technoscience and Religion", "units": "4", "prereqs": null}
-{"code": "RELI 87", "title": "First-year Student Seminar in Religion", "units": "1", "prereqs": null}
-{"code": "RELI 101", "title": "Tools and Methods in the Study of Religion", "units": "4", "prereqs": null}
-{"code": "RELI 131", "title": "Topics in Religion and Sexuality", "units": "4", "prereqs": null}
-{"code": "RELI 132", "title": "Topics in Orthodoxy and Heterodoxy", "units": "4", "prereqs": null}
-{"code": "RELI 134", "title": "Topics in American Religion", "units": "4", "prereqs": null}
-{"code": "RELI 140", "title": "Literature and Religion", "units": "4", "prereqs": null}
-{"code": "RELI 141", "title": "Public Sphere and Religion", "units": "4", "prereqs": null}
-{"code": "RELI 142", "title": "Secularization and Religion", "units": "4", "prereqs": null}
-{"code": "RELI 143", "title": "Topics in Performing Religion", "units": "4", "prereqs": null}
-{"code": "RELI 144", "title": "Devils and Demons in Christianity", "units": "4", "prereqs": null}
-{"code": "RELI 145", "title": "Communication, Technology, and Religion", "units": "4", "prereqs": null}
-{"code": "RELI 146", "title": "Topics in the Religions of Antiquity", "units": "4", "prereqs": null}
-{"code": "RELI 147", "title": "Pagan Europe and Its Christian Aftermath", "units": "4", "prereqs": null}
-{"code": "RELI 148", "title": "Religion and Women\u2019s Activisms", "units": "4", "prereqs": null}
-{"code": "RELI 149", "title": "Islam in America", "units": "4", "prereqs": null}
-{"code": "RELI 150", "title": "Religion and Cinema", "units": "4", "prereqs": null}
-{"code": "RELI 151", "title": "Deep Ecology: Knowing Place", "units": "4", "prereqs": null}
-{"code": "RELI 153", "title": "Hispanic American Religions", "units": "4", "prereqs": null}
-{"code": "RELI 154", "title": "Asian American Religions", "units": "4", "prereqs": null}
-{"code": "RELI 155", "title": "African American Religions", "units": "4", "prereqs": null}
-{"code": "RELI 156", "title": "Posthuman Spirituality", "units": "4", "prereqs": null}
-{"code": "RELI 157GS", "title": "Religion in Japan", "units": "4", "prereqs": null}
-{"code": "RELI 158GS", "title": "Japanese Literature and Spirituality", "units": "4", "prereqs": null}
-{"code": "RELI 159GS", "title": "Native Religions", "units": "4", "prereqs": null}
-{"code": "RELI 160GS", "title": "Religion and Politics", "units": "4", "prereqs": null}
-{"code": "RELI 188", "title": "Special Topics in Religion", "units": "4", "prereqs": null}
-{"code": "RELI 188GS", "title": "Special Topics in Religion", "units": "4", "prereqs": null}
-{"code": "RELI 189", "title": "Seminar in Religion", "units": "4", "prereqs": "RELI 101"}
-{"code": "RELI 192", "title": "Senior Seminar in Religion", "units": "1", "prereqs": null}
-{"code": "RELI 196AH", "title": "Honors Thesis in Religion", "units": "4", "prereqs": "RELI 101"}
-{"code": "RELI 196BH", "title": "Honors Thesis in Religion", "units": "4", "prereqs": "RELI 196A"}
-{"code": "RELI 197", "title": "Directed Advanced Readings", "units": "4", "prereqs": {"type": "one", "courses": ["RELI 110A", "RELI 110B"]}}
-{"code": "RELI 199", "title": "Independent Research Study for Undergraduates", "units": "2\u20134", "prereqs": null}
+{"code": "RELI 1", "title": "Introduction to Religion", "units": "4", "anchor": "reli1"}
+{"code": "RELI 2", "title": "Comparative World Religions", "units": "4", "anchor": "reli2"}
+{"code": "RELI 3", "title": "Technoscience and Religion", "units": "4", "anchor": "reli3"}
+{"code": "RELI 87", "title": "First-year Student Seminar in Religion", "units": "1", "anchor": "reli87"}
+{"code": "RELI 101", "title": "Tools and Methods in the Study of Religion", "units": "4", "anchor": "reli101"}
+{"code": "RELI 131", "title": "Topics in Religion and Sexuality", "units": "4", "anchor": "reli131"}
+{"code": "RELI 132", "title": "Topics in Orthodoxy and Heterodoxy", "units": "4", "anchor": "reli132"}
+{"code": "RELI 134", "title": "Topics in American Religion", "units": "4", "anchor": "reli134"}
+{"code": "RELI 140", "title": "Literature and Religion", "units": "4", "anchor": "reli140"}
+{"code": "RELI 141", "title": "Public Sphere and Religion", "units": "4", "anchor": "reli141"}
+{"code": "RELI 142", "title": "Secularization and Religion", "units": "4", "anchor": "reli142"}
+{"code": "RELI 143", "title": "Topics in Performing Religion", "units": "4", "anchor": "reli143"}
+{"code": "RELI 144", "title": "Devils and Demons in Christianity", "units": "4", "anchor": "reli144"}
+{"code": "RELI 145", "title": "Communication, Technology, and Religion", "units": "4", "anchor": "reli145"}
+{"code": "RELI 146", "title": "Topics in the Religions of Antiquity", "units": "4", "anchor": "reli146"}
+{"code": "RELI 147", "title": "Pagan Europe and Its Christian Aftermath", "units": "4", "anchor": "reli147"}
+{"code": "RELI 148", "title": "Religion and Women\u2019s Activisms", "units": "4", "anchor": "reli148"}
+{"code": "RELI 149", "title": "Islam in America", "units": "4", "anchor": "reli149"}
+{"code": "RELI 150", "title": "Religion and Cinema", "units": "4", "anchor": "reli150"}
+{"code": "RELI 151", "title": "Deep Ecology: Knowing Place", "units": "4", "anchor": "reli151"}
+{"code": "RELI 153", "title": "Hispanic American Religions", "units": "4", "anchor": "reli153"}
+{"code": "RELI 154", "title": "Asian American Religions", "units": "4", "anchor": "reli154"}
+{"code": "RELI 155", "title": "African American Religions", "units": "4", "anchor": "reli155"}
+{"code": "RELI 156", "title": "Posthuman Spirituality", "units": "4", "anchor": "reli156"}
+{"code": "RELI 157GS", "title": "Religion in Japan", "units": "4", "anchor": "reli157gs"}
+{"code": "RELI 158GS", "title": "Japanese Literature and Spirituality", "units": "4", "anchor": "reli158gs"}
+{"code": "RELI 159GS", "title": "Native Religions", "units": "4", "anchor": "reli159gs"}
+{"code": "RELI 160GS", "title": "Religion and Politics", "units": "4", "anchor": "reli160gs"}
+{"code": "RELI 188", "title": "Special Topics in Religion", "units": "4", "anchor": "reli188"}
+{"code": "RELI 188GS", "title": "Special Topics in Religion", "units": "4", "anchor": "reli188gs"}
+{"code": "RELI 189", "title": "Seminar in Religion", "units": "4", "anchor": "reli189", "prereqs": "RELI 101"}
+{"code": "RELI 192", "title": "Senior Seminar in Religion", "units": "1", "anchor": "reli192"}
+{"code": "RELI 196AH", "title": "Honors Thesis in Religion", "units": "4", "anchor": "reli196ah", "prereqs": "RELI 101"}
+{"code": "RELI 196BH", "title": "Honors Thesis in Religion", "units": "4", "anchor": "reli196bh", "prereqs": "RELI 196A"}
+{"code": "RELI 197", "title": "Directed Advanced Readings", "units": "4", "anchor": "reli197", "prereqs": {"type": "one", "courses": ["RELI 110A", "RELI 110B"]}}
+{"code": "RELI 199", "title": "Independent Research Study for Undergraduates", "units": "2\u20134", "anchor": "reli199"}

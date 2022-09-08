@@ -1,8 +1,8 @@
-{"code": "REV 1", "title": "First Year Experience", "units": "2", "prereqs": null}
-{"code": "REV 2", "title": "Transfer Year Experience", "units": "2", "prereqs": null}
-{"code": "REV 12", "title": "Practicing the Science of Mindfulness", "units": "1", "prereqs": null}
-{"code": "REV 16", "title": "Leadership in Practice", "units": "1", "prereqs": null}
-{"code": "REV 20", "title": "Revelle First-year Student Honors Program Seminar", "units": "0", "prereqs": null}
-{"code": "REV 88", "title": "Succeeding in Scientific Research", "units": "1", "prereqs": null}
-{"code": "REV 99H", "title": "Independent Study", "units": "1", "prereqs": null}
-{"code": "REV 110H", "title": "Revelle College Senior Honors Seminar", "units": "1", "prereqs": null}
+{"code": "REV 1", "title": "First Year Experience", "units": "2", "anchor": "rev1"}
+{"code": "REV 2", "title": "Transfer Year Experience", "units": "2", "anchor": "rev2"}
+{"code": "REV 12", "title": "Practicing the Science of Mindfulness", "units": "1", "anchor": "rev12"}
+{"code": "REV 16", "title": "Leadership in Practice", "units": "1", "anchor": "rev16"}
+{"code": "REV 20", "title": "Revelle First-year Student Honors Program Seminar", "units": "0", "anchor": "rev20"}
+{"code": "REV 88", "title": "Succeeding in Scientific Research", "units": "1", "anchor": "rev88"}
+{"code": "REV 99H", "title": "Independent Study", "units": "1", "anchor": "rev99h"}
+{"code": "REV 110H", "title": "Revelle College Senior Honors Seminar", "units": "1", "anchor": "rev110h"}

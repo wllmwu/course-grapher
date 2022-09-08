@@ -1,222 +1,222 @@
-{"code": "MGT 3", "title": "Quantitative Methods in Business", "units": "4", "prereqs": null}
-{"code": "MGT 4", "title": "Financial Accounting", "units": "4", "prereqs": null}
-{"code": "MGT 5", "title": "Managerial Accounting", "units": "4", "prereqs": null}
-{"code": "MGT 12", "title": "Personal Financial Management", "units": "4", "prereqs": null}
-{"code": "MGT 16", "title": "Personal Ethics at Work", "units": "4", "prereqs": null}
-{"code": "MGT 18", "title": "Managing Diverse Teams", "units": "4", "prereqs": null}
-{"code": "MGT 18GS", "title": "Managing Diverse Teams", "units": "4", "prereqs": null}
-{"code": "MGT 45", "title": "Principles of Accounting", "units": "4", "prereqs": null}
-{"code": "MGT 52", "title": "Test and Measurement in the Workplace", "units": "4", "prereqs": null}
-{"code": "MGT 71", "title": "Business Process and Operations Management", "units": "4", "prereqs": null}
-{"code": "MGT 100", "title": "Customer Analytics", "units": "4", "prereqs": {"type": "one", "courses": ["ECON 120B", "MATH 181B"]}}
-{"code": "MGT 102", "title": "E-Commerce", "units": "4", "prereqs": null}
-{"code": "MGT 103", "title": "Product Marketing and Management", "units": "4", "prereqs": null}
-{"code": "MGT 105", "title": "Product Promotion and Brand Management", "units": "4", "prereqs": "MGT 103"}
-{"code": "MGT 106", "title": "Sales and Sales Management", "units": "4", "prereqs": "MGT 103"}
-{"code": "MGT 107", "title": "Consumer Behavior", "units": "4", "prereqs": "MGT 103"}
-{"code": "MGT 108R", "title": "Applied Market Research", "units": "4", "prereqs": null}
-{"code": "MGT 109", "title": "Topics in Marketing", "units": "4", "prereqs": "MGT 103"}
-{"code": "MGT 112", "title": "Global Business Strategy", "units": "4", "prereqs": {"type": "all", "courses": ["MGT 103", {"type": "one", "courses": ["MGT 181", "MGT 187"]}]}}
-{"code": "MGT 117", "title": "Business Law", "units": "4", "prereqs": null}
-{"code": "MGT 119", "title": "Topics in Business", "units": "4", "prereqs": null}
-{"code": "MGT 121A", "title": "Innovation to Market A", "units": "4", "prereqs": null}
-{"code": "MGT 121B", "title": "Innovation to Market B", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MGT 181", "MGT 187"]}, {"type": "one", "courses": ["MGT 111", "MGT 121A"]}]}}
-{"code": "MGT 127", "title": "Innovation and Technology Strategy", "units": "4", "prereqs": null}
-{"code": "MGT 128", "title": "Business Innovation and Growth", "units": "4", "prereqs": null}
-{"code": "MGT 128R", "title": "Business Innovation and Growth", "units": "4", "prereqs": null}
-{"code": "MGT 129", "title": "Topics in Entrepreneurship", "units": "2", "prereqs": null}
-{"code": "MGT 131A", "title": "Intermediate Accounting A", "units": "4", "prereqs": {"type": "all", "courses": ["MGT 5", {"type": "one", "courses": ["MGT 4", "ECON 4"]}]}}
-{"code": "MGT 131B", "title": "Intermediate Accounting B", "units": "4", "prereqs": "MGT 131A"}
-{"code": "MGT 132", "title": "Auditing", "units": "4", "prereqs": "MGT 131B"}
-{"code": "MGT 133", "title": "Advanced Cost Accounting", "units": "4", "prereqs": "MGT 131B"}
-{"code": "MGT 134", "title": "Federal Taxation\u2014Individuals", "units": "4", "prereqs": "MGT 131B"}
-{"code": "MGT 135", "title": "Federal Taxation\u2014Companies", "units": "4", "prereqs": "MGT 131B"}
-{"code": "MGT 136", "title": "Advanced Accounting", "units": "4", "prereqs": "MGT 132"}
-{"code": "MGT 137", "title": "Financial Statement Analysis", "units": "4", "prereqs": {"type": "all", "courses": ["MGT 5", {"type": "one", "courses": ["MGT 4", "ECON 4"]}]}}
-{"code": "MGT 138", "title": "Information Technology and Accounting", "units": "4", "prereqs": null}
-{"code": "MGT 139", "title": "Accounting Information Systems", "units": "4", "prereqs": "MGT 131B"}
-{"code": "MGT 143", "title": "Forensic Accounting", "units": "4", "prereqs": "MGT 131B"}
-{"code": "MGT 146", "title": "Ethics in Accounting", "units": "4", "prereqs": "MGT 132"}
-{"code": "MGT 147", "title": "Not-For-Profit and Government Accounting", "units": "4", "prereqs": "MGT 131B"}
-{"code": "MGT 148", "title": "Mergers and Acquisitions", "units": "4", "prereqs": {"type": "all", "courses": ["MGT 136", "MGT 137"]}}
-{"code": "MGT 149", "title": "Topics in Accounting", "units": "4", "prereqs": "MGT 131B"}
-{"code": "MGT 151", "title": "Foundations and Principles of Business Analytics", "units": "4", "prereqs": null}
-{"code": "MGT 153", "title": "Business Analytics", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 10A", "MATH 18", "MATH 20A", "MATH 31AH"]}, {"type": "one", "courses": ["BENG 100", "BIEB 100", "COGS 14B", "ECE 109", "ECON 120A", "MAE 108", "MATH 11", "MATH 180A", "MATH 181A", "MATH 183", "MATH 186", "MGT 3", "PSYC 60", "SIO 187"]}]}}
-{"code": "MGT 154", "title": "Advanced Business Research", "units": "4", "prereqs": "MGT 153"}
-{"code": "MGT 157", "title": "Real Estate Securitization", "units": "4", "prereqs": "MGT 181"}
-{"code": "MGT 158", "title": "Real Estate and the Tech Sector", "units": "4", "prereqs": null}
-{"code": "MGT 160", "title": "Experiments in Firms", "units": "4", "prereqs": {"type": "one", "courses": ["BENG 100", "BIEB 100", "COGS 14B", "ECE 109", "ECON 120A", "MAE 108", "MATH 11", "MATH 180A", "MATH 181A", "MATH 183", "MATH 186", "MGT 3", "PSYC 60", "SIO 187"]}}
-{"code": "MGT 162", "title": "Negotiations", "units": "4", "prereqs": null}
-{"code": "MGT 162R", "title": "Negotiations", "units": "4", "prereqs": null}
-{"code": "MGT 164", "title": "Business and Organizational Leadership", "units": "4", "prereqs": null}
-{"code": "MGT 164GS", "title": "Business and Organizational Leadership", "units": "4", "prereqs": null}
-{"code": "MGT 166", "title": "Business Ethics and Corporate Responsibility", "units": "4", "prereqs": null}
-{"code": "MGT 167", "title": "Social Entrepreneurship", "units": "4", "prereqs": null}
-{"code": "MGT 171", "title": "Operations Management", "units": "4", "prereqs": null}
-{"code": "MGT 172", "title": "Business Project Management", "units": "4", "prereqs": null}
-{"code": "MGT 173", "title": "Project Management: Health Services", "units": "4", "prereqs": null}
-{"code": "MGT 175", "title": "Supply Chain Management", "units": "4", "prereqs": null}
-{"code": "MGT 176", "title": "Strategic Cost Management", "units": "4", "prereqs": null}
-{"code": "MGT 177", "title": "Analytics and Spreadsheet Modeling in Supply Chain Management", "units": "4", "prereqs": "MGT 153"}
-{"code": "MGT 179", "title": "Topics in Supply Chain Management", "units": "2", "prereqs": "MGT 175"}
-{"code": "MGT 180", "title": "Business Finance", "units": "4", "prereqs": {"type": "one", "courses": ["ECE 109", "ECON 100A", "ECON 120A", "MAE 108", "MATH 180A", "MATH 183", "MATH 186"]}}
-{"code": "MGT 181", "title": "Enterprise Finance", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 10A", "MATH 20A", "MGT 3"]}, {"type": "one", "courses": ["MGT 5", "MGT 45"]}, {"type": "one", "courses": ["MGT 4", "MGT 45", "ECON 4"]}]}}
-{"code": "MGT 183", "title": "Financial Investments", "units": "4", "prereqs": {"type": "one", "courses": ["MGT 181", "MGT 187", "ECON 173B"]}}
-{"code": "MGT 184", "title": "Money and Banking", "units": "4", "prereqs": {"type": "one", "courses": ["MGT 181", "MGT 187", "ECON 173B"]}}
-{"code": "MGT 185", "title": "Investment Banking", "units": "4", "prereqs": {"type": "one", "courses": ["MGT 181", "MGT 187", "ECON 173B"]}}
-{"code": "MGT 187", "title": "New Venture Finance", "units": "4", "prereqs": null}
-{"code": "MGT 189", "title": "Topics in Finance", "units": "4", "prereqs": {"type": "one", "courses": ["MGT 181", "MGT 187"]}}
-{"code": "MGT 198", "title": "Directed Group Study", "units": "4", "prereqs": null}
-{"code": "MGT 199", "title": "Directed Independent Study", "units": "4", "prereqs": null}
-{"code": "MGT 402", "title": "Management Communications", "units": "1", "prereqs": null}
-{"code": "MGT 403", "title": "Quantitative Analysis", "units": "4", "prereqs": null}
-{"code": "MGT 404", "title": "Accounting", "units": "4", "prereqs": null}
-{"code": "MGT 405", "title": "Managerial Economics", "units": "4", "prereqs": null}
-{"code": "MGT 406", "title": "Leadership Skills, Values, and Teamwork in Technology Firms", "units": "4", "prereqs": null}
-{"code": "MGT 407", "title": "Marketing", "units": "4", "prereqs": null}
-{"code": "MGT 408", "title": "Finance", "units": "4", "prereqs": null}
-{"code": "MGT 409", "title": "Organizational Strategy", "units": "4", "prereqs": null}
-{"code": "MGT 410", "title": "Strategy", "units": "4", "prereqs": null}
-{"code": "MGT 412", "title": "Lab to Market: Opportunity and Business Model Analysis", "units": "4", "prereqs": null}
-{"code": "MGT 413", "title": "Operations, Information Systems, and Data Analysis", "units": "4", "prereqs": null}
-{"code": "MGT 414A", "title": "Lab to Market Workshop I", "units": "4", "prereqs": null}
-{"code": "MGT 414B", "title": "Lab to Market Workshop II", "units": "4", "prereqs": "MGT 414A"}
-{"code": "MGT 416", "title": "Readings in Management", "units": "1 or 2", "prereqs": null}
-{"code": "MGT 417", "title": "Current Business Law Issues", "units": "4", "prereqs": null}
-{"code": "MGT 419", "title": "Global Business Immersion", "units": "2", "prereqs": null}
-{"code": "MGT 420", "title": "Negotiation", "units": "4", "prereqs": null}
-{"code": "MGT 421", "title": "CEO, the Board of Directors, and Corporate Governance", "units": "4", "prereqs": null}
-{"code": "MGT 422", "title": "Creativity and Innovation", "units": "4", "prereqs": null}
-{"code": "MGT 425", "title": "Opportunity and Business Model Analysis", "units": "2", "prereqs": null}
-{"code": "MGT 426", "title": "Creating a High-Performing Workplace", "units": "2", "prereqs": null}
-{"code": "MGT 427", "title": "Decision Analysis", "units": "4", "prereqs": null}
-{"code": "MGT 429", "title": "Topics in Corporate Governance", "units": "2 or 4", "prereqs": null}
-{"code": "MGT 430", "title": "Biotechnology Industry, Structure, and Strategy", "units": "4", "prereqs": null}
-{"code": "MGT 439", "title": "Topics in Organizational Behavior", "units": "2 or 4", "prereqs": null}
-{"code": "MGT 442", "title": "Topics in Decision Sciences", "units": "2 or 4", "prereqs": null}
-{"code": "MGT 443", "title": "Topics in International Business", "units": "2 or 4", "prereqs": null}
-{"code": "MGT 444", "title": "Topics in Business Strategy", "units": "2 or 4", "prereqs": null}
-{"code": "MGT 445", "title": "Regulation and Innovation", "units": "4", "prereqs": null}
-{"code": "MGT 447", "title": "Drug Discovery, Development, and Commercialization", "units": "3", "prereqs": null}
-{"code": "MGT 449", "title": "Topics in Operations and Technology", "units": "2 or 4", "prereqs": null}
-{"code": "MGT 450", "title": "Project Management", "units": "4", "prereqs": null}
-{"code": "MGT 451", "title": "Technology and Innovation Strategy", "units": "4", "prereqs": null}
-{"code": "MGT 452", "title": "New Product Development", "units": "4", "prereqs": null}
-{"code": "MGT 453", "title": "Supply Chain Management", "units": "4", "prereqs": null}
-{"code": "MGT 454", "title": "Disruptive Technologies for Health Care", "units": "4", "prereqs": null}
-{"code": "MGT 455", "title": "Customer Analytics", "units": "4", "prereqs": null}
-{"code": "MGT 459", "title": "Topics in Innovation", "units": "2 or 4", "prereqs": null}
-{"code": "MGT 463", "title": "Projects in Technology Commercialization", "units": "4", "prereqs": null}
-{"code": "MGT 464", "title": "Projects in Business Innovation", "units": "4", "prereqs": null}
-{"code": "MGT 469", "title": "Topics in Accounting", "units": "2 or 4", "prereqs": null}
-{"code": "MGT 475", "title": "Research for Marketing Decisions", "units": "4", "prereqs": null}
-{"code": "MGT 476", "title": "Marketing Strategy", "units": "4", "prereqs": null}
-{"code": "MGT 477", "title": "Consumer Behavior", "units": "4", "prereqs": null}
-{"code": "MGT 478", "title": "Marketing Communications", "units": "4", "prereqs": null}
-{"code": "MGT 479", "title": "Pricing", "units": "4", "prereqs": "MGT 407"}
-{"code": "MGT 480", "title": "Sales and Sales Management", "units": "4", "prereqs": null}
-{"code": "MGT 488R", "title": "Applied Market Research", "units": "4", "prereqs": null}
-{"code": "MGT 489", "title": "Topics in Marketing", "units": "2 or 4", "prereqs": null}
-{"code": "MGT 491", "title": "Investments", "units": "4", "prereqs": "MGT 408"}
-{"code": "MGT 492", "title": "Financial Risk Management", "units": "4", "prereqs": null}
-{"code": "MGT 495", "title": "Topics in Finance", "units": "2 or 4", "prereqs": null}
-{"code": "MGT 496A", "title": "Venture Capital Management I", "units": "2", "prereqs": null}
-{"code": "MGT 496B", "title": "Venture Capital Management II", "units": "2", "prereqs": "MGT 496A"}
-{"code": "MGT 497", "title": "Advanced Management Research Practicum", "units": "1", "prereqs": null}
-{"code": "MGT 499", "title": "Individual Directed Study", "units": "1\u20134", "prereqs": null}
-{"code": "MGTF 405", "title": "Business Forecasting", "units": "4", "prereqs": null}
-{"code": "MGTF 406", "title": "Behavioral Finance", "units": "4", "prereqs": "MGTF 402"}
-{"code": "MGTF 407", "title": "Valuation in Corporate Finance", "units": "4", "prereqs": "MGTF 402"}
-{"code": "MGTF 408", "title": "Real Estate Finance", "units": "4", "prereqs": "MGTF 402"}
-{"code": "MGTF 409", "title": "Mergers, Acquisitions, and Corporate Restructuring", "units": "4", "prereqs": null}
-{"code": "MGTF 410", "title": "New Venture Finance", "units": "4", "prereqs": null}
-{"code": "MGTF 412", "title": "Financial Statement Analysis", "units": "4", "prereqs": null}
-{"code": "MGTF 432", "title": "Portfolio Theory in Practice", "units": "4", "prereqs": {"type": "one", "courses": ["MGT 281", "MGT 491"]}}
-{"code": "MGTF 401", "title": "Financial Accounting", "units": "4", "prereqs": null}
-{"code": "MGTF 402", "title": "Investment Analysis", "units": "4", "prereqs": null}
-{"code": "MGTF 403", "title": "Advanced Financial Risk Management", "units": "4", "prereqs": null}
-{"code": "MGTF 404", "title": "Financial Econometrics and Empirical Methods", "units": "4", "prereqs": null}
-{"code": "MGTF 405", "title": "Business Forecasting", "units": "4", "prereqs": null}
-{"code": "MGTF 406", "title": "Behavioral Finance", "units": "4", "prereqs": "MGTF 402"}
-{"code": "MGTF 407", "title": "Valuation in Corporate Finance", "units": "4", "prereqs": "MGTF 402"}
-{"code": "MGTF 408", "title": "Real Estate Finance", "units": "4", "prereqs": "MGTF 402"}
-{"code": "MGTF 409", "title": "Mergers, Acquisitions, and Corporate Restructuring", "units": "4", "prereqs": null}
-{"code": "MGTF 410", "title": "New Venture Finance", "units": "4", "prereqs": null}
-{"code": "MGTF 411", "title": "Stochastic Calculus and Continuous Time Finance", "units": "4", "prereqs": null}
-{"code": "MGTF 412", "title": "Financial Statement Analysis", "units": "4", "prereqs": null}
-{"code": "MGTF 413", "title": "Computational Finance Methods", "units": "4", "prereqs": null}
-{"code": "MGTF 414", "title": "Analyzing Large Data", "units": "4", "prereqs": null}
-{"code": "MGTF 415", "title": "Collecting and Analyzing Financial Data", "units": "4", "prereqs": null}
-{"code": "MGTF 416", "title": "Professional Seminars in Finance", "units": "1", "prereqs": null}
-{"code": "MGTF 417", "title": "Professional Communications in Finance", "units": "1", "prereqs": null}
-{"code": "MGTF 418", "title": "Preparing for the CFA Exam", "units": "2", "prereqs": null}
-{"code": "MGTF 420", "title": "Money and Banking", "units": "4", "prereqs": null}
-{"code": "MGTF 430", "title": "Asset Management", "units": "4", "prereqs": null}
-{"code": "MGTF 432", "title": "Portfolio Theory in Practice", "units": "4", "prereqs": {"type": "one", "courses": ["MGT 281", "MGT 491"]}}
-{"code": "MGTF 458", "title": "Financial Innovations for Economic Development", "units": "4", "prereqs": null}
-{"code": "MGTF 490", "title": "Capstone: Applied Finance Project", "units": "4", "prereqs": {"type": "all", "courses": ["MGTF 401", "MGTF 402", "MGTF 403", "MGTF 404"]}}
-{"code": "MGTF 495", "title": "Special Topics in Finance", "units": "2\u20134", "prereqs": null}
-{"code": "MGTA 401", "title": "Professional Seminar", "units": "1", "prereqs": {"type": "all", "courses": ["MGTA 451", "MGTA 452", "MGTA 453"]}}
-{"code": "MGTA 414", "title": "Web Data Analytics", "units": "2", "prereqs": null}
-{"code": "MGTA 415", "title": "Analyzing Unstructured Data", "units": "4", "prereqs": "MGTA 452"}
-{"code": "MGTA 451", "title": "Business Analytics in Marketing, Finance, and Operations", "units": "4", "prereqs": null}
-{"code": "MGTA 452", "title": "Collecting and Analyzing Large Data", "units": "4", "prereqs": "MGTA 451"}
-{"code": "MGTA 453", "title": "Business Analytics", "units": "4", "prereqs": "MGTA 451"}
-{"code": "MGTA 454", "title": "Business Analytics Capstone Project", "units": "4", "prereqs": {"type": "all", "courses": ["MGTA 451", "MGTA 452", "MGTA 453"]}}
-{"code": "MGTA 454A", "title": "Business Analytics Capstone Project I", "units": "2", "prereqs": {"type": "all", "courses": ["MGTA 451", "MGTA 452", "MGTA 453"]}}
-{"code": "MGTA 454B", "title": "Business Analytics Capstone Project II", "units": "2", "prereqs": "MGTA 454A"}
-{"code": "MGTA 455", "title": "Customer Analytics", "units": "4", "prereqs": {"type": "all", "courses": ["MGTA 451", "MGTA 452", "MGTA 453"]}}
-{"code": "MGTA 456", "title": "Supply Chain Analytics", "units": "4", "prereqs": {"type": "all", "courses": ["MGTA 451", "MGTA 452", "MGTA 453"]}}
-{"code": "MGTA 457", "title": "Business Intelligence Systems", "units": "2", "prereqs": {"type": "all", "courses": ["MGTA 451", "MGTA 452", "MGTA 453"]}}
-{"code": "MGTA 458", "title": "Experiments in Firms", "units": "4", "prereqs": {"type": "all", "courses": ["MGTA 451", "MGTA 452", "MGTA 453"]}}
-{"code": "MGTA 459", "title": "Managerial Judgment and Decision-Making", "units": "4", "prereqs": {"type": "all", "courses": ["MGTA 451", "MGTA 452", "MGTA 453"]}}
-{"code": "MGTA 460", "title": "Business Analytics Project Management", "units": "2", "prereqs": {"type": "all", "courses": ["MGTA 451", "MGTA 452", "MGTA 453"]}}
-{"code": "MGTA 461", "title": "Web Mining and Recommender Systems", "units": "4", "prereqs": null}
-{"code": "MGTA 462", "title": "Big Data Technology and Business", "units": "4", "prereqs": null}
-{"code": "MGTA 479", "title": "Pricing Analytics", "units": "4", "prereqs": null}
-{"code": "MGTP 401", "title": "Professional Seminar", "units": "1", "prereqs": null}
-{"code": "MGTP 414", "title": "Business Law", "units": "4", "prereqs": null}
-{"code": "MGTP 416", "title": "Ethics in Accounting and Business", "units": "4", "prereqs": null}
-{"code": "MGTP 421", "title": "Internal Control over Financial Reporting", "units": "4", "prereqs": null}
-{"code": "MGTP 422", "title": "Systems, Processes, and Technology for Accounting", "units": "4", "prereqs": null}
-{"code": "MGTP 424", "title": "Professional Research and Communication for Accountants", "units": "4", "prereqs": null}
-{"code": "MGTP 429", "title": "Advanced Topics in Accounting and Auditing", "units": "4", "prereqs": "MGTP 432"}
-{"code": "MGTP 431", "title": "Not-for-profit and Government Accounting", "units": "4", "prereqs": null}
-{"code": "MGTP 432", "title": "Advanced Auditing and Forensic Accounting", "units": "4", "prereqs": null}
-{"code": "MGTP 433", "title": "Current Issues in the Practice and Regulation of Auditing", "units": "4", "prereqs": "MGT 432"}
-{"code": "MGTP 434", "title": "Financial Statement Analysis", "units": "4", "prereqs": null}
-{"code": "MGTP 441", "title": "Corporate Valuation and Forecasting", "units": "4", "prereqs": "MGTP 434"}
-{"code": "MGTP 443", "title": "Global Taxation and Business Strategy", "units": "4", "prereqs": "MGTP 434"}
-{"code": "MGTP 444", "title": "Issues in Financial Reporting for Global Business: Mergers, Acquisitions, and Complex Financial Structures", "units": "4", "prereqs": {"type": "all", "courses": ["MGTP 434", "MGTP 424"]}}
-{"code": "MGTP 451", "title": "Accounting Data Analytics", "units": "4", "prereqs": null}
-{"code": "MGTP 452", "title": "Strategic Cost Management and Technology", "units": "4", "prereqs": null}
-{"code": "MGTP 459", "title": "Special Topics in Taxation", "units": "2 or 4", "prereqs": null}
-{"code": "MGTP 495", "title": "Special Topic in Accounting", "units": "2 or 4", "prereqs": null}
-{"code": "MGT 208A", "title": "Introduction to Management Research A", "units": "4", "prereqs": null}
-{"code": "MGT 208B", "title": "Introduction to Management Research B", "units": "4", "prereqs": "MGT 208A"}
-{"code": "MGT 208C", "title": "Introduction to Management Research C", "units": "4", "prereqs": "MGT 208B"}
-{"code": "MGT 225", "title": "Behavioral Economics", "units": "4", "prereqs": {"type": "all", "courses": ["MGT 208A", "MGT 208B", "MGT 208C", "ECON 200A", "ECON 200B", "ECON 200C"]}}
-{"code": "MGT 226", "title": "Theory of Industrial Organization and Business Strategy", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 200A", "ECON 200B", "ECON 200C"]}}
-{"code": "MGT 227", "title": "Topics in Behavioral Economics Research", "units": "4", "prereqs": null}
-{"code": "MGT 228", "title": "Experiments in Organizations", "units": "4", "prereqs": null}
-{"code": "MGT 245", "title": "Theory of Technology and Operations Management", "units": "4", "prereqs": {"type": "all", "courses": ["MGT 208A", "MGT 208B", "MGT 208C", "ECON 200A", "ECON 200B", "ECON 200C"]}}
-{"code": "MGT 246", "title": "Research in Management and Technology Strategy", "units": "4", "prereqs": {"type": "all", "courses": ["MGT 208A", "MGT 208B", "MGT 208C", "ECON 200A", "ECON 200B", "ECON 200C", "MGT 245"]}}
-{"code": "MGT 248", "title": "Topics in Innovation and Operations Management Research", "units": "4", "prereqs": null}
-{"code": "MGT 249", "title": "Topics in Technology Strategy and Information Systems Research", "units": "4", "prereqs": null}
-{"code": "MGT 255", "title": "Psychology and Decision Making", "units": "4", "prereqs": null}
-{"code": "MGT 256", "title": "Consumer Behavior Research", "units": "4", "prereqs": null}
-{"code": "MGT 257", "title": "Behavior in Organizations", "units": "4", "prereqs": null}
-{"code": "MGT 258", "title": "Topics in Social Psychology", "units": "4", "prereqs": null}
-{"code": "MGT 259", "title": "Topics in Management", "units": "4", "prereqs": null}
-{"code": "MGT 260", "title": "Quantitative Methods in Marketing", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 200A", "ECON 220A"]}}
-{"code": "MGT 262", "title": "Topics in Marketing Research", "units": "4", "prereqs": null}
-{"code": "MGT 285", "title": "Financial Economics", "units": "4", "prereqs": {"type": "all", "courses": ["ECON 220A", "ECON 220B", "ECON 220C"]}}
-{"code": "MGT 286", "title": "Continuous-Time Finance", "units": "4", "prereqs": "MGT 285"}
-{"code": "MGT 287", "title": "Empirical Finance", "units": "4", "prereqs": "MGT 285"}
-{"code": "MGT 289", "title": "Topics in Financial Economics Research", "units": "4", "prereqs": null}
-{"code": "MGT 293A", "title": "Literature Review and Critique Paper", "units": "4", "prereqs": null}
-{"code": "MGT 293B", "title": "Literature Review and Critique Presentation", "units": "4", "prereqs": "MGT 293A"}
-{"code": "MGT 293C", "title": "Original Research Paper", "units": "4", "prereqs": {"type": "all", "courses": ["MGT 291", "MGT 292", "MGT 293B"]}}
-{"code": "MGT 293D", "title": "Original Research Presentation", "units": "4", "prereqs": {"type": "all", "courses": ["MGT 292", "MGT 293C"]}}
-{"code": "MGT 296", "title": "Dissertation", "units": "4\u201312", "prereqs": null}
-{"code": "MGT 299", "title": "Advanced Field Advising", "units": "4", "prereqs": null}
+{"code": "MGT 3", "title": "Quantitative Methods in Business", "units": "4", "anchor": "mgt3"}
+{"code": "MGT 4", "title": "Financial Accounting", "units": "4", "anchor": "mgt4"}
+{"code": "MGT 5", "title": "Managerial Accounting", "units": "4", "anchor": "mgt5"}
+{"code": "MGT 12", "title": "Personal Financial Management", "units": "4", "anchor": "mgt12"}
+{"code": "MGT 16", "title": "Personal Ethics at Work", "units": "4", "anchor": "mgt16"}
+{"code": "MGT 18", "title": "Managing Diverse Teams", "units": "4", "anchor": "mgt18"}
+{"code": "MGT 18GS", "title": "Managing Diverse Teams", "units": "4", "anchor": "mgt18gs"}
+{"code": "MGT 45", "title": "Principles of Accounting", "units": "4", "anchor": "mgt45"}
+{"code": "MGT 52", "title": "Test and Measurement in the Workplace", "units": "4", "anchor": "mgt52"}
+{"code": "MGT 71", "title": "Business Process and Operations Management", "units": "4", "anchor": "mgt71"}
+{"code": "MGT 100", "title": "Customer Analytics", "units": "4", "anchor": "mgt100", "prereqs": {"type": "one", "courses": ["ECON 120B", "MATH 181B"]}}
+{"code": "MGT 102", "title": "E-Commerce", "units": "4", "anchor": "mgt102"}
+{"code": "MGT 103", "title": "Product Marketing and Management", "units": "4", "anchor": "mgt103"}
+{"code": "MGT 105", "title": "Product Promotion and Brand Management", "units": "4", "anchor": "mgt105", "prereqs": "MGT 103"}
+{"code": "MGT 106", "title": "Sales and Sales Management", "units": "4", "anchor": "mgt106", "prereqs": "MGT 103"}
+{"code": "MGT 107", "title": "Consumer Behavior", "units": "4", "anchor": "mgt107", "prereqs": "MGT 103"}
+{"code": "MGT 108R", "title": "Applied Market Research", "units": "4", "anchor": "mgt108r"}
+{"code": "MGT 109", "title": "Topics in Marketing", "units": "4", "anchor": "mgt109", "prereqs": "MGT 103"}
+{"code": "MGT 112", "title": "Global Business Strategy", "units": "4", "anchor": "mgt112", "prereqs": {"type": "all", "courses": ["MGT 103", {"type": "one", "courses": ["MGT 181", "MGT 187"]}]}}
+{"code": "MGT 117", "title": "Business Law", "units": "4", "anchor": "mgt117"}
+{"code": "MGT 119", "title": "Topics in Business", "units": "4", "anchor": "mgt119"}
+{"code": "MGT 121A", "title": "Innovation to Market A", "units": "4", "anchor": "mgt121a"}
+{"code": "MGT 121B", "title": "Innovation to Market B", "units": "4", "anchor": "mgt121b", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MGT 181", "MGT 187"]}, {"type": "one", "courses": ["MGT 111", "MGT 121A"]}]}}
+{"code": "MGT 127", "title": "Innovation and Technology Strategy", "units": "4", "anchor": "mgt127"}
+{"code": "MGT 128", "title": "Business Innovation and Growth", "units": "4", "anchor": "mgt128"}
+{"code": "MGT 128R", "title": "Business Innovation and Growth", "units": "4", "anchor": "mgt128r"}
+{"code": "MGT 129", "title": "Topics in Entrepreneurship", "units": "2", "anchor": "mgt129"}
+{"code": "MGT 131A", "title": "Intermediate Accounting A", "units": "4", "anchor": "mgt131a", "prereqs": {"type": "all", "courses": ["MGT 5", {"type": "one", "courses": ["MGT 4", "ECON 4"]}]}}
+{"code": "MGT 131B", "title": "Intermediate Accounting B", "units": "4", "anchor": "mgt131b", "prereqs": "MGT 131A"}
+{"code": "MGT 132", "title": "Auditing", "units": "4", "anchor": "mgt132", "prereqs": "MGT 131B"}
+{"code": "MGT 133", "title": "Advanced Cost Accounting", "units": "4", "anchor": "mgt133", "prereqs": "MGT 131B"}
+{"code": "MGT 134", "title": "Federal Taxation\u2014Individuals", "units": "4", "anchor": "mgt134", "prereqs": "MGT 131B"}
+{"code": "MGT 135", "title": "Federal Taxation\u2014Companies", "units": "4", "anchor": "mgt135", "prereqs": "MGT 131B"}
+{"code": "MGT 136", "title": "Advanced Accounting", "units": "4", "anchor": "mgt136", "prereqs": "MGT 132"}
+{"code": "MGT 137", "title": "Financial Statement Analysis", "units": "4", "anchor": "mgt137", "prereqs": {"type": "all", "courses": ["MGT 5", {"type": "one", "courses": ["MGT 4", "ECON 4"]}]}}
+{"code": "MGT 138", "title": "Information Technology and Accounting", "units": "4", "anchor": "mgt138"}
+{"code": "MGT 139", "title": "Accounting Information Systems", "units": "4", "anchor": "mgt139", "prereqs": "MGT 131B"}
+{"code": "MGT 143", "title": "Forensic Accounting", "units": "4", "anchor": "mgt143", "prereqs": "MGT 131B"}
+{"code": "MGT 146", "title": "Ethics in Accounting", "units": "4", "anchor": "mgt146", "prereqs": "MGT 132"}
+{"code": "MGT 147", "title": "Not-For-Profit and Government Accounting", "units": "4", "anchor": "mgt147", "prereqs": "MGT 131B"}
+{"code": "MGT 148", "title": "Mergers and Acquisitions", "units": "4", "anchor": "mgt148", "prereqs": {"type": "all", "courses": ["MGT 136", "MGT 137"]}}
+{"code": "MGT 149", "title": "Topics in Accounting", "units": "4", "anchor": "mgt149", "prereqs": "MGT 131B"}
+{"code": "MGT 151", "title": "Foundations and Principles of Business Analytics", "units": "4", "anchor": "mgt151"}
+{"code": "MGT 153", "title": "Business Analytics", "units": "4", "anchor": "mgt153", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 10A", "MATH 18", "MATH 20A", "MATH 31AH"]}, {"type": "one", "courses": ["BENG 100", "BIEB 100", "COGS 14B", "ECE 109", "ECON 120A", "MAE 108", "MATH 11", "MATH 180A", "MATH 181A", "MATH 183", "MATH 186", "MGT 3", "PSYC 60", "SIO 187"]}]}}
+{"code": "MGT 154", "title": "Advanced Business Research", "units": "4", "anchor": "mgt154", "prereqs": "MGT 153"}
+{"code": "MGT 157", "title": "Real Estate Securitization", "units": "4", "anchor": "mgt157", "prereqs": "MGT 181"}
+{"code": "MGT 158", "title": "Real Estate and the Tech Sector", "units": "4", "anchor": "mgt158"}
+{"code": "MGT 160", "title": "Experiments in Firms", "units": "4", "anchor": "mgt160", "prereqs": {"type": "one", "courses": ["BENG 100", "BIEB 100", "COGS 14B", "ECE 109", "ECON 120A", "MAE 108", "MATH 11", "MATH 180A", "MATH 181A", "MATH 183", "MATH 186", "MGT 3", "PSYC 60", "SIO 187"]}}
+{"code": "MGT 162", "title": "Negotiations", "units": "4", "anchor": "mgt162"}
+{"code": "MGT 162R", "title": "Negotiations", "units": "4", "anchor": "mgt162r"}
+{"code": "MGT 164", "title": "Business and Organizational Leadership", "units": "4", "anchor": "mgt164"}
+{"code": "MGT 164GS", "title": "Business and Organizational Leadership", "units": "4", "anchor": "mgt164gs"}
+{"code": "MGT 166", "title": "Business Ethics and Corporate Responsibility", "units": "4", "anchor": "mgt166"}
+{"code": "MGT 167", "title": "Social Entrepreneurship", "units": "4", "anchor": "mgt167"}
+{"code": "MGT 171", "title": "Operations Management", "units": "4", "anchor": "mgt171"}
+{"code": "MGT 172", "title": "Business Project Management", "units": "4", "anchor": "mgt172"}
+{"code": "MGT 173", "title": "Project Management: Health Services", "units": "4", "anchor": "mgt173"}
+{"code": "MGT 175", "title": "Supply Chain Management", "units": "4", "anchor": "mgt175"}
+{"code": "MGT 176", "title": "Strategic Cost Management", "units": "4", "anchor": "mgt176"}
+{"code": "MGT 177", "title": "Analytics and Spreadsheet Modeling in Supply Chain Management", "units": "4", "anchor": "mgt177", "prereqs": "MGT 153"}
+{"code": "MGT 179", "title": "Topics in Supply Chain Management", "units": "2", "anchor": "mgt179", "prereqs": "MGT 175"}
+{"code": "MGT 180", "title": "Business Finance", "units": "4", "anchor": "mgt180", "prereqs": {"type": "one", "courses": ["ECE 109", "ECON 100A", "ECON 120A", "MAE 108", "MATH 180A", "MATH 183", "MATH 186"]}}
+{"code": "MGT 181", "title": "Enterprise Finance", "units": "4", "anchor": "mgt181", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["MATH 10A", "MATH 20A", "MGT 3"]}, {"type": "one", "courses": ["MGT 5", "MGT 45"]}, {"type": "one", "courses": ["MGT 4", "MGT 45", "ECON 4"]}]}}
+{"code": "MGT 183", "title": "Financial Investments", "units": "4", "anchor": "mgt183", "prereqs": {"type": "one", "courses": ["MGT 181", "MGT 187", "ECON 173B"]}}
+{"code": "MGT 184", "title": "Money and Banking", "units": "4", "anchor": "mgt184", "prereqs": {"type": "one", "courses": ["MGT 181", "MGT 187", "ECON 173B"]}}
+{"code": "MGT 185", "title": "Investment Banking", "units": "4", "anchor": "mgt185", "prereqs": {"type": "one", "courses": ["MGT 181", "MGT 187", "ECON 173B"]}}
+{"code": "MGT 187", "title": "New Venture Finance", "units": "4", "anchor": "mgt187"}
+{"code": "MGT 189", "title": "Topics in Finance", "units": "4", "anchor": "mgt189", "prereqs": {"type": "one", "courses": ["MGT 181", "MGT 187"]}}
+{"code": "MGT 198", "title": "Directed Group Study", "units": "4", "anchor": "mgt198"}
+{"code": "MGT 199", "title": "Directed Independent Study", "units": "4", "anchor": "mgt199"}
+{"code": "MGT 402", "title": "Management Communications", "units": "1", "anchor": "mgt402"}
+{"code": "MGT 403", "title": "Quantitative Analysis", "units": "4", "anchor": "mgt403"}
+{"code": "MGT 404", "title": "Accounting", "units": "4", "anchor": "mgt404"}
+{"code": "MGT 405", "title": "Managerial Economics", "units": "4", "anchor": "mgt405"}
+{"code": "MGT 406", "title": "Leadership Skills, Values, and Teamwork in Technology Firms", "units": "4", "anchor": "mgt406"}
+{"code": "MGT 407", "title": "Marketing", "units": "4", "anchor": "mgt407"}
+{"code": "MGT 408", "title": "Finance", "units": "4", "anchor": "mgt408"}
+{"code": "MGT 409", "title": "Organizational Strategy", "units": "4", "anchor": "mgt409"}
+{"code": "MGT 410", "title": "Strategy", "units": "4", "anchor": "mgt410"}
+{"code": "MGT 412", "title": "Lab to Market: Opportunity and Business Model Analysis", "units": "4", "anchor": "mgt412"}
+{"code": "MGT 413", "title": "Operations, Information Systems, and Data Analysis", "units": "4", "anchor": "mgt413"}
+{"code": "MGT 414A", "title": "Lab to Market Workshop I", "units": "4", "anchor": "mgt414a"}
+{"code": "MGT 414B", "title": "Lab to Market Workshop II", "units": "4", "anchor": "mgt414b", "prereqs": "MGT 414A"}
+{"code": "MGT 416", "title": "Readings in Management", "units": "1 or 2", "anchor": "mgt416"}
+{"code": "MGT 417", "title": "Current Business Law Issues", "units": "4", "anchor": "mgt417"}
+{"code": "MGT 419", "title": "Global Business Immersion", "units": "2", "anchor": "mgt419"}
+{"code": "MGT 420", "title": "Negotiation", "units": "4", "anchor": "mgt420"}
+{"code": "MGT 421", "title": "CEO, the Board of Directors, and Corporate Governance", "units": "4", "anchor": "mgt421"}
+{"code": "MGT 422", "title": "Creativity and Innovation", "units": "4", "anchor": "mgt422"}
+{"code": "MGT 425", "title": "Opportunity and Business Model Analysis", "units": "2", "anchor": "mgt425"}
+{"code": "MGT 426", "title": "Creating a High-Performing Workplace", "units": "2", "anchor": "mgt426"}
+{"code": "MGT 427", "title": "Decision Analysis", "units": "4", "anchor": "mgt427"}
+{"code": "MGT 429", "title": "Topics in Corporate Governance", "units": "2 or 4", "anchor": "mgt429"}
+{"code": "MGT 430", "title": "Biotechnology Industry, Structure, and Strategy", "units": "4", "anchor": "mgt430"}
+{"code": "MGT 439", "title": "Topics in Organizational Behavior", "units": "2 or 4", "anchor": "mgt439"}
+{"code": "MGT 442", "title": "Topics in Decision Sciences", "units": "2 or 4", "anchor": "mgt442"}
+{"code": "MGT 443", "title": "Topics in International Business", "units": "2 or 4", "anchor": "mgt443"}
+{"code": "MGT 444", "title": "Topics in Business Strategy", "units": "2 or 4", "anchor": "mgt444"}
+{"code": "MGT 445", "title": "Regulation and Innovation", "units": "4", "anchor": "mgt445"}
+{"code": "MGT 447", "title": "Drug Discovery, Development, and Commercialization", "units": "3", "anchor": "mgt447"}
+{"code": "MGT 449", "title": "Topics in Operations and Technology", "units": "2 or 4", "anchor": "mgt449"}
+{"code": "MGT 450", "title": "Project Management", "units": "4", "anchor": "mgt450"}
+{"code": "MGT 451", "title": "Technology and Innovation Strategy", "units": "4", "anchor": "mgt451"}
+{"code": "MGT 452", "title": "New Product Development", "units": "4", "anchor": "mgt452"}
+{"code": "MGT 453", "title": "Supply Chain Management", "units": "4", "anchor": "mgt453"}
+{"code": "MGT 454", "title": "Disruptive Technologies for Health Care", "units": "4", "anchor": "mgt454"}
+{"code": "MGT 455", "title": "Customer Analytics", "units": "4", "anchor": "mgt455"}
+{"code": "MGT 459", "title": "Topics in Innovation", "units": "2 or 4", "anchor": "mgt459"}
+{"code": "MGT 463", "title": "Projects in Technology Commercialization", "units": "4", "anchor": "mgt463"}
+{"code": "MGT 464", "title": "Projects in Business Innovation", "units": "4", "anchor": "mgt464"}
+{"code": "MGT 469", "title": "Topics in Accounting", "units": "2 or 4", "anchor": "mgt469"}
+{"code": "MGT 475", "title": "Research for Marketing Decisions", "units": "4", "anchor": "mgt475"}
+{"code": "MGT 476", "title": "Marketing Strategy", "units": "4", "anchor": "mgt476"}
+{"code": "MGT 477", "title": "Consumer Behavior", "units": "4", "anchor": "mgt477"}
+{"code": "MGT 478", "title": "Marketing Communications", "units": "4", "anchor": "mgt478"}
+{"code": "MGT 479", "title": "Pricing", "units": "4", "anchor": "mgt479", "prereqs": "MGT 407"}
+{"code": "MGT 480", "title": "Sales and Sales Management", "units": "4", "anchor": "mgt480"}
+{"code": "MGT 488R", "title": "Applied Market Research", "units": "4", "anchor": "mgt488r"}
+{"code": "MGT 489", "title": "Topics in Marketing", "units": "2 or 4", "anchor": "mgt489"}
+{"code": "MGT 491", "title": "Investments", "units": "4", "anchor": "mgt491", "prereqs": "MGT 408"}
+{"code": "MGT 492", "title": "Financial Risk Management", "units": "4", "anchor": "mgt492"}
+{"code": "MGT 495", "title": "Topics in Finance", "units": "2 or 4", "anchor": "mgt495"}
+{"code": "MGT 496A", "title": "Venture Capital Management I", "units": "2", "anchor": "mgt496a"}
+{"code": "MGT 496B", "title": "Venture Capital Management II", "units": "2", "anchor": "mgt496b", "prereqs": "MGT 496A"}
+{"code": "MGT 497", "title": "Advanced Management Research Practicum", "units": "1", "anchor": "mgt497"}
+{"code": "MGT 499", "title": "Individual Directed Study", "units": "1\u20134", "anchor": "mgt499"}
+{"code": "MGTF 405", "title": "Business Forecasting", "units": "4", "anchor": "mgtf405"}
+{"code": "MGTF 406", "title": "Behavioral Finance", "units": "4", "anchor": "mgtf406", "prereqs": "MGTF 402"}
+{"code": "MGTF 407", "title": "Valuation in Corporate Finance", "units": "4", "anchor": "mgtf407", "prereqs": "MGTF 402"}
+{"code": "MGTF 408", "title": "Real Estate Finance", "units": "4", "anchor": "mgtf408", "prereqs": "MGTF 402"}
+{"code": "MGTF 409", "title": "Mergers, Acquisitions, and Corporate Restructuring", "units": "4", "anchor": "mgtf409"}
+{"code": "MGTF 410", "title": "New Venture Finance", "units": "4", "anchor": "mgtf410"}
+{"code": "MGTF 412", "title": "Financial Statement Analysis", "units": "4", "anchor": "mgtf412"}
+{"code": "MGTF 432", "title": "Portfolio Theory in Practice", "units": "4", "anchor": "mgtf432", "prereqs": {"type": "one", "courses": ["MGT 281", "MGT 491"]}}
+{"code": "MGTF 401", "title": "Financial Accounting", "units": "4", "anchor": "mgtf401"}
+{"code": "MGTF 402", "title": "Investment Analysis", "units": "4", "anchor": "mgtf402"}
+{"code": "MGTF 403", "title": "Advanced Financial Risk Management", "units": "4", "anchor": "mgtf403"}
+{"code": "MGTF 404", "title": "Financial Econometrics and Empirical Methods", "units": "4", "anchor": "mgtf404"}
+{"code": "MGTF 405", "title": "Business Forecasting", "units": "4", "anchor": "mgtf405"}
+{"code": "MGTF 406", "title": "Behavioral Finance", "units": "4", "anchor": "mgtf406", "prereqs": "MGTF 402"}
+{"code": "MGTF 407", "title": "Valuation in Corporate Finance", "units": "4", "anchor": "mgtf407", "prereqs": "MGTF 402"}
+{"code": "MGTF 408", "title": "Real Estate Finance", "units": "4", "anchor": "mgtf408", "prereqs": "MGTF 402"}
+{"code": "MGTF 409", "title": "Mergers, Acquisitions, and Corporate Restructuring", "units": "4", "anchor": "mgtf409"}
+{"code": "MGTF 410", "title": "New Venture Finance", "units": "4", "anchor": "mgtf410"}
+{"code": "MGTF 411", "title": "Stochastic Calculus and Continuous Time Finance", "units": "4", "anchor": "mgtf411"}
+{"code": "MGTF 412", "title": "Financial Statement Analysis", "units": "4", "anchor": "mgtf412"}
+{"code": "MGTF 413", "title": "Computational Finance Methods", "units": "4", "anchor": "mgtf413"}
+{"code": "MGTF 414", "title": "Analyzing Large Data", "units": "4", "anchor": "mgtf414"}
+{"code": "MGTF 415", "title": "Collecting and Analyzing Financial Data", "units": "4", "anchor": "mgtf415"}
+{"code": "MGTF 416", "title": "Professional Seminars in Finance", "units": "1", "anchor": "mgtf416"}
+{"code": "MGTF 417", "title": "Professional Communications in Finance", "units": "1", "anchor": "mgtf417"}
+{"code": "MGTF 418", "title": "Preparing for the CFA Exam", "units": "2", "anchor": "mgtf418"}
+{"code": "MGTF 420", "title": "Money and Banking", "units": "4", "anchor": "mgtf420"}
+{"code": "MGTF 430", "title": "Asset Management", "units": "4", "anchor": "mgtf430"}
+{"code": "MGTF 432", "title": "Portfolio Theory in Practice", "units": "4", "anchor": "mgtf432", "prereqs": {"type": "one", "courses": ["MGT 281", "MGT 491"]}}
+{"code": "MGTF 458", "title": "Financial Innovations for Economic Development", "units": "4", "anchor": "mgtf458"}
+{"code": "MGTF 490", "title": "Capstone: Applied Finance Project", "units": "4", "anchor": "mgtf490", "prereqs": {"type": "all", "courses": ["MGTF 401", "MGTF 402", "MGTF 403", "MGTF 404"]}}
+{"code": "MGTF 495", "title": "Special Topics in Finance", "units": "2\u20134", "anchor": "mgtf495"}
+{"code": "MGTA 401", "title": "Professional Seminar", "units": "1", "anchor": "mgta401", "prereqs": {"type": "all", "courses": ["MGTA 451", "MGTA 452", "MGTA 453"]}}
+{"code": "MGTA 414", "title": "Web Data Analytics", "units": "2", "anchor": "mgta414"}
+{"code": "MGTA 415", "title": "Analyzing Unstructured Data", "units": "4", "anchor": "mgta415", "prereqs": "MGTA 452"}
+{"code": "MGTA 451", "title": "Business Analytics in Marketing, Finance, and Operations", "units": "4", "anchor": "mgta451"}
+{"code": "MGTA 452", "title": "Collecting and Analyzing Large Data", "units": "4", "anchor": "mgta452", "prereqs": "MGTA 451"}
+{"code": "MGTA 453", "title": "Business Analytics", "units": "4", "anchor": "mgta453", "prereqs": "MGTA 451"}
+{"code": "MGTA 454", "title": "Business Analytics Capstone Project", "units": "4", "anchor": "mgta454", "prereqs": {"type": "all", "courses": ["MGTA 451", "MGTA 452", "MGTA 453"]}}
+{"code": "MGTA 454A", "title": "Business Analytics Capstone Project I", "units": "2", "anchor": "mgta454a", "prereqs": {"type": "all", "courses": ["MGTA 451", "MGTA 452", "MGTA 453"]}}
+{"code": "MGTA 454B", "title": "Business Analytics Capstone Project II", "units": "2", "anchor": "mgta454b", "prereqs": "MGTA 454A"}
+{"code": "MGTA 455", "title": "Customer Analytics", "units": "4", "anchor": "mgta455", "prereqs": {"type": "all", "courses": ["MGTA 451", "MGTA 452", "MGTA 453"]}}
+{"code": "MGTA 456", "title": "Supply Chain Analytics", "units": "4", "anchor": "mgta456", "prereqs": {"type": "all", "courses": ["MGTA 451", "MGTA 452", "MGTA 453"]}}
+{"code": "MGTA 457", "title": "Business Intelligence Systems", "units": "2", "anchor": "mgta457", "prereqs": {"type": "all", "courses": ["MGTA 451", "MGTA 452", "MGTA 453"]}}
+{"code": "MGTA 458", "title": "Experiments in Firms", "units": "4", "anchor": "mgta458", "prereqs": {"type": "all", "courses": ["MGTA 451", "MGTA 452", "MGTA 453"]}}
+{"code": "MGTA 459", "title": "Managerial Judgment and Decision-Making", "units": "4", "anchor": "mgta459", "prereqs": {"type": "all", "courses": ["MGTA 451", "MGTA 452", "MGTA 453"]}}
+{"code": "MGTA 460", "title": "Business Analytics Project Management", "units": "2", "anchor": "mgta460", "prereqs": {"type": "all", "courses": ["MGTA 451", "MGTA 452", "MGTA 453"]}}
+{"code": "MGTA 461", "title": "Web Mining and Recommender Systems", "units": "4", "anchor": "mgta461"}
+{"code": "MGTA 462", "title": "Big Data Technology and Business", "units": "4", "anchor": "mgta462"}
+{"code": "MGTA 479", "title": "Pricing Analytics", "units": "4", "anchor": "mgta479"}
+{"code": "MGTP 401", "title": "Professional Seminar", "units": "1", "anchor": "mgtp401"}
+{"code": "MGTP 414", "title": "Business Law", "units": "4", "anchor": "mgtp414"}
+{"code": "MGTP 416", "title": "Ethics in Accounting and Business", "units": "4", "anchor": "mgtp416"}
+{"code": "MGTP 421", "title": "Internal Control over Financial Reporting", "units": "4", "anchor": "mgtp421"}
+{"code": "MGTP 422", "title": "Systems, Processes, and Technology for Accounting", "units": "4", "anchor": "mgtp422"}
+{"code": "MGTP 424", "title": "Professional Research and Communication for Accountants", "units": "4", "anchor": "mgtp424"}
+{"code": "MGTP 429", "title": "Advanced Topics in Accounting and Auditing", "units": "4", "anchor": "mgtp429", "prereqs": "MGTP 432"}
+{"code": "MGTP 431", "title": "Not-for-profit and Government Accounting", "units": "4", "anchor": "mgtp431"}
+{"code": "MGTP 432", "title": "Advanced Auditing and Forensic Accounting", "units": "4", "anchor": "mgtp432"}
+{"code": "MGTP 433", "title": "Current Issues in the Practice and Regulation of Auditing", "units": "4", "anchor": "mgtp433", "prereqs": "MGT 432"}
+{"code": "MGTP 434", "title": "Financial Statement Analysis", "units": "4", "anchor": "mgtp434"}
+{"code": "MGTP 441", "title": "Corporate Valuation and Forecasting", "units": "4", "anchor": "mgtp441", "prereqs": "MGTP 434"}
+{"code": "MGTP 443", "title": "Global Taxation and Business Strategy", "units": "4", "anchor": "mgtp443", "prereqs": "MGTP 434"}
+{"code": "MGTP 444", "title": "Issues in Financial Reporting for Global Business: Mergers, Acquisitions, and Complex Financial Structures", "units": "4", "anchor": "mgtp444", "prereqs": {"type": "all", "courses": ["MGTP 434", "MGTP 424"]}}
+{"code": "MGTP 451", "title": "Accounting Data Analytics", "units": "4", "anchor": "mgtp451"}
+{"code": "MGTP 452", "title": "Strategic Cost Management and Technology", "units": "4", "anchor": "mgtp452"}
+{"code": "MGTP 459", "title": "Special Topics in Taxation", "units": "2 or 4", "anchor": "mgtp459"}
+{"code": "MGTP 495", "title": "Special Topic in Accounting", "units": "2 or 4", "anchor": "mgtp495"}
+{"code": "MGT 208A", "title": "Introduction to Management Research A", "units": "4", "anchor": "mgt208a"}
+{"code": "MGT 208B", "title": "Introduction to Management Research B", "units": "4", "anchor": "mgt208b", "prereqs": "MGT 208A"}
+{"code": "MGT 208C", "title": "Introduction to Management Research C", "units": "4", "anchor": "mgt208c", "prereqs": "MGT 208B"}
+{"code": "MGT 225", "title": "Behavioral Economics", "units": "4", "anchor": "mgt225", "prereqs": {"type": "all", "courses": ["MGT 208A", "MGT 208B", "MGT 208C", "ECON 200A", "ECON 200B", "ECON 200C"]}}
+{"code": "MGT 226", "title": "Theory of Industrial Organization and Business Strategy", "units": "4", "anchor": "mgt226", "prereqs": {"type": "all", "courses": ["ECON 200A", "ECON 200B", "ECON 200C"]}}
+{"code": "MGT 227", "title": "Topics in Behavioral Economics Research", "units": "4", "anchor": "mgt227"}
+{"code": "MGT 228", "title": "Experiments in Organizations", "units": "4", "anchor": "mgt228"}
+{"code": "MGT 245", "title": "Theory of Technology and Operations Management", "units": "4", "anchor": "mgt245", "prereqs": {"type": "all", "courses": ["MGT 208A", "MGT 208B", "MGT 208C", "ECON 200A", "ECON 200B", "ECON 200C"]}}
+{"code": "MGT 246", "title": "Research in Management and Technology Strategy", "units": "4", "anchor": "mgt246", "prereqs": {"type": "all", "courses": ["MGT 208A", "MGT 208B", "MGT 208C", "ECON 200A", "ECON 200B", "ECON 200C", "MGT 245"]}}
+{"code": "MGT 248", "title": "Topics in Innovation and Operations Management Research", "units": "4", "anchor": "mgt248"}
+{"code": "MGT 249", "title": "Topics in Technology Strategy and Information Systems Research", "units": "4", "anchor": "mgt249"}
+{"code": "MGT 255", "title": "Psychology and Decision Making", "units": "4", "anchor": "mgt255"}
+{"code": "MGT 256", "title": "Consumer Behavior Research", "units": "4", "anchor": "mgt256"}
+{"code": "MGT 257", "title": "Behavior in Organizations", "units": "4", "anchor": "mgt257"}
+{"code": "MGT 258", "title": "Topics in Social Psychology", "units": "4", "anchor": "mgt258"}
+{"code": "MGT 259", "title": "Topics in Management", "units": "4", "anchor": "mgt259"}
+{"code": "MGT 260", "title": "Quantitative Methods in Marketing", "units": "4", "anchor": "mgt260", "prereqs": {"type": "all", "courses": ["ECON 200A", "ECON 220A"]}}
+{"code": "MGT 262", "title": "Topics in Marketing Research", "units": "4", "anchor": "mgt262"}
+{"code": "MGT 285", "title": "Financial Economics", "units": "4", "anchor": "mgt285", "prereqs": {"type": "all", "courses": ["ECON 220A", "ECON 220B", "ECON 220C"]}}
+{"code": "MGT 286", "title": "Continuous-Time Finance", "units": "4", "anchor": "mgt286", "prereqs": "MGT 285"}
+{"code": "MGT 287", "title": "Empirical Finance", "units": "4", "anchor": "mgt287", "prereqs": "MGT 285"}
+{"code": "MGT 289", "title": "Topics in Financial Economics Research", "units": "4", "anchor": "mgt289"}
+{"code": "MGT 293A", "title": "Literature Review and Critique Paper", "units": "4", "anchor": "mgt293a"}
+{"code": "MGT 293B", "title": "Literature Review and Critique Presentation", "units": "4", "anchor": "mgt293b", "prereqs": "MGT 293A"}
+{"code": "MGT 293C", "title": "Original Research Paper", "units": "4", "anchor": "mgt293c", "prereqs": {"type": "all", "courses": ["MGT 291", "MGT 292", "MGT 293B"]}}
+{"code": "MGT 293D", "title": "Original Research Presentation", "units": "4", "anchor": "mgt293d", "prereqs": {"type": "all", "courses": ["MGT 292", "MGT 293C"]}}
+{"code": "MGT 296", "title": "Dissertation", "units": "4\u201312", "anchor": "mgt296"}
+{"code": "MGT 299", "title": "Advanced Field Advising", "units": "4", "anchor": "mgt299"}

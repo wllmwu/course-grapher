@@ -1,5 +1,5 @@
-{"code": "CCS 101", "title": "Carbon Neutrality Initiative at University of California", "units": "2", "prereqs": null}
-{"code": "CCS 102", "title": "Research Perspectives on Climate Change", "units": "2", "prereqs": null}
-{"code": "CCS 123", "title": "Policy and Politics of Climate Change", "units": "4", "prereqs": null}
-{"code": "CCS 197", "title": "Carbon Neutrality Internship", "units": "1\u20134", "prereqs": {"type": "all", "courses": ["CCS 101", "CCS 102"]}}
-{"code": "CCS 199", "title": "Supervised Independent Study or Research", "units": "2\u20134", "prereqs": {"type": "all", "courses": ["CCS 101", "CCS 102"]}}
+{"code": "CCS 101", "title": "Carbon Neutrality Initiative at University of California", "units": "2", "anchor": "ccs101"}
+{"code": "CCS 102", "title": "Research Perspectives on Climate Change", "units": "2", "anchor": "ccs102"}
+{"code": "CCS 123", "title": "Policy and Politics of Climate Change", "units": "4", "anchor": "ccs123"}
+{"code": "CCS 197", "title": "Carbon Neutrality Internship", "units": "1\u20134", "anchor": "ccs197", "prereqs": {"type": "all", "courses": ["CCS 101", "CCS 102"]}}
+{"code": "CCS 199", "title": "Supervised Independent Study or Research", "units": "2\u20134", "anchor": "ccs199", "prereqs": {"type": "all", "courses": ["CCS 101", "CCS 102"]}}

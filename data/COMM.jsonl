@@ -1,188 +1,188 @@
-{"code": "COMM 10", "title": "Introduction to Communication", "units": "4", "prereqs": null}
-{"code": "COMM 30", "title": "Digital Media Literacy: Analyzing Forms, Practices, and Infrastructures of Mediated Public Life", "units": "4", "prereqs": null}
-{"code": "COMM 87", "title": "First-year Student Seminar", "units": "1", "prereqs": null}
-{"code": "COMM 100A", "title": "Communication, the Person, and Everyday Life", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 100B", "title": "Communication, Culture, and Representation", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 100C", "title": "Communication, Institutions, and Power", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 190", "title": "Junior Seminar in Communication", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 101", "title": "Introduction to Audiovisual Media Practices", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 101A", "title": "Media Activism", "units": "?", "prereqs": {"type": "all", "courses": ["COMM 10", "COMM 101"]}}
-{"code": "COMM 101D", "title": "MPL: Nonlinear/Digital Editing", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", "COMM 101"]}}
-{"code": "COMM 101E", "title": "MPL: Ethnographic Methods for Media Production", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", "COMM 101"]}}
-{"code": "COMM 101K", "title": "MPL: Documentary Sketchbook", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", "COMM 101"]}}
-{"code": "COMM 101M", "title": "MPL: Communication and Computers", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 101N", "title": "MPL: Sound Production and Manipulation", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", "COMM 101"]}}
-{"code": "COMM 101T", "title": "MPL: Topics in Production", "units": "4", "prereqs": {"type": "one", "courses": ["COMM 101", "COGN 22", "VIS 70N"]}}
-{"code": "COMM 102B", "title": "MMPP: Audio Story and Podcasting Practicum", "units": "6", "prereqs": {"type": "all", "courses": ["COMM 10", "COMM 101"]}}
-{"code": "COMM 102C", "title": "MMPP: Practicum in New Media and Community Life", "units": "6", "prereqs": null}
-{"code": "COMM 102D", "title": "MMPP: Practicum in Child Development", "units": "6", "prereqs": null}
-{"code": "COMM 102M", "title": "MMPP: Studio Television", "units": "6", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 101", "COGN 22", "VIS 70N"]}]}}
-{"code": "COMM 102P", "title": "MMPP: Television Analysis and Production", "units": "6", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 101", "COGN 22", "VIS 70N"]}]}}
-{"code": "COMM 102T", "title": "MMPP: Television Documentary", "units": "6", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 101", "COGN 22", "VIS 70N"]}]}}
-{"code": "COMM 103D", "title": "CM: Documentary History and Theory", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 103E", "title": "CM: History of Electronic Media", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 103F", "title": "CM: How to Read a Film", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 104D", "title": "CMS: Asia", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 104E", "title": "CMS: Europe", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 104F", "title": "CMS: Africa", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 104G", "title": "CMS: Latin America and the Caribbean", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 105G", "title": "CT: Computer Games Studies", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 105M", "title": "CT: Mobile Communication", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 105P", "title": "CT: Photographic Technologies", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 106A", "title": "CI: Introduction", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 106C", "title": "CI: History Through Comics\u2014Japan", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 106D", "title": "CI: Data and Culture", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 106E", "title": "CI: Data, Science, and Society", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 106F", "title": "CI: Film Industry", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 106G", "title": "CI: Tourism: Global Industry and Cultural Form", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 106I", "title": "CI: Internet Industry", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 106T", "title": "CI: Television Culture and the Public", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 106V", "title": "CI: TV Industry", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 107", "title": "Visual Culture", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 108A", "title": "POB: Introduction", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 108D", "title": "POB: Disability", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 108G", "title": "POB: Gender and Biomedicine", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 109D", "title": "MC: Advertising and Society", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 109N", "title": "MC: American News Media", "units": "4", "prereqs": {"type": "one", "courses": ["SOCI 1", "COMM 10"]}}
-{"code": "COMM 109P", "title": "MC: Propaganda and Persuasion", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 110G", "title": "LLC: Communication in Organizations", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 110M", "title": "LLC: Communication and Community", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 110P", "title": "LLC: Language and Human Communication", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 110T", "title": "LLC: Language, Thought, and Media", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 111A", "title": "CCP: Communication and Cultural Production: Introduction", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 111B", "title": "CCP: Global Borders: Communication and Conflict", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 111C", "title": "CCP: Cities and Politics of Space", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 111F", "title": "CCP: Folklore and Communication", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 111G", "title": "CCP: Popular Culture", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 111P", "title": "CCP: Performance and Cultural Studies", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 111T", "title": "CCP: Cultural Politics of Sport", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 112C", "title": "IM: The Idea of Childhood", "units": "4", "prereqs": {"type": "one", "courses": ["COMM 10", "HDP 1"]}}
-{"code": "COMM 112G", "title": "IM: Language and Globalization", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 113T", "title": "Intermediate Topics in Communication", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 114C", "title": "CSI: On Constitutions", "units": "4", "prereqs": {"type": "one", "courses": ["COMM 10", "COGN 20"]}}
-{"code": "COMM 114D", "title": "CSI: New Media, Youth, and Democracy", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 114E", "title": "CSI: Gender, Labor, and Culture in the Global Economy", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 114F", "title": "CSI: Law, Communication, and Freedom of Expression", "units": "4", "prereqs": {"type": "one", "courses": ["COMM 10", "DOC 2", "POLI 40"]}}
-{"code": "COMM 114G", "title": "CSI: Gender and Science", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 114I", "title": "CSI: Media Technologies and Social Movements", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 114J", "title": "CSI: Food Justice", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 114K", "title": "CSI: Community Fieldwork", "units": "2", "prereqs": null}
-{"code": "COMM 114M", "title": "CSI: Communication and the Law", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 114N", "title": "CSI: Communication and the Law: The Body in Law", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 114P", "title": "CSI: Public History and Museum Studies", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 114T", "title": "CSI: Science Communication", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 115", "title": "Communication and the Senses", "units": "4", "prereqs": "COMM 10"}
-{"code": "COMM 120I", "title": "AMP: Social Issues in Media Production", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "two", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 120M", "title": "AMP: Media Stereotypes", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "two", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 120N", "title": "AMP: News Media Workshop", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "two", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 120P", "title": "AMP: Digital Media in Education", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "two", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 120W", "title": "AMP: Writing for Digital Media", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "two", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 124A", "title": "Critical Design Practice/Advanced Studio", "units": "4", "prereqs": {"type": "one", "courses": ["COMM 10", "COGS 1", "ESYS 10", "POLI 10", "POLI 10D", "USP 1"]}}
-{"code": "COMM 124B", "title": "Critical Design Practice/Topic Studio", "units": "4", "prereqs": "COMM 124A"}
-{"code": "COMM 126", "title": "Children and Media", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 127", "title": "Problem of Voice", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 129", "title": "Race, Nation, and Violence in Multicultural California", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 131", "title": "Communication, Dissent, and the Formation of Social Movements", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 132", "title": "Advanced Topics in Communication, Politics, and Society", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 133", "title": "Television and Citizenship", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 134", "title": "Media Audiences", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 135", "title": "Contemporary Minority Media Makers and the Festival Experience", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 136", "title": "Transmedia", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 137", "title": "Black Women Filmmakers", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 138", "title": "Black Women, Feminism, and Media", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 139", "title": "Examining Marvel\u2019s Black Panther", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 140", "title": "Cinema in Latin America", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 143", "title": "Science Fiction", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 144", "title": "American Television in the 1970s", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 145", "title": "History, Memory, and Popular Culture", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "two", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 146", "title": "Advanced Topics in Cultural Production", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 151", "title": "The Information Age: Fact and Fiction", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 153", "title": "Architecture as Communication", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 155", "title": "Latinx Space, Place, and Culture", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 156", "title": "Media and Conflict Environment: Textual and Visual Representations", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 158", "title": "Representations of the Israeli/Palestinian Conflict", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 159", "title": "Tourism, Power, and Place", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 160", "title": "Political Economy and International Communication", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 162", "title": "Advanced Studies in Cultural Industries", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 163", "title": "Concepts of Freedom", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 164", "title": "Behind the Internet: Invisible Geographies of Power and Inequality", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 166", "title": "Surveillance, Media, and the Risk Society", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 168", "title": "Bilingual Communication", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 170", "title": "Biography and Life Stories", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 171", "title": "Environmental Communication", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 172", "title": "Advanced Topics in Mediation and Interaction", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 173", "title": "Interaction with Technology", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 174", "title": "Communication and Social Machines", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 175", "title": "Cultures of Consumption", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 176", "title": "Communication and Religion", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 177", "title": "Culture, Domination, and Resistance", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 178", "title": "Communication and Nonhuman Animals", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 180", "title": "Advanced Studies in Communication Theory", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 181", "title": "Citizen Consumers", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 182", "title": "Education and Global Citizenship", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", "COMM 100A", "COMM 100B", "COMM 100C"]}}
-{"code": "COMM 183", "title": "Global Economy and Consumer Culture", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 184", "title": "Global Nature/Global Culture", "units": "4", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
-{"code": "COMM 194", "title": "Research Seminar in Washington, D.C.", "units": "4", "prereqs": null}
-{"code": "COMM 196A", "title": "Honors Seminar in Communication", "units": "4", "prereqs": null}
-{"code": "COMM 196B", "title": "Honors Seminar in Communication", "units": "4", "prereqs": null}
-{"code": "COMM 198", "title": "Directed Group Study in Communication", "units": "4", "prereqs": null}
-{"code": "COMM 199", "title": "Independent Study in Communication", "units": "4", "prereqs": null}
-{"code": "COGR 200A", "title": "Introduction to the Study of Communication as Social Force", "units": "4", "prereqs": null}
-{"code": "COGR 200B", "title": "Introduction to Study of Communication: Communication and Culture", "units": "4", "prereqs": null}
-{"code": "COGR 200C", "title": "Introduction to the Study of Communication: Communication and the Individual", "units": "4", "prereqs": null}
-{"code": "COGR 201B", "title": "Ethnographic Methods for Communication Research", "units": "4", "prereqs": null}
-{"code": "COGR 201C", "title": "Discourse Analysis", "units": "4", "prereqs": null}
-{"code": "COGR 201D", "title": "Historical Methods for Communication Research", "units": "4", "prereqs": null}
-{"code": "COGR 201J", "title": "Comparative Analysis", "units": "4", "prereqs": null}
-{"code": "COGR 201L", "title": "Qualitative Analysis of Information Systems", "units": "4", "prereqs": null}
-{"code": "COGR 201M", "title": "Content Analysis", "units": "4", "prereqs": null}
-{"code": "COGR 201N", "title": "Genealogical Analysis", "units": "4", "prereqs": null}
-{"code": "COGR 210", "title": "Information and Society", "units": "4", "prereqs": null}
-{"code": "COGR 211", "title": "Memory Practices", "units": "4", "prereqs": null}
-{"code": "COGR 215", "title": "Regulation of Telecommunications", "units": "4", "prereqs": null}
-{"code": "COGR 219", "title": "Discourse and Organizations", "units": "4", "prereqs": null}
-{"code": "COGR 220", "title": "The News Media", "units": "4", "prereqs": null}
-{"code": "COGR 223", "title": "Communication Law and Policy", "units": "4", "prereqs": null}
-{"code": "COGR 225A", "title": "Introduction to Science Studies: Part 1", "units": "4", "prereqs": null}
-{"code": "COGR 225B", "title": "Seminar in Science Studies", "units": "4", "prereqs": null}
-{"code": "COGR 225C", "title": "Colloquium in Science Studies", "units": "4", "prereqs": null}
-{"code": "COGR 225D", "title": "Introduction to Science Studies Part II", "units": "4", "prereqs": {"type": "one", "courses": ["COGR 225A", "HIGR 238", "HIGR 209A", "SOCG 255A"]}}
-{"code": "COGR 237", "title": "Performance Theory", "units": "4", "prereqs": null}
-{"code": "COGR 238", "title": "The Frankfurt School on Mass Culture Social Theory", "units": "4", "prereqs": null}
-{"code": "COGR 239", "title": "Computer Game Studies", "units": "4", "prereqs": null}
-{"code": "COGR 240", "title": "The Culture of Consumption", "units": "4", "prereqs": null}
-{"code": "COGR 241", "title": "Geography and Communication", "units": "4", "prereqs": null}
-{"code": "COGR 242", "title": "Globalization", "units": "4", "prereqs": null}
-{"code": "COGR 243", "title": "Media Technologies", "units": "4", "prereqs": null}
-{"code": "COGR 244", "title": "Cultural Studies", "units": "4", "prereqs": null}
-{"code": "COGR 245", "title": "Science and Technology Studies and Communication", "units": "4", "prereqs": null}
-{"code": "COGR 246", "title": "Playable Media", "units": "4", "prereqs": null}
-{"code": "COGR 247", "title": "Writing for Media", "units": "4", "prereqs": null}
-{"code": "COGR 248", "title": "Visual Culture", "units": "4", "prereqs": null}
-{"code": "COGR 250", "title": "Third World Cinema Screening", "units": "4", "prereqs": null}
-{"code": "COGR 251", "title": "Media Theory", "units": "4", "prereqs": null}
-{"code": "COGR 252", "title": "Race and Racism", "units": "4", "prereqs": null}
-{"code": "COGR 253", "title": "Cultural Study of Music and Sound", "units": "4", "prereqs": null}
-{"code": "COGR 254", "title": "Intellectual Property", "units": "4", "prereqs": null}
-{"code": "COGR 255", "title": "Studies in Political Theory", "units": "4", "prereqs": null}
-{"code": "COGR 256", "title": "Postcolonial Theory", "units": "4", "prereqs": null}
-{"code": "COGR 257", "title": "Communication and Social Theory", "units": "4", "prereqs": null}
-{"code": "COGR 258", "title": "Language in Human Communication", "units": "4", "prereqs": null}
-{"code": "COGR 259", "title": "Space, Place, and Media", "units": "4", "prereqs": null}
-{"code": "COGR 261", "title": "Mediational Approaches to Culture/Mind", "units": "4", "prereqs": null}
-{"code": "COGR 262", "title": "Geographies of Difference, Exclusion and Conflict", "units": "4", "prereqs": null}
-{"code": "COGR 263", "title": "Writing Research Proposals", "units": "4", "prereqs": null}
-{"code": "COGR 264", "title": "Feminisms in Critical Dialogue", "units": "4", "prereqs": null}
-{"code": "COGR 275", "title": "Topics in Communication", "units": "4", "prereqs": null}
-{"code": "COGR 278", "title": "Talking Culture, Culture Talking: Voices of Diversity", "units": "4", "prereqs": null}
-{"code": "COGR 280", "title": "Advanced Workshop in Communication Media", "units": "4", "prereqs": null}
-{"code": "COGR 281", "title": "Understanding Everyday Life", "units": "4", "prereqs": null}
-{"code": "COGR 282", "title": "Reading and Memory", "units": "4", "prereqs": null}
-{"code": "COGR 283", "title": "Political Economy", "units": "4", "prereqs": null}
-{"code": "COGR 284", "title": "Time", "units": "4", "prereqs": null}
-{"code": "COGR 285", "title": "Ethnography Practicum", "units": "4", "prereqs": null}
-{"code": "COGR 294", "title": "The History of Communication Research", "units": "4", "prereqs": null}
-{"code": "COGR 296", "title": "Communication Research as an Interdisciplinary Activity", "units": "4", "prereqs": null}
-{"code": "COGR 298", "title": "Directed Group Study", "units": "1\u201312", "prereqs": null}
-{"code": "COGR 299", "title": "Graduate Research", "units": "1\u201312", "prereqs": null}
-{"code": "COGR 500", "title": "Practice Teaching in Communication", "units": "4", "prereqs": null}
+{"code": "COMM 10", "title": "Introduction to Communication", "units": "4", "anchor": "comm10"}
+{"code": "COMM 30", "title": "Digital Media Literacy: Analyzing Forms, Practices, and Infrastructures of Mediated Public Life", "units": "4", "anchor": "comm30"}
+{"code": "COMM 87", "title": "First-year Student Seminar", "units": "1", "anchor": "comm87"}
+{"code": "COMM 100A", "title": "Communication, the Person, and Everyday Life", "units": "4", "anchor": "comm100a", "prereqs": "COMM 10"}
+{"code": "COMM 100B", "title": "Communication, Culture, and Representation", "units": "4", "anchor": "comm100b", "prereqs": "COMM 10"}
+{"code": "COMM 100C", "title": "Communication, Institutions, and Power", "units": "4", "anchor": "comm100c", "prereqs": "COMM 10"}
+{"code": "COMM 190", "title": "Junior Seminar in Communication", "units": "4", "anchor": "comm190", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 101", "title": "Introduction to Audiovisual Media Practices", "units": "4", "anchor": "comm101", "prereqs": "COMM 10"}
+{"code": "COMM 101A", "title": "Media Activism", "units": "?", "anchor": "comm101a", "prereqs": {"type": "all", "courses": ["COMM 10", "COMM 101"]}}
+{"code": "COMM 101D", "title": "MPL: Nonlinear/Digital Editing", "units": "4", "anchor": "comm101d", "prereqs": {"type": "all", "courses": ["COMM 10", "COMM 101"]}}
+{"code": "COMM 101E", "title": "MPL: Ethnographic Methods for Media Production", "units": "4", "anchor": "comm101e", "prereqs": {"type": "all", "courses": ["COMM 10", "COMM 101"]}}
+{"code": "COMM 101K", "title": "MPL: Documentary Sketchbook", "units": "4", "anchor": "comm101k", "prereqs": {"type": "all", "courses": ["COMM 10", "COMM 101"]}}
+{"code": "COMM 101M", "title": "MPL: Communication and Computers", "units": "4", "anchor": "comm101m", "prereqs": "COMM 10"}
+{"code": "COMM 101N", "title": "MPL: Sound Production and Manipulation", "units": "4", "anchor": "comm101n", "prereqs": {"type": "all", "courses": ["COMM 10", "COMM 101"]}}
+{"code": "COMM 101T", "title": "MPL: Topics in Production", "units": "4", "anchor": "comm101t", "prereqs": {"type": "one", "courses": ["COMM 101", "COGN 22", "VIS 70N"]}}
+{"code": "COMM 102B", "title": "MMPP: Audio Story and Podcasting Practicum", "units": "6", "anchor": "comm102b", "prereqs": {"type": "all", "courses": ["COMM 10", "COMM 101"]}}
+{"code": "COMM 102C", "title": "MMPP: Practicum in New Media and Community Life", "units": "6", "anchor": "comm102c"}
+{"code": "COMM 102D", "title": "MMPP: Practicum in Child Development", "units": "6", "anchor": "comm102d"}
+{"code": "COMM 102M", "title": "MMPP: Studio Television", "units": "6", "anchor": "comm102m", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 101", "COGN 22", "VIS 70N"]}]}}
+{"code": "COMM 102P", "title": "MMPP: Television Analysis and Production", "units": "6", "anchor": "comm102p", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 101", "COGN 22", "VIS 70N"]}]}}
+{"code": "COMM 102T", "title": "MMPP: Television Documentary", "units": "6", "anchor": "comm102t", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 101", "COGN 22", "VIS 70N"]}]}}
+{"code": "COMM 103D", "title": "CM: Documentary History and Theory", "units": "4", "anchor": "comm103d", "prereqs": "COMM 10"}
+{"code": "COMM 103E", "title": "CM: History of Electronic Media", "units": "4", "anchor": "comm103e", "prereqs": "COMM 10"}
+{"code": "COMM 103F", "title": "CM: How to Read a Film", "units": "4", "anchor": "comm103f", "prereqs": "COMM 10"}
+{"code": "COMM 104D", "title": "CMS: Asia", "units": "4", "anchor": "comm104d", "prereqs": "COMM 10"}
+{"code": "COMM 104E", "title": "CMS: Europe", "units": "4", "anchor": "comm104e", "prereqs": "COMM 10"}
+{"code": "COMM 104F", "title": "CMS: Africa", "units": "4", "anchor": "comm104f", "prereqs": "COMM 10"}
+{"code": "COMM 104G", "title": "CMS: Latin America and the Caribbean", "units": "4", "anchor": "comm104g", "prereqs": "COMM 10"}
+{"code": "COMM 105G", "title": "CT: Computer Games Studies", "units": "4", "anchor": "comm105g", "prereqs": "COMM 10"}
+{"code": "COMM 105M", "title": "CT: Mobile Communication", "units": "4", "anchor": "comm105m", "prereqs": "COMM 10"}
+{"code": "COMM 105P", "title": "CT: Photographic Technologies", "units": "4", "anchor": "comm105p", "prereqs": "COMM 10"}
+{"code": "COMM 106A", "title": "CI: Introduction", "units": "4", "anchor": "comm106a", "prereqs": "COMM 10"}
+{"code": "COMM 106C", "title": "CI: History Through Comics\u2014Japan", "units": "4", "anchor": "comm106c", "prereqs": "COMM 10"}
+{"code": "COMM 106D", "title": "CI: Data and Culture", "units": "4", "anchor": "comm106d", "prereqs": "COMM 10"}
+{"code": "COMM 106E", "title": "CI: Data, Science, and Society", "units": "4", "anchor": "comm106e", "prereqs": "COMM 10"}
+{"code": "COMM 106F", "title": "CI: Film Industry", "units": "4", "anchor": "comm106f", "prereqs": "COMM 10"}
+{"code": "COMM 106G", "title": "CI: Tourism: Global Industry and Cultural Form", "units": "4", "anchor": "comm106g", "prereqs": "COMM 10"}
+{"code": "COMM 106I", "title": "CI: Internet Industry", "units": "4", "anchor": "comm106i", "prereqs": "COMM 10"}
+{"code": "COMM 106T", "title": "CI: Television Culture and the Public", "units": "4", "anchor": "comm106t", "prereqs": "COMM 10"}
+{"code": "COMM 106V", "title": "CI: TV Industry", "units": "4", "anchor": "comm106v", "prereqs": "COMM 10"}
+{"code": "COMM 107", "title": "Visual Culture", "units": "4", "anchor": "comm107", "prereqs": "COMM 10"}
+{"code": "COMM 108A", "title": "POB: Introduction", "units": "4", "anchor": "comm108a", "prereqs": "COMM 10"}
+{"code": "COMM 108D", "title": "POB: Disability", "units": "4", "anchor": "comm108d", "prereqs": "COMM 10"}
+{"code": "COMM 108G", "title": "POB: Gender and Biomedicine", "units": "4", "anchor": "comm108g", "prereqs": "COMM 10"}
+{"code": "COMM 109D", "title": "MC: Advertising and Society", "units": "4", "anchor": "comm109d", "prereqs": "COMM 10"}
+{"code": "COMM 109N", "title": "MC: American News Media", "units": "4", "anchor": "comm109n", "prereqs": {"type": "one", "courses": ["SOCI 1", "COMM 10"]}}
+{"code": "COMM 109P", "title": "MC: Propaganda and Persuasion", "units": "4", "anchor": "comm109p", "prereqs": "COMM 10"}
+{"code": "COMM 110G", "title": "LLC: Communication in Organizations", "units": "4", "anchor": "comm110g", "prereqs": "COMM 10"}
+{"code": "COMM 110M", "title": "LLC: Communication and Community", "units": "4", "anchor": "comm110m", "prereqs": "COMM 10"}
+{"code": "COMM 110P", "title": "LLC: Language and Human Communication", "units": "4", "anchor": "comm110p", "prereqs": "COMM 10"}
+{"code": "COMM 110T", "title": "LLC: Language, Thought, and Media", "units": "4", "anchor": "comm110t", "prereqs": "COMM 10"}
+{"code": "COMM 111A", "title": "CCP: Communication and Cultural Production: Introduction", "units": "4", "anchor": "comm111a", "prereqs": "COMM 10"}
+{"code": "COMM 111B", "title": "CCP: Global Borders: Communication and Conflict", "units": "4", "anchor": "comm111b", "prereqs": "COMM 10"}
+{"code": "COMM 111C", "title": "CCP: Cities and Politics of Space", "units": "4", "anchor": "comm111c", "prereqs": "COMM 10"}
+{"code": "COMM 111F", "title": "CCP: Folklore and Communication", "units": "4", "anchor": "comm111f", "prereqs": "COMM 10"}
+{"code": "COMM 111G", "title": "CCP: Popular Culture", "units": "4", "anchor": "comm111g", "prereqs": "COMM 10"}
+{"code": "COMM 111P", "title": "CCP: Performance and Cultural Studies", "units": "4", "anchor": "comm111p", "prereqs": "COMM 10"}
+{"code": "COMM 111T", "title": "CCP: Cultural Politics of Sport", "units": "4", "anchor": "comm111p", "prereqs": "COMM 10"}
+{"code": "COMM 112C", "title": "IM: The Idea of Childhood", "units": "4", "anchor": "comm112c", "prereqs": {"type": "one", "courses": ["COMM 10", "HDP 1"]}}
+{"code": "COMM 112G", "title": "IM: Language and Globalization", "units": "4", "anchor": "comm112g", "prereqs": "COMM 10"}
+{"code": "COMM 113T", "title": "Intermediate Topics in Communication", "units": "4", "anchor": "comm113t", "prereqs": "COMM 10"}
+{"code": "COMM 114C", "title": "CSI: On Constitutions", "units": "4", "anchor": "comm114c", "prereqs": {"type": "one", "courses": ["COMM 10", "COGN 20"]}}
+{"code": "COMM 114D", "title": "CSI: New Media, Youth, and Democracy", "units": "4", "anchor": "comm114d", "prereqs": "COMM 10"}
+{"code": "COMM 114E", "title": "CSI: Gender, Labor, and Culture in the Global Economy", "units": "4", "anchor": "comm114e", "prereqs": "COMM 10"}
+{"code": "COMM 114F", "title": "CSI: Law, Communication, and Freedom of Expression", "units": "4", "anchor": "comm114f", "prereqs": {"type": "one", "courses": ["COMM 10", "DOC 2", "POLI 40"]}}
+{"code": "COMM 114G", "title": "CSI: Gender and Science", "units": "4", "anchor": "comm114g", "prereqs": "COMM 10"}
+{"code": "COMM 114I", "title": "CSI: Media Technologies and Social Movements", "units": "4", "anchor": "comm114i", "prereqs": "COMM 10"}
+{"code": "COMM 114J", "title": "CSI: Food Justice", "units": "4", "anchor": "comm114j", "prereqs": "COMM 10"}
+{"code": "COMM 114K", "title": "CSI: Community Fieldwork", "units": "2", "anchor": "comm114k"}
+{"code": "COMM 114M", "title": "CSI: Communication and the Law", "units": "4", "anchor": "comm114m", "prereqs": "COMM 10"}
+{"code": "COMM 114N", "title": "CSI: Communication and the Law: The Body in Law", "units": "4", "anchor": "comm114n", "prereqs": "COMM 10"}
+{"code": "COMM 114P", "title": "CSI: Public History and Museum Studies", "units": "4", "anchor": "comm114p", "prereqs": "COMM 10"}
+{"code": "COMM 114T", "title": "CSI: Science Communication", "units": "4", "anchor": "comm114t", "prereqs": "COMM 10"}
+{"code": "COMM 115", "title": "Communication and the Senses", "units": "4", "anchor": "comm115", "prereqs": "COMM 10"}
+{"code": "COMM 120I", "title": "AMP: Social Issues in Media Production", "units": "4", "anchor": "comm120i", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "two", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 120M", "title": "AMP: Media Stereotypes", "units": "4", "anchor": "comm120m", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "two", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 120N", "title": "AMP: News Media Workshop", "units": "4", "anchor": "comm120n", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "two", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 120P", "title": "AMP: Digital Media in Education", "units": "4", "anchor": "comm120p", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "two", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 120W", "title": "AMP: Writing for Digital Media", "units": "4", "anchor": "comm120w", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "two", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 124A", "title": "Critical Design Practice/Advanced Studio", "units": "4", "anchor": "comm124a", "prereqs": {"type": "one", "courses": ["COMM 10", "COGS 1", "ESYS 10", "POLI 10", "POLI 10D", "USP 1"]}}
+{"code": "COMM 124B", "title": "Critical Design Practice/Topic Studio", "units": "4", "anchor": "comm124b", "prereqs": "COMM 124A"}
+{"code": "COMM 126", "title": "Children and Media", "units": "4", "anchor": "comm126", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 127", "title": "Problem of Voice", "units": "4", "anchor": "comm127", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 129", "title": "Race, Nation, and Violence in Multicultural California", "units": "4", "anchor": "comm129", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 131", "title": "Communication, Dissent, and the Formation of Social Movements", "units": "4", "anchor": "comm130", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 132", "title": "Advanced Topics in Communication, Politics, and Society", "units": "4", "anchor": "comm132", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 133", "title": "Television and Citizenship", "units": "4", "anchor": "comm133", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 134", "title": "Media Audiences", "units": "4", "anchor": "comm134", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 135", "title": "Contemporary Minority Media Makers and the Festival Experience", "units": "4", "anchor": "comm135", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 136", "title": "Transmedia", "units": "4", "anchor": "comm136", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 137", "title": "Black Women Filmmakers", "units": "4", "anchor": "comm137", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 138", "title": "Black Women, Feminism, and Media", "units": "4", "anchor": "comm138", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 139", "title": "Examining Marvel\u2019s Black Panther", "units": "4", "anchor": "comm139", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 140", "title": "Cinema in Latin America", "units": "4", "anchor": "comm140", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 143", "title": "Science Fiction", "units": "4", "anchor": "comm143", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 144", "title": "American Television in the 1970s", "units": "4", "anchor": "comm144", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 145", "title": "History, Memory, and Popular Culture", "units": "4", "anchor": "comm145", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "two", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 146", "title": "Advanced Topics in Cultural Production", "units": "4", "anchor": "comm146", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 151", "title": "The Information Age: Fact and Fiction", "units": "4", "anchor": "comm151", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 153", "title": "Architecture as Communication", "units": "4", "anchor": "comm153", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 155", "title": "Latinx Space, Place, and Culture", "units": "4", "anchor": "comm155", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 156", "title": "Media and Conflict Environment: Textual and Visual Representations", "units": "4", "anchor": "comm156", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 158", "title": "Representations of the Israeli/Palestinian Conflict", "units": "4", "anchor": "comm158", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 159", "title": "Tourism, Power, and Place", "units": "4", "anchor": "comm159", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 160", "title": "Political Economy and International Communication", "units": "4", "anchor": "comm160", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 162", "title": "Advanced Studies in Cultural Industries", "units": "4", "anchor": "comm162", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 163", "title": "Concepts of Freedom", "units": "4", "anchor": "comm163", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 164", "title": "Behind the Internet: Invisible Geographies of Power and Inequality", "units": "4", "anchor": "comm164", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 166", "title": "Surveillance, Media, and the Risk Society", "units": "4", "anchor": "comm166", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 168", "title": "Bilingual Communication", "units": "4", "anchor": "comm168", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 170", "title": "Biography and Life Stories", "units": "4", "anchor": "comm170", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 171", "title": "Environmental Communication", "units": "4", "anchor": "comm171", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 172", "title": "Advanced Topics in Mediation and Interaction", "units": "4", "anchor": "comm172", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 173", "title": "Interaction with Technology", "units": "4", "anchor": "comm173", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 174", "title": "Communication and Social Machines", "units": "4", "anchor": "comm174", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 175", "title": "Cultures of Consumption", "units": "4", "anchor": "comm175", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 176", "title": "Communication and Religion", "units": "4", "anchor": "comm176", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 177", "title": "Culture, Domination, and Resistance", "units": "4", "anchor": "comm177", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 178", "title": "Communication and Nonhuman Animals", "units": "4", "anchor": "comm178", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 180", "title": "Advanced Studies in Communication Theory", "units": "4", "anchor": "comm180", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 181", "title": "Citizen Consumers", "units": "4", "anchor": "comm181", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 182", "title": "Education and Global Citizenship", "units": "4", "anchor": "comm182", "prereqs": {"type": "all", "courses": ["COMM 10", "COMM 100A", "COMM 100B", "COMM 100C"]}}
+{"code": "COMM 183", "title": "Global Economy and Consumer Culture", "units": "4", "anchor": "comm183", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 184", "title": "Global Nature/Global Culture", "units": "4", "anchor": "comm184", "prereqs": {"type": "all", "courses": ["COMM 10", {"type": "one", "courses": ["COMM 100A", "COMM 100B", "COMM 100C"]}]}}
+{"code": "COMM 194", "title": "Research Seminar in Washington, D.C.", "units": "4", "anchor": "comm194"}
+{"code": "COMM 196A", "title": "Honors Seminar in Communication", "units": "4", "anchor": "comm196a"}
+{"code": "COMM 196B", "title": "Honors Seminar in Communication", "units": "4", "anchor": "comm196b"}
+{"code": "COMM 198", "title": "Directed Group Study in Communication", "units": "4", "anchor": "comm198"}
+{"code": "COMM 199", "title": "Independent Study in Communication", "units": "4", "anchor": "comm199"}
+{"code": "COGR 200A", "title": "Introduction to the Study of Communication as Social Force", "units": "4", "anchor": "cogr200a"}
+{"code": "COGR 200B", "title": "Introduction to Study of Communication: Communication and Culture", "units": "4", "anchor": "cogr200b"}
+{"code": "COGR 200C", "title": "Introduction to the Study of Communication: Communication and the Individual", "units": "4", "anchor": "cogr200c"}
+{"code": "COGR 201B", "title": "Ethnographic Methods for Communication Research", "units": "4", "anchor": "cogr201b"}
+{"code": "COGR 201C", "title": "Discourse Analysis", "units": "4", "anchor": "cogr201c"}
+{"code": "COGR 201D", "title": "Historical Methods for Communication Research", "units": "4", "anchor": "cogr201d"}
+{"code": "COGR 201J", "title": "Comparative Analysis", "units": "4", "anchor": "cogr201j"}
+{"code": "COGR 201L", "title": "Qualitative Analysis of Information Systems", "units": "4", "anchor": "cogr201l"}
+{"code": "COGR 201M", "title": "Content Analysis", "units": "4", "anchor": "cogr201m"}
+{"code": "COGR 201N", "title": "Genealogical Analysis", "units": "4", "anchor": "cogr201n"}
+{"code": "COGR 210", "title": "Information and Society", "units": "4", "anchor": "cogr201n"}
+{"code": "COGR 211", "title": "Memory Practices", "units": "4", "anchor": "cogr201n"}
+{"code": "COGR 215", "title": "Regulation of Telecommunications", "units": "4", "anchor": "cogr201n"}
+{"code": "COGR 219", "title": "Discourse and Organizations", "units": "4", "anchor": "cogr219"}
+{"code": "COGR 220", "title": "The News Media", "units": "4", "anchor": "cogr219"}
+{"code": "COGR 223", "title": "Communication Law and Policy", "units": "4", "anchor": "cogr219"}
+{"code": "COGR 225A", "title": "Introduction to Science Studies: Part 1", "units": "4", "anchor": "cogr219"}
+{"code": "COGR 225B", "title": "Seminar in Science Studies", "units": "4", "anchor": "cogr219"}
+{"code": "COGR 225C", "title": "Colloquium in Science Studies", "units": "4", "anchor": "cogr219"}
+{"code": "COGR 225D", "title": "Introduction to Science Studies Part II", "units": "4", "anchor": "cogr219", "prereqs": {"type": "one", "courses": ["COGR 225A", "HIGR 238", "HIGR 209A", "SOCG 255A"]}}
+{"code": "COGR 237", "title": "Performance Theory", "units": "4", "anchor": "cogr237"}
+{"code": "COGR 238", "title": "The Frankfurt School on Mass Culture Social Theory", "units": "4", "anchor": "cogr237"}
+{"code": "COGR 239", "title": "Computer Game Studies", "units": "4", "anchor": "cogr239"}
+{"code": "COGR 240", "title": "The Culture of Consumption", "units": "4", "anchor": "cogr239"}
+{"code": "COGR 241", "title": "Geography and Communication", "units": "4", "anchor": "cogr241"}
+{"code": "COGR 242", "title": "Globalization", "units": "4", "anchor": "cogr242"}
+{"code": "COGR 243", "title": "Media Technologies", "units": "4", "anchor": "cogr243"}
+{"code": "COGR 244", "title": "Cultural Studies", "units": "4", "anchor": "cogr244"}
+{"code": "COGR 245", "title": "Science and Technology Studies and Communication", "units": "4", "anchor": "cogr245"}
+{"code": "COGR 246", "title": "Playable Media", "units": "4", "anchor": "cogr246"}
+{"code": "COGR 247", "title": "Writing for Media", "units": "4", "anchor": "cogr247"}
+{"code": "COGR 248", "title": "Visual Culture", "units": "4", "anchor": "cogr248"}
+{"code": "COGR 250", "title": "Third World Cinema Screening", "units": "4", "anchor": "cogr248"}
+{"code": "COGR 251", "title": "Media Theory", "units": "4", "anchor": "cogr251"}
+{"code": "COGR 252", "title": "Race and Racism", "units": "4", "anchor": "cogr252"}
+{"code": "COGR 253", "title": "Cultural Study of Music and Sound", "units": "4", "anchor": "cogr253"}
+{"code": "COGR 254", "title": "Intellectual Property", "units": "4", "anchor": "cogr254"}
+{"code": "COGR 255", "title": "Studies in Political Theory", "units": "4", "anchor": "cogr254"}
+{"code": "COGR 256", "title": "Postcolonial Theory", "units": "4", "anchor": "cogr256"}
+{"code": "COGR 257", "title": "Communication and Social Theory", "units": "4", "anchor": "cogr257"}
+{"code": "COGR 258", "title": "Language in Human Communication", "units": "4", "anchor": "cogr258"}
+{"code": "COGR 259", "title": "Space, Place, and Media", "units": "4", "anchor": "cogr258"}
+{"code": "COGR 261", "title": "Mediational Approaches to Culture/Mind", "units": "4", "anchor": "cogr258"}
+{"code": "COGR 262", "title": "Geographies of Difference, Exclusion and Conflict", "units": "4", "anchor": "cogr258"}
+{"code": "COGR 263", "title": "Writing Research Proposals", "units": "4", "anchor": "cogr258"}
+{"code": "COGR 264", "title": "Feminisms in Critical Dialogue", "units": "4", "anchor": "cogr258"}
+{"code": "COGR 275", "title": "Topics in Communication", "units": "4", "anchor": "cogr258"}
+{"code": "COGR 278", "title": "Talking Culture, Culture Talking: Voices of Diversity", "units": "4", "anchor": "cogr258"}
+{"code": "COGR 280", "title": "Advanced Workshop in Communication Media", "units": "4", "anchor": "cogr258"}
+{"code": "COGR 281", "title": "Understanding Everyday Life", "units": "4", "anchor": "cogr281"}
+{"code": "COGR 282", "title": "Reading and Memory", "units": "4", "anchor": "cogr282"}
+{"code": "COGR 283", "title": "Political Economy", "units": "4", "anchor": "cogr283"}
+{"code": "COGR 284", "title": "Time", "units": "4", "anchor": "cogr283"}
+{"code": "COGR 285", "title": "Ethnography Practicum", "units": "4", "anchor": "cogr283"}
+{"code": "COGR 294", "title": "The History of Communication Research", "units": "4", "anchor": "cogr283"}
+{"code": "COGR 296", "title": "Communication Research as an Interdisciplinary Activity", "units": "4", "anchor": "cogr283"}
+{"code": "COGR 298", "title": "Directed Group Study", "units": "1\u201312", "anchor": "cogr283"}
+{"code": "COGR 299", "title": "Graduate Research", "units": "1\u201312", "anchor": "cogr283"}
+{"code": "COGR 500", "title": "Practice Teaching in Communication", "units": "4", "anchor": "cogr283"}

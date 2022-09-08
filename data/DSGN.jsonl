@@ -1,14 +1,14 @@
-{"code": "DSGN 1", "title": "Design of Everyday Things", "units": "4", "prereqs": null}
-{"code": "DSGN 90", "title": "Undergraduate Seminar", "units": "1", "prereqs": null}
-{"code": "DSGN 99", "title": "Independent Study", "units": "2 or 4", "prereqs": null}
-{"code": "DSGN 100", "title": "Prototyping", "units": "4", "prereqs": "DSGN 1"}
-{"code": "DSGN 119", "title": "Design at Large", "units": "2", "prereqs": {"type": "one", "courses": ["COMM 124A", "COGS 10", "DSGN 1"]}}
-{"code": "DSGN 160", "title": "Special Topics in Design", "units": "4", "prereqs": null}
-{"code": "DSGN 161", "title": "Design Project", "units": "4", "prereqs": null}
-{"code": "DSGN 195", "title": "Instructional Apprenticeship in Design", "units": "4", "prereqs": null}
-{"code": "DSGN 198", "title": "Directed Group Study", "units": "2 or 4", "prereqs": null}
-{"code": "DSGN 199", "title": "Independent Project", "units": "2 or 4", "prereqs": null}
-{"code": "DSGN 201", "title": "Human-Centered Design and Complex Sociotechnical Systems", "units": "4", "prereqs": null}
-{"code": "DSGN 260", "title": "Advanced Topics in Design", "units": "4", "prereqs": null}
-{"code": "DSGN 261", "title": "Advanced Design Project", "units": "4", "prereqs": null}
-{"code": "DSGN 299", "title": "Independent Project", "units": "2 or 4", "prereqs": null}
+{"code": "DSGN 1", "title": "Design of Everyday Things", "units": "4", "anchor": "dsgn1"}
+{"code": "DSGN 90", "title": "Undergraduate Seminar", "units": "1", "anchor": "dsgn90"}
+{"code": "DSGN 99", "title": "Independent Study", "units": "2 or 4", "anchor": "dsgn99"}
+{"code": "DSGN 100", "title": "Prototyping", "units": "4", "anchor": "dsgn100", "prereqs": "DSGN 1"}
+{"code": "DSGN 119", "title": "Design at Large", "units": "2", "anchor": "dsgn119", "prereqs": {"type": "one", "courses": ["COMM 124A", "COGS 10", "DSGN 1"]}}
+{"code": "DSGN 160", "title": "Special Topics in Design", "units": "4", "anchor": "dsgn160"}
+{"code": "DSGN 161", "title": "Design Project", "units": "4", "anchor": "dsgn161"}
+{"code": "DSGN 195", "title": "Instructional Apprenticeship in Design", "units": "4", "anchor": "dsgn195"}
+{"code": "DSGN 198", "title": "Directed Group Study", "units": "2 or 4", "anchor": "dsgn198"}
+{"code": "DSGN 199", "title": "Independent Project", "units": "2 or 4", "anchor": "dsgn199"}
+{"code": "DSGN 201", "title": "Human-Centered Design and Complex Sociotechnical Systems", "units": "4", "anchor": "dsgn201"}
+{"code": "DSGN 260", "title": "Advanced Topics in Design", "units": "4", "anchor": "dsgn260"}
+{"code": "DSGN 261", "title": "Advanced Design Project", "units": "4", "anchor": "dsgn261"}
+{"code": "DSGN 299", "title": "Independent Project", "units": "2 or 4", "anchor": "dsgn299"}

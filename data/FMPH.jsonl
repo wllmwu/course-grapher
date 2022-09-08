@@ -1,93 +1,93 @@
-{"code": "FMPH 40", "title": "Introduction to Public Health", "units": "4", "prereqs": null}
-{"code": "FMPH 50", "title": "Primary Care and Public Health", "units": "4", "prereqs": null}
-{"code": "FMPH 101", "title": "Epidemiology", "units": "4", "prereqs": {"type": "all", "courses": ["FMPH 40", {"type": "one", "courses": ["PSYC 60", "MATH 11", "COGS 14B"]}]}}
-{"code": "FMPH 102", "title": "Biostatistics in Public Health", "units": "4", "prereqs": {"type": "all", "courses": ["FMPH 40", {"type": "one", "courses": ["PSYC 60", "MATH 11", "COGS 14B"]}]}}
-{"code": "FMPH 110", "title": "Health Behavior and Chronic Diseases", "units": "4", "prereqs": "FMPH 40"}
-{"code": "FMPH 120", "title": "Health Policies for Healthy Lifestyles", "units": "4", "prereqs": "FMPH 40"}
-{"code": "FMPH 130", "title": "Environmental and Occupational Health", "units": "4", "prereqs": {"type": "all", "courses": ["FMPH 50", "FMPH 101"]}}
-{"code": "FMPH 155", "title": "Qualitative Research for Global Public Health", "units": "4", "prereqs": "FMPH 40"}
-{"code": "FMPH 161", "title": "Clinical Nutrition in Public Health", "units": "4", "prereqs": "FMPH 40"}
-{"code": "FMPH 171", "title": "Field Epidemiology and Outbreak Investigations", "units": "4", "prereqs": {"type": "all", "courses": ["FMPH 40", "FMPH 101"]}}
-{"code": "FMPH 191", "title": "Topics in Public Health", "units": "4", "prereqs": "FMPH 40"}
-{"code": "FMPH 193", "title": "Public Capstone I", "units": "4", "prereqs": {"type": "all", "courses": ["FMPH 40", "FMPH 50", "FMPH 101", "FMPH 102", "FMPH 110"]}}
-{"code": "FMPH 194", "title": "Public Capstone II", "units": "4", "prereqs": {"type": "all", "courses": ["FMPH 40", "FMPH 50", "FMPH 101", "FMPH 102", "FMPH 110", "FMPH 120", "FMPH 193"]}}
-{"code": "FMPH 195", "title": "Instruction in Public Health", "units": "4", "prereqs": null}
-{"code": "FMPH 196A", "title": "Public Health Honors Practicum I", "units": "4", "prereqs": {"type": "all", "courses": ["FMPH 40", "FMPH 50", {"type": "one", "courses": ["FMPH 101", "FMPH 102"]}, "FMPH 110"]}}
-{"code": "FMPH 196B", "title": "Public Health Honors Practicum II", "units": "4", "prereqs": "FMPH 196A"}
-{"code": "FMPH 196C", "title": "Public Health Honors Practicum III", "units": "4", "prereqs": "FMPH 196B"}
-{"code": "FMPH 198", "title": "Directed Group Study", "units": "1\u20134", "prereqs": null}
-{"code": "FMPH 199", "title": "Independent Study", "units": "2\u20134", "prereqs": null}
-{"code": "FMPH 221", "title": "Biostatistical Methods I", "units": "4", "prereqs": null}
-{"code": "FMPH 222", "title": "Biostatistical Methods II", "units": "4", "prereqs": {"type": "all", "courses": ["FMPH 221", {"type": "one", "courses": ["MATH 281A", "MATH 282A"]}]}}
-{"code": "FMPH 223", "title": "Analysis of Longitudinal Data", "units": "4", "prereqs": {"type": "all", "courses": ["FMPH 222", "MATH 281A", {"type": "one", "courses": ["MATH 282A", "MATH 281B"]}, "MATH 282B"]}}
-{"code": "FMPH 224", "title": "Clinical Trials and Experimental Design", "units": "4", "prereqs": {"type": "all", "courses": ["FMPH 221", "FMPH 222"]}}
-{"code": "FMPH 225", "title": "Advanced Topics in Biostatistical Inference", "units": "4", "prereqs": {"type": "all", "courses": ["FMPH 221", "FMPH 222", "FMPH 223"]}}
-{"code": "FMPH 226", "title": "Statistical Methods for Observational Studies", "units": "4", "prereqs": {"type": "all", "courses": ["FMPH 221", "FMPH 222", "FMPH 223"]}}
-{"code": "FMPH 227", "title": "Applied Multivariate Statistical Analysis", "units": "4", "prereqs": {"type": "all", "courses": ["FMPH 221", "FMPH 222"]}}
-{"code": "FMPH 241", "title": "Biostatistics Rotation", "units": "3", "prereqs": {"type": "all", "courses": ["FMPH 221", "FMPH 222"]}}
-{"code": "FMPH 242", "title": "Advanced Topics in Biostatistics", "units": "4", "prereqs": {"type": "all", "courses": ["FMPH 221", "FMPH 222"]}}
-{"code": "FMPH 243A", "title": "Practicum in Biostatistics A", "units": "4", "prereqs": "FMPH 221"}
-{"code": "FMPH 243B", "title": "Practicum in Biostatistics B", "units": "4", "prereqs": {"type": "all", "courses": ["FMPH 221", "FMPH 243A"]}}
-{"code": "FMPH 243C", "title": "Practicum in Biostatistics C", "units": "4", "prereqs": {"type": "all", "courses": ["FMPH 221", "FMPH 243A"]}}
-{"code": "FMPH 244A", "title": "Foundations in Biostatistics A", "units": "4", "prereqs": null}
-{"code": "FMPH 244B", "title": "Foundations in Biostatistics B", "units": "4", "prereqs": "FMPH 244A"}
-{"code": "FMPH 277", "title": "Health Policy, Technology, and Public Health", "units": "4", "prereqs": null}
-{"code": "FMPH 290", "title": "Biostatistics Journal Club and Seminar", "units": "1", "prereqs": null}
-{"code": "FMPH 291", "title": "Special Topics in Public Health", "units": "1\u20134", "prereqs": null}
-{"code": "FMPH 299", "title": "Dissertation Research", "units": "1\u201312", "prereqs": null}
-{"code": "FMPH 400", "title": "Introduction to Biostatistics", "units": "4", "prereqs": null}
-{"code": "FMPH 401", "title": "Introduction to Epidemiology", "units": "4", "prereqs": null}
-{"code": "FMPH 402", "title": "Introduction to Health Behavior", "units": "4", "prereqs": null}
-{"code": "FMPH 403", "title": "Public Health Research Methods", "units": "4", "prereqs": null}
-{"code": "FMPH 404", "title": "Introduction to Environmental and Occupational Health", "units": "4", "prereqs": null}
-{"code": "FMPH 405", "title": "Introduction to Health Policy", "units": "4", "prereqs": null}
-{"code": "FMPH 406", "title": "Scientific Writing", "units": "4", "prereqs": null}
-{"code": "FMPH 410", "title": "Health Behavior Interventions", "units": "4", "prereqs": "FMPH 402"}
-{"code": "FMPH 411", "title": "Program Optimization and Evaluation", "units": "4", "prereqs": {"type": "all", "courses": ["FMPH 402", "FMPH 403"]}}
-{"code": "FMPH 412", "title": "Health Promotion and Communication", "units": "4", "prereqs": "FMPH 402"}
-{"code": "FMPH 413", "title": "Ethics in Public Health Research and Practice", "units": "4", "prereqs": null}
-{"code": "FMPH 415", "title": "Advanced Epidemiologic Methods", "units": "4", "prereqs": "FMPH 401"}
-{"code": "FMPH 417", "title": "Cardiovascular Disease Epidemiology", "units": "4", "prereqs": "FMPH 401"}
-{"code": "FMPH 418", "title": "Infectious Diseases: Epidemiologic Methods and Emerging Trends", "units": "4", "prereqs": "FMPH 401"}
-{"code": "FMPH 419", "title": "Biostatistics II", "units": "4", "prereqs": "FMPH 400"}
-{"code": "FMPH 425", "title": "Epidemiology of Public Mental Health", "units": "4", "prereqs": "FMPH 401"}
-{"code": "FMPH 426", "title": "Public Mental and Behavior Health and Addiction", "units": "4", "prereqs": "FMPH 402"}
-{"code": "FMPH 427", "title": "Mental Health Across the Life Course", "units": "4", "prereqs": null}
-{"code": "FMPH 428", "title": "Dissemination and Implementation, Policy, and Health Services in Mental Health", "units": "4", "prereqs": null}
-{"code": "FMPH 430", "title": "Technology and Precision Health", "units": "4", "prereqs": null}
-{"code": "FMPH 431", "title": "Public Health Informatics", "units": "4", "prereqs": null}
-{"code": "FMPH 440", "title": "Introduction to Health Economics", "units": "4", "prereqs": "FMPH 405"}
-{"code": "FMPH 441", "title": "The Organization and Financing of the US Health Care System", "units": "4", "prereqs": "FMPH 405"}
-{"code": "FMPH 460", "title": "Human-Centered Design and Public Health", "units": "4", "prereqs": null}
-{"code": "FMPH 461", "title": "Current Issues in Public Health", "units": "2", "prereqs": null}
-{"code": "FMPH 462", "title": "Non-Communicable Diseases and Global Health", "units": "4", "prereqs": null}
-{"code": "FMPH 491", "title": "Special Topics in Public Health", "units": "1\u20134", "prereqs": null}
-{"code": "FMPH 495", "title": "Master\u2019s Capstone/Thesis Independent Study", "units": "2", "prereqs": {"type": "all", "courses": ["FMPH 400", "FMPH 401", "FMPH 402", "FMPH 403", "FMPH 404", "FMPH 405", "FMPH 406"]}}
-{"code": "FMPH 496", "title": "Public Health Practicum", "units": "4", "prereqs": {"type": "all", "courses": ["FMPH 400", "FMPH 401", "FMPH 402", "FMPH 403", "FMPH 404", "FMPH 405", "FMPH 406"]}}
-{"code": "FMPH 498", "title": "Independent Study", "units": "1\u201312", "prereqs": null}
-{"code": "FMPH 499", "title": "Public Health Master\u2019s Capstone/Thesis", "units": "1\u201312", "prereqs": "FMPH 495"}
-{"code": "FPM 231", "title": "Exposure Assessment and Biomarkers in Epidemiology", "units": "2", "prereqs": null}
-{"code": "FPM 233", "title": "Clinical Nutrition", "units": "2", "prereqs": null}
-{"code": "FPM 237", "title": "Microarray Technology and Informatics", "units": "2", "prereqs": null}
-{"code": "FPM 238", "title": "Introduction to Clinical Family Medicine", "units": "1\u20137", "prereqs": null}
-{"code": "FPM 244", "title": "Clinical and Public Health Elective, Baja California, Mexico", "units": "2", "prereqs": null}
-{"code": "FPM 246", "title": "Occupational/Environmental Health", "units": "2", "prereqs": null}
-{"code": "FPM 247", "title": "Clinical Epidemiology Seminar", "units": "2", "prereqs": null}
-{"code": "FPM 257", "title": "Cancer: Cause and Prevention", "units": "2", "prereqs": null}
-{"code": "FPM 258A", "title": "Public Health Doctoral Lecture Series I", "units": "2", "prereqs": null}
-{"code": "FPM 258B", "title": "Public Health Doctoral Lecture Series II", "units": "2", "prereqs": "FPM 258A"}
-{"code": "FPM 258C", "title": "Public Health Doctoral Lecture Series III", "units": "2", "prereqs": "FPM 258B"}
-{"code": "FPM 259A", "title": "Applied Epidemiology\u2014Scientific Analysis", "units": "4", "prereqs": null}
-{"code": "FPM 259B", "title": "Applied Epidemiology\u2014Scientific Writing", "units": "4", "prereqs": "FPM 259A"}
-{"code": "FPM 259C", "title": "Applied Epidemiology\u2014Scientific Presentations", "units": "4", "prereqs": "FPM 259B"}
-{"code": "FPM 270", "title": "Cultural Perceptions of Health and Disease", "units": "4", "prereqs": null}
-{"code": "FPM 272", "title": "Community Advocacy", "units": "4", "prereqs": null}
-{"code": "FPM 276", "title": "Health Behavior Interventions I", "units": "4", "prereqs": null}
-{"code": "FPM 277", "title": "Health Behavior Interventions II", "units": "4", "prereqs": null}
-{"code": "FPM 278", "title": "Scale Development for Behavioral Health Measurement", "units": "4", "prereqs": null}
-{"code": "FPM 280A", "title": "Practicum in Health Behavior I", "units": "4", "prereqs": null}
-{"code": "FPM 280B", "title": "Practicum in Health Behavior II", "units": "4", "prereqs": null}
-{"code": "FPM 280C", "title": "Practicum in Health Behavior III", "units": "4", "prereqs": null}
-{"code": "FPM 286", "title": "Free Clinic II", "units": "2 or 4", "prereqs": "FPM 272"}
-{"code": "FPM 288", "title": "Introduction to Qualitative Research Methods", "units": "4", "prereqs": null}
-{"code": "FPM 291", "title": "Dissemination and Implementation Science in Health: An Introduction", "units": "4", "prereqs": null}
+{"code": "FMPH 40", "title": "Introduction to Public Health", "units": "4", "anchor": "fmph40"}
+{"code": "FMPH 50", "title": "Primary Care and Public Health", "units": "4", "anchor": "fmph50"}
+{"code": "FMPH 101", "title": "Epidemiology", "units": "4", "anchor": "fmph101", "prereqs": {"type": "all", "courses": ["FMPH 40", {"type": "one", "courses": ["PSYC 60", "MATH 11", "COGS 14B"]}]}}
+{"code": "FMPH 102", "title": "Biostatistics in Public Health", "units": "4", "anchor": "fmph102", "prereqs": {"type": "all", "courses": ["FMPH 40", {"type": "one", "courses": ["PSYC 60", "MATH 11", "COGS 14B"]}]}}
+{"code": "FMPH 110", "title": "Health Behavior and Chronic Diseases", "units": "4", "anchor": "fmph110", "prereqs": "FMPH 40"}
+{"code": "FMPH 120", "title": "Health Policies for Healthy Lifestyles", "units": "4", "anchor": "fmph120", "prereqs": "FMPH 40"}
+{"code": "FMPH 130", "title": "Environmental and Occupational Health", "units": "4", "anchor": "fmph130", "prereqs": {"type": "all", "courses": ["FMPH 50", "FMPH 101"]}}
+{"code": "FMPH 155", "title": "Qualitative Research for Global Public Health", "units": "4", "anchor": "fmph155", "prereqs": "FMPH 40"}
+{"code": "FMPH 161", "title": "Clinical Nutrition in Public Health", "units": "4", "anchor": "fmph161", "prereqs": "FMPH 40"}
+{"code": "FMPH 171", "title": "Field Epidemiology and Outbreak Investigations", "units": "4", "anchor": "fmph171", "prereqs": {"type": "all", "courses": ["FMPH 40", "FMPH 101"]}}
+{"code": "FMPH 191", "title": "Topics in Public Health", "units": "4", "anchor": "fmph191", "prereqs": "FMPH 40"}
+{"code": "FMPH 193", "title": "Public Capstone I", "units": "4", "anchor": "fmph193", "prereqs": {"type": "all", "courses": ["FMPH 40", "FMPH 50", "FMPH 101", "FMPH 102", "FMPH 110"]}}
+{"code": "FMPH 194", "title": "Public Capstone II", "units": "4", "anchor": "fmph194", "prereqs": {"type": "all", "courses": ["FMPH 40", "FMPH 50", "FMPH 101", "FMPH 102", "FMPH 110", "FMPH 120", "FMPH 193"]}}
+{"code": "FMPH 195", "title": "Instruction in Public Health", "units": "4", "anchor": "fmph195"}
+{"code": "FMPH 196A", "title": "Public Health Honors Practicum I", "units": "4", "anchor": "fmph196a", "prereqs": {"type": "all", "courses": ["FMPH 40", "FMPH 50", {"type": "one", "courses": ["FMPH 101", "FMPH 102"]}, "FMPH 110"]}}
+{"code": "FMPH 196B", "title": "Public Health Honors Practicum II", "units": "4", "anchor": "fmph196b", "prereqs": "FMPH 196A"}
+{"code": "FMPH 196C", "title": "Public Health Honors Practicum III", "units": "4", "anchor": "fmph196c", "prereqs": "FMPH 196B"}
+{"code": "FMPH 198", "title": "Directed Group Study", "units": "1\u20134", "anchor": "fmph198"}
+{"code": "FMPH 199", "title": "Independent Study", "units": "2\u20134", "anchor": "fmph199"}
+{"code": "FMPH 221", "title": "Biostatistical Methods I", "units": "4", "anchor": "fmph221"}
+{"code": "FMPH 222", "title": "Biostatistical Methods II", "units": "4", "anchor": "fmph222", "prereqs": {"type": "all", "courses": ["FMPH 221", {"type": "one", "courses": ["MATH 281A", "MATH 282A"]}]}}
+{"code": "FMPH 223", "title": "Analysis of Longitudinal Data", "units": "4", "anchor": "fmph223", "prereqs": {"type": "all", "courses": ["FMPH 222", "MATH 281A", {"type": "one", "courses": ["MATH 282A", "MATH 281B"]}, "MATH 282B"]}}
+{"code": "FMPH 224", "title": "Clinical Trials and Experimental Design", "units": "4", "anchor": "fmph224", "prereqs": {"type": "all", "courses": ["FMPH 221", "FMPH 222"]}}
+{"code": "FMPH 225", "title": "Advanced Topics in Biostatistical Inference", "units": "4", "anchor": "fmph225", "prereqs": {"type": "all", "courses": ["FMPH 221", "FMPH 222", "FMPH 223"]}}
+{"code": "FMPH 226", "title": "Statistical Methods for Observational Studies", "units": "4", "anchor": "fmph226", "prereqs": {"type": "all", "courses": ["FMPH 221", "FMPH 222", "FMPH 223"]}}
+{"code": "FMPH 227", "title": "Applied Multivariate Statistical Analysis", "units": "4", "anchor": "fmph227", "prereqs": {"type": "all", "courses": ["FMPH 221", "FMPH 222"]}}
+{"code": "FMPH 241", "title": "Biostatistics Rotation", "units": "3", "anchor": "fmph241", "prereqs": {"type": "all", "courses": ["FMPH 221", "FMPH 222"]}}
+{"code": "FMPH 242", "title": "Advanced Topics in Biostatistics", "units": "4", "anchor": "fmph242", "prereqs": {"type": "all", "courses": ["FMPH 221", "FMPH 222"]}}
+{"code": "FMPH 243A", "title": "Practicum in Biostatistics A", "units": "4", "anchor": "fmph243a", "prereqs": "FMPH 221"}
+{"code": "FMPH 243B", "title": "Practicum in Biostatistics B", "units": "4", "anchor": "fmph243b", "prereqs": {"type": "all", "courses": ["FMPH 221", "FMPH 243A"]}}
+{"code": "FMPH 243C", "title": "Practicum in Biostatistics C", "units": "4", "anchor": "fmph243c", "prereqs": {"type": "all", "courses": ["FMPH 221", "FMPH 243A"]}}
+{"code": "FMPH 244A", "title": "Foundations in Biostatistics A", "units": "4", "anchor": "fmph244a"}
+{"code": "FMPH 244B", "title": "Foundations in Biostatistics B", "units": "4", "anchor": "fmph244b", "prereqs": "FMPH 244A"}
+{"code": "FMPH 277", "title": "Health Policy, Technology, and Public Health", "units": "4", "anchor": "fmph277"}
+{"code": "FMPH 290", "title": "Biostatistics Journal Club and Seminar", "units": "1", "anchor": "fmph290"}
+{"code": "FMPH 291", "title": "Special Topics in Public Health", "units": "1\u20134", "anchor": "fmph291"}
+{"code": "FMPH 299", "title": "Dissertation Research", "units": "1\u201312", "anchor": "fmph299"}
+{"code": "FMPH 400", "title": "Introduction to Biostatistics", "units": "4", "anchor": "fmph400"}
+{"code": "FMPH 401", "title": "Introduction to Epidemiology", "units": "4", "anchor": "fmph401"}
+{"code": "FMPH 402", "title": "Introduction to Health Behavior", "units": "4", "anchor": "fmph402"}
+{"code": "FMPH 403", "title": "Public Health Research Methods", "units": "4", "anchor": "fmph403"}
+{"code": "FMPH 404", "title": "Introduction to Environmental and Occupational Health", "units": "4", "anchor": "fmph404"}
+{"code": "FMPH 405", "title": "Introduction to Health Policy", "units": "4", "anchor": "fmph405"}
+{"code": "FMPH 406", "title": "Scientific Writing", "units": "4", "anchor": "fmph406"}
+{"code": "FMPH 410", "title": "Health Behavior Interventions", "units": "4", "anchor": "fmph410", "prereqs": "FMPH 402"}
+{"code": "FMPH 411", "title": "Program Optimization and Evaluation", "units": "4", "anchor": "fmph411", "prereqs": {"type": "all", "courses": ["FMPH 402", "FMPH 403"]}}
+{"code": "FMPH 412", "title": "Health Promotion and Communication", "units": "4", "anchor": "fmph412", "prereqs": "FMPH 402"}
+{"code": "FMPH 413", "title": "Ethics in Public Health Research and Practice", "units": "4", "anchor": "fmph413"}
+{"code": "FMPH 415", "title": "Advanced Epidemiologic Methods", "units": "4", "anchor": "fmph415", "prereqs": "FMPH 401"}
+{"code": "FMPH 417", "title": "Cardiovascular Disease Epidemiology", "units": "4", "anchor": "fmph417", "prereqs": "FMPH 401"}
+{"code": "FMPH 418", "title": "Infectious Diseases: Epidemiologic Methods and Emerging Trends", "units": "4", "anchor": "fmph418", "prereqs": "FMPH 401"}
+{"code": "FMPH 419", "title": "Biostatistics II", "units": "4", "anchor": "fmph419", "prereqs": "FMPH 400"}
+{"code": "FMPH 425", "title": "Epidemiology of Public Mental Health", "units": "4", "anchor": "fmph425", "prereqs": "FMPH 401"}
+{"code": "FMPH 426", "title": "Public Mental and Behavior Health and Addiction", "units": "4", "anchor": "fmph426", "prereqs": "FMPH 402"}
+{"code": "FMPH 427", "title": "Mental Health Across the Life Course", "units": "4", "anchor": "fmph427"}
+{"code": "FMPH 428", "title": "Dissemination and Implementation, Policy, and Health Services in Mental Health", "units": "4", "anchor": "fmph428"}
+{"code": "FMPH 430", "title": "Technology and Precision Health", "units": "4", "anchor": "fmph430"}
+{"code": "FMPH 431", "title": "Public Health Informatics", "units": "4", "anchor": "fmph431"}
+{"code": "FMPH 440", "title": "Introduction to Health Economics", "units": "4", "anchor": "fmph440", "prereqs": "FMPH 405"}
+{"code": "FMPH 441", "title": "The Organization and Financing of the US Health Care System", "units": "4", "anchor": "fmph441", "prereqs": "FMPH 405"}
+{"code": "FMPH 460", "title": "Human-Centered Design and Public Health", "units": "4", "anchor": "fmph460"}
+{"code": "FMPH 461", "title": "Current Issues in Public Health", "units": "2", "anchor": "fmph461"}
+{"code": "FMPH 462", "title": "Non-Communicable Diseases and Global Health", "units": "4", "anchor": "fmph462"}
+{"code": "FMPH 491", "title": "Special Topics in Public Health", "units": "1\u20134", "anchor": "fmph491"}
+{"code": "FMPH 495", "title": "Master\u2019s Capstone/Thesis Independent Study", "units": "2", "anchor": "fmph495", "prereqs": {"type": "all", "courses": ["FMPH 400", "FMPH 401", "FMPH 402", "FMPH 403", "FMPH 404", "FMPH 405", "FMPH 406"]}}
+{"code": "FMPH 496", "title": "Public Health Practicum", "units": "4", "anchor": "fmph496", "prereqs": {"type": "all", "courses": ["FMPH 400", "FMPH 401", "FMPH 402", "FMPH 403", "FMPH 404", "FMPH 405", "FMPH 406"]}}
+{"code": "FMPH 498", "title": "Independent Study", "units": "1\u201312", "anchor": "fmph498"}
+{"code": "FMPH 499", "title": "Public Health Master\u2019s Capstone/Thesis", "units": "1\u201312", "anchor": "fmph499", "prereqs": "FMPH 495"}
+{"code": "FPM 231", "title": "Exposure Assessment and Biomarkers in Epidemiology", "units": "2", "anchor": "fmp231"}
+{"code": "FPM 233", "title": "Clinical Nutrition", "units": "2", "anchor": "fpm233"}
+{"code": "FPM 237", "title": "Microarray Technology and Informatics", "units": "2", "anchor": "fpm237"}
+{"code": "FPM 238", "title": "Introduction to Clinical Family Medicine", "units": "1\u20137", "anchor": "fpm238"}
+{"code": "FPM 244", "title": "Clinical and Public Health Elective, Baja California, Mexico", "units": "2", "anchor": "fpm244"}
+{"code": "FPM 246", "title": "Occupational/Environmental Health", "units": "2", "anchor": "fpm246"}
+{"code": "FPM 247", "title": "Clinical Epidemiology Seminar", "units": "2", "anchor": "fpm247"}
+{"code": "FPM 257", "title": "Cancer: Cause and Prevention", "units": "2", "anchor": "fpm257"}
+{"code": "FPM 258A", "title": "Public Health Doctoral Lecture Series I", "units": "2", "anchor": "fpm258a"}
+{"code": "FPM 258B", "title": "Public Health Doctoral Lecture Series II", "units": "2", "anchor": "fpm258b", "prereqs": "FPM 258A"}
+{"code": "FPM 258C", "title": "Public Health Doctoral Lecture Series III", "units": "2", "anchor": "fpm258c", "prereqs": "FPM 258B"}
+{"code": "FPM 259A", "title": "Applied Epidemiology\u2014Scientific Analysis", "units": "4", "anchor": "fpm259a"}
+{"code": "FPM 259B", "title": "Applied Epidemiology\u2014Scientific Writing", "units": "4", "anchor": "fpm259b", "prereqs": "FPM 259A"}
+{"code": "FPM 259C", "title": "Applied Epidemiology\u2014Scientific Presentations", "units": "4", "anchor": "fpm259c", "prereqs": "FPM 259B"}
+{"code": "FPM 270", "title": "Cultural Perceptions of Health and Disease", "units": "4", "anchor": "fpm270"}
+{"code": "FPM 272", "title": "Community Advocacy", "units": "4", "anchor": "fpm272"}
+{"code": "FPM 276", "title": "Health Behavior Interventions I", "units": "4", "anchor": "fpm276"}
+{"code": "FPM 277", "title": "Health Behavior Interventions II", "units": "4", "anchor": "fpm277"}
+{"code": "FPM 278", "title": "Scale Development for Behavioral Health Measurement", "units": "4", "anchor": "fpm278"}
+{"code": "FPM 280A", "title": "Practicum in Health Behavior I", "units": "4", "anchor": "fpm280a"}
+{"code": "FPM 280B", "title": "Practicum in Health Behavior II", "units": "4", "anchor": "fpm280b"}
+{"code": "FPM 280C", "title": "Practicum in Health Behavior III", "units": "4", "anchor": "fpm280c"}
+{"code": "FPM 286", "title": "Free Clinic II", "units": "2 or 4", "anchor": "fpm286", "prereqs": "FPM 272"}
+{"code": "FPM 288", "title": "Introduction to Qualitative Research Methods", "units": "4", "anchor": "fpm288"}
+{"code": "FPM 291", "title": "Dissemination and Implementation Science in Health: An Introduction", "units": "4", "anchor": "fpm291"}

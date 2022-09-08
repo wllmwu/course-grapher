@@ -1,56 +1,56 @@
-{"code": "GLBH 20", "title": "Introduction to Global Health", "units": "4", "prereqs": null}
-{"code": "GLBH 100", "title": "Special Topics in Global Health", "units": "4", "prereqs": null}
-{"code": "GLBH 101", "title": "Aging: Culture and Health in Late Life Human Development", "units": "4", "prereqs": null}
-{"code": "GLBH 102", "title": "Global Health Epidemiology", "units": "4", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["COGS 14B", "MATH 11", "PSYC 60"]}, {"type": "one", "courses": ["GLBH 20", "FMPH 40"]}, "GLBH 181"]}}
-{"code": "GLBH 103", "title": "Global Health Disparities and the Quest for Global Health Equity", "units": "4", "prereqs": null}
-{"code": "GLBH 104", "title": "Humanities, Ethics, and Professionalism: Engaging Moral Imaginaries for Exploring Health and the Human Condition", "units": "4", "prereqs": null}
-{"code": "GLBH 105", "title": "Global Health and Inequality", "units": "4", "prereqs": null}
-{"code": "GLBH 106", "title": "Water, Sanitation, and Hygiene in Global Health", "units": "4", "prereqs": null}
-{"code": "GLBH 107", "title": "Refugee Health in Local and Global Contexts", "units": "4", "prereqs": null}
-{"code": "GLBH 108S", "title": "The Indigenous Futures Lab", "units": "IFL", "prereqs": null}
-{"code": "GLBH 109", "title": "Decolonizing Global Health", "units": "4", "prereqs": null}
-{"code": "GLBH 110", "title": "Demography and Social Networks in Global Health", "units": "4", "prereqs": null}
-{"code": "GLBH 111", "title": "Clinic on the Border: Health Frontiers in Tijuana", "units": "4", "prereqs": null}
-{"code": "GLBH 112", "title": "Medicine, Global Health, and Bioethics", "units": "4", "prereqs": null}
-{"code": "GLBH 113", "title": "Women\u2019s Health in Global Perspective", "units": "4", "prereqs": null}
-{"code": "GLBH 114", "title": "Latin American Health and Healing", "units": "4", "prereqs": null}
-{"code": "GLBH 129", "title": "Meaning and Healing", "units": "4", "prereqs": null}
-{"code": "GLBH 139", "title": "Native American Health and Healing", "units": "4", "prereqs": null}
-{"code": "GLBH 141", "title": "Clinical Perspectives in Global Health", "units": "4", "prereqs": null}
-{"code": "GLBH 142", "title": "\u201cWhen the field is a ward\u201d: Ethnographies of the Clinic", "units": "4", "prereqs": null}
-{"code": "GLBH 143", "title": "Mental Health as Global Health Priority", "units": "4", "prereqs": null}
-{"code": "GLBH 146", "title": "A Global Health Perspective on HIV", "units": "4", "prereqs": null}
-{"code": "GLBH 147", "title": "Global Health and the Environment", "units": "4", "prereqs": null}
-{"code": "GLBH 148", "title": "Global Health and Cultural Diversity", "units": "4", "prereqs": null}
-{"code": "GLBH 150", "title": "Culture and Mental Health", "units": "4", "prereqs": null}
-{"code": "GLBH 150A", "title": "Global Health Horizons Honors Thesis Seminar I", "units": "4", "prereqs": null}
-{"code": "GLBH 150B", "title": "Global Health Horizons Honors Thesis Seminar II", "units": "4", "prereqs": "GLBH 150A"}
-{"code": "GLBH 160", "title": "Global Health Policy", "units": "4", "prereqs": null}
-{"code": "GLBH 171R", "title": "Global Mental Health", "units": "4", "prereqs": null}
-{"code": "GLBH 173", "title": "Substance Use and Global Mental Health: Case Studies for Research and Praxis", "units": "4", "prereqs": null}
-{"code": "GLBH 181", "title": "Essentials of Global Health", "units": "4", "prereqs": null}
-{"code": "GLBH 195", "title": "Instructional Apprenticeship in Global Health", "units": "4", "prereqs": null}
-{"code": "GLBH 196", "title": "Global Health and Social Justice Seminar", "units": "1", "prereqs": null}
-{"code": "GLBH 197", "title": "Global Health Academic Internship Program", "units": "4", "prereqs": null}
-{"code": "GLBH 198", "title": "Directed Group Study", "units": "4", "prereqs": null}
-{"code": "GLBH 199", "title": "Independent Study in Global Health Field Experience", "units": "4", "prereqs": null}
-{"code": "GLBH 200", "title": "Global Health Master\u2019s Core Seminar", "units": "4", "prereqs": null}
-{"code": "GLBH 201", "title": "Special Topics in Global Health", "units": "4", "prereqs": null}
-{"code": "GLBH 202", "title": "Global Health Epidemiology", "units": "4", "prereqs": null}
-{"code": "GLBH 211", "title": "Clinic on the Border: Health Frontiers in Tijuana", "units": "4", "prereqs": null}
-{"code": "GLBH 212", "title": "\u201cExperiencing Epidemics\u201d: Anthropologies of Infectious Diseases", "units": "4", "prereqs": null}
-{"code": "GLBH 213", "title": "Global Health Program Design and Evaluation", "units": "4", "prereqs": null}
-{"code": "GLBH 214", "title": "Program Management in Global Health", "units": "4", "prereqs": null}
-{"code": "GLBH 215", "title": "Community Health Workers", "units": "4", "prereqs": null}
-{"code": "GLBH 241", "title": "Clinical Perspectives in Global Health", "units": "4", "prereqs": null}
-{"code": "GLBH 245", "title": "Native American Health and Healing", "units": "4", "prereqs": null}
-{"code": "GLBH 248", "title": "Introduction to Global Health Research", "units": "4", "prereqs": null}
-{"code": "GLBH 249", "title": "Special Epidemiology", "units": "4", "prereqs": null}
-{"code": "GLBH 260", "title": "Global Health Policy", "units": "4", "prereqs": null}
-{"code": "GLBH 261", "title": "Global Health Policy, Diplomacy, and Advocacy", "units": "4", "prereqs": "GLBH 260"}
-{"code": "GLBH 274", "title": "Global Mental Health", "units": "4", "prereqs": null}
-{"code": "GLBH 281", "title": "Essentials of Global Health", "units": "4", "prereqs": null}
-{"code": "GLBH 297", "title": "Global Health Internship", "units": "4", "prereqs": null}
-{"code": "GLBH 298", "title": "Directed Study", "units": "2\u201312", "prereqs": null}
-{"code": "GLBH 299", "title": "Independent Research", "units": "2\u201312", "prereqs": null}
-{"code": "GLBH 500", "title": "Teaching Apprenticeship", "units": "1\u20134", "prereqs": null}
+{"code": "GLBH 20", "title": "Introduction to Global Health", "units": "4", "anchor": "glbh20"}
+{"code": "GLBH 100", "title": "Special Topics in Global Health", "units": "4", "anchor": "glbh100"}
+{"code": "GLBH 101", "title": "Aging: Culture and Health in Late Life Human Development", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 102", "title": "Global Health Epidemiology", "units": "4", "anchor": "glbh101", "prereqs": {"type": "all", "courses": [{"type": "one", "courses": ["COGS 14B", "MATH 11", "PSYC 60"]}, {"type": "one", "courses": ["GLBH 20", "FMPH 40"]}, "GLBH 181"]}}
+{"code": "GLBH 103", "title": "Global Health Disparities and the Quest for Global Health Equity", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 104", "title": "Humanities, Ethics, and Professionalism: Engaging Moral Imaginaries for Exploring Health and the Human Condition", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 105", "title": "Global Health and Inequality", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 106", "title": "Water, Sanitation, and Hygiene in Global Health", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 107", "title": "Refugee Health in Local and Global Contexts", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 108S", "title": "The Indigenous Futures Lab", "units": "IFL", "anchor": "glbh101"}
+{"code": "GLBH 109", "title": "Decolonizing Global Health", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 110", "title": "Demography and Social Networks in Global Health", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 111", "title": "Clinic on the Border: Health Frontiers in Tijuana", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 112", "title": "Medicine, Global Health, and Bioethics", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 113", "title": "Women\u2019s Health in Global Perspective", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 114", "title": "Latin American Health and Healing", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 129", "title": "Meaning and Healing", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 139", "title": "Native American Health and Healing", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 141", "title": "Clinical Perspectives in Global Health", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 142", "title": "\u201cWhen the field is a ward\u201d: Ethnographies of the Clinic", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 143", "title": "Mental Health as Global Health Priority", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 146", "title": "A Global Health Perspective on HIV", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 147", "title": "Global Health and the Environment", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 148", "title": "Global Health and Cultural Diversity", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 150", "title": "Culture and Mental Health", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 150A", "title": "Global Health Horizons Honors Thesis Seminar I", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 150B", "title": "Global Health Horizons Honors Thesis Seminar II", "units": "4", "anchor": "glbh101", "prereqs": "GLBH 150A"}
+{"code": "GLBH 160", "title": "Global Health Policy", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 171R", "title": "Global Mental Health", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 173", "title": "Substance Use and Global Mental Health: Case Studies for Research and Praxis", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 181", "title": "Essentials of Global Health", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 195", "title": "Instructional Apprenticeship in Global Health", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 196", "title": "Global Health and Social Justice Seminar", "units": "1", "anchor": "glbh101"}
+{"code": "GLBH 197", "title": "Global Health Academic Internship Program", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 198", "title": "Directed Group Study", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 199", "title": "Independent Study in Global Health Field Experience", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 200", "title": "Global Health Master\u2019s Core Seminar", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 201", "title": "Special Topics in Global Health", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 202", "title": "Global Health Epidemiology", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 211", "title": "Clinic on the Border: Health Frontiers in Tijuana", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 212", "title": "\u201cExperiencing Epidemics\u201d: Anthropologies of Infectious Diseases", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 213", "title": "Global Health Program Design and Evaluation", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 214", "title": "Program Management in Global Health", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 215", "title": "Community Health Workers", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 241", "title": "Clinical Perspectives in Global Health", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 245", "title": "Native American Health and Healing", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 248", "title": "Introduction to Global Health Research", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 249", "title": "Special Epidemiology", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 260", "title": "Global Health Policy", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 261", "title": "Global Health Policy, Diplomacy, and Advocacy", "units": "4", "anchor": "glbh101", "prereqs": "GLBH 260"}
+{"code": "GLBH 274", "title": "Global Mental Health", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 281", "title": "Essentials of Global Health", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 297", "title": "Global Health Internship", "units": "4", "anchor": "glbh101"}
+{"code": "GLBH 298", "title": "Directed Study", "units": "2\u201312", "anchor": "glbh101"}
+{"code": "GLBH 299", "title": "Independent Research", "units": "2\u201312", "anchor": "glbh101"}
+{"code": "GLBH 500", "title": "Teaching Apprenticeship", "units": "1\u20134", "anchor": "glbh101"}

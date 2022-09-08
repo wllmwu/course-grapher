@@ -1,22 +1,22 @@
-{"code": "HDS 1", "title": "Introduction to Human Developmental Sciences", "units": "4", "prereqs": null}
-{"code": "HDS 60", "title": "Introduction to Statistical Analysis", "units": "4", "prereqs": null}
-{"code": "HDS 95", "title": "Career Development Seminar", "units": "1\u20132", "prereqs": null}
-{"code": "HDS 98", "title": "Directed Group Study", "units": "1\u20132", "prereqs": null}
-{"code": "HDS 99", "title": "Independent Study in Human Developmental Sciences", "units": "2\u20134", "prereqs": null}
-{"code": "HDS 110", "title": "Brain and Behavioral Development", "units": "4", "prereqs": {"type": "one", "courses": ["HDP 1", "HDS 1", "PSYC 101"]}}
-{"code": "HDS 111", "title": "Evolutionary Principles in Human Development", "units": "4", "prereqs": {"type": "one", "courses": ["HDP 1", "HDS 1", "ANTH 2", "BILD 3"]}}
-{"code": "HDS 120", "title": "Language Development", "units": "4", "prereqs": {"type": "one", "courses": ["HDP 1", "HDS 1", "LIGN 4"]}}
-{"code": "HDS 121", "title": "The Developing Mind", "units": "4", "prereqs": {"type": "one", "courses": ["HDP 1", "HDS 1", "COGS 1"]}}
-{"code": "HDS 122", "title": "Development of Social Cognition", "units": "4", "prereqs": {"type": "one", "courses": ["HDP 1", "HDS 1"]}}
-{"code": "HDS 133", "title": "Cross-Cultural Perspectives on Developmental Science", "units": "4", "prereqs": {"type": "one", "courses": ["HDP 1", "HDS 1", "PSYC 1"]}}
-{"code": "HDS 150", "title": "Senior Seminar", "units": "4", "prereqs": {"type": "one", "courses": ["HDP 181", "HDS 181"]}}
-{"code": "HDS 160", "title": "Special Topics Seminar in Human Developmental Sciences", "units": "4", "prereqs": null}
-{"code": "HDS 171", "title": "Diversity in Human Development: A Cultural Competency Approach", "units": "4", "prereqs": null}
-{"code": "HDS 173", "title": "Race, Media, and Identity Development Across the Lifespan", "units": "4", "prereqs": null}
-{"code": "HDS 175", "title": "Power, Wealth, and Inequality in Human Development", "units": "4", "prereqs": null}
-{"code": "HDS 181", "title": "Experimental Projects in Human Development Research", "units": "6", "prereqs": {"type": "all", "courses": ["HDS 1", {"type": "one", "courses": ["BIEB 100", "COGS 14B", "ECON 120A", "MATH 11", "POLI 30", "POLI 30D", "PSYC 60"]}]}}
-{"code": "HDS 191", "title": "Field Research in Human Development", "units": "6", "prereqs": {"type": "all", "courses": ["HDS 1", "HDS 181"]}}
-{"code": "HDS 193", "title": "Advanced Research in Human Developmental Sciences", "units": "4", "prereqs": null}
-{"code": "HDS 194A-B-C", "title": ". Honors Thesis in Human Developmental Sciences", "units": "4-4-4", "prereqs": null}
-{"code": "HDS 195", "title": "Instructional Apprentice in Human Developmental Sciences", "units": "4", "prereqs": null}
-{"code": "HDS 199", "title": "Independent Study in Human Developmental Sciences", "units": "4", "prereqs": null}
+{"code": "HDS 1", "title": "Introduction to Human Developmental Sciences", "units": "4", "anchor": "hds1"}
+{"code": "HDS 60", "title": "Introduction to Statistical Analysis", "units": "4", "anchor": "hds60"}
+{"code": "HDS 95", "title": "Career Development Seminar", "units": "1\u20132", "anchor": "hds95"}
+{"code": "HDS 98", "title": "Directed Group Study", "units": "1\u20132", "anchor": "hds98"}
+{"code": "HDS 99", "title": "Independent Study in Human Developmental Sciences", "units": "2\u20134", "anchor": "hds99"}
+{"code": "HDS 110", "title": "Brain and Behavioral Development", "units": "4", "anchor": "hds110", "prereqs": {"type": "one", "courses": ["HDP 1", "HDS 1", "PSYC 101"]}}
+{"code": "HDS 111", "title": "Evolutionary Principles in Human Development", "units": "4", "anchor": "hds111", "prereqs": {"type": "one", "courses": ["HDP 1", "HDS 1", "ANTH 2", "BILD 3"]}}
+{"code": "HDS 120", "title": "Language Development", "units": "4", "anchor": "hds120", "prereqs": {"type": "one", "courses": ["HDP 1", "HDS 1", "LIGN 4"]}}
+{"code": "HDS 121", "title": "The Developing Mind", "units": "4", "anchor": "hds121", "prereqs": {"type": "one", "courses": ["HDP 1", "HDS 1", "COGS 1"]}}
+{"code": "HDS 122", "title": "Development of Social Cognition", "units": "4", "anchor": "hds122", "prereqs": {"type": "one", "courses": ["HDP 1", "HDS 1"]}}
+{"code": "HDS 133", "title": "Cross-Cultural Perspectives on Developmental Science", "units": "4", "anchor": "hds133", "prereqs": {"type": "one", "courses": ["HDP 1", "HDS 1", "PSYC 1"]}}
+{"code": "HDS 150", "title": "Senior Seminar", "units": "4", "anchor": "hds150", "prereqs": {"type": "one", "courses": ["HDP 181", "HDS 181"]}}
+{"code": "HDS 160", "title": "Special Topics Seminar in Human Developmental Sciences", "units": "4", "anchor": "hds160"}
+{"code": "HDS 171", "title": "Diversity in Human Development: A Cultural Competency Approach", "units": "4", "anchor": "hds171"}
+{"code": "HDS 173", "title": "Race, Media, and Identity Development Across the Lifespan", "units": "4", "anchor": "hds173"}
+{"code": "HDS 175", "title": "Power, Wealth, and Inequality in Human Development", "units": "4", "anchor": "hds175"}
+{"code": "HDS 181", "title": "Experimental Projects in Human Development Research", "units": "6", "anchor": "hds181", "prereqs": {"type": "all", "courses": ["HDS 1", {"type": "one", "courses": ["BIEB 100", "COGS 14B", "ECON 120A", "MATH 11", "POLI 30", "POLI 30D", "PSYC 60"]}]}}
+{"code": "HDS 191", "title": "Field Research in Human Development", "units": "6", "anchor": "hds191", "prereqs": {"type": "all", "courses": ["HDS 1", "HDS 181"]}}
+{"code": "HDS 193", "title": "Advanced Research in Human Developmental Sciences", "units": "4", "anchor": "hds193"}
+{"code": "HDS 194A-B-C", "title": ". Honors Thesis in Human Developmental Sciences", "units": "4-4-4", "anchor": "hds194c"}
+{"code": "HDS 195", "title": "Instructional Apprentice in Human Developmental Sciences", "units": "4", "anchor": "hds195"}
+{"code": "HDS 199", "title": "Independent Study in Human Developmental Sciences", "units": "4", "anchor": "hds199"}
