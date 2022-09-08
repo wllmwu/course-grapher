@@ -1,5 +1,6 @@
 import argparse
 from catalog_spider import CatalogSpider
+from postprocessor import Postprocessor
 from scrapy.crawler import CrawlerProcess
 from typing import Final
 
@@ -32,4 +33,7 @@ if __name__ == '__main__':
         'LOG_LEVEL': args.log_level,
     })
     process.crawl(CatalogSpider, dry_run=args.dry_run)
-    process.start()
+    process.start()  # blocks until finished
+    if not args.dry_run:
+        postprocessor = Postprocessor()
+        postprocessor.run()
