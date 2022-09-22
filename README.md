@@ -50,3 +50,4 @@ See options for logging by adding `-h` or `--help`.
 
 - Next.js documentation: <https://nextjs.org/docs/getting-started>
 - GitHub Pages documentation: <https://docs.github.com/en/pages>
+- GitHub Actions documentation: <https://docs.github.com/en/actions>
