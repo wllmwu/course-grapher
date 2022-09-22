@@ -37,9 +37,16 @@ See options for logging by adding `-h` or `--help`.
 
 ## Sources
 
+### Scraping
+
 - Scrapy documentation: <https://docs.scrapy.org/en/latest/>
 - Python `re` module documentation: <https://docs.python.org/3/library/re.html>
 - Python `argparse` module documentation: <https://docs.python.org/3/library/argparse.html>
 - Python `os` module documentation: <https://docs.python.org/3/library/os.html>
 - JSON Lines format: <https://jsonlines.org>
 - jsonlines documentation: <https://jsonlines.readthedocs.io/en/latest/>
+
+### Webapp
+
+- Next.js documentation: <https://nextjs.org/docs/getting-started>
+- GitHub Pages documentation: <https://docs.github.com/en/pages>
