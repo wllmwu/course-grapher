@@ -23,7 +23,7 @@
 
 .navBar {
   width: 100%;
-  background-color: #00629b;
+  background-color: var(--core-blue);
 }
 
 .navBarLinkList {
@@ -47,5 +47,16 @@
 }
 
 .navBarLink:hover {
-  background-color: #004268;
+  background-color: var(--core-blue-darken);
+}
+
+.footer {
+  width: 100%;
+  background-color: var(--core-blue);
+  padding: 1rem 8rem;
+  color: #fff;
+}
+
+.footer p {
+  margin: 0.5em 0;
 }

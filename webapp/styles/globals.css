@@ -1,3 +1,8 @@
+:root {
+  --core-blue: #00629b;
+  --core-blue-darken: #004268;
+}
+
 html,
 body {
   padding: 0;

@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "./Header";
+import Footer from "./Footer";
 import styles from "../styles/Layout.module.css";
 
 interface LayoutProps {
@@ -11,6 +12,7 @@ function Layout({ children }: LayoutProps) {
     <div className={styles.background}>
       <Header />
       <main>{children}</main>
+      <Footer />
     </div>
   );
 }
