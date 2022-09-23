@@ -1,0 +1,19 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+tolint=`git diff --cached --diff-filter=d --name-only --relative \
+  | grep -E '\.(js|jsx|ts|tsx)$' | tr '\n' ' '`
+if [ -n "${tolint}" ]
+then
+  npm run lint ${tolint}
+  if [ "$?" -ne 0 ]
+  then
+    exit 1
+  fi
+fi
+
+notstaged=`git diff --name-only`
+if [ -n "${notstaged}" ]
+then
+  echo "Note: Some files were changed but not added to the commit."
+fi
