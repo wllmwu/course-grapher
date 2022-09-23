@@ -1,7 +1,7 @@
 .background {
   min-width: 100%;
   min-height: 100%;
-  background-color: #fff;
+  background-color: var(--background);
 }
 
 .headerBigLink {
@@ -55,10 +55,6 @@
   background-color: var(--core-blue);
   padding: 1rem 8rem;
   color: #fff;
-}
-
-.footer p {
-  margin: 0.5em 0;
 }
 
 .footer a {

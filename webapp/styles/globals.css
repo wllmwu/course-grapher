@@ -1,6 +1,8 @@
 :root {
   --core-blue: #00629b;
   --core-blue-darken: #004268;
+  --background: #fff;
+  --text-primary: #000;
 }
 
 html,
@@ -8,23 +10,29 @@ body {
   padding: 0;
   margin: 0;
   font-family: Roboto, Helvetica, Arial, sans-serif;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
+  color: var(--text-primary);
 }
 
 * {
   box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
+h1 {
+  margin: 1rem auto;
+  font-size: 2rem;
+}
+
+h2 {
+  margin: 1rem 0;
+  font-size: 1.5rem;
+}
+
+p {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
 }
