@@ -12,7 +12,7 @@ const quickLinks = [
   },
   {
     title: "General Catalog",
-    description: "Official online course catalog from UCSD",
+    description: "The official online course catalog from UCSD",
     link: "https://catalog.ucsd.edu/front/courses.html",
   },
   {
@@ -52,6 +52,14 @@ function Home() {
           </li>
         ))}
       </ul>
+      <h2>Note</h2>
+      <p>
+        All department and course information on this site is generated
+        automatically based on the contents of the official catalog. There may
+        be errors and discrepancies, so be sure to check the catalog, WebReg,
+        department websites, etc. when planning your courses, and ask an advisor
+        if anything is in doubt.
+      </p>
     </Page>
   );
 }
