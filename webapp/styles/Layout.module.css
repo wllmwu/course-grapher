@@ -60,3 +60,7 @@
 .footer p {
   margin: 0.5em 0;
 }
+
+.footer a {
+  text-decoration: underline;
+}
