@@ -72,6 +72,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-nextjs-${{ hashFiles('**/package-lock.json', '**/yarn.lock') }}-
       - name: Install dependencies
+        env:
+          HUSKY: 0
         run: cd webapp && ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
       - name: Build with Next.js
         run: cd webapp && ${{ steps.detect-package-manager.outputs.runner }} next build

@@ -10,9 +10,10 @@ Minimum Python version: 3.10
 
 ### Getting started
 
-In the repository root, create and activate a virtual environment:
+In the `scraping` folder, create and activate a virtual environment:
 
 ```
+cd scraping
 python3 -m venv .venv
 source .venv/bin/activate
 ```
@@ -27,13 +28,23 @@ To update the requirements file, run `pip freeze > requirements.txt`.
 
 ### Running the web scraper
 
-With the virtual environment activated, run this command in the repository root:
+With the virtual environment activated, run this command:
 
 ```
-python scraping/scrape.py
+python scrape.py
 ```
 
-See options for logging by adding `-h` or `--help`.
+The script will crawl the course catalog and store data in the `scraping/data` folder. See options for logging by adding `-h` or `--help`.
+
+### Running the webapp locally
+
+Run the webapp on a local development server:
+
+```
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in a browser to see the result.
 
 ## Sources
 
