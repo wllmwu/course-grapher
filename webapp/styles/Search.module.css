@@ -1,0 +1,13 @@
+.searchForm {
+  display: flex;
+  justify-content: center;
+}
+
+.searchBar {
+  width: 50%;
+  padding: 0.5rem 0.75rem;
+  font-size: 1.25rem;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  border: 1px solid #747678;
+  border-radius: 0.5rem;
+}

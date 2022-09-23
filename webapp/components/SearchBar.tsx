@@ -17,15 +17,20 @@ function SearchBar() {
   return (
     <form
       onSubmit={(event) => {
-        pushSearchPage(searchText);
+        const query = searchText.trim();
+        if (query.length > 0) {
+          pushSearchPage(query);
+        }
         event.preventDefault();
       }}
+      className={styles.searchForm}
     >
       <input
         type="text"
         placeholder="Search for a course..."
         value={searchText}
         onChange={(event) => setSearchText(event.target.value)}
+        className={styles.searchBar}
       />
     </form>
   );
