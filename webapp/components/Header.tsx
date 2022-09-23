@@ -21,11 +21,11 @@ function Header() {
   return (
     <header>
       <Link href="/">
-        <a className={styles.headerBigLink}>GAPE</a>
+        <a className={styles.headerBigLink}>
+          <h1>GAPE</h1>
+          <h2>Graphical Assistant for Prerequisite Enrollment</h2>
+        </a>
       </Link>
-      <p className={styles.headerSubtitle}>
-        Graphical Assistant for Prerequisite Enrollment
-      </p>
       <nav className={styles.navBar}>
         <ul className={styles.navBarLinkList}>
           {navBarLinks.map(({ title, link }) => (

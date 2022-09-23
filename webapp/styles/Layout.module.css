@@ -5,17 +5,20 @@
 }
 
 .headerBigLink {
-  margin-top: 2rem;
+  margin: 2rem 0;
   margin-left: 8rem;
   display: inline-block;
+}
+
+.headerBigLink h1 {
+  margin: 0;
   font-size: 2rem;
 }
 
-.headerSubtitle {
+.headerBigLink h2 {
   margin: 0;
-  margin-left: 8rem;
-  margin-bottom: 1.5rem;
-  font-size: 0.75rem;
+  font-size: 1rem;
+  font-weight: normal;
 }
 
 .navBar {
