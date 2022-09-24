@@ -27,7 +27,7 @@ const quickLinks = [
   },
 ];
 
-function Home() {
+function HomePage() {
   return (
     <Page>
       <h1 className={styles.center}>Welcome to GAPE!</h1>
@@ -64,4 +64,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default HomePage;
