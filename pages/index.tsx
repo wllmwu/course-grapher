@@ -3,7 +3,8 @@ import Head from "next/head";
 import Link from "next/link";
 import Page from "../components/Page";
 import SearchBar from "../components/SearchBar";
-import styles from "../styles/Home.module.css";
+import styles from "../styles/HomePage.module.css";
+import cardStyles from "../styles/LinkCard.module.css";
 
 const quickLinks = [
   {
@@ -47,7 +48,7 @@ function HomePage() {
           <li key={link} className={styles.quickLinkItem}>
             <Link href={link}>
               <a>
-                <div className={styles.quickLinkBox}>
+                <div className={cardStyles.card}>
                   <h3>{title}</h3>
                   <p>{description}</p>
                 </div>
