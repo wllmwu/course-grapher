@@ -1,8 +1,10 @@
 import React from "react";
+import Head from "next/head";
 import Link from "next/link";
 import Page from "../components/Page";
 import SearchBar from "../components/SearchBar";
-import styles from "../styles/Home.module.css";
+import LinkCard from "../components/LinkCard";
+import styles from "../styles/HomePage.module.css";
 
 const quickLinks = [
   {
@@ -27,9 +29,12 @@ const quickLinks = [
   },
 ];
 
-function Home() {
+function HomePage() {
   return (
     <Page>
+      <Head>
+        <title>Home | GAPE</title>
+      </Head>
       <h1 className={styles.center}>Welcome to GAPE!</h1>
       <p className={styles.center}>
         The Graphical Assistant for Prerequisite Enrollment can help you
@@ -41,14 +46,7 @@ function Home() {
       <ul className={styles.quickLinkList}>
         {quickLinks.map(({ title, description, link }) => (
           <li key={link} className={styles.quickLinkItem}>
-            <Link href={link}>
-              <a>
-                <div className={styles.quickLinkBox}>
-                  <h3>{title}</h3>
-                  <p>{description}</p>
-                </div>
-              </a>
-            </Link>
+            <LinkCard title={title} subtitle={description} href={link} />
           </li>
         ))}
       </ul>
@@ -64,4 +62,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default HomePage;

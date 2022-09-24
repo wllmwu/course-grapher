@@ -20,24 +20,6 @@
   min-width: 12rem;
 }
 
-.quickLinkBox {
+.quickLinkItem div {
   height: 100%;
-  padding: 0.75rem;
-  border: 1px solid #747678;
-  border-radius: 0.5rem;
-}
-
-.quickLinkBox:hover {
-  border-color: var(--core-blue);
-  color: var(--core-blue);
-}
-
-.quickLinkBox h3 {
-  margin: 0;
-  margin-bottom: 0.5rem;
-  font-size: 1.125rem;
-}
-
-.quickLinkBox p {
-  margin: 0;
 }

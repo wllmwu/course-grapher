@@ -1,0 +1,19 @@
+.letterList {
+  white-space: pre;
+  font-size: 1.5rem;
+}
+
+.cardListWrapper {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.cardList {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.card {
+  margin-bottom: 0.5rem;
+}

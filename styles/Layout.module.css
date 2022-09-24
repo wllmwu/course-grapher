@@ -8,6 +8,11 @@
   margin: 2rem 0;
   margin-left: 8rem;
   display: inline-block;
+  color: inherit;
+}
+
+.headerBigLink:hover {
+  text-decoration: none;
 }
 
 .headerBigLink h1 {
@@ -48,6 +53,7 @@
 
 .navBarLink:hover {
   background-color: var(--core-blue-darken);
+  text-decoration: none;
 }
 
 .footer {
@@ -58,5 +64,6 @@
 }
 
 .footer a {
+  color: inherit;
   text-decoration: underline;
 }
