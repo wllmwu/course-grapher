@@ -1,5 +1,6 @@
 import React from "react";
 import type { GetStaticProps } from "next";
+import Head from "next/head";
 import { promises as fs } from "fs";
 import path from "path";
 import type { Department } from "../../utils/data-schema";
@@ -22,6 +23,9 @@ interface DepartmentsPageProps {
 function DepartmentsPage({ departments }: DepartmentsPageProps) {
   return (
     <Page>
+      <Head>
+        <title>Departments | GAPE</title>
+      </Head>
       <h1>All Departments</h1>
       {Object.values(departments).map((dept) => (
         <div key={dept.code} id={dept.code}>

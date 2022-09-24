@@ -1,4 +1,5 @@
 import React from "react";
+import Head from "next/head";
 import Link from "next/link";
 import Page from "../components/Page";
 import SearchBar from "../components/SearchBar";
@@ -30,6 +31,9 @@ const quickLinks = [
 function HomePage() {
   return (
     <Page>
+      <Head>
+        <title>Home | GAPE</title>
+      </Head>
       <h1 className={styles.center}>Welcome to GAPE!</h1>
       <p className={styles.center}>
         The Graphical Assistant for Prerequisite Enrollment can help you
