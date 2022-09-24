@@ -38,6 +38,10 @@ p {
 }
 
 a {
-  color: inherit;
+  color: var(--core-blue);
   text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }

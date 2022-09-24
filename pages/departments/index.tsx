@@ -6,8 +6,8 @@ import { promises as fs } from "fs";
 import path from "path";
 import type { Department } from "../../utils/data-schema";
 import Page from "../../components/Page";
+import LinkCard from "../../components/LinkCard";
 import styles from "../../styles/DepartmentsPage.module.css";
-import cardStyles from "../../styles/LinkCard.module.css";
 
 export const getStaticProps: GetStaticProps = async () => {
   const filePath = path.join(process.cwd(), "scraping/data/index.json");
@@ -45,20 +45,29 @@ function DepartmentsPage({ departments }: DepartmentsPageProps) {
         This page lists all departments found in the catalog, ordered
         alphabetically. Click on a department to view its courses.
       </p>
+      <span className={styles.letterList}>
+        {letters.map((letter, index) => (
+          <React.Fragment key={letter}>
+            {index > 0 && " | "}
+            <Link href={`#${letter}`}>
+              <a className={styles.letterLink}>{letter}</a>
+            </Link>
+          </React.Fragment>
+        ))}
+      </span>
       <div className={styles.cardListWrapper}>
         <div className={styles.cardList}>
           {letters.map((letter) => (
             <React.Fragment key={letter}>
               <h2 id={letter}>{letter}</h2>
               {deptsByLetter[letter].map((dept) => (
-                <Link key={dept.code} href={`/departments/${dept.code}`}>
-                  <a>
-                    <div className={`${cardStyles.card} ${styles.card}`}>
-                      <h3>{dept.code}</h3>
-                      <p>{dept.name}</p>
-                    </div>
-                  </a>
-                </Link>
+                <LinkCard
+                  key={dept.code}
+                  title={dept.code}
+                  subtitle={dept.name}
+                  href={`/departments/${dept.code}`}
+                  className={styles.card}
+                />
               ))}
             </React.Fragment>
           ))}

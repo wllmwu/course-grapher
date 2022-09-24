@@ -1,3 +1,8 @@
+.letterList {
+  white-space: pre;
+  font-size: 1.5rem;
+}
+
 .cardListWrapper {
   display: flex;
   justify-content: flex-start;
