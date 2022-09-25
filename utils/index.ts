@@ -13,7 +13,7 @@ export const parseJSONLines: (jsonLines: string) => object[] = (jsonLines) => {
 
 export const getCourseCodeDigits: (course: Course) => string = (course) => {
   const digitsMatch = course.code.match(/[0-9]+/g);
-  if (!digitsMatch || digitsMatch.length !== 1) {
+  if (!digitsMatch) {
     throw new Error(`Bad course code: ${course.code}`);
   }
   return digitsMatch[0];
