@@ -6,7 +6,7 @@
 
 .headerBigLink {
   margin: 2rem 0;
-  margin-left: 8rem;
+  margin-left: var(--content-side-margin);
   display: inline-block;
   color: inherit;
 }
@@ -33,7 +33,7 @@
 
 .navBarLinkList {
   margin: 0;
-  margin-left: 8rem;
+  margin-left: var(--content-side-margin);
   padding: 0;
   display: flex;
   flex-direction: row;
@@ -59,7 +59,7 @@
 .footer {
   width: 100%;
   background-color: var(--core-blue);
-  padding: 1rem 8rem;
+  padding: 1rem var(--content-side-margin);
   color: #fff;
 }
 

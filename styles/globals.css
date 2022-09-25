@@ -3,6 +3,7 @@
   --core-blue-darken: #004268;
   --background: #fff;
   --text-primary: #000;
+  --content-side-margin: 12rem;
 }
 
 html,
@@ -18,12 +19,12 @@ body {
 }
 
 h1 {
-  margin: 1rem auto;
+  margin: 2rem auto 1rem;
   font-size: 2rem;
 }
 
 h2 {
-  margin: 1rem 0;
+  margin: 2rem 0 1rem;
   font-size: 1.5rem;
 }
 
