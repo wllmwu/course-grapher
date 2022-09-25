@@ -5,7 +5,11 @@ import Link from "next/link";
 import { promises as fs } from "fs";
 import path from "path";
 import type { Department, Course } from "../../utils/data-schema";
-import { getCourseCodeDigits, parseJSONLines } from "../../utils";
+import {
+  courseComparator,
+  getCourseCodeDigits,
+  parseJSONLines,
+} from "../../utils";
 import Page from "../../components/Page";
 import LinkCard from "../../components/LinkCard";
 import styles from "../../styles/DepartmentsPage.module.css";
@@ -53,6 +57,7 @@ interface DepartmentPageProps {
 }
 
 function DepartmentPage({ department, courses }: DepartmentPageProps) {
+  courses.sort(courseComparator);
   const coursesByLevel: Record<string, Course[]> = {};
   for (const course of courses) {
     const digits = getCourseCodeDigits(course);

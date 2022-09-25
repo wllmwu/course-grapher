@@ -18,3 +18,17 @@ export const getCourseCodeDigits: (course: Course) => string = (course) => {
   }
   return digitsMatch[0];
 };
+
+export const courseComparator: (a: Course, b: Course) => number = (a, b) => {
+  const [aSubject, aNumber] = a.code.split(" ");
+  const [bSubject, bNumber] = b.code.split(" ");
+  if (aSubject !== bSubject) {
+    return aSubject.localeCompare(bSubject);
+  }
+  const aInt = parseInt(aNumber);
+  const bInt = parseInt(bNumber);
+  if (aInt !== bInt) {
+    return aInt - bInt;
+  }
+  return aNumber.localeCompare(bNumber);
+};
