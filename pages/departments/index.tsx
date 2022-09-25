@@ -33,7 +33,7 @@ function DepartmentsPage({ departments }: DepartmentsPageProps) {
       deptsByLetter[firstLetter] = [dept];
     }
   }
-  const letters = Object.keys(deptsByLetter);
+  const letters = Object.keys(deptsByLetter).sort();
 
   return (
     <Page>
@@ -45,12 +45,13 @@ function DepartmentsPage({ departments }: DepartmentsPageProps) {
         This page lists all departments found in the catalog, ordered
         alphabetically. Click on a department to view its courses.
       </p>
-      <span className={styles.letterList}>
+      <h2>Index</h2>
+      <span className={styles.pageIndex}>
         {letters.map((letter, index) => (
           <React.Fragment key={letter}>
             {index > 0 && " | "}
             <Link href={`#${letter}`}>
-              <a className={styles.letterLink}>{letter}</a>
+              <a>{letter}</a>
             </Link>
           </React.Fragment>
         ))}
