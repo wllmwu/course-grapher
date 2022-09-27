@@ -89,9 +89,9 @@ function DepartmentPage({ department, courses }: DepartmentPageProps) {
         {department.name} ({department.code})
       </h1>
       <p>
-        This page lists all {department.code} courses found in the catalog.
-        Click on a course to view its prerequisite graph, or visit the catalog
-        page for this department at{" "}
+        This page lists all {department.numCourses} {department.code} courses
+        found in the catalog. Click on a course to view its prerequisite graph,
+        or visit the catalog page for this department at{" "}
         <Link href={department.link}>
           <a>{department.link}</a>
         </Link>

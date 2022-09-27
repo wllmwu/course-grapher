@@ -65,7 +65,7 @@ function DepartmentsPage({ departments }: DepartmentsPageProps) {
                 <LinkCard
                   key={dept.code}
                   title={dept.code}
-                  subtitle={dept.name}
+                  subtitle={`${dept.name} | ${dept.numCourses} courses`}
                   href={`/departments/${dept.code}`}
                   className={styles.card}
                 />
