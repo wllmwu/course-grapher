@@ -10,17 +10,17 @@ Minimum Python version: 3.10
 
 ### Getting started
 
-In the `scraping` folder, create and activate a virtual environment:
+In the repository root, create and activate a virtual environment:
 
 ```
-cd scraping
 python3 -m venv .venv
 source .venv/bin/activate
 ```
 
-The shell prompt will change to indicate that the environment has been activated. Then install requirements:
+The shell prompt will change to indicate that the environment has been activated. Then change to the `scraping` directory and install requirements:
 
 ```
+cd scraping
 pip install -r requirements.txt
 ```
 
@@ -28,7 +28,7 @@ To update the requirements file, run `pip freeze > requirements.txt`.
 
 ### Running the web scraper
 
-With the virtual environment activated, run this command:
+With the virtual environment activated, run this Python script in `scraping`:
 
 ```
 python scrape.py

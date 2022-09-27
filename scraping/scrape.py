@@ -31,6 +31,7 @@ if __name__ == '__main__':
         'LOG_FILE': args.log_file,
         'LOG_FILE_APPEND': False,
         'LOG_LEVEL': args.log_level,
+        'LOG_STDOUT': True,
     })
     process.crawl(CatalogSpider, dry_run=args.dry_run)
     process.start()  # blocks until finished

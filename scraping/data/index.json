@@ -3,407 +3,488 @@
     "AASM": {
       "code": "AASM",
       "name": "African American Studies Minor",
-      "link": "https://catalog.ucsd.edu/courses/AASM.html"
+      "link": "https://catalog.ucsd.edu/courses/AASM.html",
+      "numCourses": 6
     },
     "AIP": {
       "code": "AIP",
       "name": "Academic Internship Program",
-      "link": "https://catalog.ucsd.edu/courses/AIP.html"
+      "link": "https://catalog.ucsd.edu/courses/AIP.html",
+      "numCourses": 5
     },
     "ANTH": {
       "code": "ANTH",
       "name": "Anthropology",
-      "link": "https://catalog.ucsd.edu/courses/ANTH.html"
+      "link": "https://catalog.ucsd.edu/courses/ANTH.html",
+      "numCourses": 294
     },
     "AUDL": {
       "code": "AUDL",
       "name": "Audiology",
-      "link": "https://catalog.ucsd.edu/courses/AUDL.html"
+      "link": "https://catalog.ucsd.edu/courses/AUDL.html",
+      "numCourses": 16
     },
     "AWP": {
       "code": "AWP",
       "name": "Analytical Writing Program",
-      "link": "https://catalog.ucsd.edu/courses/AWP.html"
+      "link": "https://catalog.ucsd.edu/courses/AWP.html",
+      "numCourses": 10
     },
     "BENG": {
       "code": "BENG",
       "name": "Bioengineering",
-      "link": "https://catalog.ucsd.edu/courses/BENG.html"
+      "link": "https://catalog.ucsd.edu/courses/BENG.html",
+      "numCourses": 127
     },
     "BIOI": {
       "code": "BIOI",
       "name": "Bioinformatics",
-      "link": "https://catalog.ucsd.edu/courses/BIOI.html"
+      "link": "https://catalog.ucsd.edu/courses/BIOI.html",
+      "numCourses": 9
     },
     "BIOL": {
       "code": "BIOL",
       "name": "Biological Sciences, School of",
-      "link": "https://catalog.ucsd.edu/courses/BIOL.html"
+      "link": "https://catalog.ucsd.edu/courses/BIOL.html",
+      "numCourses": 234
     },
     "BIOM": {
       "code": "BIOM",
       "name": "Biomedical Sciences",
-      "link": "https://catalog.ucsd.edu/courses/BIOM.html"
+      "link": "https://catalog.ucsd.edu/courses/BIOM.html",
+      "numCourses": 46
     },
     "CAT": {
       "code": "CAT",
       "name": "Culture, Art, and Technology",
-      "link": "https://catalog.ucsd.edu/courses/CAT.html"
+      "link": "https://catalog.ucsd.edu/courses/CAT.html",
+      "numCourses": 16
     },
     "CCS": {
       "code": "CCS",
       "name": "Climate Change Studies",
-      "link": "https://catalog.ucsd.edu/courses/CCS.html"
+      "link": "https://catalog.ucsd.edu/courses/CCS.html",
+      "numCourses": 5
     },
     "CGS": {
       "code": "CGS",
       "name": "Critical Gender Studies",
-      "link": "https://catalog.ucsd.edu/courses/CGS.html"
+      "link": "https://catalog.ucsd.edu/courses/CGS.html",
+      "numCourses": 43
     },
     "CHEM": {
       "code": "CHEM",
       "name": "Chemistry and Biochemistry",
-      "link": "https://catalog.ucsd.edu/courses/CHEM.html"
+      "link": "https://catalog.ucsd.edu/courses/CHEM.html",
+      "numCourses": 161
     },
     "CHIN": {
       "code": "CHIN",
       "name": "Chinese Studies",
-      "link": "https://catalog.ucsd.edu/courses/CHIN.html"
+      "link": "https://catalog.ucsd.edu/courses/CHIN.html",
+      "numCourses": 43
     },
     "CLAS": {
       "code": "CLAS",
       "name": "Classical Studies",
-      "link": "https://catalog.ucsd.edu/courses/CLAS.html"
+      "link": "https://catalog.ucsd.edu/courses/CLAS.html",
+      "numCourses": 15
     },
     "CLIN": {
       "code": "CLIN",
       "name": "Clinical Psychology",
-      "link": "https://catalog.ucsd.edu/courses/CLIN.html"
+      "link": "https://catalog.ucsd.edu/courses/CLIN.html",
+      "numCourses": 5
     },
     "CLRE": {
       "code": "CLRE",
       "name": "Clinical Research",
-      "link": "https://catalog.ucsd.edu/courses/CLRE.html"
+      "link": "https://catalog.ucsd.edu/courses/CLRE.html",
+      "numCourses": 32
     },
     "COGS": {
       "code": "COGS",
       "name": "Cognitive Science",
-      "link": "https://catalog.ucsd.edu/courses/COGS.html"
+      "link": "https://catalog.ucsd.edu/courses/COGS.html",
+      "numCourses": 126
     },
     "COMM": {
       "code": "COMM",
       "name": "Communication",
-      "link": "https://catalog.ucsd.edu/courses/COMM.html"
+      "link": "https://catalog.ucsd.edu/courses/COMM.html",
+      "numCourses": 188
     },
     "CSE": {
       "code": "CSE",
       "name": "Computer Science and Engineering",
-      "link": "https://catalog.ucsd.edu/courses/CSE.html"
+      "link": "https://catalog.ucsd.edu/courses/CSE.html",
+      "numCourses": 169
     },
     "CSP": {
       "code": "CSP",
       "name": "Climate Science and Policy",
-      "link": "https://catalog.ucsd.edu/courses/CSP.html"
+      "link": "https://catalog.ucsd.edu/courses/CSP.html",
+      "numCourses": 5
     },
     "CSS": {
       "code": "CSS",
       "name": "Computational Social Science",
-      "link": "https://catalog.ucsd.edu/courses/css.html"
+      "link": "https://catalog.ucsd.edu/courses/css.html",
+      "numCourses": 3
     },
     "DOC": {
       "code": "DOC",
       "name": "Dimensions of Culture",
-      "link": "https://catalog.ucsd.edu/courses/DOC.html"
+      "link": "https://catalog.ucsd.edu/courses/DOC.html",
+      "numCourses": 4
     },
     "DSC": {
       "code": "DSC",
       "name": "Data Science",
-      "link": "https://catalog.ucsd.edu/courses/DSC.html"
+      "link": "https://catalog.ucsd.edu/courses/DSC.html",
+      "numCourses": 35
     },
     "DSGN": {
       "code": "DSGN",
       "name": "Design",
-      "link": "https://catalog.ucsd.edu/courses/DSGN.html"
+      "link": "https://catalog.ucsd.edu/courses/DSGN.html",
+      "numCourses": 14
     },
     "ECE": {
       "code": "ECE",
       "name": "Electrical and Computer Engineering",
-      "link": "https://catalog.ucsd.edu/courses/ECE.html"
+      "link": "https://catalog.ucsd.edu/courses/ECE.html",
+      "numCourses": 198
     },
     "ECON": {
       "code": "ECON",
       "name": "Economics",
-      "link": "https://catalog.ucsd.edu/courses/ECON.html"
+      "link": "https://catalog.ucsd.edu/courses/ECON.html",
+      "numCourses": 157
     },
     "EDS": {
       "code": "EDS",
       "name": "Education Studies Program",
-      "link": "https://catalog.ucsd.edu/courses/EDS.html"
+      "link": "https://catalog.ucsd.edu/courses/EDS.html",
+      "numCourses": 165
     },
     "ENG": {
       "code": "ENG",
       "name": "Engineering, Jacobs School of",
-      "link": "https://catalog.ucsd.edu/courses/ENG.html"
+      "link": "https://catalog.ucsd.edu/courses/ENG.html",
+      "numCourses": 15
     },
     "ENVR": {
       "code": "ENVR",
       "name": "Environmental Studies",
-      "link": "https://catalog.ucsd.edu/courses/ENVR.html"
+      "link": "https://catalog.ucsd.edu/courses/ENVR.html",
+      "numCourses": 14
     },
     "ERC": {
       "code": "ERC",
       "name": "Eleanor Roosevelt College",
-      "link": "https://catalog.ucsd.edu/courses/ERC.html"
+      "link": "https://catalog.ucsd.edu/courses/ERC.html",
+      "numCourses": 10
     },
     "ESYS": {
       "code": "ESYS",
       "name": "Environmental Systems",
-      "link": "https://catalog.ucsd.edu/courses/ESYS.html"
+      "link": "https://catalog.ucsd.edu/courses/ESYS.html",
+      "numCourses": 10
     },
     "ETHN": {
       "code": "ETHN",
       "name": "Ethnic Studies",
-      "link": "https://catalog.ucsd.edu/courses/ETHN.html"
+      "link": "https://catalog.ucsd.edu/courses/ETHN.html",
+      "numCourses": 143
     },
     "FILM": {
       "code": "FILM",
       "name": "Film Studies",
-      "link": "https://catalog.ucsd.edu/courses/FILM.html"
+      "link": "https://catalog.ucsd.edu/courses/FILM.html",
+      "numCourses": 1
     },
     "FMPH": {
       "code": "FMPH",
       "name": "Public Health",
-      "link": "https://catalog.ucsd.edu/courses/FMPH.html"
+      "link": "https://catalog.ucsd.edu/courses/FMPH.html",
+      "numCourses": 93
     },
     "GLBH": {
       "code": "GLBH",
       "name": "Global Health Program",
-      "link": "https://catalog.ucsd.edu/courses/GLBH.html"
+      "link": "https://catalog.ucsd.edu/courses/GLBH.html",
+      "numCourses": 56
     },
     "GPS": {
       "code": "GPS",
       "name": "School of Global Policy and Strategy",
-      "link": "https://catalog.ucsd.edu/courses/GPS.html"
+      "link": "https://catalog.ucsd.edu/courses/GPS.html",
+      "numCourses": 181
     },
     "GSS": {
       "code": "GSS",
       "name": "Global South Studies",
-      "link": "https://catalog.ucsd.edu/courses/GSS.html"
+      "link": "https://catalog.ucsd.edu/courses/GSS.html",
+      "numCourses": 7
     },
     "HDS": {
       "code": "HDS",
       "name": "Human Developmental Sciences Program",
-      "link": "https://catalog.ucsd.edu/courses/HDS.html"
+      "link": "https://catalog.ucsd.edu/courses/HDS.html",
+      "numCourses": 22
     },
     "HIST": {
       "code": "HIST",
       "name": "History",
-      "link": "https://catalog.ucsd.edu/courses/HIST.html"
+      "link": "https://catalog.ucsd.edu/courses/HIST.html",
+      "numCourses": 450
     },
     "HMNR": {
       "code": "HMNR",
       "name": "Human Rights and Migration Minor",
-      "link": "https://catalog.ucsd.edu/courses/HMNR.html"
+      "link": "https://catalog.ucsd.edu/courses/HMNR.html",
+      "numCourses": 2
     },
     "HUM": {
       "code": "HUM",
       "name": "Humanities",
-      "link": "https://catalog.ucsd.edu/courses/HUM.html"
+      "link": "https://catalog.ucsd.edu/courses/HUM.html",
+      "numCourses": 9
     },
     "INTL": {
       "code": "INTL",
       "name": "International Studies",
-      "link": "https://catalog.ucsd.edu/courses/INTL.html"
+      "link": "https://catalog.ucsd.edu/courses/INTL.html",
+      "numCourses": 7
     },
     "JAPN": {
       "code": "JAPN",
       "name": "Japanese Studies",
-      "link": "https://catalog.ucsd.edu/courses/JAPN.html"
+      "link": "https://catalog.ucsd.edu/courses/JAPN.html",
+      "numCourses": 15
     },
     "JWSP": {
       "code": "JWSP",
       "name": "Jewish Studies",
-      "link": "https://catalog.ucsd.edu/courses/JWSP.html"
+      "link": "https://catalog.ucsd.edu/courses/JWSP.html",
+      "numCourses": 16
     },
     "LATI": {
       "code": "LATI",
       "name": "Latin American Studies",
-      "link": "https://catalog.ucsd.edu/courses/LATI.html"
+      "link": "https://catalog.ucsd.edu/courses/LATI.html",
+      "numCourses": 18
     },
     "LAWS": {
       "code": "LAWS",
       "name": "Law and Society",
-      "link": "https://catalog.ucsd.edu/courses/LAWS.html"
+      "link": "https://catalog.ucsd.edu/courses/LAWS.html",
+      "numCourses": 2
     },
     "LHCO": {
       "code": "LHCO",
       "name": "Health Care\u2014Leadership of Healthcare Organizations",
-      "link": "https://catalog.ucsd.edu/courses/LHCO.html"
+      "link": "https://catalog.ucsd.edu/courses/LHCO.html",
+      "numCourses": 15
     },
     "LING": {
       "code": "LING",
       "name": "Linguistics",
-      "link": "https://catalog.ucsd.edu/courses/LING.html"
+      "link": "https://catalog.ucsd.edu/courses/LING.html",
+      "numCourses": 232
     },
     "LIT": {
       "code": "LIT",
       "name": "Literature",
-      "link": "https://catalog.ucsd.edu/courses/LIT.html"
+      "link": "https://catalog.ucsd.edu/courses/LIT.html",
+      "numCourses": 398
     },
     "MAE": {
       "code": "MAE",
       "name": "Mechanical and Aerospace Engineering",
-      "link": "https://catalog.ucsd.edu/courses/MAE.html"
+      "link": "https://catalog.ucsd.edu/courses/MAE.html",
+      "numCourses": 180
     },
     "MAE-AESE": {
       "code": "MAE-AESE",
       "name": "Mechanical and Aerospace Engineering",
-      "link": "https://catalog.ucsd.edu/courses/MAE-AESE.html"
+      "link": "https://catalog.ucsd.edu/courses/MAE-AESE.html",
+      "numCourses": 9
     },
     "MAS": {
       "code": "MAS",
       "name": "Master of Advanced Studies",
-      "link": "https://catalog.ucsd.edu/courses/MAS.html"
+      "link": "https://catalog.ucsd.edu/courses/MAS.html",
+      "numCourses": 28
     },
     "MATH": {
       "code": "MATH",
       "name": "Mathematics",
-      "link": "https://catalog.ucsd.edu/courses/MATH.html"
+      "link": "https://catalog.ucsd.edu/courses/MATH.html",
+      "numCourses": 224
     },
     "MATS": {
       "code": "MATS",
       "name": "Materials Science and Engineering Program",
-      "link": "https://catalog.ucsd.edu/courses/MATS.html"
+      "link": "https://catalog.ucsd.edu/courses/MATS.html",
+      "numCourses": 22
     },
     "MBC": {
       "code": "MBC",
       "name": "Marine Biodiversity and Conservation",
-      "link": "https://catalog.ucsd.edu/courses/MBC.html"
+      "link": "https://catalog.ucsd.edu/courses/MBC.html",
+      "numCourses": 5
     },
     "MCWP": {
       "code": "MCWP",
       "name": "Muir College",
-      "link": "https://catalog.ucsd.edu/courses/MCWP.html"
+      "link": "https://catalog.ucsd.edu/courses/MCWP.html",
+      "numCourses": 6
     },
     "MGT": {
       "code": "MGT",
       "name": "Rady School of Management",
-      "link": "https://catalog.ucsd.edu/courses/MGT.html"
+      "link": "https://catalog.ucsd.edu/courses/MGT.html",
+      "numCourses": 222
     },
     "MMW": {
       "code": "MMW",
       "name": "The Making of the Modern World",
-      "link": "https://catalog.ucsd.edu/courses/MMW.html"
+      "link": "https://catalog.ucsd.edu/courses/MMW.html",
+      "numCourses": 7
     },
     "MSED": {
       "code": "MSED",
       "name": "Mathematics and Science Education",
-      "link": "https://catalog.ucsd.edu/courses/MSED.html"
+      "link": "https://catalog.ucsd.edu/courses/MSED.html",
+      "numCourses": 9
     },
     "MUS": {
       "code": "MUS",
       "name": "Music",
-      "link": "https://catalog.ucsd.edu/courses/MUS.html"
+      "link": "https://catalog.ucsd.edu/courses/MUS.html",
+      "numCourses": 133
     },
     "NANO": {
       "code": "NANO",
       "name": "NanoEngineering",
-      "link": "https://catalog.ucsd.edu/courses/NANO.html"
+      "link": "https://catalog.ucsd.edu/courses/NANO.html",
+      "numCourses": 133
     },
     "NEU": {
       "code": "NEU",
       "name": "Neurosciences",
-      "link": "https://catalog.ucsd.edu/courses/NEU.html"
+      "link": "https://catalog.ucsd.edu/courses/NEU.html",
+      "numCourses": 26
     },
     "PHIL": {
       "code": "PHIL",
       "name": "Philosophy",
-      "link": "https://catalog.ucsd.edu/courses/PHIL.html"
+      "link": "https://catalog.ucsd.edu/courses/PHIL.html",
+      "numCourses": 129
     },
     "PHYS": {
       "code": "PHYS",
       "name": "Physics",
-      "link": "https://catalog.ucsd.edu/courses/PHYS.html"
+      "link": "https://catalog.ucsd.edu/courses/PHYS.html",
+      "numCourses": 159
     },
     "POLI": {
       "code": "POLI",
       "name": "Political Science",
-      "link": "https://catalog.ucsd.edu/courses/POLI.html"
+      "link": "https://catalog.ucsd.edu/courses/POLI.html",
+      "numCourses": 297
     },
     "PSYC": {
       "code": "PSYC",
       "name": "Psychology",
-      "link": "https://catalog.ucsd.edu/courses/PSYC.html"
+      "link": "https://catalog.ucsd.edu/courses/PSYC.html",
+      "numCourses": 183
     },
     "RELI": {
       "code": "RELI",
       "name": "Religion, Study of",
-      "link": "https://catalog.ucsd.edu/courses/RELI.html"
+      "link": "https://catalog.ucsd.edu/courses/RELI.html",
+      "numCourses": 36
     },
     "REV": {
       "code": "REV",
       "name": "Revelle College",
-      "link": "https://catalog.ucsd.edu/courses/REV.html"
+      "link": "https://catalog.ucsd.edu/courses/REV.html",
+      "numCourses": 8
     },
     "SCIS": {
       "code": "SCIS",
       "name": "Science Studies",
-      "link": "https://catalog.ucsd.edu/courses/SCIS.html"
+      "link": "https://catalog.ucsd.edu/courses/SCIS.html",
+      "numCourses": 20
     },
     "SE": {
       "code": "SE",
       "name": "Structural Engineering",
-      "link": "https://catalog.ucsd.edu/courses/SE.html"
+      "link": "https://catalog.ucsd.edu/courses/SE.html",
+      "numCourses": 127
     },
     "SEV": {
       "code": "SEV",
       "name": "Seventh College",
-      "link": "https://catalog.ucsd.edu/courses/SEV.html"
+      "link": "https://catalog.ucsd.edu/courses/SEV.html",
+      "numCourses": 3
     },
     "SIO": {
       "code": "SIO",
       "name": "Scripps Institution of Oceanography",
-      "link": "https://catalog.ucsd.edu/courses/SIO.html"
+      "link": "https://catalog.ucsd.edu/courses/SIO.html",
+      "numCourses": 263
     },
     "SOC": {
       "code": "SOC",
       "name": "Sociology",
-      "link": "https://catalog.ucsd.edu/courses/SOC.html"
+      "link": "https://catalog.ucsd.edu/courses/SOC.html",
+      "numCourses": 178
     },
     "SXTH": {
       "code": "SXTH",
       "name": "Sixth College",
-      "link": "https://catalog.ucsd.edu/courses/SXTH.html"
+      "link": "https://catalog.ucsd.edu/courses/SXTH.html",
+      "numCourses": 3
     },
     "SYN": {
       "code": "SYN",
       "name": "Synthesis Program",
-      "link": "https://catalog.ucsd.edu/courses/SYN.html"
+      "link": "https://catalog.ucsd.edu/courses/SYN.html",
+      "numCourses": 4
     },
     "THEA": {
       "code": "THEA",
       "name": "Theatre and Dance",
-      "link": "https://catalog.ucsd.edu/courses/THEA.html"
+      "link": "https://catalog.ucsd.edu/courses/THEA.html",
+      "numCourses": 216
     },
     "TMC": {
       "code": "TMC",
       "name": "Thurgood Marshall College",
-      "link": "https://catalog.ucsd.edu/courses/TMC.html"
+      "link": "https://catalog.ucsd.edu/courses/TMC.html",
+      "numCourses": 7
     },
     "USP": {
       "code": "USP",
       "name": "Urban Studies and Planning",
-      "link": "https://catalog.ucsd.edu/courses/USP.html"
+      "link": "https://catalog.ucsd.edu/courses/USP.html",
+      "numCourses": 108
     },
     "VIS": {
       "code": "VIS",
       "name": "Visual Arts",
-      "link": "https://catalog.ucsd.edu/courses/VIS.html"
+      "link": "https://catalog.ucsd.edu/courses/VIS.html",
+      "numCourses": 240
     },
     "WARR": {
       "code": "WARR",
       "name": "Warren College",
-      "link": "https://catalog.ucsd.edu/courses/WARR.html"
+      "link": "https://catalog.ucsd.edu/courses/WARR.html",
+      "numCourses": 9
     }
   },
   "courses": {

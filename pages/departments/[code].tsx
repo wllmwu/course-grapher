@@ -11,7 +11,6 @@ import {
   parseJSONLines,
 } from "../../utils";
 import Page from "../../components/Page";
-import LinkCard from "../../components/LinkCard";
 import styles from "../../styles/DepartmentsPage.module.css";
 
 export const getStaticPaths: GetStaticPaths = async () => {
@@ -43,6 +42,9 @@ export const getStaticProps: GetStaticProps = async (context) => {
   const filePath = path.join(process.cwd(), `scraping/data/${deptCode}.jsonl`);
   const courses = parseJSONLines(await fs.readFile(filePath, "utf-8"));
   const department = courses.shift();
+  if (department) {
+    department.numCourses = courses.length;
+  }
   return {
     props: {
       department,
@@ -89,9 +91,9 @@ function DepartmentPage({ department, courses }: DepartmentPageProps) {
         {department.name} ({department.code})
       </h1>
       <p>
-        This page lists all {department.code} courses found in the catalog.
-        Click on a course to view its prerequisite graph, or visit the catalog
-        page for this department at{" "}
+        This page lists all {department.numCourses} {department.code} courses
+        found in the catalog. Click on a course to view its prerequisite graph,
+        or visit the catalog page for this department at{" "}
         <Link href={department.link}>
           <a>{department.link}</a>
         </Link>
@@ -114,13 +116,14 @@ function DepartmentPage({ department, courses }: DepartmentPageProps) {
             <React.Fragment key={level}>
               <h2 id={level}>{level}</h2>
               {coursesByLevel[level].map((course) => (
-                <LinkCard
-                  key={course.code}
-                  title={course.code}
-                  subtitle={`${course.title} | ${course.units} units`}
-                  href={`/courses/${encodeURIComponent(course.code)}`}
-                  className={styles.card}
-                />
+                <React.Fragment key={course.code}>
+                  <Link href={`/courses/${encodeURIComponent(course.code)}`}>
+                    <a>
+                      <h3>{`${course.code}. ${course.title} (${course.units} units)`}</h3>
+                    </a>
+                  </Link>
+                  <p>{course.description}</p>
+                </React.Fragment>
               ))}
             </React.Fragment>
           ))}

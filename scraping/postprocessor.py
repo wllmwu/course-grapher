@@ -53,6 +53,7 @@ class Postprocessor:
                 type(error),
                 error
             )
+        department_info['numCourses'] = len(course_codes)
         return (department_info, course_codes)
 
     def _write_index(self, dept_entries: list[tuple[str, dict]],

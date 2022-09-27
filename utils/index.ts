@@ -1,7 +1,7 @@
 import { Course } from "./data-schema";
 
-export const parseJSONLines: (jsonLines: string) => object[] = (jsonLines) => {
-  const objects: object[] = [];
+export const parseJSONLines: (jsonLines: string) => any[] = (jsonLines) => {
+  const objects = [];
   for (const jsonString of jsonLines.split("\n")) {
     if (jsonString.length === 0) {
       continue;
