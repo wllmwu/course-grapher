@@ -87,7 +87,9 @@ class CatalogSpider(scrapy.Spider):
                 self.logger.error(
                     'Missing description for %s %s', subject, number)
                 self.metrics.inc_missing_descriptions()
+                result['description'] = 'Missing'
             else:
+                result['description'] = description
                 prereqs, coreqs = self.parser.parse_requirements(
                     description)
                 if prereqs is not None:
