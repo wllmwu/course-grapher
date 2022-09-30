@@ -32,3 +32,9 @@ export const courseComparator: (a: Course, b: Course) => number = (a, b) => {
   }
   return aNumber.localeCompare(bNumber);
 };
+
+export const slugifyCourseCode: (code: string) => string = (code) =>
+  encodeURIComponent(code.replace(" ", "_"));
+
+export const unslugifyCourseCode: (code: string) => string = (code) =>
+  code.replace("_", " ");

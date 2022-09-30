@@ -1,15 +1,21 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/router";
 import Head from "next/head";
 // import Link from "next/link";
 import type { Course } from "../../utils/data-schema";
-import { parseJSONLines } from "../../utils";
+import { parseJSONLines, unslugifyCourseCode } from "../../utils";
 import Page from "../../components/Page";
 
 function CoursePage() {
   const router = useRouter();
   const [course, setCourse] = useState<Course | null>(null);
-  const { code } = router.query;
+  const code = useMemo(() => {
+    const { code: codeSlug } = router.query;
+    if (!codeSlug) {
+      return null;
+    }
+    return unslugifyCourseCode(codeSlug as string);
+  }, [router]);
 
   useEffect(() => {
     if (typeof code !== "string") {

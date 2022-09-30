@@ -9,6 +9,7 @@ import {
   courseComparator,
   getCourseCodeDigits,
   parseJSONLines,
+  slugifyCourseCode,
 } from "../../utils";
 import Page from "../../components/Page";
 import styles from "../../styles/DepartmentsPage.module.css";
@@ -117,7 +118,7 @@ function DepartmentPage({ department, courses }: DepartmentPageProps) {
               <h2 id={level}>{level}</h2>
               {coursesByLevel[level].map((course) => (
                 <React.Fragment key={course.code}>
-                  <Link href={`/courses/${encodeURIComponent(course.code)}`}>
+                  <Link href={`/courses/${slugifyCourseCode(course.code)}`}>
                     <a>
                       <h3>{`${course.code}. ${course.title} (${course.units} units)`}</h3>
                     </a>
