@@ -1,7 +1,7 @@
 import React, { useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/router";
 import Head from "next/head";
-// import Link from "next/link";
+import Link from "next/link";
 import type { Course } from "../../utils/data-schema";
 import { parseJSONLines, unslugifyCourseCode } from "../../utils";
 import Page from "../../components/Page";
@@ -9,6 +9,7 @@ import Page from "../../components/Page";
 function CoursePage() {
   const router = useRouter();
   const [course, setCourse] = useState<Course | null>(null);
+  const [deptLink, setDeptLink] = useState<string | null>(null);
   const code = useMemo(() => {
     const { code: codeSlug } = router.query;
     if (!codeSlug) {
@@ -27,6 +28,7 @@ function CoursePage() {
         const index = JSON.parse(text);
         const courseIndex = index.courses;
         const dept = courseIndex[code];
+        setDeptLink(index.departments[dept].link);
         return fetch(`../data/${dept}.jsonl`);
       })
       .then((response) => response.text())
@@ -41,6 +43,11 @@ function CoursePage() {
       });
   }, [code, setCourse]);
 
+  const catalogLink =
+    deptLink &&
+    course &&
+    (course.anchor ? `${deptLink}#${course.anchor}` : deptLink);
+
   return (
     <Page>
       <Head>
@@ -49,7 +56,17 @@ function CoursePage() {
       {course ? (
         <>
           <h1>{`${course.code}. ${course.title} (${course.units} units)`}</h1>
+          {catalogLink && (
+            <p>
+              Link to catalog page:{" "}
+              <Link href={catalogLink}>
+                <a>{catalogLink}</a>
+              </Link>
+            </p>
+          )}
+          <h2>Description</h2>
           <p>{course.description}</p>
+          <h2>Prerequisites</h2>
         </>
       ) : (
         <p>Loading</p>
