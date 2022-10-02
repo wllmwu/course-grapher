@@ -5,6 +5,7 @@ import Link from "next/link";
 import type { Course } from "../../utils/data-schema";
 import { parseJSONLines, unslugifyCourseCode } from "../../utils";
 import Page from "../../components/Page";
+import GraphViewer from "../../components/GraphViewer";
 
 function CoursePage() {
   const router = useRouter();
@@ -67,6 +68,7 @@ function CoursePage() {
           <h2>Description</h2>
           <p>{course.description}</p>
           <h2>Prerequisites</h2>
+          <GraphViewer root={course} />
         </>
       ) : (
         <p>Loading</p>

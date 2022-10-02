@@ -1,0 +1,4 @@
+.graphBox {
+  border: 1px solid var(--cool-gray);
+  border-radius: 0.5rem;
+}
