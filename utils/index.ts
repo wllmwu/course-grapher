@@ -1,4 +1,4 @@
-import { Course } from "./data-schema";
+import type { Course } from "./data-schema";
 
 export const parseJSONLines: (jsonLines: string) => any[] = (jsonLines) => {
   const objects = [];
