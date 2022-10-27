@@ -2,21 +2,22 @@ interface BaseGraphNode {
   type: string;
   x: number;
   y: number;
-  children: GraphNode[];
 }
 
 export interface CourseGraphNode extends BaseGraphNode {
   type: "course";
   code: string;
+  requirementsTree?: CourseSetGraphNode;
 }
 
 export interface RootGraphNode extends CourseGraphNode {
   type: "root";
 }
 
-export interface AlternativesGraphNode extends BaseGraphNode {
-  type: "alts";
-  amount: "one" | "two";
+export interface CourseSetGraphNode extends BaseGraphNode {
+  type: "set";
+  amount: "all" | "one" | "two";
+  children: GraphNode[];
 }
 
-export type GraphNode = CourseGraphNode | RootGraphNode | AlternativesGraphNode;
+export type GraphNode = CourseGraphNode | CourseSetGraphNode;

@@ -1,27 +1,12 @@
 import React, { useReducer } from "react";
 import Link from "next/link";
 import type { Course } from "../utils/data-schema";
-import type { GraphNode } from "../utils/graph-schema";
+import { treeReducer } from "./graphing/treeReducer";
+import CourseNode from "./graphing/CourseNode";
 import styles from "../styles/GraphViewer.module.css";
 
 interface GraphViewerProps {
   root: Course;
-}
-
-interface TreeReducerExpandAction {
-  type: "expand";
-  payload: number[];
-}
-
-interface TreeReducerCloseAction {
-  type: "close";
-  payload: number[];
-}
-
-type TreeReducerAction = TreeReducerExpandAction | TreeReducerCloseAction;
-
-function treeReducer(tree: GraphNode, action: TreeReducerAction) {
-  return tree;
 }
 
 function GraphViewer({ root }: GraphViewerProps) {
@@ -30,7 +15,6 @@ function GraphViewer({ root }: GraphViewerProps) {
     code: "TODO",
     x: 0,
     y: 0,
-    children: [],
   });
 
   return (
@@ -41,7 +25,9 @@ function GraphViewer({ root }: GraphViewerProps) {
       preserveAspectRatio="xMaxYMid slice"
       xmlns="http://www.w3.org/2000/svg"
       className={styles.graphBox}
-    ></svg>
+    >
+      <CourseNode node={tree} dispatch={dispatch} />
+    </svg>
   );
 }
 
