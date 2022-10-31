@@ -12,7 +12,13 @@ interface CourseNodeProps {
 
 function CourseNode({ node, dispatch }: CourseNodeProps) {
   return (
-    <TextWithBackground fontWeight="bold">
+    <TextWithBackground
+      fontWeight="bold"
+      backgroundColor="var(--accent-blue)"
+      borderRadius={4}
+      horizontalPadding={4}
+      verticalPadding={2}
+    >
       <Link href={`/courses/${slugifyCourseCode(node.code)}`}>
         <a>{node.code}</a>
       </Link>
