@@ -14,7 +14,7 @@ interface TextWithBackgroundProps {
   children?: React.ReactNode;
 }
 
-const VERTICAL_OFFSET_FACTOR = 5 / 16;
+const VERTICAL_OFFSET_FACTOR = 0.3;
 
 function TextWithBackground({
   x = 0,

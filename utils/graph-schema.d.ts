@@ -7,17 +7,13 @@ interface BaseGraphNode {
 export interface CourseGraphNode extends BaseGraphNode {
   type: "course";
   code: string;
-  requirementsTree?: CourseSetGraphNode;
-}
-
-export interface RootGraphNode extends CourseGraphNode {
-  type: "root";
+  requirements?: AnyGraphNode;
 }
 
 export interface CourseSetGraphNode extends BaseGraphNode {
   type: "set";
   amount: "all" | "one" | "two";
-  children: GraphNode[];
+  children: AnyGraphNode[];
 }
 
-export type GraphNode = CourseGraphNode | CourseSetGraphNode;
+export type AnyGraphNode = CourseGraphNode | CourseSetGraphNode;

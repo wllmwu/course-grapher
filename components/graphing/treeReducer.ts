@@ -1,5 +1,8 @@
-import React from "react";
 import type { RootGraphNode } from "../../utils/graph-schema";
+
+interface TreeReducerState {
+  tree: RootGraphNode;
+}
 
 interface TreeReducerExpandAction {
   type: "expand";
@@ -15,13 +18,16 @@ export type TreeReducerAction =
   | TreeReducerExpandAction
   | TreeReducerCloseAction;
 
-export function treeReducer(tree: RootGraphNode, action: TreeReducerAction) {
+export function treeReducer(
+  state: TreeReducerState,
+  action: TreeReducerAction
+) {
   switch (action.type) {
     case "expand":
-      return tree;
+      return state;
     case "close":
-      return tree;
+      return state;
     default:
-      return tree;
+      return state;
   }
 }
