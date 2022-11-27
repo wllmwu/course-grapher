@@ -2,6 +2,8 @@ interface BaseGraphNode {
   type: string;
   x: number;
   y: number;
+  xIn: number;
+  xOut: number;
 }
 
 export interface CourseGraphNode extends BaseGraphNode {
