@@ -1,13 +1,15 @@
-import type { AnyGraphNode } from "../../utils/graph-schema";
+import type { AnyGraphNode, BoundingBox } from "../../utils/graph-schema";
 
 const X_INTERVAL = -200;
-const Y_INTERVAL = 50;
-const COURSE_MAX_WIDTH = 100;
-const NODE_MARGIN = 10;
+const Y_INTERVAL = 40;
+const COURSE_MAX_WIDTH = 110;
+const HORIZONTAL_MARGIN = 10;
+const VERTICAL_PADDING = 20;
+const TOP_EXTRA_PADDING = 10;
 
 /**
  * Recursively sets node `x` and `y` coordinates, as well as `xIn`, `xOut`,
- * `yMin`, and `yMax` where applicable.
+ * and `bounds` where applicable.
  *
  * A node's *x* coordinate is just a function of its "semantic depth" (depth in
  * the tree where course set nodes do not contribute to depth).
@@ -20,7 +22,7 @@ const NODE_MARGIN = 10;
  * @param depth The "semantic depth" of the current node
  * @param yEstimate The estimated *y* coordinate where `node` should be placed
  * @param nextYCoordinates An array containing the minimum *y* coordinate where
- * a node can be placed for each level of the tree
+ * a new node can be placed for each level of the tree
  */
 function setPositionsHelper(
   node: AnyGraphNode,
@@ -42,12 +44,12 @@ function setPositionsHelper(
       node.y = node.child.y;
     }
     nextYCoordinates[depth] = node.y + Y_INTERVAL;
-    node.xIn = node.x - NODE_MARGIN;
-    node.xOut = node.x + COURSE_MAX_WIDTH + NODE_MARGIN;
+    node.xIn = node.x - HORIZONTAL_MARGIN;
+    node.xOut = node.x + COURSE_MAX_WIDTH;
   } else {
     let nextY = Math.max(
       node.y - (node.children.length / 2) * Y_INTERVAL,
-      nextYCoordinates[depth]
+      nextYCoordinates[depth] + TOP_EXTRA_PADDING
     );
     let xMin = node.x;
     let xMax = node.x;
@@ -61,17 +63,24 @@ function setPositionsHelper(
       }
       nextY = nextYCoordinates[depth];
     }
-    node.xIn = xMin - NODE_MARGIN;
-    node.xOut = xMax + NODE_MARGIN;
+    node.bounds.xMin = xMin - HORIZONTAL_MARGIN;
+    node.bounds.xMax = xMax + HORIZONTAL_MARGIN;
+    // `node.children` is assumed to have length at least 2
     const firstChild = node.children[0];
     const lastChild = node.children[node.children.length - 1];
-    node.yMin =
-      (firstChild.type === "course" ? firstChild.y : firstChild.yMin) -
-      NODE_MARGIN;
-    node.yMax =
-      (lastChild.type === "course" ? lastChild.y : lastChild.yMax) +
-      NODE_MARGIN;
-    node.y = (node.yMin + node.yMax) / 2;
+    node.bounds.yMin =
+      (firstChild.type === "course" ? firstChild.y : firstChild.bounds.yMin) -
+      (VERTICAL_PADDING + TOP_EXTRA_PADDING);
+    node.bounds.yMax =
+      (lastChild.type === "course" ? lastChild.y : lastChild.bounds.yMax) +
+      VERTICAL_PADDING;
+    node.y = (node.bounds.yMin + node.bounds.yMax) / 2;
+    node.xIn = node.bounds.xMin;
+    if (node.amount === "all" && !node.isNested) {
+      node.xOut = node.x - X_INTERVAL - HORIZONTAL_MARGIN;
+    } else {
+      node.xOut = node.bounds.xMax;
+    }
   }
 }
 
@@ -88,10 +97,11 @@ function setPositionsHelper(
 export function setPositions(root: AnyGraphNode) {
   const nextYCoordinates: number[] = [];
   setPositionsHelper(root, 0, 0, nextYCoordinates);
-  return {
+  const bounds: BoundingBox = {
     xMin: (nextYCoordinates.length - 1) * X_INTERVAL,
     xMax: 0,
     yMin: 0,
     yMax: Math.max(...nextYCoordinates) - Y_INTERVAL,
   };
+  return bounds;
 }

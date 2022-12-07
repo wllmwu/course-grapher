@@ -1,3 +1,10 @@
+export interface BoundingBox {
+  xMin: number;
+  xMax: number;
+  yMin: number;
+  yMax: number;
+}
+
 /**
  * `BaseGraphNode` represents a generic node in a prerequisite tree graph.
  */
@@ -18,6 +25,8 @@ interface BaseGraphNode {
    * may treat this value differently)
    */
   xOut: number;
+  /** Whether the node's parent is a set */
+  isNested: boolean;
 }
 
 export interface CourseGraphNode extends BaseGraphNode {
@@ -40,13 +49,12 @@ export interface CourseSetGraphNode extends BaseGraphNode {
   /**
    * The lower *y* bound (upper edge) of this set's bounding box in the graph
    */
-  yMin: number;
+  //yMin: number;
   /**
    * The upper *y* bound (lower edge) of this set's bounding box in the graph
    */
-  yMax: number;
-  /** Whether this set's parent is another set */
-  nested: boolean;
+  //yMax: number;
+  bounds: BoundingBox;
 }
 
 export type AnyGraphNode = CourseGraphNode | CourseSetGraphNode;

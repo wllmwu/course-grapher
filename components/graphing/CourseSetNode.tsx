@@ -4,7 +4,6 @@ import type {
   CourseSetGraphNode,
 } from "../../utils/graph-schema";
 import { TreeReducerAction } from "./treeReducer";
-import TextWithBackground from "./TextWithBackground";
 
 interface CourseSetNodeProps {
   node: CourseSetGraphNode;
@@ -12,29 +11,33 @@ interface CourseSetNodeProps {
 }
 
 function renderIncomingEdges(node: CourseSetGraphNode) {
-  if (node.amount === "all") {
+  if (node.amount === "all" && !node.isNested) {
     return (
       <>
-        {node.children.map((child: AnyGraphNode, index: number) => (
-          <polyline
-            key={index}
-            points={`${child.xOut},${child.y} ${child.xOut + 10},${child.y} ${
-              node.xIn - 10
-            },${node.y} ${node.xIn},${node.y}`}
-            stroke="var(--cool-gray)"
-            strokeWidth={2}
-            fill="none"
-          />
-        ))}
+        {node.children.map((child: AnyGraphNode, index: number) => {
+          let points = `${child.xOut},${child.y}`;
+          points += `${child.xOut + 5},${child.y}`;
+          points += `${node.xOut - 5},${node.y}`;
+          points += `${node.xOut},${node.y}`;
+          return (
+            <polyline
+              key={index}
+              points={points}
+              stroke="var(--cool-gray)"
+              strokeWidth={2}
+              fill="none"
+            />
+          );
+        })}
       </>
     );
   } else {
     return (
       <rect
-        x={node.xIn}
-        y={node.yMin}
-        width={node.xOut - node.xIn}
-        height={node.yMax - node.yMin}
+        x={node.bounds.xMin}
+        y={node.bounds.yMin}
+        width={node.bounds.xMax - node.bounds.xMin}
+        height={node.bounds.yMax - node.bounds.yMin}
         fill="var(--accent-blue-darken)"
         rx={4}
         ry={4}
@@ -44,20 +47,7 @@ function renderIncomingEdges(node: CourseSetGraphNode) {
 }
 
 function CourseSetNode({ node, dispatch }: CourseSetNodeProps) {
-  return (
-    <g>
-      {renderIncomingEdges(node)}
-      <TextWithBackground
-        x={node.x}
-        y={node.y}
-        fill="var(--cool-gray)"
-        backgroundColor="var(--background)"
-        horizontalPadding={2}
-      >
-        {node.amount}
-      </TextWithBackground>
-    </g>
-  );
+  return <g>{renderIncomingEdges(node)}</g>;
 }
 
 export default CourseSetNode;

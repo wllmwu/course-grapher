@@ -16,6 +16,7 @@ const testTree: CourseGraphNode = {
   y: 0,
   xIn: -25,
   xOut: 0,
+  isNested: false,
   child: {
     type: "set",
     amount: "all",
@@ -23,9 +24,8 @@ const testTree: CourseGraphNode = {
     y: 0,
     xIn: -75,
     xOut: -25,
-    yMin: -150,
-    yMax: 150,
-    nested: false,
+    bounds: { xMin: 0, xMax: 0, yMin: 0, yMax: 0 },
+    isNested: false,
     children: [
       {
         type: "set",
@@ -34,9 +34,8 @@ const testTree: CourseGraphNode = {
         y: -100,
         xIn: -150,
         xOut: -100,
-        yMin: -150,
-        yMax: -100,
-        nested: false,
+        bounds: { xMin: 0, xMax: 0, yMin: 0, yMax: 0 },
+        isNested: false,
         children: [
           {
             type: "course",
@@ -45,6 +44,7 @@ const testTree: CourseGraphNode = {
             y: -150,
             xIn: -325,
             xOut: -175,
+            isNested: true,
           },
           {
             type: "course",
@@ -53,6 +53,7 @@ const testTree: CourseGraphNode = {
             y: -100,
             xIn: -325,
             xOut: -175,
+            isNested: true,
           },
           {
             type: "course",
@@ -61,6 +62,16 @@ const testTree: CourseGraphNode = {
             y: -50,
             xIn: -325,
             xOut: -175,
+            isNested: true,
+          },
+          {
+            type: "course",
+            code: "COMM 222MM",
+            x: 0,
+            y: 0,
+            xIn: 0,
+            xOut: 0,
+            isNested: true,
           },
         ],
       },
@@ -71,6 +82,7 @@ const testTree: CourseGraphNode = {
         y: 0,
         xIn: -325,
         xOut: -175,
+        isNested: false,
       },
       {
         type: "course",
@@ -79,6 +91,7 @@ const testTree: CourseGraphNode = {
         y: 50,
         xIn: -325,
         xOut: -175,
+        isNested: false,
       },
       {
         type: "set",
@@ -87,9 +100,8 @@ const testTree: CourseGraphNode = {
         y: 125,
         xIn: -150,
         xOut: -100,
-        yMin: 100,
-        yMax: 150,
-        nested: false,
+        bounds: { xMin: 0, xMax: 0, yMin: 0, yMax: 0 },
+        isNested: false,
         children: [
           {
             type: "course",
@@ -98,6 +110,7 @@ const testTree: CourseGraphNode = {
             y: 100,
             xIn: -325,
             xOut: -175,
+            isNested: true,
           },
           {
             type: "course",
@@ -106,6 +119,7 @@ const testTree: CourseGraphNode = {
             y: 150,
             xIn: -325,
             xOut: -175,
+            isNested: true,
           },
         ],
       },
