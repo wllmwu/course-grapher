@@ -1,10 +1,9 @@
-import React, { useReducer } from "react";
+import React, { useMemo, useReducer } from "react";
 import type { Course } from "../utils/data-schema";
 import type { CourseGraphNode } from "../utils/graph-schema";
-import { treeReducer } from "./graphing/treeReducer";
+import { treeReducer, treeStateInitializer } from "./graphing/treeReducer";
 import GraphNode from "./graphing/GraphNode";
 import styles from "../styles/GraphViewer.module.css";
-import { setPositions } from "./graphing/setPositions";
 
 interface GraphViewerProps {
   root: Course;
@@ -113,20 +112,38 @@ const testTree: CourseGraphNode = {
     ],
   },
 };
-setPositions(testTree);
+
+const GRAPH_PADDING = 150;
 
 function GraphViewer({ root }: GraphViewerProps) {
-  const [state, dispatch] = useReducer(treeReducer, { tree: testTree });
+  const [state, dispatch] = useReducer(
+    treeReducer,
+    testTree,
+    treeStateInitializer
+  );
+  const viewBox = useMemo(() => {
+    const x = state.bounds.xMin - GRAPH_PADDING;
+    const y = state.bounds.yMin - GRAPH_PADDING;
+    const width = state.bounds.xMax - x + GRAPH_PADDING;
+    const height = state.bounds.yMax - y + GRAPH_PADDING;
+    return `${x} ${y} ${width} ${height}`;
+  }, [state]);
 
   return (
     <svg
       width="100%"
       height="32em"
-      viewBox="-450 -250 500 500"
+      viewBox={viewBox}
       preserveAspectRatio="xMaxYMid meet"
       xmlns="http://www.w3.org/2000/svg"
       className={styles.graphBox}
     >
+      <rect
+        x={state.bounds.xMin}
+        y={state.bounds.yMin}
+        width={state.bounds.xMax - state.bounds.xMin}
+        height={state.bounds.yMax - state.bounds.yMin}
+      />
       <GraphNode node={state.tree} dispatch={dispatch} />
     </svg>
   );

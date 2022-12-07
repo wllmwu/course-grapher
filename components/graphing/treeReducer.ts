@@ -1,7 +1,14 @@
 import type { AnyGraphNode } from "../../utils/graph-schema";
+import { setPositions } from "./setPositions";
 
 interface TreeReducerState {
   tree: AnyGraphNode;
+  bounds: {
+    xMin: number;
+    xMax: number;
+    yMin: number;
+    yMax: number;
+  };
 }
 
 interface TreeReducerExpandAction {
@@ -30,4 +37,13 @@ export function treeReducer(
     default:
       return state;
   }
+}
+
+export function treeStateInitializer(tree: AnyGraphNode) {
+  const { xMin, xMax, yMin, yMax } = setPositions(tree);
+  const state: TreeReducerState = {
+    tree,
+    bounds: { xMin, xMax, yMin, yMax },
+  };
+  return state;
 }
