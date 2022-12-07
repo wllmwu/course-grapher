@@ -4,6 +4,7 @@ import type { CourseGraphNode } from "../utils/graph-schema";
 import { treeReducer } from "./graphing/treeReducer";
 import GraphNode from "./graphing/GraphNode";
 import styles from "../styles/GraphViewer.module.css";
+import { setPositions } from "./graphing/setPositions";
 
 interface GraphViewerProps {
   root: Course;
@@ -16,13 +17,16 @@ const testTree: CourseGraphNode = {
   y: 0,
   xIn: -25,
   xOut: 0,
-  requirements: {
+  child: {
     type: "set",
     amount: "all",
     x: -50,
     y: 0,
     xIn: -75,
     xOut: -25,
+    yMin: -150,
+    yMax: 150,
+    nested: false,
     children: [
       {
         type: "set",
@@ -31,6 +35,9 @@ const testTree: CourseGraphNode = {
         y: -100,
         xIn: -150,
         xOut: -100,
+        yMin: -150,
+        yMax: -100,
+        nested: false,
         children: [
           {
             type: "course",
@@ -81,6 +88,9 @@ const testTree: CourseGraphNode = {
         y: 125,
         xIn: -150,
         xOut: -100,
+        yMin: 100,
+        yMax: 150,
+        nested: false,
         children: [
           {
             type: "course",
@@ -103,6 +113,7 @@ const testTree: CourseGraphNode = {
     ],
   },
 };
+setPositions(testTree);
 
 function GraphViewer({ root }: GraphViewerProps) {
   const [state, dispatch] = useReducer(treeReducer, { tree: testTree });

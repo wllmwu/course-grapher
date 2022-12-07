@@ -1,7 +1,7 @@
-import type { RootGraphNode } from "../../utils/graph-schema";
+import type { AnyGraphNode } from "../../utils/graph-schema";
 
 interface TreeReducerState {
-  tree: RootGraphNode;
+  tree: AnyGraphNode;
 }
 
 interface TreeReducerExpandAction {

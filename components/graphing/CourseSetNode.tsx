@@ -11,7 +11,7 @@ interface CourseSetNodeProps {
   dispatch: React.Dispatch<TreeReducerAction>;
 }
 
-function incomingEdges(node: CourseSetGraphNode) {
+function renderIncomingEdges(node: CourseSetGraphNode) {
   if (node.amount === "all") {
     return (
       <>
@@ -29,56 +29,24 @@ function incomingEdges(node: CourseSetGraphNode) {
       </>
     );
   } else {
-    const firstChild = node.children[0];
-    const lastChild = node.children[node.children.length - 1];
-    const x1 = firstChild.xOut;
-    const y1 = firstChild.y;
-    const x2 = node.xIn - 10;
-    const y2 = lastChild.y;
     return (
-      <>
-        <polyline
-          points={`${x1},${y1} ${x2},${y1} ${x2},${y2} ${x1},${y2}`}
-          stroke="var(--cool-gray)"
-          strokeWidth={2}
-          fill="none"
-        />
-        {node.children
-          .slice(1, -1)
-          .map((child: AnyGraphNode, index: number) => (
-            <line
-              key={index}
-              x1={child.xOut}
-              y1={child.y}
-              x2={x2}
-              y2={child.y}
-              stroke="var(--cool-gray)"
-              strokeWidth={2}
-            />
-          ))}
-        <line
-          x1={x2}
-          y1={node.y}
-          x2={node.xOut}
-          y2={node.y}
-          stroke="var(--cool-gray)"
-          strokeWidth={2}
-        />
-      </>
+      <rect
+        x={node.xIn}
+        y={node.yMin}
+        width={node.xOut - node.xIn}
+        height={node.yMax - node.yMin}
+        fill="var(--accent-blue-darken)"
+        rx={4}
+        ry={4}
+      />
     );
   }
 }
 
 function CourseSetNode({ node, dispatch }: CourseSetNodeProps) {
-  const firstChild = node.children[0];
-  const lastChild = node.children[node.children.length - 1];
-  const x1 = firstChild.xOut;
-  const y1 = firstChild.y;
-  const x2 = node.xIn - 10;
-  const y2 = lastChild.y;
   return (
     <g>
-      {incomingEdges(node)}
+      {renderIncomingEdges(node)}
       <TextWithBackground
         x={node.x}
         y={node.y}
