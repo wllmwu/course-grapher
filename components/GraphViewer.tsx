@@ -11,12 +11,12 @@ interface GraphViewerProps {
 
 const testTree: CourseGraphNode = {
   type: "course",
-  code: "TODO",
+  code: "CSE 100",
   x: 0,
   y: 0,
   xIn: -25,
   xOut: 0,
-  isNested: false,
+  isNested: true,
   child: {
     type: "set",
     amount: "all",
@@ -113,13 +113,34 @@ const testTree: CourseGraphNode = {
             isNested: true,
           },
           {
-            type: "course",
-            code: "ECE 15",
-            x: -300,
-            y: 150,
-            xIn: -325,
-            xOut: -175,
+            type: "set",
+            amount: "all",
+            x: 0,
+            y: 0,
+            xIn: 0,
+            xOut: 0,
+            bounds: { xMin: 0, xMax: 0, yMin: 0, yMax: 0 },
             isNested: true,
+            children: [
+              {
+                type: "course",
+                code: "ECE 15",
+                x: -300,
+                y: 150,
+                xIn: -325,
+                xOut: -175,
+                isNested: true,
+              },
+              {
+                type: "course",
+                code: "ECE 16",
+                x: -300,
+                y: 150,
+                xIn: -325,
+                xOut: -175,
+                isNested: true,
+              },
+            ],
           },
         ],
       },
@@ -152,12 +173,6 @@ function GraphViewer({ root }: GraphViewerProps) {
       xmlns="http://www.w3.org/2000/svg"
       className={styles.graphBox}
     >
-      <rect
-        x={state.bounds.xMin}
-        y={state.bounds.yMin}
-        width={state.bounds.xMax - state.bounds.xMin}
-        height={state.bounds.yMax - state.bounds.yMin}
-      />
       <GraphNode node={state.tree} dispatch={dispatch} />
     </svg>
   );

@@ -32,16 +32,42 @@ function renderIncomingEdges(node: CourseSetGraphNode) {
       </>
     );
   } else {
+    let label = "";
+    switch (node.amount) {
+      case "all":
+        if (node.children.length === 2) {
+          label = "TAKE BOTH";
+        } else {
+          label = "TAKE ALL";
+        }
+        break;
+      case "one":
+        label = "CHOOSE ONE";
+        break;
+      case "two":
+        label = "CHOOSE TWO";
+        break;
+    }
     return (
-      <rect
-        x={node.bounds.xMin}
-        y={node.bounds.yMin}
-        width={node.bounds.xMax - node.bounds.xMin}
-        height={node.bounds.yMax - node.bounds.yMin}
-        fill="var(--accent-blue-darken)"
-        rx={4}
-        ry={4}
-      />
+      <>
+        <rect
+          x={node.bounds.xMin}
+          y={node.bounds.yMin}
+          width={node.bounds.xMax - node.bounds.xMin}
+          height={node.bounds.yMax - node.bounds.yMin}
+          fill="var(--accent-blue-darken)"
+          rx={4}
+          ry={4}
+        />
+        <text
+          x={node.bounds.xMin + 5}
+          y={node.bounds.yMin + 12}
+          fill="var(--cool-gray)"
+          fontSize={10}
+        >
+          {label}
+        </text>
+      </>
     );
   }
 }

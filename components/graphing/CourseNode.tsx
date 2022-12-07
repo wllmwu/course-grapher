@@ -21,14 +21,16 @@ function CourseNode({ node, dispatch }: CourseNodeProps) {
         stroke="var(--cool-gray)"
         strokeWidth={2}
       />
-      <line
-        x1={node.x}
-        y1={node.y}
-        x2={node.xOut}
-        y2={node.y}
-        stroke="var(--cool-gray)"
-        strokeWidth={2}
-      />
+      {!node.isNested && (
+        <line
+          x1={node.x}
+          y1={node.y}
+          x2={node.xOut}
+          y2={node.y}
+          stroke="var(--cool-gray)"
+          strokeWidth={2}
+        />
+      )}
       <circle cx={node.x} cy={node.y} r={6} fill="var(--accent-blue)" />
       <TextWithBackground
         x={node.x + 10}
