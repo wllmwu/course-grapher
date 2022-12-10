@@ -2,6 +2,7 @@ import React, { useMemo, useReducer } from "react";
 import type { Course } from "../utils/data-schema";
 import type { CourseGraphNode } from "../utils/graph-schema";
 import { treeReducer, treeStateInitializer } from "./graphing/treeReducer";
+import Edges from "./graphing/Edges";
 import GraphNode from "./graphing/GraphNode";
 import styles from "../styles/GraphViewer.module.css";
 
@@ -45,6 +46,45 @@ const testTree: CourseGraphNode = {
             xIn: -325,
             xOut: -175,
             isNested: true,
+            child: {
+              type: "set",
+              amount: "one",
+              x: 0,
+              y: 0,
+              xIn: 0,
+              xOut: 0,
+              bounds: { xMin: 0, xMax: 0, yMin: 0, yMax: 0 },
+              isNested: false,
+              children: [
+                {
+                  type: "course",
+                  code: "CSE 20",
+                  x: 0,
+                  y: 0,
+                  xIn: 0,
+                  xOut: 0,
+                  isNested: true,
+                },
+                {
+                  type: "course",
+                  code: "MATH 15A",
+                  x: 0,
+                  y: 0,
+                  xIn: 0,
+                  xOut: 0,
+                  isNested: true,
+                },
+                {
+                  type: "course",
+                  code: "MATH 31CH",
+                  x: 0,
+                  y: 0,
+                  xIn: 0,
+                  xOut: 0,
+                  isNested: true,
+                },
+              ],
+            },
           },
           {
             type: "course",
@@ -173,6 +213,9 @@ function GraphViewer({ root }: GraphViewerProps) {
       xmlns="http://www.w3.org/2000/svg"
       className={styles.graphBox}
     >
+      <defs>
+        <Edges.ArrowheadDefinition />
+      </defs>
       <GraphNode node={state.tree} dispatch={dispatch} />
     </svg>
   );

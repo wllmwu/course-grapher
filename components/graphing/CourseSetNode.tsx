@@ -3,32 +3,25 @@ import type {
   AnyGraphNode,
   CourseSetGraphNode,
 } from "../../utils/graph-schema";
-import { TreeReducerAction } from "./treeReducer";
+import Edges from "./Edges";
 
 interface CourseSetNodeProps {
   node: CourseSetGraphNode;
-  dispatch: React.Dispatch<TreeReducerAction>;
 }
 
 function renderIncomingEdges(node: CourseSetGraphNode) {
   if (node.amount === "all" && !node.isNested) {
     return (
       <>
-        {node.children.map((child: AnyGraphNode, index: number) => {
-          let points = `${child.xOut},${child.y}`;
-          points += `${child.xOut + 5},${child.y}`;
-          points += `${node.xOut - 5},${node.y}`;
-          points += `${node.xOut},${node.y}`;
-          return (
-            <polyline
-              key={index}
-              points={points}
-              stroke="var(--cool-gray)"
-              strokeWidth={2}
-              fill="none"
-            />
-          );
-        })}
+        {node.children.map((child: AnyGraphNode, index: number) => (
+          <Edges.Connector
+            key={index}
+            x1={child.xOut}
+            y1={child.y}
+            x2={node.xOut}
+            y2={node.y}
+          />
+        ))}
       </>
     );
   } else {
@@ -72,7 +65,7 @@ function renderIncomingEdges(node: CourseSetGraphNode) {
   }
 }
 
-function CourseSetNode({ node, dispatch }: CourseSetNodeProps) {
+function CourseSetNode({ node }: CourseSetNodeProps) {
   return <g>{renderIncomingEdges(node)}</g>;
 }
 

@@ -2,3 +2,12 @@
   border: 1px solid var(--cool-gray);
   border-radius: 0.5rem;
 }
+
+.edge {
+  stroke: var(--cool-gray);
+  stroke-width: 2;
+}
+
+.edgeArrowhead {
+  fill: var(--cool-gray);
+}

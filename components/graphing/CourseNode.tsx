@@ -3,6 +3,7 @@ import Link from "next/link";
 import type { CourseGraphNode } from "../../utils/graph-schema";
 import { slugifyCourseCode } from "../../utils";
 import { TreeReducerAction } from "./treeReducer";
+import Edges from "./Edges";
 import TextWithBackground from "./TextWithBackground";
 
 interface CourseNodeProps {
@@ -13,23 +14,16 @@ interface CourseNodeProps {
 function CourseNode({ node, dispatch }: CourseNodeProps) {
   return (
     <g>
-      <line
-        x1={node.xIn}
-        y1={node.y}
-        x2={node.x - 8}
-        y2={node.y}
-        stroke="var(--cool-gray)"
-        strokeWidth={2}
-      />
-      {!node.isNested && (
-        <line
-          x1={node.x}
-          y1={node.y}
-          x2={node.xOut}
+      {node.child && (
+        <Edges.Arrow
+          x1={node.child.xOut}
+          y1={node.child.y}
+          x2={node.xIn}
           y2={node.y}
-          stroke="var(--cool-gray)"
-          strokeWidth={2}
         />
+      )}
+      {!node.isNested && (
+        <Edges.Line x1={node.x} y1={node.y} x2={node.xOut} y2={node.y} />
       )}
       <circle cx={node.x} cy={node.y} r={6} fill="var(--accent-blue)" />
       <TextWithBackground
