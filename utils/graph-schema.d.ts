@@ -46,14 +46,7 @@ export interface CourseSetGraphNode extends BaseGraphNode {
   amount: "all" | "one" | "two";
   /** The courses in this set */
   children: AnyGraphNode[];
-  /**
-   * The lower *y* bound (upper edge) of this set's bounding box in the graph
-   */
-  //yMin: number;
-  /**
-   * The upper *y* bound (lower edge) of this set's bounding box in the graph
-   */
-  //yMax: number;
+  /** The rectangle that bounds this set in the graph */
   bounds: BoundingBox;
 }
 

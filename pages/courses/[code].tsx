@@ -3,7 +3,7 @@ import { useRouter } from "next/router";
 import Head from "next/head";
 import Link from "next/link";
 import type { Course } from "../../utils/data-schema";
-import { parseJSONLines, unslugifyCourseCode } from "../../utils";
+import { deslugifyCourseCode, parseJSONLines } from "../../utils";
 import Page from "../../components/Page";
 import GraphViewer from "../../components/GraphViewer";
 
@@ -16,7 +16,7 @@ function CoursePage() {
     if (!codeSlug) {
       return null;
     }
-    return unslugifyCourseCode(codeSlug as string);
+    return deslugifyCourseCode(codeSlug as string);
   }, [router]);
 
   useEffect(() => {

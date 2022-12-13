@@ -2,9 +2,8 @@ import React from "react";
 import type { GetStaticPaths, GetStaticProps } from "next";
 import Head from "next/head";
 import Link from "next/link";
-import { promises as fs } from "fs";
-import path from "path";
 import type { Department, Course } from "../../utils/data-schema";
+import { readDataFile } from "../../utils/buildtime";
 import {
   courseComparator,
   getCourseCodeDigits,
@@ -22,8 +21,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
       fallback: "blocking",
     };
   }
-  const filePath = path.join(process.cwd(), "scraping/data/index.json");
-  const index = JSON.parse(await fs.readFile(filePath, "utf-8"));
+  const index = JSON.parse(await readDataFile("index.json"));
   const paths = Object.keys(index.departments).map((deptCode) => ({
     params: { code: deptCode },
   }));
@@ -40,8 +38,7 @@ export const getStaticProps: GetStaticProps = async (context) => {
     };
   }
   const deptCode = context.params.code;
-  const filePath = path.join(process.cwd(), `scraping/data/${deptCode}.jsonl`);
-  const courses = parseJSONLines(await fs.readFile(filePath, "utf-8"));
+  const courses = parseJSONLines(await readDataFile(`${deptCode}.jsonl`));
   const department = courses.shift();
   if (department) {
     department.numCourses = courses.length;

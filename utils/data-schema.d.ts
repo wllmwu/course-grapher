@@ -11,11 +11,11 @@ export interface Course {
   units: string;
   description: string;
   anchor?: string;
-  prereqs?: PrerequisitesTree;
-  coreqs?: PrerequisitesTree;
+  prereqs?: string | PrerequisitesSet;
+  coreqs?: string | PrerequisitesSet;
 }
 
-export interface PrerequisitesTree {
+export interface PrerequisitesSet {
   type: "all" | "one" | "two";
-  courses: Array<string | PrerequisitesTree>;
+  courses: Array<string | PrerequisitesSet>;
 }
