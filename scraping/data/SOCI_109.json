@@ -1,0 +1,9 @@
+{
+  "code": "SOCI 109",
+  "title": "Analysis of Sociological Data",
+  "units": "4",
+  "dept": "SOC",
+  "anchor": "soci10",
+  "description": "Students test their own sociological research hypotheses using data from recent American and international social surveys and state-of-the-art computer software. Application of classical scientific method, interpretation of statistical results, and clear presentation of research findings. Prerequisites: SOCI 60. Will not receive credit for SOCI 109 and SOCA 109.",
+  "prereqs": "SOCI 60"
+}

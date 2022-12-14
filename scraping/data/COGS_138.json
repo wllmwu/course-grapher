@@ -1,0 +1,15 @@
+{
+  "code": "COGS 138",
+  "title": "Neural Data Science",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs92",
+  "description": "Project-based course in which students will use computational notebooks to perform exploratory data analyses and to test hypotheses in large neuroscience datasets, including the differences between unique neuron types, leveraging text mining of the neuroscience literature, and human neuroimaging analyses. Prerequisites: COGS 18 and COGS 118C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COGS 18",
+      "COGS 118C"
+    ]
+  }
+}

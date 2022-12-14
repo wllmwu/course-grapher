@@ -10,11 +10,11 @@ import LinkCard from "../../components/LinkCard";
 import styles from "../../styles/DepartmentsPage.module.css";
 
 export const getStaticProps: GetStaticProps = async () => {
-  const filePath = path.join(process.cwd(), "scraping/data/index.json");
-  const index = JSON.parse(await fs.readFile(filePath, "utf-8"));
+  const filePath = path.join(process.cwd(), "scraping/data/departments.json");
+  const departmentIndex = JSON.parse(await fs.readFile(filePath, "utf-8"));
   return {
     props: {
-      departments: index.departments,
+      departments: departmentIndex,
     },
   };
 };
@@ -65,7 +65,7 @@ function DepartmentsPage({ departments }: DepartmentsPageProps) {
                 <LinkCard
                   key={dept.code}
                   title={dept.code}
-                  subtitle={`${dept.name} | ${dept.numCourses} courses`}
+                  subtitle={`${dept.name} | ${dept.courses.length} courses`}
                   href={`/departments/${dept.code}`}
                   className={styles.card}
                 />

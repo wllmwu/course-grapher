@@ -1,0 +1,15 @@
+{
+  "code": "CHEM 6C",
+  "title": "General Chemistry III",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem6c",
+  "description": "Third quarter of a three-quarter sequence intended for science and engineering majors. Topics include thermodynamics, kinetics, electrochemistry, coordination chemistry, and introductions to nuclear, main group organic, and biochemistry. May not be taken for credit after CHEM 6CH. Prerequisites: CHEM 6B or 6BH. Recommended: completion of MATH 10B or 20B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 6B",
+      "CHEM 6BH"
+    ]
+  }
+}

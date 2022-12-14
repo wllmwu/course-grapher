@@ -1,0 +1,9 @@
+{
+  "code": "COMM 105G",
+  "title": "CT: Computer Games Studies",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm105g",
+  "description": "Course considers computer games both as media and as sites of communication. Games are studied through hands-on play and texts from a variety of disciplinary perspectives. Course encompasses commercial, academic, and independent games. Prerequisites: COMM 10.",
+  "prereqs": "COMM 10"
+}

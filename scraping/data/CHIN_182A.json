@@ -1,0 +1,15 @@
+{
+  "code": "CHIN 182A",
+  "title": "Introduction to Classical Chinese\u2014Advanced I",
+  "units": "4",
+  "dept": "CHIN",
+  "anchor": "chin100cm",
+  "description": "An introduction to classical Chinese for students with advanced Chinese background. Basic structures and function words are taught through fables of the pre-Qing period. Prerequisites: CHIN 113, CHIN 100C, or department approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHIN 113",
+      "CHIN 100C"
+    ]
+  }
+}

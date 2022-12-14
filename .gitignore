@@ -38,4 +38,8 @@ next-env.d.ts
 # python
 __pycache__
 .venv
-*.log
+
+# scraping
+scraping/intermediate
+scraping/*.log
+public/data

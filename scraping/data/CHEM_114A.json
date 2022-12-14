@@ -1,0 +1,15 @@
+{
+  "code": "CHEM 114A",
+  "title": "Biochemical Structure and Function",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem7l",
+  "description": "Introduction to biochemistry from a structural and functional viewpoint. Emphasis will be placed on the structure-functions relationships of nucleic acids, proteins, enzymes, carbohydrates, and lipids. Students may not receive credit for both CHEM 114A and BIBC 100. Prerequisites: CHEM 40A or 41A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 40A",
+      "CHEM 41A"
+    ]
+  }
+}

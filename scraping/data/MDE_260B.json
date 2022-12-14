@@ -1,0 +1,9 @@
+{
+  "code": "MDE 260B",
+  "title": "Design and Implementation of Medical Device Technology II",
+  "units": "2",
+  "dept": "MAE",
+  "anchor": "mae247",
+  "description": "Second of a three-quarter sequence, project-based course in medical device engineering, medical product regulation, quality systems and standards, engineering project management, and business development. Students will begin to design a medical device and an engineering strategy. Prerequisites: MDE 260A and consent of instructor. MDE students only.",
+  "prereqs": "MDE 260A"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ECON 100A",
+  "title": "Microeconomics A",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ100a",
+  "description": "Economic analysis of household determination of the demand for goods and services, consumption/saving decisions, and the supply of labor. Prerequisites: ECON 1 and MATH 10C or 20C or 31BH.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 1",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10C",
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      }
+    ]
+  }
+}

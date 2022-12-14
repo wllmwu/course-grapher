@@ -1,0 +1,15 @@
+{
+  "code": "LIAB 1E",
+  "title": "",
+  "units": "LIAB",
+  "dept": "LING",
+  "anchor": "lign515",
+  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Must be taken in conjunction with LIAB 1EX. Prerequisites: LIAB 1D with a grade of C\u2013 or better, or equivalent, and LIAB 1DX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIAB 1D",
+      "LIAB 1DX"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "code": "BILD 2",
+  "title": "Multicellular Life",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bild2",
+  "description": "An introduction to the development and the physiological processes of plants and animals. Included are treatments of reproduction, nutrition, respiration, transport systems, regulation of the internal environment, the nervous system, and behavior. Prerequisites: BILD 1.",
+  "prereqs": "BILD 1"
+}

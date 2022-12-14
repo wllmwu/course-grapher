@@ -1,0 +1,8 @@
+{
+  "code": "CSE 251A",
+  "title": "Principles of Machine Learning: Learning Algorithms",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse251a",
+  "description": "(Formerly CSE 250B.) Algorithms for supervised and unsupervised learning from data. Content may include maximum likelihood; log-linear models, including logistic regression and conditional random fields; nearest neighbor methods; kernel methods; decision trees; ensemble methods; optimization algorithms; topic models; neural networks; and backpropagation. Renumbered from CSE 250B. Students may not receive credit for CSE 251A and CSE 250B. Recommended preparation: CSE 103 or similar course. Prerequisites: graduate standing or consent of instructor."
+}

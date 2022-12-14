@@ -53,7 +53,7 @@ class CatalogSpider(scrapy.Spider):
 
         if not self.dry_run:
             yield {
-                'dept': dept,
+                'file': 'departments',
                 'code': dept,
                 'name': dept_name,
                 'link': response.url
@@ -67,10 +67,11 @@ class CatalogSpider(scrapy.Spider):
             self.logger.info('%s %s', subject, number)
 
             result = {
-                'dept': dept,
+                'file': dept,
                 'code': f'{subject} {number}',
                 'title': title,
-                'units': units
+                'units': units,
+                'dept': dept
             }
 
             anchor = selector.xpath(
@@ -87,7 +88,7 @@ class CatalogSpider(scrapy.Spider):
                 self.logger.error(
                     'Missing description for %s %s', subject, number)
                 self.metrics.inc_missing_descriptions()
-                result['description'] = 'Missing'
+                result['description'] = 'Missing description'
             else:
                 result['description'] = description
                 prereqs, coreqs = self.parser.parse_requirements(

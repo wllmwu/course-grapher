@@ -1,0 +1,9 @@
+{
+  "code": "MUS 107",
+  "title": "Critical Studies Seminar",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus107",
+  "description": "This seminar explores the history of music in relation to critical issues, such as race, gender, sexuality, the environment, and politics. Readings include recent literature in cultural studies, musicology, and sociology. Topics vary. May be taken three times for credit. Prerequisites: MUS 120C.",
+  "prereqs": "MUS 120C"
+}

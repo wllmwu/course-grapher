@@ -1,0 +1,15 @@
+{
+  "code": "FMPH 242",
+  "title": "Advanced Topics in Biostatistics",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "fmph242",
+  "description": "Biostatistics elective courses will be taught under this course heading. Courses will have a varying focus each year/quarter. Topics will include random field theory and image analysis, advanced statistical computing, Bayesian methods, and others. May be taken for credit up to three times. Prerequisites: successful completion of FMPH 221 and FMPH 222 or program approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "FMPH 221",
+      "FMPH 222"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "code": "TDAC 102",
+  "title": "Acting II",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdac102",
+  "description": "Further study in the application of the given circumstances to a text and the development of characterization. Prerequisites: TDAC 101.",
+  "prereqs": "TDAC 101"
+}

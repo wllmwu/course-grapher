@@ -1,0 +1,15 @@
+{
+  "code": "CHEM 40A",
+  "title": "Organic Chemistry I",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem7l",
+  "description": "Renumbered from CHEM 140A. Introduction to organic chemistry with applications to biochemistry. Bonding theory, isomerism, stereochemistry, chemical and physical properties. Introduction to substitution, addition, and elimination reactions. Students may only receive credit for one of the following: CHEM 40A, 40AH, 140A, or 140AH. Prerequisites: CHEM 6B or CHEM 6BH.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 6B",
+      "CHEM 6BH"
+    ]
+  }
+}

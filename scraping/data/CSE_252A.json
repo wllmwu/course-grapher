@@ -1,0 +1,20 @@
+{
+  "code": "CSE 252A",
+  "title": "Computer Vision I",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse252a",
+  "description": "Comprehensive introduction to computer vision providing broad coverage including low-level vision (image formation, photometry, color, image feature detection), inferring 3-D properties from images (shape-from shading, stereo vision, motion interpretation) and object recognition. Companion to CSE 252B covering complementary topics. Prerequisites: MATH 10D and MATH 20A\u2013F or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 10D",
+      "MATH 20A",
+      "MATH 20B",
+      "MATH 20C",
+      "MATH 20D",
+      "MATH 20E",
+      "MATH 20F"
+    ]
+  }
+}

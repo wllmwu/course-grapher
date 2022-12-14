@@ -1,0 +1,29 @@
+{
+  "code": "CHEM 143B",
+  "title": "Organic Chemistry Laboratory",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem7l",
+  "description": "Continuation of CHEM 43A, 143A, 43AM, and 143AM, emphasizing synthetic methods of organic chemistry. Enrollment is limited to majors in the Department of Chemistry and Biochemistry unless space is available. A materials fee is required. Prerequisites: CHEM 43A, 143A, 43AM or 143AM, and CHEM 40B or 140B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHEM 43A",
+      "CHEM 143A",
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 43AM",
+          "CHEM 143AM"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 40B",
+          "CHEM 140B"
+        ]
+      }
+    ]
+  }
+}

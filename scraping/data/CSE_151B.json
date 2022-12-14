@@ -1,0 +1,34 @@
+{
+  "code": "CSE 151B",
+  "title": "Deep Learning",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse151b",
+  "description": "(Formerly CSE 154.) This course covers the fundamentals of neural networks. We introduce linear regression, logistic regression, perceptrons, multilayer networks and back-propagation, convolutional neural networks, recurrent networks, and deep networks trained by reinforcement learning. Students may receive credit for one of the following: CSE 151B, CSE 154, or COGS 181. Prerequisites: MATH 20C or MATH 31BH and BENG 134 or COGS 118D or CSE 103 or ECE 109 or ECON 120A or MAE 108 or MATH 181A or MATH 183 or MATH 186; restricted to students with sophomore, junior, or senior standing within the CS25, CS26, CS27, CS28, EC26, and DS25 majors. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BENG 134",
+          "COGS 118D",
+          "CSE 103",
+          "ECE 109",
+          "ECON 120A",
+          "MAE 108",
+          "MATH 181A",
+          "MATH 183",
+          "MATH 186"
+        ]
+      }
+    ]
+  }
+}

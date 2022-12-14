@@ -1,0 +1,9 @@
+{
+  "code": "COMM 106D",
+  "title": "CI: Data and Culture",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm106d",
+  "description": "Advances in data science, AI, social media, and surveillance raise new and old issues about the role data plays in our lives. This course examines data as a socially and culturally situated practice, performed by people and institutions, with impacts that intersect issues of power, publics, representation, justice, culture industries, and social forces. The aim is to build on social and cultural theories to explore specific contemporary and historical cases around the uses and misuses of data. Prerequisites: COMM 10.",
+  "prereqs": "COMM 10"
+}

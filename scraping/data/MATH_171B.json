@@ -1,0 +1,9 @@
+{
+  "code": "MATH 171B",
+  "title": "Introduction to Numerical Optimization: Nonlinear Programming",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math111a",
+  "description": "Convergence of sequences in Rn, multivariate Taylor series. Bisection and related methods for nonlinear equations in one variable. Newton\u2019s methods for nonlinear equations in one and many variables. Unconstrained optimization and Newton\u2019s method. Equality-constrained optimization, Kuhn-Tucker theorem. Inequality-constrained optimization. Three lectures, one recitation. Knowledge of programming recommended. (Credit not allowed for both MATH 171B and ECON 172B.) Prerequisites: MATH 171A or consent of instructor.",
+  "prereqs": "MATH 171A"
+}

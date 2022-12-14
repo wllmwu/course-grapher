@@ -1,0 +1,9 @@
+{
+  "code": "MATH 31CH",
+  "title": "Honors Vector Calculus",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math31ch",
+  "description": "Third quarter of honors integrated linear algebra/multivariable calculus sequence for well-prepared students. Topics include change of variables formula, integration of differential forms, exterior derivative, generalized Stoke\u2019s theorem, conservative vector fields, potentials. Prerequisites: MATH 31BH with a grade of B\u2013 or better, or consent of instructor.",
+  "prereqs": "MATH 31BH"
+}

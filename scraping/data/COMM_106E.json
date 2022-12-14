@@ -1,0 +1,9 @@
+{
+  "code": "COMM 106E",
+  "title": "CI: Data, Science, and Society",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm106e",
+  "description": "Data and science have long played a role in societies, with advances in data science, AI, surveillance, and automation raising new and old issues. This course focuses on the relationship between science, technology, and society in an increasingly data-intensive world, including the human choices and social structures that shape its direction and application. Themes may include data and governance, expertise, epistemology, infrastructure, political economy, labor, inequality, and resistance. Prerequisites: COMM 10.",
+  "prereqs": "COMM 10"
+}

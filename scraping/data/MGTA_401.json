@@ -1,0 +1,16 @@
+{
+  "code": "MGTA 401",
+  "title": "Professional Seminar",
+  "units": "1",
+  "dept": "MGT",
+  "anchor": "mgta401",
+  "description": "Discussion series where domain experts and business leaders present up-to-date research, discuss legal, privacy, and ethical issues, and provide professional skills development. S/U grades only. May be taken for credit two times. Prerequisites: MGTA 451, MGTA 452, MGTA 453, and restricted to MS in business analytics program or with department and instructor approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGTA 451",
+      "MGTA 452",
+      "MGTA 453"
+    ]
+  }
+}

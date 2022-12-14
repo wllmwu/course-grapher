@@ -1,0 +1,23 @@
+{
+  "code": "MUS 113",
+  "title": "Topics in Classic, Romantic, and Modern Music",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus113",
+  "description": "This course will focus on Western music between 1750 and the early twentieth century; topics will vary from year to year. May be repeated five times for credit. Prerequisites: knowledge of music notation or consent of instructor; MUS 4, 8\u201310, or 120 recommended.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MUS 4",
+      {
+        "type": "all",
+        "courses": [
+          "MUS 8",
+          "MUS 9",
+          "MUS 10"
+        ]
+      },
+      "MUS 120"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "LISL 1B",
+  "title": "",
+  "units": "LISL",
+  "dept": "LING",
+  "anchor": "lign515",
+  "description": "Small tutorial meetings with a signer of American Sign Language (ASL). Conversational practice organized around common everyday communicative situations. Must be taken with LISL 1BX. Prerequisites: LISL 1A with a grade of C\u2013 or better, or equivalent and LISL 1AX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LISL 1A",
+      "LISL 1AX"
+    ]
+  }
+}

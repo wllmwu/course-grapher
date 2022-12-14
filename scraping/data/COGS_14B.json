@@ -1,0 +1,9 @@
+{
+  "code": "COGS 14B",
+  "title": "Introduction to Statistical Analysis",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs14b",
+  "description": "Introduction to descriptive and inferential statistics. Tables, graphs, measures of central tendency and variability. Distributions, Z-scores, correlation, regression. Probability, sampling, logic of inferential statistics, hypothesis testing, decision theory. T-test, one and two-way Anova, nonparametric tests (Chi-square). Prerequisites: COGS 14A.",
+  "prereqs": "COGS 14A"
+}

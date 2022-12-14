@@ -1,0 +1,9 @@
+{
+  "code": "ECE 259B",
+  "title": "Probabilistic Coding",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ECE161C",
+  "description": "Convolutional codes, maximum-likelihood (ML) decoding, maximum a-posteriori (MAP) decoding, parallel and serial concatenation architectures, turbo codes, repeat-accumulate (RA) codes, the turbo principle, turbo decoding, graph-based codes, message-passing decoding, low-density parity check codes, threshold analysis, applications. Students who have taken ECE 259BN may not receive credit for ECE 259B. Recommended preparation: ECE 154A-B-C. Prerequisites: ECE 259A; graduate standing.",
+  "prereqs": "ECE 259A"
+}

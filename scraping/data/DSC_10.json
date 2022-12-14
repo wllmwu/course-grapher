@@ -1,0 +1,8 @@
+{
+  "code": "DSC 10",
+  "title": "Principles of Data Science",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc10",
+  "description": "This introductory course develops computational thinking and tools necessary to answer questions that arise from large-scale datasets. This course emphasizes an end-to-end approach to data science, introducing programming techniques in Python that cover data processing, modeling, and analysis. Prerequisites: none."
+}

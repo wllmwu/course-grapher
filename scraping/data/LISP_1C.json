@@ -1,0 +1,15 @@
+{
+  "code": "LISP 1C",
+  "title": "",
+  "units": "LISP",
+  "dept": "LING",
+  "anchor": "lign515",
+  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Must be taken in conjunction with LISP 1CX. Prerequisites: LISP 1B with a grade of C\u2013 or better, or equivalent and LISP 1BX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LISP 1B",
+      "LISP 1BX"
+    ]
+  }
+}

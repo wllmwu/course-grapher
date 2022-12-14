@@ -1,0 +1,16 @@
+{
+  "code": "PHYS 4B",
+  "title": "Physics for Physics Majors\u2014Fluids, Waves, Statistical and Thermal Physics",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys4b",
+  "description": "Continuation of PHYS 4A covering forced and damped oscillations, fluid statics and dynamics, waves in elastic media, sound waves, heat and the first law of thermodynamics, kinetic theory of gases, Brownian motion, Maxwell-Boltzmann distribution, second law of thermodynamics. Students continuing to PHYS 4C will also need MATH 18 or 20F or 31AH. Prerequisites: PHYS 4A and MATH 20A-B. Recommended preparation: prior or concurrent enrollment in MATH 20C or 31BH.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 4A",
+      "MATH 20A",
+      "MATH 20B"
+    ]
+  }
+}

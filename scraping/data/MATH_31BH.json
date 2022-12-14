@@ -1,0 +1,9 @@
+{
+  "code": "MATH 31BH",
+  "title": "Honors Multivariable Calculus",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math31bh",
+  "description": "Second quarter of three-quarter honors integrated linear algebra/multivariable calculus sequence for well-prepared students. Topics include derivative in several variables, Jacobian matrices, extrema and constrained extrema, integration in several variables. (Credit not offered for both MATH 31BH and 20C.) Prerequisites: MATH 31AH with a grade of B\u2013 or better, or consent of instructor.",
+  "prereqs": "MATH 31AH"
+}

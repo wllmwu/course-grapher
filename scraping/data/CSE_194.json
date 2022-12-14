@@ -1,0 +1,33 @@
+{
+  "code": "CSE 194",
+  "title": "Race, Gender, and Computing",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse194",
+  "description": "This course explores the challenges of diversity, equity, and inclusion (DEI) in computing and technology through an introduction to and analysis of various social constructs and their impact on not only computing-related organizations, but also the technologies developed and the people affected by them. This course also introduces students to cultural competence in the context of computing. Prerequisites: CSE 12 or ECE 35 and CAT 3 or DOC 3 or HUM 2 or MCWP 50 or MCWP 50R or MMW 13 or SYN 2 or WCWP 10B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CSE 12",
+          "ECE 35"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CAT 3",
+          "DOC 3",
+          "HUM 2",
+          "MCWP 50",
+          "MCWP 50R",
+          "MMW 13",
+          "SYN 2",
+          "WCWP 10B"
+        ]
+      }
+    ]
+  }
+}

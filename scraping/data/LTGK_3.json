@@ -1,0 +1,15 @@
+{
+  "code": "LTGK 3",
+  "title": "Intermediate Greek",
+  "units": "II",
+  "dept": "LIT",
+  "anchor": "ltcs165",
+  "description": "Continuation of study of ancient Greek, including grammar and reading of texts.  Prerequisites:  LTGK 1 and 2 or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LTGK 1",
+      "LTGK 2"
+    ]
+  }
+}

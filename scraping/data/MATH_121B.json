@@ -1,0 +1,15 @@
+{
+  "code": "MATH 121B",
+  "title": "Foundations of Teaching and Learning Math II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math111a",
+  "description": "(Cross-listed with EDS 121B.) Examine how learning theories can consolidate observations about conceptual development with the individual student as well as the development of knowledge in the history of mathematics. Examine how teaching theories explain the effect of teaching approaches addressed in the previous courses. Prerequisites: EDS 121A/MATH 121A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "EDS 121A",
+      "MATH 121A"
+    ]
+  }
+}

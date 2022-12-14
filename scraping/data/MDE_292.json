@@ -1,0 +1,8 @@
+{
+  "code": "MDE 292",
+  "title": "Computer Aided Design of Medical Devices",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae247",
+  "description": "Computer-aided analysis and design with applications to medical devices. Solid model representation, finite element analysis for strength and deformation, material selection, kinematics, statistical analysis, and visualization of analytical results. Software packages used will include 3-D CAD, FEA solvers, and student generated code. Analytical methods will be applied to case studies of medical devices. Prerequisites: MDE students only."
+}

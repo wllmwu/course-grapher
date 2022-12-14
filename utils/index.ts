@@ -1,16 +1,5 @@
 import type { Course } from "./data-schema";
 
-export const parseJSONLines: (jsonLines: string) => any[] = (jsonLines) => {
-  const objects = [];
-  for (const jsonString of jsonLines.split("\n")) {
-    if (jsonString.length === 0) {
-      continue;
-    }
-    objects.push(JSON.parse(jsonString)); // JSON.parse throws if invalid syntax
-  }
-  return objects;
-};
-
 export const getCourseCodeDigits: (course: Course) => string = (course) => {
   const digitsMatch = course.code.match(/[0-9]+/g);
   if (!digitsMatch) {

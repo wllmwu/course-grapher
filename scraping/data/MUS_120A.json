@@ -1,0 +1,15 @@
+{
+  "code": "MUS 120A",
+  "title": "History of Music in Western Culture I",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus120a",
+  "description": "First part of intensive historical, analytical, and cultural-aesthetic examination of music in Western culture from the ninth through the twenty-first centuries. Considers both sacred and secular repertories, from Gregorian chant through early opera, c. 800\u20131600. Prerequisites: MUS 1C or 2C or passing grade on proficiency exam. Music majors should be enrolled concurrently in MUS 101A. Department stamp required for nonmajors.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MUS 1C",
+      "MUS 2C"
+    ]
+  }
+}

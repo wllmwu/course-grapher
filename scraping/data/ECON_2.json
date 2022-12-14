@@ -1,0 +1,9 @@
+{
+  "code": "ECON 2",
+  "title": "Market Imperfections and Policy",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ2",
+  "description": "Analysis of monopoly and imperfectly competitive markets, market imperfections and the role of government. Prerequisites: ECON 1.",
+  "prereqs": "ECON 1"
+}
