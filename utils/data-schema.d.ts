@@ -2,7 +2,7 @@ export interface Department {
   code: string;
   name: string;
   link: string;
-  numCourses: number;
+  courses: string[];
 }
 
 export interface Course {

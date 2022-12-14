@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "cp -R scraping/data public && next build",
     "start": "next start",
     "lint": "eslint --max-warnings 0 --report-unused-disable-directives",
     "prepare": "husky install"

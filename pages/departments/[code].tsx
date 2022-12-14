@@ -5,11 +5,7 @@ import Link from "next/link";
 import { promises as fs } from "fs";
 import path from "path";
 import type { Department, Course } from "../../utils/data-schema";
-import {
-  courseComparator,
-  getCourseCodeDigits,
-  parseJSONLines,
-} from "../../utils";
+import { courseComparator, getCourseCodeDigits } from "../../utils";
 import Page from "../../components/Page";
 import styles from "../../styles/DepartmentsPage.module.css";
 
@@ -21,9 +17,9 @@ export const getStaticPaths: GetStaticPaths = async () => {
       fallback: "blocking",
     };
   }
-  const filePath = path.join(process.cwd(), "scraping/data/index.json");
-  const index = JSON.parse(await fs.readFile(filePath, "utf-8"));
-  const paths = Object.keys(index.departments).map((deptCode) => ({
+  const filePath = path.join(process.cwd(), "scraping/data/departments.json");
+  const departmentsIndex = JSON.parse(await fs.readFile(filePath, "utf-8"));
+  const paths = Object.keys(departmentsIndex).map((deptCode) => ({
     params: { code: deptCode },
   }));
   return {
@@ -34,17 +30,23 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const getStaticProps: GetStaticProps = async (context) => {
   if (!context.params || typeof context.params.code !== "string") {
-    return {
-      notFound: true,
-    };
+    return { notFound: true };
   }
-  const deptCode = context.params.code;
-  const filePath = path.join(process.cwd(), `scraping/data/${deptCode}.jsonl`);
-  const courses = parseJSONLines(await fs.readFile(filePath, "utf-8"));
-  const department = courses.shift();
-  if (department) {
-    department.numCourses = courses.length;
+  const filePath = path.join(process.cwd(), `scraping/data/departments.json`);
+  const departmentIndex = JSON.parse(
+    await fs.readFile(filePath, "utf-8")
+  ) as Record<string, Department>;
+  const department = departmentIndex[context.params.code];
+  if (!department) {
+    return { notFound: true };
   }
+  const coursePromises = department.courses.map(async (courseCode: string) => {
+    const slug = courseCode.replaceAll(" ", "_");
+    return JSON.parse(
+      await fs.readFile(`scraping/data/${slug}.json`, "utf-8")
+    ) as Course;
+  });
+  const courses = await Promise.all(coursePromises);
   return {
     props: {
       department,
@@ -91,9 +93,9 @@ function DepartmentPage({ department, courses }: DepartmentPageProps) {
         {department.name} ({department.code})
       </h1>
       <p>
-        This page lists all {department.numCourses} {department.code} courses
-        found in the catalog. Click on a course to view its prerequisite graph,
-        or visit the catalog page for this department at{" "}
+        This page lists all {courses.length} {department.code} courses found in
+        the catalog. Click on a course to view its prerequisite graph, or visit
+        the catalog page for this department at{" "}
         <Link href={department.link}>
           <a>{department.link}</a>
         </Link>
