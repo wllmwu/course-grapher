@@ -2,16 +2,14 @@ import React from "react";
 import type { GetStaticProps } from "next";
 import Head from "next/head";
 import Link from "next/link";
-import { promises as fs } from "fs";
-import path from "path";
 import type { Department } from "../../utils/data-schema";
+import { readDataFile } from "../../utils/buildtime";
 import Page from "../../components/Page";
 import LinkCard from "../../components/LinkCard";
 import styles from "../../styles/DepartmentsPage.module.css";
 
 export const getStaticProps: GetStaticProps = async () => {
-  const filePath = path.join(process.cwd(), "scraping/data/departments.json");
-  const departmentIndex = JSON.parse(await fs.readFile(filePath, "utf-8"));
+  const departmentIndex = JSON.parse(await readDataFile("departments.json"));
   return {
     props: {
       departments: departmentIndex,
