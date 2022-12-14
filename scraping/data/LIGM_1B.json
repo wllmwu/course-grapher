@@ -1,0 +1,15 @@
+{
+  "code": "LIGM 1B",
+  "title": "",
+  "units": "LIGM",
+  "dept": "LING",
+  "anchor": "lign515",
+  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Must be taken in conjunction with LIGM 1BX. Prerequisites: LIGM 1A with a grade of C\u2013 or better, or equivalent and LIGM 1AX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIGM 1A",
+      "LIGM 1AX"
+    ]
+  }
+}

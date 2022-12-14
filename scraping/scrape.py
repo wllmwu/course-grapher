@@ -1,7 +1,10 @@
 import argparse
 from catalog_spider import CatalogSpider
+import os
 from postprocessor import Postprocessor
 from scrapy.crawler import CrawlerProcess
+import shutil
+import sys
 from typing import Final
 
 
@@ -26,6 +29,20 @@ def _get_args() -> argparse.Namespace:
 
 if __name__ == '__main__':
     args = _get_args()
+
+    if not args.dry_run:
+        # prepare output directories
+        shutil.rmtree("intermediate", ignore_errors=True)
+        shutil.rmtree("data", ignore_errors=True)
+        try:
+            os.mkdir("intermediate")
+            os.mkdir("data")
+        except OSError as error:
+            print('Error while preparing directories:\n%s: %s' %
+                  (type(error), error), file=sys.stderr)
+            sys.exit(1)
+
+    # run crawler
     process = CrawlerProcess(settings={
         'LOG_ENABLED': args.log_enabled,
         'LOG_FILE': args.log_file,
@@ -35,6 +52,8 @@ if __name__ == '__main__':
     })
     process.crawl(CatalogSpider, dry_run=args.dry_run)
     process.start()  # blocks until finished
+
     if not args.dry_run:
+        # do postprocessing
         postprocessor = Postprocessor()
         postprocessor.run()

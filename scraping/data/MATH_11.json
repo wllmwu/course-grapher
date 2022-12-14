@@ -1,0 +1,15 @@
+{
+  "code": "MATH 11",
+  "title": "Calculus-Based Introductory Probability and Statistics",
+  "units": "5",
+  "dept": "MATH",
+  "anchor": "math11",
+  "description": "Events and probabilities, conditional probability, Bayes\u2019 formula. Discrete and continuous random variables: mean, variance; binomial, Poisson distributions, normal, uniform, exponential distributions, central limit theorem. Sample statistics, confidence intervals, hypothesis testing, regression. Applications. Introduction to software for probabilistic and statistical analysis. Emphasis on connections between probability and statistics, numerical results of real data, and techniques of data analysis.  Prerequisites: AP Calculus BC score of 3, 4, or 5, or MATH 10B or MATH 20B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 10B",
+      "MATH 20B"
+    ]
+  }
+}

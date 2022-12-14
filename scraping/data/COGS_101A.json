@@ -1,0 +1,9 @@
+{
+  "code": "COGS 101A",
+  "title": "Sensation and Perception",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs92",
+  "description": "An introduction to the experimental study of cognition with a focus on sensation and perception. Prerequisites: COGS 1.",
+  "prereqs": "COGS 1"
+}

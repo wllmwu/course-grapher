@@ -1,0 +1,9 @@
+{
+  "code": "CLRE 263",
+  "title": "Longitudinal Data Analysis",
+  "units": "2",
+  "dept": "CLRE",
+  "anchor": "clre263",
+  "description": "The class will introduce statistical methods and techniques for analyzing medical data from longitudinal studies using PASW/SPSS software. Students will understand the challenges and statistical issues for designing and analyzing longitudinal studies, recognize and use longitudinal data analysis methods and perform analysis. Prerequisites: CLRE 253.",
+  "prereqs": "CLRE 253"
+}

@@ -1,0 +1,45 @@
+{
+  "code": "PHYS 4D",
+  "title": "Physics for Physics Majors\u2014Electromagnetic Waves, Special Relativity and Optics",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys4d",
+  "description": "Continuation of PHYS 4C covering electric and magnetic fields in matter, Maxwell\u2019s equations and electromagnetic waves, special relativity and its applications to electromagnetism, optics, interference, diffraction. Prerequisites: PHYS 4A-B-C, MATH 20A-B-C or 31BH, 20E or 31CH, and 18 or 20F or 31AH. Recommended preparation: prior or concurrent enrollment in MATH 20D.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 4A",
+      "PHYS 4B",
+      "PHYS 4C",
+      {
+        "type": "one",
+        "courses": [
+          {
+            "type": "all",
+            "courses": [
+              "MATH 20A",
+              "MATH 20B",
+              "MATH 20C"
+            ]
+          },
+          "MATH 31BH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20E",
+          "MATH 31CH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  }
+}

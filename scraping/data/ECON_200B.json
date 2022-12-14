@@ -1,0 +1,9 @@
+{
+  "code": "ECON 200B",
+  "title": "Microeconomics B",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ200b",
+  "description": "Arrow-Debreu model of general economic equilibrium and welfare economics. Axiomatic theory of the firm and household. Existence of general economic equilibrium. First and Second Fundamental Theorems of Welfare Economics. Futures and contingent commodity markets. Core and core convergence. Prerequisites: ECON 200A. Enrollment limited to Economics PhD students (EN75) or Rady PhD students (RS79); or consent of instructor.",
+  "prereqs": "ECON 200A"
+}

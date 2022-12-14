@@ -1,0 +1,9 @@
+{
+  "code": "ECON 3",
+  "title": "Principles of Macroeconomics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ3",
+  "description": "Introductory macroeconomics: unemployment, inflation, business cycles, monetary and fiscal policy. Prerequisites: ECON 1.",
+  "prereqs": "ECON 1"
+}

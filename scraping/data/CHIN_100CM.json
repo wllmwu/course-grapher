@@ -1,0 +1,15 @@
+{
+  "code": "CHIN 100CM",
+  "title": "Third Year Chinese\u2014Mandarin speakers III",
+  "units": "4",
+  "dept": "CHIN",
+  "anchor": "chin100cm",
+  "description": "Intermediate course of Chinese for students with background in Mandarin and other dialects. Third course of third year of one-year curriculum in Chinese language acquisition. Continue to develop proficiency at intermediate level. Improves students\u2019 Chinese language skills and knowledge of the culture with an emphasis of reading and writing. Topics include economic development in China. Students may not receive duplicate credit for both CHIN 113 and CHIN 100CM. Prerequisites: CHIN 112, CHIN 100BM, or department stamp.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHIN 112",
+      "CHIN 100BM"
+    ]
+  }
+}

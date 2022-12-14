@@ -1,0 +1,22 @@
+{
+  "code": "CHEM 114B",
+  "title": "Biochemical Energetics and Metabolism",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem7l",
+  "description": "This course is an introduction to the metabolic reactions in the cell which produce and utilize energy. The course material will include energy-producing pathways: glycolysis, Krebs cycle, oxidative phosphorylation, fatty-acid oxidation. Biosynthesis of amino acids, lipids, carbohydrates, purines, pyrimidines, proteins, nucleic acids. Students may not receive credit for both CHEM 114B and BIBC 102. Prerequisites: CHEM 40B, 40BH, or 41B and CHEM 114A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 40B",
+          "CHEM 40BH",
+          "CHEM 41B"
+        ]
+      },
+      "CHEM 114A"
+    ]
+  }
+}

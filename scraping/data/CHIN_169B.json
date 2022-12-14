@@ -1,0 +1,9 @@
+{
+  "code": "CHIN 169B",
+  "title": "Medical Chinese II",
+  "units": "4",
+  "dept": "CHIN",
+  "anchor": "chin100cm",
+  "description": "Course designed to improve conversational Chinese for students interested in medicine and health care. Course aims for stronger Chinese proficiency within a medical environment. Prerequisites: CHIN 169A, basic Chinese speaking and reading ability and instructor approval required.",
+  "prereqs": "CHIN 169A"
+}

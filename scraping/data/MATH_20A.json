@@ -1,0 +1,16 @@
+{
+  "code": "MATH 20A",
+  "title": "Calculus for Science and Engineering",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math20a",
+  "description": "Foundations of differential and integral calculus of one variable. Functions, graphs, continuity, limits, derivative, tangent line. Applications with algebraic, exponential, logarithmic, and trigonometric functions. Introduction to the integral. (Two credits given if taken after MATH 1A/10A and no credit given if taken after MATH 1B/10B or MATH 1C/10C. Formerly numbered MATH 2A.) Prerequisites: Math Placement Exam qualifying score, or AP Calculus AB score of 3 (or equivalent AB subscore on BC exam), or SAT II MATH 2C score of 650 or higher, or MATH 4C or MATH 10A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 2C",
+      "MATH 4C",
+      "MATH 10A"
+    ]
+  }
+}

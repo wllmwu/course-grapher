@@ -1,0 +1,8 @@
+{
+  "code": "FMPH 244A",
+  "title": "Foundations in Biostatistics A",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "fmph244a",
+  "description": "Overview of mathematical foundations in biostatistics. Probability, random variables, commonly used univariate and multivariate distributions, and their properties. Sampling distribution and large-sample convergence concepts. Applications to one-sample and two-sample problems, and to linear regression models. Prerequisites: biostatistics MS major (FM76) or program approval."
+}

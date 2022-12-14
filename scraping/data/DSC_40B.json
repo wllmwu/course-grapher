@@ -1,0 +1,15 @@
+{
+  "code": "DSC 40B",
+  "title": "Theoretical Foundations of Data Science II",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc40b",
+  "description": "The sequence DSC 40A-B introduces the theoretical foundations of data science and covers the following topics: mathematical language for expressing data analysis problems and solution strategies, probabilistic reasoning, mathematical modeling of data, and algorithmic problem solving. DSC 40B, the second course in the sequence, introduces fundamental topics in combinatorics, graph theory, probability, and continuous and discrete algorithms with applications to data analysis. Prerequisites: DSC 20 and 40A. Restricted to students within the DS25 major. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "DSC 20",
+      "DSC 40A"
+    ]
+  }
+}

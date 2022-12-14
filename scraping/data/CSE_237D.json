@@ -1,0 +1,9 @@
+{
+  "code": "CSE 237D",
+  "title": "Design Automation and Prototyping for Embedded Systems",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse237d",
+  "description": "System representation and modeling. Abstract and language models. Simulation as a modeling activity. Computational and hw/sw system prototypes. System analysis using models. Constraint and interface modeling. Behavioral compilation and synthesis. Prerequisites: CSE 237A; or basic courses in digital logic design, algorithms and data structures, elementary calculus, discrete math, symbolic logic, computer architecture; or consent of instructor.",
+  "prereqs": "CSE 237A"
+}

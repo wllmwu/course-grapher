@@ -1,0 +1,15 @@
+{
+  "code": "CHIN 20BN",
+  "title": "Second Year Chinese\u2014Nonnative speakers II",
+  "units": "4",
+  "dept": "CHIN",
+  "anchor": "chin20bn",
+  "description": "Continuation of second year of basic Chinese for students with no background. Second course of one-year curriculum for Chinese intermediate communicative skills. Covers sentence structure and idiomatic expressions, development of listening, speaking, reading and written competence in Chinese. Topics focus on China, population and other nationalities. Students may not receive duplicate credit for both CHIN 22 and CHIN 20BN. Prerequisites: CHIN 21, CHIN 20AN, score of 4 on AP Chinese Language and Culture Exam or department stamp.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHIN 21",
+      "CHIN 20AN"
+    ]
+  }
+}

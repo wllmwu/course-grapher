@@ -1,0 +1,9 @@
+{
+  "code": "COMM 100C",
+  "title": "Communication, Institutions, and Power",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm100c",
+  "description": "This course is a critical introduction to structures of communication formed at the intersection of the state, the economy, and civil society. It includes a historical survey of communication and media industries; legal and policy-based arenas; and civic, political, and social organizations. Students will learn to assess the movement of power through these institutions and its effect in shaping society, culture, and politics. Prerequisites: COMM 10.",
+  "prereqs": "COMM 10"
+}

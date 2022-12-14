@@ -1,0 +1,16 @@
+{
+  "code": "MATH 18",
+  "title": "Linear Algebra",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math18",
+  "description": "Matrix algebra, Gaussian elimination, determinants. Linear and affine subspaces, bases of Euclidean spaces. Eigenvalues and eigenvectors, quadratic forms, orthogonal matrices, diagonalization of symmetric matrices. Applications. Computing symbolic and graphical solutions using MATLAB. Students may not receive credit\u00a0for both MATH 18 and 31AH. Prerequisites: Math Placement Exam qualifying score, or AP Calculus AB score of 3 (or equivalent AB subscore on BC exam), or SAT II Math Level 2 score of 650 or higher, or MATH 4C, or MATH 10A, or MATH 20A. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 4C",
+      "MATH 10A",
+      "MATH 20A"
+    ]
+  }
+}

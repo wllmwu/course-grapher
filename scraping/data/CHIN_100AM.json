@@ -1,0 +1,21 @@
+{
+  "code": "CHIN 100AM",
+  "title": "Third Year Chinese\u2014Mandarin speakers I",
+  "units": "4",
+  "dept": "CHIN",
+  "anchor": "chin100am",
+  "description": "Intermediate course of Chinese for students with background in Mandarin and other dialects. First course of third year of one-year curriculum that focuses on listening, reading, and speaking. Topics include education, literature, history of Chinese language and society. Students may not receive duplicate credit for both CHIN 111 and CHIN 100AM. Prerequisites: CHIN 23, CHIN 20CM or CHIN 20CD, or department stamp.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHIN 23",
+      {
+        "type": "one",
+        "courses": [
+          "CHIN 20CM",
+          "CHIN 20CD"
+        ]
+      }
+    ]
+  }
+}

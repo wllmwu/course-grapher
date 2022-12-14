@@ -1,0 +1,8 @@
+{
+  "code": "CSE 251B",
+  "title": "Principles of Machine Learning: Neural Networks for Pattern Recognition",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse251b",
+  "description": "(Formerly CSE 253.) This course covers Hopfield networks, application to optimization problems layered perceptrons, recurrent networks, and unsupervised learning. Programming exercises explore model behavior with a final project or exam on a cognitive science, artificial intelligence, or optimization problem of the student\u2019s choice. Renumbered from CSE 253. Students may not receive credit for CSE 251B and CSE 253. Recommended preparation: Knowledge of C. Prerequisites: graduate standing."
+}

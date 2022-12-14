@@ -1,0 +1,9 @@
+{
+  "code": "MDE 231B",
+  "title": "Fundamentals of Physiology and Anatomy II",
+  "units": "2",
+  "dept": "MAE",
+  "anchor": "mae247",
+  "description": "Case studies of integrative physiology to understand how this information is used in designing combination medical devices and instruments for diagnosis or research. Students may not receive credit for both MDE 231A and MDE 231. Prerequisites: MDE 231A. MDE students only.",
+  "prereqs": "MDE 231A"
+}

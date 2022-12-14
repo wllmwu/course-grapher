@@ -1,0 +1,9 @@
+{
+  "code": "LTLA 2",
+  "title": "Intermediate Latin",
+  "units": "I",
+  "dept": "LIT",
+  "anchor": "ltcs165",
+  "description": "Study of Latin, including grammar and reading.  Prerequisites:  LTLA 1 or equivalent.",
+  "prereqs": "LTLA 1"
+}

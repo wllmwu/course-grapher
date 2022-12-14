@@ -1,0 +1,8 @@
+{
+  "code": "PHYA 202",
+  "title": "Astrophysical Fluid Dynamics",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys130C",
+  "description": "This is a foundational course in fluid dynamics at a graduate level which is aimed at students primarily interested in astrophysical applications. Topics include the dynamics of ideal fluids, vorticity, stability, boundary layers, turbulence, compressible flows, shocks, and self-gravitating flows. Case studies will be drawn from astrophysical phenomena, including stellar accretion, solar wind, turbulence in molecular clouds, supernovae shocks, self-gravitating disks, and others."
+}

@@ -1,0 +1,15 @@
+{
+  "code": "CHEM 6A",
+  "title": "General Chemistry I",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem6a",
+  "description": "First quarter of a three-quarter sequence intended for science and engineering majors. Topics include atomic theory, bonding, molecular geometry, stoichiometry, types of reactions, and thermochemistry. May not be taken for credit after CHEM 6AH. Recommended: proficiency in high school chemistry and/or physics. Corequisite: MATH 10A or 20A or prior enrollment.",
+  "coreqs": {
+    "type": "one",
+    "courses": [
+      "MATH 10A",
+      "MATH 20A"
+    ]
+  }
+}

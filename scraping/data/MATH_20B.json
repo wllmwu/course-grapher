@@ -1,0 +1,16 @@
+{
+  "code": "MATH 20B",
+  "title": "Calculus for Science and Engineering",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math20b",
+  "description": "Integral calculus of one variable and its applications, with exponential, logarithmic, hyperbolic, and trigonometric functions. Methods of integration. Infinite series. Polar coordinates in the plane and complex exponentials. (Two units of credits given if taken after MATH 1B/10B or MATH 1C/10C.) Prerequisites: AP Calculus AB score of 4 or 5, or AP Calculus BC score of 3, or MATH 20A with a grade of C\u2013 or better, or MATH 10B with a grade of C\u2013 or better, or MATH 10C with a grade of C\u2013 or better.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 20A",
+      "MATH 10B",
+      "MATH 10C"
+    ]
+  }
+}

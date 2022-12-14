@@ -1,0 +1,9 @@
+{
+  "code": "BNFO 285",
+  "title": "Statistical Learning in Bioinformatics",
+  "units": "4",
+  "dept": "BIOI",
+  "anchor": "bnfo285",
+  "description": "A hallmark of bioinformatics is the computational analysis of complex data. The combination of statistics and algorithms produce statistical learning methods that automate the analysis of complex data. Such machine learning methods are widely used in systems biology and bioinformatics. This course provides an introduction to statistical learning and assumes familiarity with key statistical methods. Letter grades only. Prerequisites: MATH 283.",
+  "prereqs": "MATH 283"
+}
