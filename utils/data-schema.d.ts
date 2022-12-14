@@ -10,6 +10,7 @@ export interface Course {
   title: string;
   units: string;
   description: string;
+  dept: string;
   anchor?: string;
   prereqs?: string | PrerequisitesSet;
   coreqs?: string | PrerequisitesSet;
