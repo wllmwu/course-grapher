@@ -2,8 +2,9 @@ import React from "react";
 import type { GetStaticPaths, GetStaticProps } from "next";
 import Head from "next/head";
 import Link from "next/link";
-import type { Department, Course } from "../../utils/data-schema";
+import type { Course, Department } from "../../utils/data-schema";
 import { readDataFile } from "../../utils/buildtime";
+import * as cache from "../../utils/build-time-cache";
 import {
   courseComparator,
   getCourseCodeDigits,
@@ -34,13 +35,8 @@ export const getStaticProps: GetStaticProps = async (context) => {
   if (!context.params || typeof context.params.code !== "string") {
     return { notFound: true };
   }
-  const departmentIndex = JSON.parse(
-    await readDataFile("departments.json")
-  ) as Record<string, Department>;
-  const department = departmentIndex[context.params.code];
-  if (!department) {
-    return { notFound: true };
-  }
+  await cache.populateDepartments();
+  const department = cache.getDepartment(context.params.code);
   const coursePromises = department.courses.map(
     async (courseCode: string) =>
       JSON.parse(

@@ -23,7 +23,7 @@ export const courseComparator: (a: Course, b: Course) => number = (a, b) => {
 };
 
 export const slugifyCourseCode: (code: string) => string = (code) =>
-  encodeURIComponent(code.replace(" ", "_"));
+  code.replace(" ", "_");
 
 export const deslugifyCourseCode: (code: string) => string = (code) =>
   code.replace("_", " ");

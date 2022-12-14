@@ -4,6 +4,7 @@ import Head from "next/head";
 import Link from "next/link";
 import type { Course, Department } from "../../utils/data-schema";
 import { readDataDirectory, readDataFile } from "../../utils/buildtime";
+import * as cache from "../../utils/build-time-cache";
 import Page from "../../components/Page";
 import GraphViewer from "../../components/GraphViewer";
 
@@ -21,7 +22,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
     courseCodeSlugs.splice(index, 1);
   }
   const paths = courseCodeSlugs.map((courseCode) => ({
-    params: { code: courseCode.slice(0, -5) },
+    params: { code: courseCode.slice(0, -5) }, // remove ".json"
   }));
   return {
     paths,
@@ -33,13 +34,11 @@ export const getStaticProps: GetStaticProps = async (context) => {
   if (!context.params || typeof context.params.code !== "string") {
     return { notFound: true };
   }
-  const departmentIndex = JSON.parse(
-    await readDataFile("departments.json")
-  ) as Record<string, Department>;
+  await cache.populateDepartments();
   const course = JSON.parse(
     await readDataFile(`${context.params.code}.json`)
   ) as Course;
-  const department = departmentIndex[course.dept];
+  const department = cache.getDepartment(course.dept);
   return {
     props: {
       course,
