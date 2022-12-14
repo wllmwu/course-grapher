@@ -1,0 +1,15 @@
+{
+  "code": "CHIN 100BN",
+  "title": "Third Year Chinese\u2014Nonnative speakers II",
+  "units": "4",
+  "dept": "CHIN",
+  "anchor": "chin100bn",
+  "description": "Intermediate course of Chinese for students with no background. Second course of third year of Chinese that emphasizes the development of advanced oral, written competence and aural skills in Mandarin. Topics include various cultural aspects of the Chinese language, additional family issues and society. Students may not receive duplicate credit for both CHIN 112 and CHIN 100BN. Prerequisites: CHIN 111, CHIN 100AN or department stamp.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHIN 111",
+      "CHIN 100AN"
+    ]
+  }
+}

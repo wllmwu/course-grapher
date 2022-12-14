@@ -1,0 +1,15 @@
+{
+  "code": "CHIN 10BD",
+  "title": "First Year Chinese\u2014Dialect speakers II",
+  "units": "5",
+  "dept": "CHIN",
+  "anchor": "chin10bd",
+  "description": "Continuation introduction of basic Chinese for students with background in a dialect of Chinese. Second course of one-year curriculum for entry-level Chinese communicative skills. Covers pronunciation, more elaborate Chinese grammar, and expanded vocabulary. Focus on goal-oriented tasks such as school life, shopping, and transportation. Students may not receive duplicate credit for CHIN 12 and CHIN 10BD. Prerequisites: CHIN 11, CHIN 10AM, or department stamp.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHIN 11",
+      "CHIN 10AM"
+    ]
+  }
+}

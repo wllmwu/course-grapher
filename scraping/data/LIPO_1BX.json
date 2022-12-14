@@ -1,0 +1,15 @@
+{
+  "code": "LIPO 1BX",
+  "title": "",
+  "units": "LIPO",
+  "dept": "LING",
+  "anchor": "lign515",
+  "description": "Presentation and practice of the basic grammatical structures needed for oral and written communication and reading. The course is taught entirely in Portuguese. Must be taken in conjunction with LIPO 1B. Prerequisites: LIPO 1A with a grade of C\u2013 or better or equivalent and LIPO 1AX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIPO 1A",
+      "LIPO 1AX"
+    ]
+  }
+}

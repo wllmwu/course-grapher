@@ -1,0 +1,15 @@
+{
+  "code": "SIOG 252B",
+  "title": "Advanced Isotope Geochemistry I",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "siog252A",
+  "description": "An advanced treatment of noble gas and stable isotope geochemistry. Offered in alternate years with SIO 252C. Prerequisites: SIOG 252A or SIO 252A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SIOG 252A",
+      "SIO 252A"
+    ]
+  }
+}

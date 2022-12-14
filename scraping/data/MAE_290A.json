@@ -1,0 +1,8 @@
+{
+  "code": "MAE 290A",
+  "title": "Numerical Methods for Linear Algebra and ODE Simulation",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae247",
+  "description": "Fundamental matrix decompositions: LU, QR, Eigen, Schur, Jordan, SVD. Exploiting sparsity, finding parallelism, minimizing storage. Pseudoinverses. Finite differences, adaptive integration. Stability and accuracy of Runge-Kutta and linear multistep methods for marching ODEs. Low-storage IMEXRK methods. Prerequisites: graduate standing or consent of instructor."
+}

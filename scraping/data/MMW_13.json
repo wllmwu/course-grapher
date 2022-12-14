@@ -1,0 +1,15 @@
+{
+  "code": "MMW 13",
+  "title": "New Ideas and Cultural Encounters",
+  "units": "6",
+  "dept": "MMW",
+  "anchor": "mmw13",
+  "description": "MMW 13 provides a framework for understanding developments in the global past from 1200 CE to 1750 CE and the transition from the medieval to the early modern world. This course is the second of two writing-intensive quarters in the MMW sequence. Prerequisites: completion of MMW 12 or MMW 2. Open to Eleanor Roosevelt College students only. Students may not receive credit for MMW 13, which is the second writing-intensive six-credit course in the new MMW sequence, and MMW 3, which is the second writing-intensive six-credit course in the original MMW sequence. Must be taken for a letter grade to meet the requirement. (S)",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MMW 12",
+      "MMW 2"
+    ]
+  }
+}

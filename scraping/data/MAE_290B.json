@@ -1,0 +1,9 @@
+{
+  "code": "MAE 290B",
+  "title": "Numerical Methods for Differential Equations",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae247",
+  "description": "Numerical solution of differential equations in mathematical physics and engineering, ordinary and partial differential equations. Linear and nonlinear hyperbolic parabolic, and elliptic equations, with emphasis on prototypical cases, the convection-diffusion equation, Laplace\u2019s and Poisson equation. Finite difference methods. Prerequisites: MAE 290A or consent of instructor.",
+  "prereqs": "MAE 290A"
+}

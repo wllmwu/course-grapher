@@ -1,0 +1,15 @@
+{
+  "code": "MAE 03",
+  "title": "Introduction to Engineering Graphics and Design",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae3",
+  "description": "Introduction to design process through a hands-on design project performed in teams. Topics include problem identification, concept generation, project management, risk reduction. Engineering graphics and communication skills are introduced in the areas of: Computer-Aided Design (CAD), hand sketching, and technical communication. Program or materials fees may apply. Prerequisites: PHYS 2A or 4A. Enrollment restricted to BE 25, MC 25, MC 27, MC 29, and MC 30\u201334 majors only.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "PHYS 2A",
+      "PHYS 4A"
+    ]
+  }
+}

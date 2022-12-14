@@ -1,0 +1,15 @@
+{
+  "code": "FMPH 243B",
+  "title": "Practicum in Biostatistics B",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "fmph243b",
+  "description": "This is the second course in a three-course sequence specifically designed for students enrolled in the MS in biostatistics program. Takes advantage of the extensive involvement of the program faculty in collaborative and interdisciplinary work within the life sciences. Didactic instruction on best practices in statistical collaboration. Under supervision, the students will participate in applied, real-life projects stemming from the research and collaborations of the faculty in the Division of Biostatistics. Course corequisite: FMPH 222. Prerequisites: successful completion of FMPH 221 and FMPH 243A. Restricted to major code FM76.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "FMPH 221",
+      "FMPH 243A"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "CHIN 100AN",
+  "title": "Third Year Chinese\u2014Nonnative speakers I",
+  "units": "4",
+  "dept": "CHIN",
+  "anchor": "chin100an",
+  "description": "Intermediate course of Chinese for students with no background. First course of third year of one-year curriculum that focuses on listening, reading, and speaking. Emphasizing the development of advanced oral, written competence, and aural skills in Mandarin. Topics include education, literature, history of Chinese language and society. Students may not receive duplicate credit for both CHIN 111 and CHIN 100AN. Prerequisites: CHIN 23, CHIN 20CN, or department stamp.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHIN 23",
+      "CHIN 20CN"
+    ]
+  }
+}

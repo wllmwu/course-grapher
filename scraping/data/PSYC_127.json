@@ -1,0 +1,16 @@
+{
+  "code": "PSYC 127",
+  "title": "Sexual Health Inequities and Sexual Well-Being",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc123",
+  "description": "This course provides an overview of sexual health inequities and sexual well-being. Students will engage critically and reflexively in topics related to race/ethnicity, gender, and sexual orientation. Prerequisites: upper-division standing, PSYC 60, PSYC 70, PSYC 172.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PSYC 60",
+      "PSYC 70",
+      "PSYC 172"
+    ]
+  }
+}

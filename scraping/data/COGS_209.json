@@ -1,0 +1,8 @@
+{
+  "code": "COGS 209",
+  "title": "Scientific Data Analysis and Statistical Learning",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs171",
+  "description": "Advanced statistical methods for learning from data. Model selection, evaluation, bias-variance trade-off, multiple comparisons/false discovery rate, clustering, linear and non-linear multiple regression. Recommended preparation: introductory statistics at the level of COGS 14B. Familiarity with scientific programming and analysis software (MATLAB, Python, or R). Linear algebra (MATH 18). Students desiring more preparation may consider taking COGS 109, Modeling and Data Analysis, first."
+}

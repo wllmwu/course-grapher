@@ -1,0 +1,16 @@
+{
+  "code": "FMPH 225",
+  "title": "Advanced Topics in Biostatistical Inference",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "fmph225",
+  "description": "The graduate class will cover modern statistical inference including nonparametric statistics, estimating equations, resampling methods, and statistical learning. Data analysis and computation will be emphasized. Prerequisites: successful completion of FMPH 221, FMPH 222, and FMPH 223 or program approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "FMPH 221",
+      "FMPH 222",
+      "FMPH 223"
+    ]
+  }
+}

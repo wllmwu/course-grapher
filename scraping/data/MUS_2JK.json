@@ -1,0 +1,15 @@
+{
+  "code": "MUS 2JK",
+  "title": "Jazz Keyboard",
+  "units": "2",
+  "dept": "MUS",
+  "anchor": "mus2jk",
+  "description": "This course will introduce basic voicings and voice leading, stylistically appropriate accompaniment, and basic chord substitution. For majors with a Jazz and the Music of the African diaspora emphasis to be taken concurrently with MUS 2C. Prerequisites: MUS 2AK and 2BK or passing proficiency exam, or consent of instructor. Concurrent enrollment in MUS 2C. Majors only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MUS 2AK",
+      "MUS 2BK"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "SYN 100",
+  "title": "Solutions for a Changing Planet",
+  "units": "4",
+  "dept": "SYN",
+  "anchor": "syn100",
+  "description": "Synthesis 100 is a project-based course that builds on skills developed in Synthesis 1 and Synthesis 2 by taking a collaborative, interdisciplinary approach to solving complex problems. SYN 100 is the third course in the Synthesis Program\u2019s three-course sequence. Prerequisites: upper-division standing, completion of SYN 1 and 2, must be taken for a letter grade to count toward Seventh College general-education requirements.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "SYN 1",
+      "SYN 2"
+    ]
+  }
+}

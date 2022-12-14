@@ -1,0 +1,15 @@
+{
+  "code": "CHIN 20AM",
+  "title": "Second Year Chinese\u2014Mandarin speakers I",
+  "units": "4",
+  "dept": "CHIN",
+  "anchor": "chin20am",
+  "description": "Second year of basic Chinese for students with background in Mandarin. First course of second year of one-year curriculum for Chinese in intermediate communicative skills. Covers sentence structure and idiomatic expression, development of listening, speaking, reading, and written competence. Topics include sports, travel, and special events. Students may not receive duplicate credit for both CHIN 21 and CHIN 20AM. Prerequisites: CHIN 13, CHIN 10CM, score of 3 on AP Chinese Language and Culture Exam, or department stamp.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHIN 13",
+      "CHIN 10CM"
+    ]
+  }
+}

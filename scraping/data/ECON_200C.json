@@ -1,0 +1,9 @@
+{
+  "code": "ECON 200C",
+  "title": "Microeconomics C",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ200c",
+  "description": "Information economics: static and dynamic games of incomplete information, signaling, screening, and lemons. Institutional analysis: social choice, mechanism design, cooperative bargaining, contracts, strategic theory of the firm. Prerequisites: ECON 200B. Enrollment limited to Economics PhD students (EN75) or Rady PhD students (RS79); or consent of instructor.",
+  "prereqs": "ECON 200B"
+}

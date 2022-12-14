@@ -1,0 +1,28 @@
+{
+  "code": "PHYS 2B",
+  "title": "Physics\u2014Electricity and Magnetism",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys2b",
+  "description": "Continuation of PHYS 2A covering charge and matter, the electric field, Gauss\u2019s law, electric potential, capacitors and dielectrics, current and resistance, electromotive force and circuits, the magnetic field, Ampere\u2019s law, Faraday\u2019s law, inductance, electromagnetic oscillations, alternating currents and Maxwell\u2019s equations. Students continuing to PHYS 2C will also need MATH 20C or 31BH. Prerequisites: PHYS 2A or 4A and MATH 20B or 20C or 31BH. Recommended preparation: prior or concurrent enrollment in MATH 20C or 31BH.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2A",
+          "PHYS 4A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20B",
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      }
+    ]
+  }
+}

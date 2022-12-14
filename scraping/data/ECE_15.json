@@ -1,0 +1,8 @@
+{
+  "code": "ECE 15",
+  "title": "Engineering Computation",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece15",
+  "description": "Students learn the C programming language with an emphasis on high-performance numerical computation. The commonality across programming languages of control structures, data structures, and I/O is also covered. Techniques for using MATLAB to graph the results of C computations are developed. Prerequisites: a familiarity with basic mathematics such as trigonometry functions and graphing is expected but this course assumes no prior programming knowledge."
+}

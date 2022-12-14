@@ -1,0 +1,9 @@
+{
+  "code": "CSE 180",
+  "title": "Biology Meets Computing",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse180",
+  "description": "Topics include an overview of various aspects of bioinformatics and will simultaneously introduce students to programming in Python. The assessments in the course represent various programming challenges and include solving diverse biological problems using popular bioinformatics tools. Students may not receive credit for CSE 180 and CSE 180R. Prerequisites: BILD 1.",
+  "prereqs": "BILD 1"
+}

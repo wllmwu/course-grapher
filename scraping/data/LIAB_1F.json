@@ -1,0 +1,15 @@
+{
+  "code": "LIAB 1F",
+  "title": "",
+  "units": "LIAB",
+  "dept": "LING",
+  "anchor": "lign515",
+  "description": "A course to increase the proficiency level of students who have completed LIAB 1E/1EX or who are at an equivalent level. Attention to listening comprehension, conversation, vocabulary building, reading, grammar analysis, and culture. Prerequisites: LIAB 1E or equivalent or LIAB 1EX.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LIAB 1E",
+      "LIAB 1EX"
+    ]
+  }
+}

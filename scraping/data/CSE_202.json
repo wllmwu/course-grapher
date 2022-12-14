@@ -1,0 +1,9 @@
+{
+  "code": "CSE 202",
+  "title": "Algorithm Design and Analysis",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse202",
+  "description": "The basic techniques for the design and analysis of algorithms. Divide-and-conquer, dynamic programming, data structures, graph search, algebraic problems, randomized algorithms, lower bounds, probabilistic analysis, parallel algorithms. Prerequisites: CSE 101 or equivalent.",
+  "prereqs": "CSE 101"
+}

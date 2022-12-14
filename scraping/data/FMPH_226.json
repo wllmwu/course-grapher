@@ -1,0 +1,16 @@
+{
+  "code": "FMPH 226",
+  "title": "Statistical Methods for Observational Studies",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "fmph226",
+  "description": "An introduction to inference and causal modeling for observational data, including propensity score adjustment, inverse probability weighting, instrumental variables, and sensitivity analysis. Data analysis and computation will be required. Prerequisites: successful completion of FMPH 221, FMPH 222, and FMPH 223 or program approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "FMPH 221",
+      "FMPH 222",
+      "FMPH 223"
+    ]
+  }
+}

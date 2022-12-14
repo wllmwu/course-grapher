@@ -1,0 +1,8 @@
+{
+  "code": "ECE 250",
+  "title": "Random Processes",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ECE161C",
+  "description": "Random variables, probability distributions and densities, characteristic functions. Convergence in probability and in quadratic mean, Stochastic processes, stationarity. Processes with orthogonal and independent increments. Power spectrum and power spectral density. Stochastic integrals and derivatives. Spectral representation of wide sense stationary processes, harmonizable processes, moving average representations. Recommended preparation: ECE 153. Prerequisites: graduate standing."
+}

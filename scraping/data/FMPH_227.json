@@ -1,0 +1,15 @@
+{
+  "code": "FMPH 227",
+  "title": "Applied Multivariate Statistical Analysis",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "fmph227",
+  "description": "This graduate course covers concepts, methods, and applications of multivariate data analysis, including multivariate regression, principal components, clustering and functional analysis. Data analysis will be emphasized. Prerequisites: successful completion of FMPH 221 and FMPH 222 or program approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "FMPH 221",
+      "FMPH 222"
+    ]
+  }
+}

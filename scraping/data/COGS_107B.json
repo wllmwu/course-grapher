@@ -1,0 +1,9 @@
+{
+  "code": "COGS 107B",
+  "title": "Systems Neuroscience",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs92",
+  "description": "This course focuses on the electrical dynamics of neurons and how their patterns relate to perception, thought, and action. Neural activity patterns underlying vision, touch, audition, proprioception, and head orientation are examined in detail. Also examined are motor control, sleep/wake state production, action planning, learning, memory, attention, spatial cognition and function of the cerebellum, basal ganglia, and hippocampus. Prerequisites: COGS 107A.",
+  "prereqs": "COGS 107A"
+}

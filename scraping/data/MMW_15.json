@@ -1,0 +1,27 @@
+{
+  "code": "MMW 15",
+  "title": "Twentieth Century and Beyond",
+  "units": "4",
+  "dept": "MMW",
+  "anchor": "mmw15",
+  "description": "This course begins with a consideration of the causes and consequences of World War I, and then looks at the postwar crisis of liberal values and institutions. It addresses the deepening crisis in the 1930s, especially evident in the emergence of ideological politics and extreme nationalism in the context of worldwide depression. That period provides the background for understanding World War II. Attention is then devoted to the Cold War, the competition between capitalism and communism, and the process of decolonization. The course ends with a discussion of the collapse of communism and the emergence of a new world order (or disorder). Prerequisites: completion of MMW 12 or MMW 2; and completion of MMW 13 or MMW 3; open to Eleanor Roosevelt College students only. Students may not receive credit for both MMW 15 and MMW 6. Must be taken for a letter grade to meet the requirement. (S,Su)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MMW 12",
+          "MMW 2"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MMW 13",
+          "MMW 3"
+        ]
+      }
+    ]
+  }
+}

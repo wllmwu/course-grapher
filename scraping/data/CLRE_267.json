@@ -1,0 +1,16 @@
+{
+  "code": "CLRE 267",
+  "title": "Advanced Statistics Using \u201cR\u201d",
+  "units": "2",
+  "dept": "CLRE",
+  "anchor": "clre267",
+  "description": "This course introduces biostatistical methods used in more advanced clinical research work, including longitudinal data analysis, meta-analysis, predictive modeling (LASSO, random forests, neural networks), competing risks survival analysis. Uses the R statistical package. Prerequisites: CLRE 253, CLRE 254, CLRE 262.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CLRE 253",
+      "CLRE 254",
+      "CLRE 262"
+    ]
+  }
+}

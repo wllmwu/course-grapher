@@ -1,0 +1,15 @@
+{
+  "code": "SE 101A",
+  "title": "Mechanics I: Statics",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se101a",
+  "description": "Principles of statics using vectors. Two- and three-dimensional equilibrium of statically determinate structures under discrete and distributed loading including hydrostatics; internal forces and concept of stress; free body diagrams; moment, product of inertia; analysis of trusses and beams. Prerequisites: MATH 20C and PHYS 2A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20C",
+      "PHYS 2A"
+    ]
+  }
+}

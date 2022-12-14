@@ -1,0 +1,9 @@
+{
+  "code": "MUS 172",
+  "title": "Computer Music II",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus172",
+  "description": "(Formerly MUS 161.) Computer synthesis techniques including wavetable and additive synthesis, waveshaping, and sampling. Transformation of musical sounds using filters, modulation, and delay effects. Fourier analysis of sounds. Prerequisites: MUS 171 (formerly MUS 160C); music majors, ICAM-music and ICAM-visual arts majors and minors, or consent of instructor.",
+  "prereqs": "MUS 171"
+}

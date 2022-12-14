@@ -1,0 +1,16 @@
+{
+  "code": "MATH 20D",
+  "title": "Introduction to Differential Equations",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math20d",
+  "description": "Ordinary differential equations: exact, separable, and linear; constant coefficients, undetermined coefficients, variations of parameters. Systems. Series solutions. Laplace transforms. Techniques for engineering sciences. Computing symbolic and graphical solutions using MATLAB. (Formerly numbered MATH 21D.) May be taken as repeat credit for MATH 21D. Prerequisites: MATH 20C (or MATH 21C) or MATH 31BH with a grade of C\u2013 or better.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 20C",
+      "MATH 21C",
+      "MATH 31BH"
+    ]
+  }
+}

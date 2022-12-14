@@ -1,0 +1,15 @@
+{
+  "code": "LISP 18",
+  "title": "",
+  "units": "LISP",
+  "dept": "LING",
+  "anchor": "lign515",
+  "description": "An intermediate-level course on Spanish as used in the health sciences, especially in clinical and field settings. Attention to listening, speaking, relevant vocabulary, cultural knowledge, reading, and writing. May be taken for credit up to two times. Prerequisites: LISP 1D/DX.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LISP 1D",
+      "LISP 1DX"
+    ]
+  }
+}

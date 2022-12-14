@@ -1,0 +1,9 @@
+{
+  "code": "MGTA 453",
+  "title": "Business Analytics",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgta453",
+  "description": "This course is designed to help a business manager to use data to make good decisions in complex decision-making situations. Several analytical and econometric methods will be covered including decision analysis, regression analysis, optimization, and simulation. Prerequisites: MGTA 451 and restricted to MS in business analytics program or with department and instructor approval.",
+  "prereqs": "MGTA 451"
+}

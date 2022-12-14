@@ -1,0 +1,16 @@
+{
+  "code": "CHIN 165A",
+  "title": "Business Chinese",
+  "units": "4",
+  "dept": "CHIN",
+  "anchor": "chin100cm",
+  "description": "Basic training in oral and written communication skills for business, including introduction to modern business terminology and social conventions. Prerequisites: CHIN 113, CHIN 100CM, CHIN 100CN or department stamp.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHIN 113",
+      "CHIN 100CM",
+      "CHIN 100CN"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "CHIN 20CN",
+  "title": "Second Year Chinese\u2014Nonnative speakers III",
+  "units": "4",
+  "dept": "CHIN",
+  "anchor": "chin20cn",
+  "description": "Final course of second year Chinese for students with no background. Third course of a one-year curriculum for Chinese intermediate communicative skills. Expansion on pronunciation and more elaborate Chinese grammar and increasing vocabulary. Topics include food, physical actions, and culture. Students may not receive duplicate credit for both CHIN 23 and CHIN 20CN. Prerequisites: CHIN 22, CHIN 20BN, score of 5 on AP Chinese Language and Culture Exam, or department stamp.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHIN 22",
+      "CHIN 20BN"
+    ]
+  }
+}

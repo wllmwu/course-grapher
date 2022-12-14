@@ -1,0 +1,15 @@
+{
+  "code": "CHIN 10CD",
+  "title": "First Year Chinese\u2014Dialect speakers III",
+  "units": "5",
+  "dept": "CHIN",
+  "anchor": "chin10cd",
+  "description": "Further continuation course of basic Chinese for students with background in a dialect of Chinese. Third course of one-year curriculum for entry-level Chinese communicative skills. Expansion on pronunciation and more elaborate Chinese grammar and increasing vocabulary. Topics include dining, direction, and social life. Students may not receive duplicate credit for CHIN 13 and CHIN 10CD. Prerequisites: CHIN 12, CHIN 10BD, or department stamp.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHIN 12",
+      "CHIN 10BD"
+    ]
+  }
+}

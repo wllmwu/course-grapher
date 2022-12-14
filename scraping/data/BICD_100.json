@@ -1,0 +1,15 @@
+{
+  "code": "BICD 100",
+  "title": "Genetics",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bicd100",
+  "description": "An introduction to the principles of heredity emphasizing diploid organisms. Topics include Mendelian inheritance and deviations from classical Mendelian ratios, pedigree analysis, gene interactions, gene mutation, linkage and gene mapping, reverse genetics, population genetics, and quantitative genetics. Prerequisites: BILD 1 and BILD 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      "BILD 3"
+    ]
+  }
+}

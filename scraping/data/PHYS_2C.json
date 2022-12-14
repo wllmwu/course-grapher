@@ -1,0 +1,27 @@
+{
+  "code": "PHYS 2C",
+  "title": "Physics\u2014Fluids, Waves, Thermodynamics, and Optics",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys2c",
+  "description": "Continuation of PHYS 2B covering fluid mechanics, waves in elastic media, sound waves, temperature, heat and the first law of thermodynamics, kinetic theory of gases, entropy and the second law of thermodynamics, Maxwell\u2019s equations, electromagnetic waves, geometric optics, interference and diffraction. Students continuing to PHYS 2D will need MATH 20D. Prerequisites: PHYS 2A or 4A, and MATH 20C or 31BH. Recommended preparation: prior or concurrent enrollment in MATH 20D. Prior completion of PHYS 2B is strongly recommended.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2A",
+          "PHYS 4A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      }
+    ]
+  }
+}

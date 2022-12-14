@@ -1,0 +1,15 @@
+{
+  "code": "LIFR 1CX",
+  "title": "",
+  "units": "LIFR",
+  "dept": "LING",
+  "anchor": "lign515",
+  "description": "Presentation and practice of the basic grammatical structures needed for oral and written communication and for reading. The course is taught entirely in French. Must be taken in conjunction with LIFR 1C. Prerequisites: LIFR 1B with a grade of C\u2013 or better, or equivalent and LIFR 1BX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIFR 1B",
+      "LIFR 1BX"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "LIIT 1BX",
+  "title": "",
+  "units": "LIIT",
+  "dept": "LING",
+  "anchor": "lign515",
+  "description": "Presentation and practice of the basic grammatical structures needed for oral and written communication and for reading. The course is taught entirely in Italian. Must be taken with LIIT 1B. Prerequisites: LIIT 1A with a grade of C\u2013 or better, or equivalent and LIIT 1AX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIIT 1A",
+      "LIIT 1AX"
+    ]
+  }
+}
