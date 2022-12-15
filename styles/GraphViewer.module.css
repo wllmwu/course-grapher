@@ -3,6 +3,13 @@
   border-radius: 0.5rem;
 }
 
+.courseNodeLabel {
+  font-weight: bold;
+  background-color: var(--accent-blue);
+  border-radius: 4px;
+  padding: 2px 4px;
+}
+
 .edge {
   stroke: var(--cool-gray);
   stroke-width: 2;

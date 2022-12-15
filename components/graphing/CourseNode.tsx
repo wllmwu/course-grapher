@@ -5,6 +5,7 @@ import { slugifyCourseCode } from "../../utils";
 import { TreeReducerAction } from "./treeReducer";
 import Edges from "./Edges";
 import TextWithBackground from "./TextWithBackground";
+import styles from "../../styles/GraphViewer.module.css";
 
 interface CourseNodeProps {
   node: CourseGraphNode;
@@ -29,11 +30,7 @@ function CourseNode({ node, dispatch }: CourseNodeProps) {
       <TextWithBackground
         x={node.x + 10}
         y={node.y}
-        fontWeight="bold"
-        backgroundColor="var(--accent-blue)"
-        borderRadius={4}
-        horizontalPadding={4}
-        verticalPadding={2}
+        className={styles.courseNodeLabel}
       >
         <Link href={`/courses/${slugifyCourseCode(node.code)}`}>
           <a>{node.code}</a>
