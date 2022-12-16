@@ -4,7 +4,7 @@ import Head from "next/head";
 import Link from "next/link";
 import type { Course, Department } from "../../utils/data-schema";
 import { readDataFile } from "../../utils/buildtime";
-import * as cache from "../../utils/build-time-cache";
+import * as cache from "../../utils/buildtime-cache";
 import {
   courseComparator,
   getCourseCodeDigits,

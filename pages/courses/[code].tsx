@@ -4,7 +4,7 @@ import Head from "next/head";
 import Link from "next/link";
 import type { Course, Department } from "../../utils/data-schema";
 import { readDataDirectory, readDataFile } from "../../utils/buildtime";
-import * as cache from "../../utils/build-time-cache";
+import * as cache from "../../utils/buildtime-cache";
 import Page from "../../components/Page";
 import GraphViewer from "../../components/GraphViewer";
 
