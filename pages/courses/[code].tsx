@@ -65,6 +65,12 @@ function CoursePage({ course, department }: CoursePageProps) {
       </Head>
       {course ? (
         <>
+          <p>
+            {"\u2039 "}
+            <Link href={`/departments/${department.code}`}>
+              <a>{department.code} department</a>
+            </Link>
+          </p>
           <h1>{`${course.code}. ${course.title} (${course.units} units)`}</h1>
           {catalogLink && (
             <p>
@@ -76,8 +82,8 @@ function CoursePage({ course, department }: CoursePageProps) {
           )}
           <h2>Description</h2>
           <p>{course.description}</p>
-          <h2>Prerequisites</h2>
-          <GraphViewer root={course} />
+          <h2>Prerequisite courses</h2>
+          {course.prereqs ? <GraphViewer root={course} /> : <p>None</p>}
         </>
       ) : (
         <p>Loading</p>
