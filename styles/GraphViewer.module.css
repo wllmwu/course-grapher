@@ -3,11 +3,46 @@
   border-radius: 0.5rem;
 }
 
+.courseNodeVertex {
+  fill: var(--accent-blue);
+  stroke: var(--accent-blue);
+  stroke-width: 3px;
+  cursor: pointer;
+}
+
+.courseNodeVertex:hover {
+  fill: var(--background);
+}
+
+.courseNodeVertex.courseOpen {
+  fill: var(--background);
+}
+
+.courseNodeVertex.courseOpen:hover {
+  fill: var(--accent-blue);
+}
+
+.courseNodeVertex.courseNoPrereqs {
+  fill: var(--cool-gray);
+  stroke: var(--cool-gray);
+  cursor: default;
+}
+
+.courseNodeVertex.courseUnknown {
+  fill: red;
+  stroke: red;
+  cursor: default;
+}
+
 .courseNodeLabel {
   font-weight: bold;
   background-color: var(--accent-blue);
   border-radius: 4px;
   padding: 2px 4px;
+}
+
+.courseNodeLabel.courseUnknown {
+  background-color: red;
 }
 
 .edge {

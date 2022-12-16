@@ -1,44 +1,58 @@
-import type { AnyGraphNode, BoundingBox } from "../../utils/graph-schema";
+import type { CourseGraphNode, BoundingBox } from "../../utils/graph-schema";
 import { setPositions } from "./setPositions";
 
 interface TreeReducerState {
-  tree: AnyGraphNode;
+  tree: CourseGraphNode;
   bounds: BoundingBox;
 }
 
-interface TreeReducerExpandAction {
-  type: "expand";
-  payload: number[];
+interface TreeReducerInitializeAction {
+  type: "initialize";
+  payload: CourseGraphNode;
 }
 
-interface TreeReducerCloseAction {
-  type: "close";
-  payload: number[];
+interface TreeReducerToggleAction {
+  type: "toggle";
+  payload: CourseGraphNode;
 }
 
 export type TreeReducerAction =
-  | TreeReducerExpandAction
-  | TreeReducerCloseAction;
+  | TreeReducerInitializeAction
+  | TreeReducerToggleAction;
 
 export function treeReducer(
-  state: TreeReducerState,
+  state: TreeReducerState | null,
   action: TreeReducerAction
 ) {
+  let newState: TreeReducerState;
   switch (action.type) {
-    case "expand":
-      return state;
-    case "close":
-      return state;
+    case "initialize":
+      const newTree = action.payload;
+      newState = {
+        tree: newTree,
+        bounds: setPositions(newTree),
+      };
+      return newState;
+    case "toggle":
+      if (!state) {
+        return state;
+      }
+      const node = action.payload;
+      if (node.state === "closed") {
+        node.state = "open";
+      } else if (node.state === "open") {
+        node.state = "closed";
+      } else {
+        // no change
+        return state;
+      }
+      const newBounds = setPositions(state.tree);
+      newState = {
+        tree: state.tree,
+        bounds: newBounds,
+      };
+      return newState;
     default:
       return state;
   }
-}
-
-export function treeStateInitializer(tree: AnyGraphNode) {
-  const bounds = setPositions(tree);
-  const state: TreeReducerState = {
-    tree,
-    bounds,
-  };
-  return state;
 }

@@ -37,6 +37,7 @@ function TextWithBackground({
 
   useEffect(() => {
     if (textRef && textRef.current) {
+      // based on example at https://codepen.io/yesworld/pen/poJzydw
       const textBounds = textRef.current.getBBox();
       const computedStyle = getComputedStyle(textRef.current);
       setTextWidth(textBounds.width);
