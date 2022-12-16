@@ -11,20 +11,29 @@ interface TreeReducerInitializeAction {
   payload: CourseGraphNode;
 }
 
-interface TreeReducerToggleAction {
-  type: "toggle";
+interface TreeReducerOpenAction {
+  type: "open";
+  payload: CourseGraphNode;
+}
+
+interface TreeReducerCloseAction {
+  type: "close";
   payload: CourseGraphNode;
 }
 
 export type TreeReducerAction =
   | TreeReducerInitializeAction
-  | TreeReducerToggleAction;
+  | TreeReducerOpenAction
+  | TreeReducerCloseAction;
 
 export function treeReducer(
   state: TreeReducerState | null,
   action: TreeReducerAction
 ) {
   let newState: TreeReducerState;
+  console.log(
+    `reducer called on ${action.payload.code} with action ${action.type}`
+  );
   switch (action.type) {
     case "initialize":
       const newTree = action.payload;
@@ -33,23 +42,24 @@ export function treeReducer(
         bounds: setPositions(newTree),
       };
       return newState;
-    case "toggle":
+    case "open":
       if (!state) {
         return state;
       }
-      const node = action.payload;
-      if (node.state === "closed") {
-        node.state = "open";
-      } else if (node.state === "open") {
-        node.state = "closed";
-      } else {
-        // no change
-        return state;
-      }
-      const newBounds = setPositions(state.tree);
+      action.payload.state = "open";
       newState = {
         tree: state.tree,
-        bounds: newBounds,
+        bounds: setPositions(state.tree),
+      };
+      return newState;
+    case "close":
+      if (!state) {
+        return state;
+      }
+      action.payload.state = "closed";
+      newState = {
+        tree: state.tree,
+        bounds: setPositions(state.tree),
       };
       return newState;
     default:

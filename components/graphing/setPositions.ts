@@ -8,6 +8,28 @@ const VERTICAL_PADDING = 20;
 const TOP_EXTRA_PADDING = 10;
 
 /**
+ * Sets `x`, `y`, `xIn`, `xOut`, `yMin`, and `yMax` where applicable on each
+ * node in the given tree, laying out nodes such that subtrees do not overlap.
+ *
+ * @param root The root node of the prerequisite tree
+ *
+ * @returns An object with fields `xMin`, `xMax`, `yMin`, and `yMax`,
+ * representing the bounding box of the tree after the nodes have been
+ * positioned
+ */
+export function setPositions(root: AnyGraphNode) {
+  const nextYCoordinates: number[] = [];
+  setPositionsHelper(root, 0, 0, nextYCoordinates);
+  const bounds: BoundingBox = {
+    xMin: (nextYCoordinates.length - 1) * X_INTERVAL,
+    xMax: 0,
+    yMin: 0,
+    yMax: Math.max(...nextYCoordinates) - Y_INTERVAL,
+  };
+  return bounds;
+}
+
+/**
  * Recursively sets node `x` and `y` coordinates, as well as `xIn`, `xOut`,
  * and `bounds` where applicable.
  *
@@ -39,7 +61,7 @@ function setPositionsHelper(
   }
 
   if (node.type === "course") {
-    if (node.child) {
+    if (node.state === "open" && node.child) {
       setPositionsHelper(node.child, depth + 1, node.y, nextYCoordinates);
       node.y = node.child.y;
     }
@@ -82,26 +104,4 @@ function setPositionsHelper(
       node.xOut = node.bounds.xMax;
     }
   }
-}
-
-/**
- * Sets `x`, `y`, `xIn`, `xOut`, `yMin`, and `yMax` where applicable on each
- * node in the given tree, laying out nodes such that subtrees do not overlap.
- *
- * @param root The root node of the prerequisite tree
- *
- * @returns An object with fields `xMin`, `xMax`, `yMin`, and `yMax`,
- * representing the bounding box of the tree after the nodes have been
- * positioned
- */
-export function setPositions(root: AnyGraphNode) {
-  const nextYCoordinates: number[] = [];
-  setPositionsHelper(root, 0, 0, nextYCoordinates);
-  const bounds: BoundingBox = {
-    xMin: (nextYCoordinates.length - 1) * X_INTERVAL,
-    xMax: 0,
-    yMin: 0,
-    yMax: Math.max(...nextYCoordinates) - Y_INTERVAL,
-  };
-  return bounds;
 }

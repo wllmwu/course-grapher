@@ -40,7 +40,19 @@ function CourseNode({ node, dispatch }: CourseNodeProps) {
       {!node.isNested && (
         <Edges.Line x1={node.x} y1={node.y} x2={node.xOut} y2={node.y} />
       )}
-      <circle cx={node.x} cy={node.y} r={6} className={vertexClassName} />
+      <circle
+        cx={node.x}
+        cy={node.y}
+        r={6}
+        className={vertexClassName}
+        onClick={() => {
+          console.log(`click ${node.code}`);
+          dispatch({
+            type: node.state === "closed" ? "open" : "close",
+            payload: node,
+          });
+        }}
+      />
       <TextWithBackground x={node.x + 10} y={node.y} className={labelClassName}>
         <Link href={`/courses/${slugifyCourseCode(node.code)}`}>
           <a>{node.code}</a>

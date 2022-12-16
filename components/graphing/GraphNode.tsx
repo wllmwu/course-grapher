@@ -15,7 +15,9 @@ function GraphNode({ node, dispatch }: GraphNodeProps) {
       {node.type === "course" ? (
         <>
           <CourseNode node={node} dispatch={dispatch} />
-          {node.child && <GraphNode node={node.child} dispatch={dispatch} />}
+          {node.state === "open" && node.child && (
+            <GraphNode node={node.child} dispatch={dispatch} />
+          )}
         </>
       ) : (
         <>
