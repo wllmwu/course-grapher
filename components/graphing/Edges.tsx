@@ -17,10 +17,10 @@ interface ConnectorProps {
   y1: number;
   x2: number;
   y2: number;
-  endSegmentLength?: number;
+  endSegmentLength: number;
 }
 
-function Connector({ x1, y1, x2, y2, endSegmentLength = 8 }: ConnectorProps) {
+function Connector({ x1, y1, x2, y2, endSegmentLength }: ConnectorProps) {
   let points = `${x1},${y1}`;
   points += ` ${x1 + endSegmentLength},${y1}`;
   points += ` ${x2 - endSegmentLength},${y2}`;

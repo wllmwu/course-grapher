@@ -20,6 +20,7 @@ function renderIncomingEdges(node: CourseSetGraphNode) {
             y1={child.y}
             x2={node.xOut}
             y2={node.y}
+            endSegmentLength={20}
           />
         ))}
       </>
