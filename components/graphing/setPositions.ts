@@ -65,13 +65,13 @@ function setPositionsHelper(
       setPositionsHelper(node.child, depth + 1, node.y, nextYCoordinates);
       node.y = node.child.y;
     }
-    nextYCoordinates[depth] = node.y + Y_INTERVAL;
     node.xIn = node.x - HORIZONTAL_MARGIN;
     node.xOut = node.x + COURSE_MAX_WIDTH;
+    nextYCoordinates[depth] = node.y + Y_INTERVAL;
   } else {
     let nextY = Math.max(
-      node.y - (node.children.length / 2) * Y_INTERVAL,
-      nextYCoordinates[depth] + TOP_EXTRA_PADDING
+      node.y - ((node.children.length - 1) / 2) * Y_INTERVAL,
+      nextYCoordinates[depth] + TOP_EXTRA_PADDING + Y_INTERVAL / 4
     );
     let xMin = node.x;
     let xMax = node.x;
@@ -89,19 +89,20 @@ function setPositionsHelper(
     node.bounds.xMax = xMax + HORIZONTAL_MARGIN;
     // `node.children` is assumed to have length at least 2
     const firstChild = node.children[0];
+    const firstChildY =
+      firstChild.type === "course" ? firstChild.y : firstChild.bounds.yMin;
     const lastChild = node.children[node.children.length - 1];
-    node.bounds.yMin =
-      (firstChild.type === "course" ? firstChild.y : firstChild.bounds.yMin) -
-      (VERTICAL_PADDING + TOP_EXTRA_PADDING);
-    node.bounds.yMax =
-      (lastChild.type === "course" ? lastChild.y : lastChild.bounds.yMax) +
-      VERTICAL_PADDING;
-    node.y = (node.bounds.yMin + node.bounds.yMax) / 2;
+    const lastChildY =
+      lastChild.type === "course" ? lastChild.y : lastChild.bounds.yMax;
+    node.bounds.yMin = firstChildY - (VERTICAL_PADDING + TOP_EXTRA_PADDING);
+    node.bounds.yMax = lastChildY + VERTICAL_PADDING;
+    node.y = (firstChildY + lastChildY) / 2;
     node.xIn = node.bounds.xMin;
     if (node.amount === "all" && !node.isNested) {
       node.xOut = node.x - X_INTERVAL - HORIZONTAL_MARGIN;
     } else {
       node.xOut = node.bounds.xMax;
     }
+    nextYCoordinates[depth] += Y_INTERVAL / 4;
   }
 }
