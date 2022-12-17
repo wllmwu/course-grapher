@@ -85,6 +85,15 @@ function GraphViewer({ root }: GraphViewerProps) {
       <defs>
         <Edges.ArrowheadDefinition />
       </defs>
+      <text x={0} y={50}>
+        Click and drag to pan around the graph.
+      </text>
+      <text x={0} y={50} dy={30}>
+        Click on the circle next to a course to show/hide its prerequisites.
+      </text>
+      <text x={0} y={50} dy={60}>
+        Click on a course to visit its page.
+      </text>
       <GraphNode node={state.tree} dispatch={dispatch} />
     </svg>
   );
