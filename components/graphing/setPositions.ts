@@ -10,6 +10,8 @@ const TOP_EXTRA_PADDING = 10;
 /**
  * Sets `x`, `y`, `xIn`, `xOut`, `yMin`, and `yMax` where applicable on each
  * node in the given tree, laying out nodes such that subtrees do not overlap.
+ * The root node is positioned at (0, 0) and prerequisites spread leftwards (in
+ * the -*x* direction).
  *
  * @param root The root node of the prerequisite tree
  *
@@ -20,11 +22,13 @@ const TOP_EXTRA_PADDING = 10;
 export function setPositions(root: AnyGraphNode) {
   const nextYCoordinates: number[] = [];
   setPositionsHelper(root, 0, 0, nextYCoordinates);
+  const yChange = -root.y;
+  adjustPositions(root, yChange);
   const bounds: BoundingBox = {
     xMin: (nextYCoordinates.length - 1) * X_INTERVAL,
     xMax: 0,
-    yMin: 0,
-    yMax: Math.max(...nextYCoordinates) - Y_INTERVAL,
+    yMin: yChange,
+    yMax: Math.max(...nextYCoordinates) - Y_INTERVAL + yChange,
   };
   return bounds;
 }
@@ -104,5 +108,27 @@ function setPositionsHelper(
       node.xOut = node.bounds.xMax;
     }
     nextYCoordinates[depth] += Y_INTERVAL / 4;
+  }
+}
+
+/**
+ * Recursively adjusts the *y* coordinates of each node in the subtree rooted at
+ * the given node by the given amount.
+ *
+ * @param node The root of the subtree to adjust
+ * @param yChange The change in *y* to apply to the subtree
+ */
+function adjustPositions(node: AnyGraphNode, yChange: number) {
+  node.y += yChange;
+  if (node.type === "course") {
+    if (node.state === "open" && node.child) {
+      adjustPositions(node.child, yChange);
+    }
+  } else {
+    node.bounds.yMin += yChange;
+    node.bounds.yMax += yChange;
+    for (const child of node.children) {
+      adjustPositions(child, yChange);
+    }
   }
 }

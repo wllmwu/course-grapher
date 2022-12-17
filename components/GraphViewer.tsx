@@ -61,6 +61,7 @@ function GraphViewer({ root }: GraphViewerProps) {
     }
     setViewX(newX);
     setViewY(newY);
+    event.preventDefault();
   };
 
   return (
@@ -69,8 +70,12 @@ function GraphViewer({ root }: GraphViewerProps) {
       preserveAspectRatio="xMidYMid meet"
       xmlns="http://www.w3.org/2000/svg"
       className={styles.graphBox}
-      onMouseDown={() => setMouseDown(true)}
+      onMouseDown={(event) => {
+        setMouseDown(true);
+        event.preventDefault();
+      }}
       onMouseUp={() => setMouseDown(false)}
+      onMouseLeave={() => setMouseDown(false)}
       onMouseMove={handleDrag}
     >
       <defs>
