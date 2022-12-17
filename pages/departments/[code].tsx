@@ -2,10 +2,14 @@ import React from "react";
 import type { GetStaticPaths, GetStaticProps } from "next";
 import Head from "next/head";
 import Link from "next/link";
-import { promises as fs } from "fs";
-import path from "path";
-import type { Department, Course } from "../../utils/data-schema";
-import { courseComparator, getCourseCodeDigits } from "../../utils";
+import type { Course, Department } from "../../utils/data-schema";
+import { readDataFile } from "../../utils/buildtime";
+import * as cache from "../../utils/buildtime-cache";
+import {
+  courseComparator,
+  getCourseCodeDigits,
+  slugifyCourseCode,
+} from "../../utils";
 import Page from "../../components/Page";
 import styles from "../../styles/DepartmentsPage.module.css";
 
@@ -17,8 +21,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
       fallback: "blocking",
     };
   }
-  const filePath = path.join(process.cwd(), "scraping/data/departments.json");
-  const departmentsIndex = JSON.parse(await fs.readFile(filePath, "utf-8"));
+  const departmentsIndex = JSON.parse(await readDataFile("departments.json"));
   const paths = Object.keys(departmentsIndex).map((deptCode) => ({
     params: { code: deptCode },
   }));
@@ -32,20 +35,14 @@ export const getStaticProps: GetStaticProps = async (context) => {
   if (!context.params || typeof context.params.code !== "string") {
     return { notFound: true };
   }
-  const filePath = path.join(process.cwd(), `scraping/data/departments.json`);
-  const departmentIndex = JSON.parse(
-    await fs.readFile(filePath, "utf-8")
-  ) as Record<string, Department>;
-  const department = departmentIndex[context.params.code];
-  if (!department) {
-    return { notFound: true };
-  }
-  const coursePromises = department.courses.map(async (courseCode: string) => {
-    const slug = courseCode.replaceAll(" ", "_");
-    return JSON.parse(
-      await fs.readFile(`scraping/data/${slug}.json`, "utf-8")
-    ) as Course;
-  });
+  await cache.populateDepartments();
+  const department = cache.getDepartment(context.params.code);
+  const coursePromises = department.courses.map(
+    async (courseCode: string) =>
+      JSON.parse(
+        await readDataFile(`${slugifyCourseCode(courseCode)}.json`)
+      ) as Course
+  );
   const courses = await Promise.all(coursePromises);
   return {
     props: {
@@ -119,7 +116,7 @@ function DepartmentPage({ department, courses }: DepartmentPageProps) {
               <h2 id={level}>{level}</h2>
               {coursesByLevel[level].map((course) => (
                 <React.Fragment key={course.code}>
-                  <Link href={`/courses/${encodeURIComponent(course.code)}`}>
+                  <Link href={`/courses/${slugifyCourseCode(course.code)}`}>
                     <a>
                       <h3>{`${course.code}. ${course.title} (${course.units} units)`}</h3>
                     </a>

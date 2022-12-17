@@ -3,7 +3,7 @@
   "title": "Molecular Design and Synthesis",
   "units": "4",
   "dept": "CHEM",
-  "anchor": "chem7l",
+  "anchor": "chem143d",
   "description": "Advanced organic synthesis. Relationships between molecular structure and reactivity using modern synthetic methods and advanced instrumentation. Stresses importance of molecular design, optimized reaction conditions for development of practically useful synthesis, and problem-solving skills. A materials fee is required. Prerequisites: CHEM 40C, 40CH, 41C, 140C, or 140CH and CHEM 143B.",
   "prereqs": {
     "type": "all",

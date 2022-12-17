@@ -3,6 +3,6 @@
   "title": "Embedded System Design",
   "units": "4",
   "dept": "MAE",
-  "anchor": "mae247",
+  "anchor": "mde240",
   "description": "This course gives an introduction to digital signal processing (DSP) techniques and data-based parameter estimation (DBPE) techniques for the measurement, filtering, and analysis of experimental data obtained with embedded systems in medical devices. Prerequisites: consent of instructor. MDE students only."
 }

@@ -1,4 +1,4 @@
-import { Course } from "./data-schema";
+import type { Course } from "./data-schema";
 
 export const getCourseCodeDigits: (course: Course) => string = (course) => {
   const digitsMatch = course.code.match(/[0-9]+/g);
@@ -21,3 +21,9 @@ export const courseComparator: (a: Course, b: Course) => number = (a, b) => {
   }
   return aNumber.localeCompare(bNumber);
 };
+
+export const slugifyCourseCode: (code: string) => string = (code) =>
+  code.replace(" ", "_");
+
+export const deslugifyCourseCode: (code: string) => string = (code) =>
+  code.replace("_", " ");

@@ -3,7 +3,7 @@
   "title": "Advanced Classical Electrodynamics II",
   "units": "4",
   "dept": "PHYS",
-  "anchor": "phys130C",
+  "anchor": "phys203b",
   "description": "Special theory of relativity, covariant formulation of electrodynamics, radiation from current distributions and accelerated charges, multipole radiation fields, waveguides and resonant cavities. Prerequisites: PHYS 203A.",
   "prereqs": "PHYS 203A"
 }

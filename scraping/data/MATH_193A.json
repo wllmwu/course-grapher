@@ -3,7 +3,7 @@
   "title": "Actuarial Mathematics I",
   "units": "4",
   "dept": "MATH",
-  "anchor": "math111a",
+  "anchor": "math193a",
   "description": "Probabilistic Foundations of Insurance. Short-term risk models. Survival distributions and life tables. Introduction to life insurance. Prerequisites: MATH 180A or MATH 183, or consent of instructor.",
   "prereqs": {
     "type": "one",

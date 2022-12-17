@@ -3,7 +3,7 @@
   "title": "Introduction to Intelligent Systems: Robotics and Machine Intelligence",
   "units": "4",
   "dept": "ECE",
-  "anchor": "ECE161C",
+  "anchor": "ece172a",
   "description": "This course will introduce basic concepts in machine perception. Topics covered will include edge detection, segmentation, texture analysis, image registration, and compression. Prerequisites: ECE 101 with a grade of C\u2013 or better. ECE 109 recommended.",
   "prereqs": "ECE 101"
 }

@@ -3,7 +3,7 @@
   "title": "Masonry Structures",
   "units": "4",
   "dept": "SE",
-  "anchor": "se168",
+  "anchor": "se214",
   "description": "Analysis and design of unreinforced and reinforced masonry structure using advanced analytical techniques and design philosophies. Material properties, stability, and buckling of unreinforced masonry. Flexural strength, shear strength, stiffness, and ductility of reinforced masonry elements. Design for seismic loads. Prerequisites: SE 151A, B, or equivalent basic reinforced concrete course, or consent of instructor, graduate standing.",
   "prereqs": {
     "type": "all",

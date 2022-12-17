@@ -3,7 +3,7 @@
   "title": "Elasticity",
   "units": "4",
   "dept": "MAE",
-  "anchor": "mae224b",
+  "anchor": "mae231b",
   "description": "Basic field equations. Typical boundary value problems of classical linear elasticity. Problems of plane stress and plane strain. Variational principles. Prerequisites: MAE 209/BENG 209, or MAE 231A, or consent of instructor.",
   "prereqs": {
     "type": "one",

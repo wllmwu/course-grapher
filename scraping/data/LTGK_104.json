@@ -3,7 +3,7 @@
   "title": "Greek Prose",
   "units": "4",
   "dept": "LIT",
-  "anchor": "ltcs165",
+  "anchor": "ltgk104",
   "description": "Readings in Greek from ancient Greek prose. May be taken for credit up to four times as topics vary.  Prerequisites:  LTGK 1, 2, and 3.",
   "prereqs": {
     "type": "all",

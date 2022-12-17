@@ -3,6 +3,6 @@
   "title": "Computational Astrophysics",
   "units": "4",
   "dept": "PHYS",
-  "anchor": "phys130C",
+  "anchor": "phya230",
   "description": "Graduate-level course covering both computational methods and applications to astrophysical systems. Topics include numerical analysis, numerical differentiation and integration, ordinary and partial differential equations, linear systems, Fourier transforms, data fitting, grid-based and smoothed-particle hydrodynamics, and N-body algorithms. Special topics such as Monte Carlo methods, ray tracing, visualization and parallel computing, and management of numerical experiments may also be presented."
 }

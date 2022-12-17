@@ -3,7 +3,7 @@
   "title": "Probabilistic Combinatorics and Algorithms II",
   "units": "4",
   "dept": "MATH",
-  "anchor": "math245c",
+  "anchor": "math261b",
   "description": "Introduction to probabilistic algorithms. Game theoretic techniques. Applications of the probabilistic method to algorithm analysis. Markov Chains and Random walks. Applications to approximation algorithms, distributed algorithms, online and parallel algorithms. MATH 261A must be taken before MATH 261B. Prerequisites: MATH 261A.",
   "prereqs": "MATH 261A"
 }

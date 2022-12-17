@@ -3,7 +3,7 @@
   "title": "Fundamentals of Propulsion",
   "units": "4",
   "dept": "MAE",
-  "anchor": "mae108",
+  "anchor": "mae113",
   "description": "Compressible flow, thermodynamics, and combustion relevant to aircraft and space vehicle propulsion. Analysis and design of components for gas turbines, including turbines, inlets, combustion chambers and nozzles. Fundamentals of rocket propulsion. Prerequisites: MAE 11 or MAE 110A or CENG 102, and MAE 101A or CENG 101A, and MAE 101B or CENG 101C. Enrollment restricted to MC 25, MC 27, MC 29,\u00a0and MC 30\u201334 majors only.",
   "prereqs": {
     "type": "all",

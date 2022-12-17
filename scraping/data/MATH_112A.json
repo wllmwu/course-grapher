@@ -3,7 +3,7 @@
   "title": "Introduction to Mathematical Biology I",
   "units": "4",
   "dept": "MATH",
-  "anchor": "math111a",
+  "anchor": "math112a",
   "description": "Part one of a two-course introduction to the use of mathematical theory and techniques in analyzing biological problems. Topics include differential equations, dynamical systems, and probability theory applied to a selection of biological problems from population dynamics, biochemical reactions, biological oscillators, gene regulation, molecular interactions, and cellular function. May be coscheduled with MATH 212A. Recommended preparation: MATH 130 and MATH 180A. Prerequisites: MATH 11 or MATH 180A or MATH 183 or MATH 186, and MATH 18 or MATH 31AH, and MATH 20D, and BILD 1. Students who have not completed listed prerequisites may enroll with consent of instructor.",
   "prereqs": {
     "type": "all",

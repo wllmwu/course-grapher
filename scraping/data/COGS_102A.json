@@ -3,7 +3,7 @@
   "title": "Cognitive Perspectives",
   "units": "4",
   "dept": "COGS",
-  "anchor": "cogs92",
+  "anchor": "cogs102a",
   "description": "Explores current theoretical frameworks of high-level human cognition that emphasize how we interact with the material, social, and cultural world. Themes include the philosophy and history of cognitive science, the role of artifacts, and how cognition extends beyond the individual. Prerequisites: COGS 1 and COGS 10.",
   "prereqs": {
     "type": "all",

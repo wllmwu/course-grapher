@@ -3,7 +3,7 @@
   "title": "Solid-State Physics II",
   "units": "4",
   "dept": "PHYS",
-  "anchor": "phys130C",
+  "anchor": "phys211b",
   "description": "Deals with collective effects in solids arising from interactions between constituents. Topics include electron-electron and electron-phonon interactions, screening, band structure effects, Landau Fermi liquid theory. Magnetism in metals and insulators, superconductivity; occurrence, phenomenology, and microscopic theory. Prerequisites: PHYS 210A and PHYS 211A.",
   "prereqs": {
     "type": "all",

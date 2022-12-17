@@ -3,7 +3,7 @@
   "title": "Communication Circuits III",
   "units": "4",
   "dept": "ECE",
-  "anchor": "ECE161C",
+  "anchor": "ece265d",
   "description": "Direct conversion and IF up-conversion mixers, harmonic and spurious emissions, I/Q mismatch, LO leakage, receive/GPS band noise, harmonic and 4fmod suppression. Driver amplifiers, load-line, OIP3/ACPR, P1dB, Psat, PAE, in-band noise and distortion, out-of-band noise and emissions. VCO design, in-band and out-of-band phase noise. N-path filters. Diversity, MIMO, carrier aggregation and beamforming receiver and transmitter architectures. Prerequisites: ECE 265A-B; graduate standing.",
   "prereqs": {
     "type": "all",

@@ -3,7 +3,7 @@
   "title": "Social Computing",
   "units": "4",
   "dept": "COGS",
-  "anchor": "cogs92",
+  "anchor": "cogs123",
   "description": "This course explores the intersection of social behavior and computational systems. Students will examine a range of organizational, technical, and business challenges related to social computing, and learn how to use tools to analyze, design, and build online communities. Prerequisites: COGS 102C or COGS 120 or COGS 187A or COGS 187B or DSGN 1.",
   "prereqs": {
     "type": "one",

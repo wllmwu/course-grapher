@@ -3,7 +3,7 @@
   "title": "Modeling and Data Analysis",
   "units": "4",
   "dept": "COGS",
-  "anchor": "cogs92",
+  "anchor": "cogs109",
   "description": "Exposure to the basic computational methods useful throughout cognitive science. Computing basic statistics, modeling learning individuals, evolving populations, communicating agents, and corpus-based linguistics will be considered. Prerequisites: COGS 14B, MATH 18 or MATH 31AH, and COGS 18 or CSE 7 or CSE 8A or CSE 11.",
   "prereqs": {
     "type": "all",

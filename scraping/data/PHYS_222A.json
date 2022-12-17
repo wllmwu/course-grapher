@@ -3,7 +3,7 @@
   "title": "Experimental Methods for Particle Physics",
   "units": "4",
   "dept": "PHYS",
-  "anchor": "phys219",
+  "anchor": "phys222a",
   "description": "Design of detectors and experiments; searches for new phenomena; neutrino physics; non-collider physics; underground experiments. Prerequisites: PHYS 214 and PHYS 215A.",
   "prereqs": {
     "type": "all",

@@ -3,6 +3,6 @@
   "title": "Nonlinear Optics",
   "units": "4",
   "dept": "ECE",
-  "anchor": "ECE161C",
+  "anchor": "ece241a",
   "description": "Second harmonic generation (color conversion), parametric amplification and oscillation, photorefractive effects and four-wave mixing, optical bistability; applications. Recommended preparation: ECE 240A, C. Prerequisites: graduate standing."
 }

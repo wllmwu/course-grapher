@@ -1,0 +1,71 @@
+.graphBox {
+  width: 100%;
+  min-width: 32rem;
+  height: 32rem;
+  border: 1px solid var(--cool-gray);
+  border-radius: 0.5rem;
+  cursor: move;
+  user-select: none;
+}
+
+.courseNodeVertex {
+  fill: var(--accent-blue);
+  stroke: var(--accent-blue);
+  stroke-width: 3px;
+  cursor: pointer;
+}
+
+.courseNodeVertex:hover {
+  fill: var(--background);
+}
+
+.courseNodeVertex.courseOpen {
+  fill: var(--background);
+}
+
+.courseNodeVertex.courseOpen:hover {
+  fill: var(--accent-blue);
+}
+
+.courseNodeVertex.courseNoPrereqs {
+  fill: var(--light-gray);
+  stroke: var(--light-gray);
+  cursor: unset;
+}
+
+.courseNodeVertex.courseUnknown {
+  fill: var(--light-red);
+  stroke: var(--light-red);
+  cursor: unset;
+}
+
+.courseNodeLabel {
+  font-size: 16px;
+  font-weight: bold;
+  background-color: var(--accent-blue);
+  border-radius: 4px;
+  padding: 2px 4px;
+  cursor: pointer;
+}
+
+.courseNodeLabel.courseUnknown {
+  background-color: var(--light-red);
+}
+
+.edge {
+  stroke: var(--cool-gray);
+  stroke-width: 2;
+}
+
+.edgeArrowhead {
+  fill: var(--cool-gray);
+}
+
+.setNodeBox {
+  fill: var(--accent-blue-translucent);
+}
+
+.setNodeLabel {
+  font-size: 10px;
+  fill: var(--cool-gray);
+}

@@ -3,6 +3,6 @@
   "title": "Biophysics of Neurons and Networks",
   "units": "4",
   "dept": "PHYS",
-  "anchor": "phys130C",
+  "anchor": "phys178",
   "description": "Information processing by nervous system through physical reasoning and mathematical analysis. A review of the biophysics of neurons and synapses and fundamental limits to signaling by nervous systems is followed by essential aspects of the dynamics of phase coupled neuronal oscillators, the dynamics and computational capabilities of recurrent neuronal networks, and the computational capability of layered networks. Prerequisites: upper-division standing. Recommended preparation: a working knowledge of calculus and linear algebra."
 }

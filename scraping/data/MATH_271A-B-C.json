@@ -3,6 +3,6 @@
   "title": ". Numerical Optimization",
   "units": "4-4-4",
   "dept": "MATH",
-  "anchor": "math245c",
+  "anchor": "math271c",
   "description": "Formulation and analysis of algorithms for constrained optimization. Optimality conditions; linear and quadratic programming; interior methods; penalty and barrier function methods; sequential quadratic programming methods. Prerequisites: consent of instructor."
 }

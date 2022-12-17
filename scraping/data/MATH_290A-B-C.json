@@ -3,7 +3,7 @@
   "title": ". Topology",
   "units": "4-4-4",
   "dept": "MATH",
-  "anchor": "math287d",
+  "anchor": "math290c",
   "description": "Point set topology, including separation axioms, compactness, connectedness. Algebraic topology, including the fundamental group, covering spaces, homology and cohomology. Homotopy or applications to manifolds as time permits. Prerequisites: MATH 100A-B-C and MATH 140A-B-C.",
   "prereqs": {
     "type": "all",

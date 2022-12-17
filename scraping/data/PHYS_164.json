@@ -3,7 +3,7 @@
   "title": "Observational Astrophysics Research Lab",
   "units": "4",
   "dept": "PHYS",
-  "anchor": "phys130C",
+  "anchor": "phys164",
   "description": "Project-based course developing tools and techniques of observational astrophysical research: photon counting, imaging, spectroscopy, astrometry; collecting data at the telescope; data reduction and analysis; probability functions; error analysis techniques; and scientific writing. Prerequisites: PHYS 2A-B-C-D or 4A-B-C-D-E. Recommended preparation: concurrent enrollment or completion of one course from PHYS 160, 161, 162, or 163 is recommended.",
   "prereqs": {
     "type": "one",

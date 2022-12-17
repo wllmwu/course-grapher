@@ -74,6 +74,8 @@ jobs:
         env:
           HUSKY: 0
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
+      - name: Copy data files
+        run: cp -R scraping/data public
       - name: Build with Next.js
         run: ${{ steps.detect-package-manager.outputs.runner }} next build
       - name: Static HTML export with Next.js

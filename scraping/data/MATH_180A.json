@@ -3,7 +3,7 @@
   "title": "Introduction to Probability",
   "units": "4",
   "dept": "MATH",
-  "anchor": "math111a",
+  "anchor": "math180a",
   "description": "Probability spaces, random variables, independence, conditional probability, distribution, expectation, variance, joint distributions, central limit theorem. (Two units of credit offered for MATH 180A if ECON 120A previously, no credit offered if ECON 120A concurrently. Two units of credit offered for MATH 180A if MATH 183 or 186 taken previously or concurrently.) Prior or concurrent enrollment in MATH 109 is highly recommended.  Prerequisites: Math 20C or MATH 31BH, or consent of instructor.",
   "prereqs": "MATH 31BH"
 }
