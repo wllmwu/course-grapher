@@ -1,6 +1,10 @@
 .graphBox {
+  width: 100%;
+  min-width: 32rem;
+  height: 32rem;
   border: 1px solid var(--cool-gray);
   border-radius: 0.5rem;
+  cursor: move;
 }
 
 .courseNodeVertex {
@@ -35,6 +39,7 @@
 }
 
 .courseNodeLabel {
+  font-size: 16px;
   font-weight: bold;
   background-color: var(--accent-blue);
   border-radius: 4px;

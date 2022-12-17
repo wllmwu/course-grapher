@@ -45,12 +45,12 @@ function CourseNode({ node, dispatch }: CourseNodeProps) {
         cy={node.y}
         r={6}
         className={vertexClassName}
-        onClick={() => {
-          console.log(`click ${node.code}`);
+        onClick={(event) => {
           dispatch({
             type: node.state === "closed" ? "open" : "close",
             payload: node,
           });
+          event.preventDefault();
         }}
       />
       <TextWithBackground x={node.x + 10} y={node.y} className={labelClassName}>

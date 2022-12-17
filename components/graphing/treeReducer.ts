@@ -31,9 +31,6 @@ export function treeReducer(
   action: TreeReducerAction
 ) {
   let newState: TreeReducerState;
-  console.log(
-    `reducer called on ${action.payload.code} with action ${action.type}`
-  );
   switch (action.type) {
     case "initialize":
       const newTree = action.payload;
