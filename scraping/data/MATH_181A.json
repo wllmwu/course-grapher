@@ -3,7 +3,7 @@
   "title": "Introduction to Mathematical Statistics I",
   "units": "4",
   "dept": "MATH",
-  "anchor": "math111a",
+  "anchor": "math181a",
   "description": "Multivariate distribution, functions of random variables, distributions related to normal. Parameter estimation, method of moments, maximum likelihood. Estimator accuracy and confidence intervals. Hypothesis testing, type I and type II errors, power, one-sample t-test. Prior or concurrent enrollment in MATH 109 is highly recommended.  Prerequisites: MATH 180A, and MATH 18 or MATH 20F or MATH 31AH, and MATH 20C. Students who have not completed listed prerequisites may enroll with consent of instructor.",
   "prereqs": {
     "type": "all",

@@ -3,6 +3,6 @@
   "title": "Astrophysical Kinetics",
   "units": "4",
   "dept": "PHYS",
-  "anchor": "phys130C",
+  "anchor": "phya231",
   "description": "This course presents a self-contained treatment of kinetics and non-equilibrium statistical mechanics, with an emphasis on astrophysical applications. Topics include the Boltzmann and Vlasov equations, transport, hydrodynamic equations, radiation transport, stochastic dynamics, Fokker-Planck theory, and phase transition dynamics. Emphasis throughout is on physical motivation and relevant applications."
 }

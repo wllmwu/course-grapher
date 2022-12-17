@@ -3,7 +3,7 @@
   "title": "Physics Special Topics",
   "units": "4",
   "dept": "PHYS",
-  "anchor": "phys130C",
+  "anchor": "phys139",
   "description": "From time to time a member of the regular faculty or a resident visitor will give a self-contained short course on a topic in his or her special area of research. This course is not offered on a regular basis, but it is estimated that it will be given once each academic year. Course may be taken for credit up to two times as topics vary (the course subtitle will be different for each distinct topic). Students who repeat the same topic in PHYS 139 will have the duplicate credit removed from their academic record. Prerequisites: PHYS 2A-B-C-D or 4A-B-C-D-E, MATH 20A-B-C or 31BH, and 18 or 20F or 31AH.",
   "prereqs": {
     "type": "all",

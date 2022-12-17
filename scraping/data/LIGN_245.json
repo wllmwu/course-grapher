@@ -3,6 +3,6 @@
   "title": "Computational Corpus Linguistics",
   "units": "4",
   "dept": "LING",
-  "anchor": "lign155",
+  "anchor": "lign245",
   "description": "Introduction to computational corpus tools for performing empirically grounded linguistic investigations. Annotated and unannotated corpora; annotation schemes. Searching using regular expressions. UNIX tools. The PERL programming language. Publically available language processing systems."
 }

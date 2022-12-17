@@ -3,7 +3,7 @@
   "title": "Signals and Systems",
   "units": "4",
   "dept": "MAE",
-  "anchor": "mae108",
+  "anchor": "mae143a",
   "description": "Dynamic modeling and vector differential equations. Concepts of state, input, output. Linearization around equilibria. Laplace transform, solutions to ODEs. Transfer functions and convolution representation of dynamic systems. Discrete signals, difference equations, z-transform. Continuous and discrete Fourier transform. Prerequisites: MATH 20D or 21D, MATH 20E, MATH 18 or 20F or 31AH, or consent of instructor.",
   "prereqs": {
     "type": "all",

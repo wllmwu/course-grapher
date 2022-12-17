@@ -3,7 +3,7 @@
   "title": "Usability and Information Architecture",
   "units": "4",
   "dept": "COGS",
-  "anchor": "cogs171",
+  "anchor": "cogs187a",
   "description": "Examines the cognitive basis of successful web and multimedia design. Topics: information architecture, navigation, usability, graphic layout, transaction design, and how to understand user interaction. Prerequisites: COGS 18 or CSE 11 or CSE 8A and COGS 10 or DSGN 1.",
   "prereqs": {
     "type": "all",

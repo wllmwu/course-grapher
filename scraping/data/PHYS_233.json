@@ -3,7 +3,7 @@
   "title": "Collider Physics",
   "units": "4",
   "dept": "PHYS",
-  "anchor": "phys232",
+  "anchor": "phys233",
   "description": "Software, simulation, computing techniques for particle physics; collider physics. Prerequisites: PHYS 214 and PHYS 215A.",
   "prereqs": {
     "type": "all",

@@ -3,7 +3,7 @@
   "title": "Fluid Mechanics III",
   "units": "4",
   "dept": "MAE",
-  "anchor": "mae108",
+  "anchor": "mae210c",
   "description": "Flow instabilities, linear stability theory; introduction to turbulent flows. Prerequisites: MAE 210A\u2013B or consent of instructor.",
   "prereqs": {
     "type": "all",

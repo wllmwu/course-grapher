@@ -3,7 +3,7 @@
   "title": "Introduction to Biomedical Imaging and Sensing",
   "units": "4",
   "dept": "ECE",
-  "anchor": "ECE161C",
+  "anchor": "ece187",
   "description": "Image processing fundamentals: imaging theory, image processing, pattern recognition; digital radiography, computerized tomography, nuclear medicine imaging, nuclear magnetic resonance imaging, ultrasound imaging, microscopy imaging. Prerequisites: MATH 20A-B-F, 20C or 21C, 20D or 21D, PHYS 2A\u2013D, ECE 101 (may be taken concurrently) with grades of C\u2013 or better.",
   "prereqs": {
     "type": "all",

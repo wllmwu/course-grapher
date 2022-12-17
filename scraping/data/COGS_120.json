@@ -3,7 +3,7 @@
   "title": "Interaction Design",
   "units": "5",
   "dept": "COGS",
-  "anchor": "cogs92",
+  "anchor": "cogs120",
   "description": "(Cross-listed with CSE 170.) Introduces fundamental methods and principles for designing, implementing, and evaluating user interfaces. Topics: user-centered design, rapid prototyping, experimentation, direct manipulation, cognitive principles, visual design, social software, software tools. Learn by doing: work with a team on a quarter-long design project. Recommended preparation: basic familiarity with HTML. Students may not receive credit for both COGS 120 and CSE 170. Prerequisites: CSE 11 or CSE 8B or DSC 30 and COGS 1 or COGS 187A or DSGN 1.",
   "prereqs": {
     "type": "all",

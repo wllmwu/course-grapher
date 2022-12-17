@@ -3,7 +3,7 @@
   "title": "Survey of Electronic Music Techniques II",
   "units": "4",
   "dept": "MUS",
-  "anchor": "mus200",
+  "anchor": "mus271b",
   "description": "A continuation of 271A, with emphasis on live interactive techniques (e.g., audio processing; analysis/resynthesis; score following). Prerequisites: MUS 271A and graduate standing in music.",
   "prereqs": "MUS 271A"
 }

@@ -3,7 +3,7 @@
   "title": "Linear Control",
   "units": "4",
   "dept": "MAE",
-  "anchor": "mae108",
+  "anchor": "mae143b",
   "description": "Analysis and design of feedback systems in the frequency domain. Transfer functions. Time response specifications. PID controllers and Ziegler-Nichols tuning. Stability via Routh-Hurwitz test. Root locus method. Frequence response: Bode and Nyquist diagrams. Dynamic compensators, phase-lead and phase-lag. Actuator saturation and integrator wind-up. Prerequisites: MAE 143A or consent of instructor.",
   "prereqs": "MAE 143A"
 }

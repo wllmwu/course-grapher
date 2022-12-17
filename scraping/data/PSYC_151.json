@@ -3,7 +3,7 @@
   "title": "Tests and Measurement",
   "units": "4",
   "dept": "PSYC",
-  "anchor": "psyc147",
+  "anchor": "psyc151",
   "description": "This course provides an introduction to psychology testing. Topics include psychometrics and statistical methods of test construction; application of psychological tests in industry, clinical practice, and applied settings; and controversies in the application of psychological tests. Prerequisites: upper-division standing; COGS 14B or MATH 11 or PSYC 60.",
   "prereqs": {
     "type": "one",

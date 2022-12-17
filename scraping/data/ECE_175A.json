@@ -3,7 +3,7 @@
   "title": "Elements of Machine Intelligence: Pattern Recognition and Machine Learning",
   "units": "4",
   "dept": "ECE",
-  "anchor": "ECE161C",
+  "anchor": "ece175a",
   "description": "Introduction to pattern recognition and machine learning. Decision functions. Statistical pattern classifiers. Generative vs. discriminant methods for pattern classification. Feature selection. Regression. Unsupervised learning. Clustering. Applications of machine learning. Prerequisites: ECE 109 and ECE 174.",
   "prereqs": {
     "type": "all",

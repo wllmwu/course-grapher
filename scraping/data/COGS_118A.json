@@ -3,7 +3,7 @@
   "title": "Supervised Machine Learning Algorithms",
   "units": "4",
   "dept": "COGS",
-  "anchor": "cogs92",
+  "anchor": "cogs118a",
   "description": "This course introduces the mathematical formulations and algorithmic implementations of the core supervised machine learning methods. Topics in 118A include regression, nearest neighborhood, decision tree, support vector machine, and ensemble classifiers. COGS 118A-B may be taken in either order. Prerequisites: COGS 18 or CSE 8B or CSE 11 and MATH 18 or MATH 31AH and MATH 20E and MATH 180A and COGS 108 or COGS 109 or COGS 118B or CSE 150 or CSE 151 or CSE 158 or ECE 174 or ECE 175A.",
   "prereqs": {
     "type": "all",

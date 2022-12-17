@@ -3,6 +3,6 @@
   "title": "Deep Learning for Natural Language Understanding",
   "units": "4",
   "dept": "LING",
-  "anchor": "lign155",
+  "anchor": "lign167",
   "description": "An introduction to neural network methods for analyzing linguistic data. Basic neural network architectures and optimization through backpropagation and stochastic gradient descent. Word vectors and recurrent neural networks, and their uses and limitations in modeling the structure of natural language. Prerequisites: Math 10C or Math 20C or Math 31BH; ability to program."
 }

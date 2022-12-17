@@ -3,6 +3,6 @@
   "title": "Spacecraft Guidance I",
   "units": "4",
   "dept": "MAE",
-  "anchor": "mae108",
+  "anchor": "mae180a",
   "description": "Astrodynamics, orbital motion, perturbations, coordinate systems and frames of reference. Geosynchronous orbits, station keeping. Orbital maneuvers, fuel consumption, guidance systems. Observation instrument point, tracking, control. Basic rocket dynamics. Navigation, telemetry, re-entry, and aero-assisted maneuvers. Mission design. Students perform analyses based on mission requirements. Prerequisites: upper-division standing in physics, mathematics, or engineering department."
 }

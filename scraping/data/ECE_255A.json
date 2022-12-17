@@ -3,6 +3,6 @@
   "title": "Information Theory",
   "units": "4",
   "dept": "ECE",
-  "anchor": "ECE161C",
+  "anchor": "ece255an",
   "description": "Introduction to basic concepts, source coding theorems, capacity, noisy-channel coding theorem. Recommended preparation: ECE 154A-B-C. Prerequisites: graduate standing."
 }

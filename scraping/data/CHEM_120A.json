@@ -3,7 +3,7 @@
   "title": "Inorganic Chemistry I",
   "units": "4",
   "dept": "CHEM",
-  "anchor": "chem7l",
+  "anchor": "chem120a",
   "description": "The chemistry of the main group elements in terms of atomic structure, ionic and covalent bonding. Structural theory involving s, p, and unfilled d orbitals. Thermodynamic and spectroscopic criteria for structure and stability of compounds and chemical reactions of main group elements in terms of molecular structure and reactivity. Prerequisites: CHEM 6C or 6CH and CHEM 40A, 41A, or 140A.",
   "prereqs": {
     "type": "all",

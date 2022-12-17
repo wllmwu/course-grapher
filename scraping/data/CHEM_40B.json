@@ -3,7 +3,7 @@
   "title": "Organic Chemistry II",
   "units": "4",
   "dept": "CHEM",
-  "anchor": "chem7l",
+  "anchor": "chem40b",
   "description": "Renumbered from CHEM 140B. Continuation of CHEM 40A, Organic Chemistry I. Methods of analysis, chemistry of hydrocarbons, chemistry of the carbonyl group. Introduction to the reactions of biologically important molecules. Students may only receive credit for one of the following: CHEM 40B, 40BH, 140B, or 140BH. Prerequisites: CHEM 40A or 140A (a grade of C or higher in CHEM 140A or 40A is strongly recommended).",
   "prereqs": {
     "type": "one",

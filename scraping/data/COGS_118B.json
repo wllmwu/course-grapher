@@ -3,7 +3,7 @@
   "title": "Introduction to Machine Learning II",
   "units": "4",
   "dept": "COGS",
-  "anchor": "cogs92",
+  "anchor": "cogs118b",
   "description": "This course, with COGS 118A, forms a rigorous introduction to machine learning. Topics in 118B include maximum likelihood estimation, Bayesian parameter estimation, clustering, principal component analysis, and some application areas. COGS 118A-B may be taken in either order. Prerequisites: CSE 8B or CSE 11 and MATH 18 or MATH 31AH and MATH 20E and MATH 180A or consent of instructor.",
   "prereqs": {
     "type": "all",

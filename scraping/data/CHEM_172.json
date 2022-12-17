@@ -3,7 +3,7 @@
   "title": "Environmental Chemistry II",
   "units": "4",
   "dept": "CHEM",
-  "anchor": "chem164",
+  "anchor": "chem172",
   "description": "An introduction to chemical concerns in nature with emphasis on soil and water issues like agricultural productivity, biological impacts in the environment, deforestation, ocean desserts, natural and manmade disasters (fires, nuclear winter, volcanoes), and waste handling. Recommended preparation: CHEM 171 (formerly 149A). Students may only receive credit for one of the following: CHEM 172 or 149B. Prerequisites: CHEM 6C or 6CH.",
   "prereqs": {
     "type": "one",

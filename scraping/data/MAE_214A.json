@@ -3,6 +3,6 @@
   "title": "Introduction to Turbulence and Turbulent Mixing",
   "units": "4",
   "dept": "MAE",
-  "anchor": "mae108",
+  "anchor": "mae214a",
   "description": "Basic features of turbulent flows. Analytical description of turbulence: random variables, correlations, spectra, Reynolds-averaging, coherent structures. Length and time scales. Kolomogorov similarity theory. Turbulence transport equations. Free shear flows. Homogeneous turbulence. Wall-bounded flows. Mixing of velocity and scalar fields. Prerequisites: graduate standing."
 }

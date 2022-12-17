@@ -3,7 +3,7 @@
   "title": "Condensed Matter Physics",
   "units": "4",
   "dept": "PHYS",
-  "anchor": "phys130C",
+  "anchor": "phys152a",
   "description": "Physics of the solid-state. Binding mechanisms, crystal structures and symmetries, diffraction, reciprocal space, phonons, free and nearly free electron models, energy bands, solid-state thermodynamics, kinetic theory and transport, semiconductors. Prerequisites: PHYS 130A or CHEM 130. Corequisites: PHYS 140A.",
   "prereqs": {
     "type": "one",

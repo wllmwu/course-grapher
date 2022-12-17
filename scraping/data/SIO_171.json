@@ -3,7 +3,7 @@
   "title": "Introduction to Physical Oceanography",
   "units": "4",
   "dept": "SIO",
-  "anchor": "sio35",
+  "anchor": "sio171",
   "description": "A physical description of the sea at the upper-division level, with emphasis on currents, waves, and turbulent motions that are observed in the ocean, and on the physics governing them. Prerequisites: MATH 20C and PHYS 2C or PHYS 4C, or consent of instructor.",
   "prereqs": {
     "type": "all",

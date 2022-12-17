@@ -3,7 +3,7 @@
   "title": "Finite Element Methods in Solid Mechanics III",
   "units": "4",
   "dept": "SE",
-  "anchor": "se168",
+  "anchor": "se276c",
   "description": "Finite element methods for problems with both material and geometrical (large deformations) nonlinearities. The total LaGrangian and the updated LaGrangian formulations are introduced. Basic solution methods for the nonlinear equations are developed and applied to problems in plasticity and hyperelasticity. Prerequisites: graduate standing and SE 276A or MAE 232A and MAE 231A or SE 271.",
   "prereqs": {
     "type": "all",

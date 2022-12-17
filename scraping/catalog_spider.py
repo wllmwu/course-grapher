@@ -74,8 +74,8 @@ class CatalogSpider(scrapy.Spider):
                 'dept': dept
             }
 
-            anchor = selector.xpath(
-                './preceding-sibling::p[1]/a/@id|./preceding-sibling::a[1]/@id').get()
+            anchor_selector = selector.xpath('./preceding-sibling::*[1]')
+            anchor = anchor_selector.xpath('./@id|./a/@id').get()
             if anchor is None:
                 self.logger.warning('No anchor tag for %s %s', subject, number)
                 self.metrics.inc_missing_anchors()

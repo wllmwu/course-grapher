@@ -3,7 +3,7 @@
   "title": "Mathematical Methods in Physics and Engineering",
   "units": "4",
   "dept": "MATH",
-  "anchor": "math111a",
+  "anchor": "math210a",
   "description": "Complex variables with applications. Analytic functions, Cauchy\u2019s theorem, Taylor and Laurent series, residue theorem and contour integration techniques, analytic continuation, argument principle, conformal mapping, potential theory, asymptotic expansions, method of steepest descent. Prerequisites: MATH 20D-E-F, 140A/142A, or consent of instructor.",
   "prereqs": {
     "type": "all",

@@ -3,7 +3,7 @@
   "title": "Elements of Complex Analysis",
   "units": "4",
   "dept": "MATH",
-  "anchor": "math111a",
+  "anchor": "math120a",
   "description": "Complex numbers and functions. Analytic functions, harmonic functions, elementary conformal mappings. Complex integration. Power series. Cauchy\u2019s theorem. Cauchy\u2019s formula. Residue theorem. Prerequisites: MATH 20E or MATH 31CH, or consent of instructor.",
   "prereqs": {
     "type": "one",

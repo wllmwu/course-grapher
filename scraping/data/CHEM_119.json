@@ -3,7 +3,7 @@
   "title": "RNA Biochemistry",
   "units": "4",
   "dept": "CHEM",
-  "anchor": "chem7l",
+  "anchor": "chem119",
   "description": "This course discusses RNA structure and function, as well as biological pathways involving RNA-centered complexes.\u00a0Emphasis will be placed on catalytic RNA mechanisms, pre-mRNA splicing, noncoding RNA biology, building blocks of RNA structure, and genome editing using RNA-protein complexes. Prerequisites: BIMM 100 or CHEM 114C and CHEM 40C, 40CH, or 41C.",
   "prereqs": {
     "type": "all",

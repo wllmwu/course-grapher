@@ -3,7 +3,7 @@
   "title": "Stellar Astrophysics",
   "units": "4",
   "dept": "PHYS",
-  "anchor": "phys130C",
+  "anchor": "phys160",
   "description": "Introduction to stellar astrophysics: observational properties of stars, solar physics, radiation and energy transport in stars, stellar spectroscopy, nuclear processes in stars, stellar structure and evolution, degenerate matter and compact stellar objects, supernovae and nucleosynthesis. PHYS 160, 161, 162, and 163 may be taken as a four-quarter sequence for students interested in pursuing graduate study in astrophysics or individually as topics of interest. Prerequisites: PHYS 2A-B-C-D or 4A-B-C-D-E.",
   "prereqs": {
     "type": "one",
