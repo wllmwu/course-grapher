@@ -4,6 +4,7 @@ import type {
   CourseSetGraphNode,
 } from "../../utils/graph-schema";
 import Edges from "./Edges";
+import styles from "../../styles/GraphViewer.module.css";
 
 interface CourseSetNodeProps {
   node: CourseSetGraphNode;
@@ -49,15 +50,14 @@ function renderIncomingEdges(node: CourseSetGraphNode) {
           y={node.bounds.yMin}
           width={node.bounds.xMax - node.bounds.xMin}
           height={node.bounds.yMax - node.bounds.yMin}
-          fill="var(--accent-blue-darken)"
           rx={4}
           ry={4}
+          className={styles.setNodeBox}
         />
         <text
           x={node.bounds.xMin + 5}
           y={node.bounds.yMin + 12}
-          fill="var(--cool-gray)"
-          fontSize={10}
+          className={styles.setNodeLabel}
         >
           {label}
         </text>

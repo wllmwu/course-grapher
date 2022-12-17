@@ -20,6 +20,10 @@ const VERTICAL_OFFSET_FACTOR = 0.3;
  * - `border-radius`
  * - `padding-top` (used as vertical padding)
  * - `padding-left` (used as horizontal padding)
+ *
+ * It is recommended to set the `font-size` property to a constant (e.g. `16px`)
+ * instead of something in terms of `em` or `rem`, so that the SVG appears
+ * consistent at different browser zoom levels.
  */
 function TextWithBackground({
   x = 0,

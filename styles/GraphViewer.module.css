@@ -28,15 +28,15 @@
 }
 
 .courseNodeVertex.courseNoPrereqs {
-  fill: var(--cool-gray);
-  stroke: var(--cool-gray);
-  cursor: default;
+  fill: var(--light-gray);
+  stroke: var(--light-gray);
+  cursor: unset;
 }
 
 .courseNodeVertex.courseUnknown {
-  fill: red;
-  stroke: red;
-  cursor: default;
+  fill: var(--light-red);
+  stroke: var(--light-red);
+  cursor: unset;
 }
 
 .courseNodeLabel {
@@ -49,7 +49,7 @@
 }
 
 .courseNodeLabel.courseUnknown {
-  background-color: red;
+  background-color: var(--light-red);
 }
 
 .edge {
@@ -58,5 +58,14 @@
 }
 
 .edgeArrowhead {
+  fill: var(--cool-gray);
+}
+
+.setNodeBox {
+  fill: var(--accent-blue-translucent);
+}
+
+.setNodeLabel {
+  font-size: 10px;
   fill: var(--cool-gray);
 }

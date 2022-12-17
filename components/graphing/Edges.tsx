@@ -38,11 +38,7 @@ function ArrowheadDefinition() {
       refY="1.5"
       orient="auto"
     >
-      <polygon
-        className={styles.edgeArrowhead}
-        points="0,0 4,1.5 0,3"
-        fill="var(--cool-gray)"
-      />
+      <polygon className={styles.edgeArrowhead} points="0,0 4,1.5 0,3" />
     </marker>
   );
 }
