@@ -12,12 +12,12 @@ interface GraphViewerProps {
 }
 
 const GRAPH_PADDING = 150;
+const VIEW_SIZE = 600;
 
 function GraphViewer({ root }: GraphViewerProps) {
   const [state, dispatch] = useReducer(treeReducer, null);
   const [viewX, setViewX] = useState(0);
   const [viewY, setViewY] = useState(0);
-  const [viewSize, setViewSize] = useState(600);
   const [isMouseDown, setMouseDown] = useState(false);
 
   useEffect(() => {
@@ -29,12 +29,16 @@ function GraphViewer({ root }: GraphViewerProps) {
   }, [root]);
 
   if (!state) {
-    return <p>Loading...</p>;
+    return (
+      <div className={styles.graphBox}>
+        <p>Loading...</p>
+      </div>
+    );
   }
 
-  const viewBox = `${viewX - viewSize / 2} ${
-    viewY - viewSize / 2
-  } ${viewSize} ${viewSize}`;
+  const viewBox = `${viewX - VIEW_SIZE / 2} ${
+    viewY - VIEW_SIZE / 2
+  } ${VIEW_SIZE} ${VIEW_SIZE}`;
 
   const graphBounds: BoundingBox = {
     xMin: state.bounds.xMin - GRAPH_PADDING,
