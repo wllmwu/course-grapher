@@ -31,8 +31,8 @@ async function convertCourseToGraphNode(
   const course = await cache.getCourse(code);
   if (!course) {
     node.state = "unknown";
-  } else if (course.prereqs && depth < 10) {
-    // TODO: depth limit is to prevent infinite cycles - fix in scraping
+  } else if (course.prereqs && depth < 15) {
+    // depth limit is to stop infinite cycle edge case
     if (typeof course.prereqs === "string") {
       // single course
       node.child = await convertCourseToGraphNode(
@@ -67,11 +67,11 @@ async function convertSetToGraphNode(
         return convertCourseToGraphNode(
           child,
           isNested || set.type !== "all",
-          depth + 1
+          depth
         );
       } else {
         // course set
-        return convertSetToGraphNode(child, true, depth + 1);
+        return convertSetToGraphNode(child, true, depth);
       }
     })
   );
