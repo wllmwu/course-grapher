@@ -1,25 +1,24 @@
-import React, { useCallback, useState } from "react";
-import { useRouter } from "next/router";
+import React, { useState } from "react";
 import styles from "../styles/Search.module.css";
 
-function SearchBar() {
-  const router = useRouter();
+interface SearchBarProps {
+  /**
+   * Callback function to be called when the user enters a search query. The
+   * query string will have no whitespace at the beginning or end when it is
+   * passed to this callback, but no other transformations are performed.
+   * @param query The search query that the user entered
+   */
+  onSubmit: (query: string) => void;
+}
+
+function SearchBar({ onSubmit }: SearchBarProps) {
   const [searchText, setSearchText] = useState("");
-
-  const pushSearchPage = useCallback(
-    (query: string) => {
-      query = encodeURIComponent(query);
-      router.push(`/search?q=${query}`);
-    },
-    [router]
-  );
-
   return (
     <form
       onSubmit={(event) => {
         const query = searchText.trim();
         if (query.length > 0) {
-          pushSearchPage(query);
+          onSubmit(query);
         }
         event.preventDefault();
       }}
