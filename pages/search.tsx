@@ -1,0 +1,134 @@
+import React, { useMemo } from "react";
+import type { GetStaticProps } from "next";
+import { useRouter } from "next/router";
+import Head from "next/head";
+import { readDataDirectory } from "../utils/buildtime";
+import * as cache from "../utils/frontend-cache";
+import { deslugifyCourseCode } from "../utils";
+import Page from "../components/Page";
+import SearchBar from "../components/SearchBar";
+import CourseListing from "../components/CourseListing";
+import styles from "../styles/HomePage.module.css";
+
+export const getStaticProps: GetStaticProps = async () => {
+  const courseCodeSlugs = await readDataDirectory();
+  const index = courseCodeSlugs.indexOf("departments.json");
+  if (index != -1) {
+    courseCodeSlugs.splice(index, 1);
+  }
+  return {
+    props: {
+      courseCodes: courseCodeSlugs
+        .map((slug) => deslugifyCourseCode(slug.slice(0, -5)))
+        .sort(),
+    },
+  };
+};
+
+interface SearchPageProps {
+  courseCodes: string[];
+}
+
+const MIN_QUERY_LENGTH = 2;
+
+function SearchPage({ courseCodes }: SearchPageProps) {
+  const router = useRouter();
+  const searchResults = useMemo<string[] | null>(() => {
+    // extract search query string
+    const query = router.query.q;
+    if (!query) {
+      return null;
+    }
+    let searchText: string;
+    if (typeof query === "string") {
+      searchText = query;
+    } else if (query.length > 0) {
+      searchText = query[0];
+    } else {
+      return null;
+    }
+
+    // validate and clean search query
+    if (searchText.length < MIN_QUERY_LENGTH) {
+      return null;
+    }
+    searchText = searchText.trim();
+    searchText = searchText.replaceAll(/[^A-z0-9\s]/g, "");
+    searchText = searchText.replaceAll(/\s+/g, " ");
+    searchText = searchText.toUpperCase();
+
+    // perform search
+    return searchCourseCodes(searchText, courseCodes);
+  }, [courseCodes, router.query.q]);
+
+  return (
+    <Page>
+      <Head>
+        <title>Search | GAPE</title>
+      </Head>
+      <h1 className={styles.center}>Search Courses</h1>
+      <SearchBar
+        onSubmit={(query: string) => {
+          query = encodeURIComponent(query);
+          router.push(`/search?q=${query}`, undefined, { shallow: true });
+        }}
+      />
+      {searchResults && (
+        <>
+          {searchResults.length === 0 ? (
+            <h2>No results</h2>
+          ) : (
+            <>
+              <h2>Search results</h2>
+              {searchResults.map((course) => (
+                <p key={course}>{course}</p>
+              ))}
+            </>
+          )}
+        </>
+      )}
+    </Page>
+  );
+}
+
+function searchCourseCodes(query: string, courseCodes: string[]) {
+  let low = 0;
+  let high = courseCodes.length;
+  let mid = 0;
+  let found = false;
+  while (low <= high) {
+    mid = Math.floor((low + high) / 2);
+    if (courseCodes[mid].startsWith(query)) {
+      found = true;
+      break;
+    }
+    const comparison = query.localeCompare(courseCodes[mid]);
+    if (comparison < 0) {
+      high = mid;
+    } else {
+      low = mid + 1;
+    }
+  }
+  if (!found) {
+    return [] as string[];
+  }
+  low = mid;
+  while (low > 0) {
+    low--;
+    if (!courseCodes[low].startsWith(query)) {
+      low++;
+      break;
+    }
+  }
+  high = mid + 1;
+  while (high < courseCodes.length) {
+    high++;
+    if (!courseCodes[high - 1].startsWith(query)) {
+      high--;
+      break;
+    }
+  }
+  return courseCodes.slice(low, high);
+}
+
+export default SearchPage;
