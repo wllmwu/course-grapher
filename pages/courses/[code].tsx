@@ -66,7 +66,6 @@ function CoursePage({ course, department }: CoursePageProps) {
       {course ? (
         <>
           <p>
-            {"\u2039 "}
             <Link href={`/departments/${department.code}`}>
               <a>{department.code} department</a>
             </Link>

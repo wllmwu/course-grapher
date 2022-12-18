@@ -96,7 +96,7 @@ function SearchPage({ courseCodes }: SearchPageProps) {
             <h2>No results</h2>
           ) : (
             <>
-              <h2>Search results</h2>
+              <h2>{searchResults.length} results</h2>
               {searchResults.map((course) => (
                 <CourseListing key={course.code} course={course} />
               ))}
