@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useMemo, useState } from "react";
 import type { GetStaticProps } from "next";
 import { useRouter } from "next/router";
 import Head from "next/head";
@@ -35,32 +35,35 @@ const MIN_QUERY_LENGTH = 2;
 function SearchPage({ courseCodes }: SearchPageProps) {
   const router = useRouter();
   const [searchResults, setSearchResults] = useState<Course[] | null>(null);
+  const userSearchText = useMemo<string | null>(() => {
+    const query = router.query.q;
+    if (!query) {
+      return null;
+    }
+    let searchText: string;
+    if (typeof query === "string") {
+      searchText = query;
+    } else if (query.length > 0) {
+      searchText = query[0];
+    } else {
+      return null;
+    }
+    if (searchText.length < MIN_QUERY_LENGTH) {
+      return null;
+    }
+    return searchText;
+  }, [router.query.q]);
+
   useEffect(() => {
     async function loadResults() {
-      // extract search query string
-      const query = router.query.q;
-      if (!query) {
+      if (!userSearchText) {
         return;
       }
-      let searchText: string;
-      if (typeof query === "string") {
-        searchText = query;
-      } else if (query.length > 0) {
-        searchText = query[0];
-      } else {
-        return;
-      }
-
-      // validate and clean search query
-      if (searchText.length < MIN_QUERY_LENGTH) {
-        return;
-      }
-      searchText = searchText.trim();
-      searchText = searchText.replaceAll(/[^A-z0-9\s]/g, "");
-      searchText = searchText.replaceAll(/\s+/g, " ");
-      searchText = searchText.toUpperCase();
-
-      // perform search
+      const searchText = userSearchText
+        .trim()
+        .replaceAll(/[^A-z0-9\s]/g, "")
+        .replaceAll(/\s+/g, " ")
+        .toUpperCase();
       const resultCodes = await searchCourseCodes(searchText, courseCodes);
       const fetchedResults = await Promise.all(
         resultCodes.map((code) => cache.getCourse(code))
@@ -72,7 +75,7 @@ function SearchPage({ courseCodes }: SearchPageProps) {
       setSearchResults(results);
     }
     loadResults();
-  }, [courseCodes, router.query.q]);
+  }, [courseCodes, userSearchText]);
 
   return (
     <Page>
@@ -81,6 +84,7 @@ function SearchPage({ courseCodes }: SearchPageProps) {
       </Head>
       <h1 className={styles.center}>Search Courses</h1>
       <SearchBar
+        initialValue={userSearchText ?? ""}
         onSubmit={(query: string) => {
           query = encodeURIComponent(query);
           router.push(`/search?q=${query}`, undefined, { shallow: true });
