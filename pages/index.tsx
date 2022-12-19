@@ -1,4 +1,5 @@
 import React from "react";
+import { useRouter } from "next/router";
 import Head from "next/head";
 import Link from "next/link";
 import Page from "../components/Page";
@@ -30,6 +31,7 @@ const quickLinks = [
 ];
 
 function HomePage() {
+  const router = useRouter();
   return (
     <Page>
       <Head>
@@ -41,7 +43,12 @@ function HomePage() {
         navigate UC San Diego&apos;s complex course prerequisites. Search for a
         course below or visit the list of departments to get started.
       </p>
-      <SearchBar />
+      <SearchBar
+        onSubmit={(query: string) => {
+          query = encodeURIComponent(query);
+          router.push(`/search?q=${query}`);
+        }}
+      />
       <h2>Quick Links</h2>
       <ul className={styles.quickLinkList}>
         {quickLinks.map(({ title, description, link }) => (

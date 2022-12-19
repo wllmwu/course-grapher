@@ -11,6 +11,7 @@ import {
   slugifyCourseCode,
 } from "../../utils";
 import Page from "../../components/Page";
+import CourseListing from "../../components/CourseListing";
 import styles from "../../styles/DepartmentsPage.module.css";
 
 export const getStaticPaths: GetStaticPaths = async () => {
@@ -115,14 +116,7 @@ function DepartmentPage({ department, courses }: DepartmentPageProps) {
             <React.Fragment key={level}>
               <h2 id={level}>{level}</h2>
               {coursesByLevel[level].map((course) => (
-                <React.Fragment key={course.code}>
-                  <Link href={`/courses/${slugifyCourseCode(course.code)}`}>
-                    <a>
-                      <h3>{`${course.code}. ${course.title} (${course.units} units)`}</h3>
-                    </a>
-                  </Link>
-                  <p>{course.description}</p>
-                </React.Fragment>
+                <CourseListing key={course.code} course={course} />
               ))}
             </React.Fragment>
           ))}
