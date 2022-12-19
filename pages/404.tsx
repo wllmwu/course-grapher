@@ -7,7 +7,7 @@ function Error404Page() {
   return (
     <Page>
       <Head>
-        <title>404 | GAPE</title>
+        <title>404 | GrAPE</title>
       </Head>
       <h1 className={styles.center}>404 {"\u2014"} Not Found</h1>
       <p className={styles.center}>

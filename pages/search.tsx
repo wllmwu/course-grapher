@@ -80,7 +80,7 @@ function SearchPage({ courseCodes }: SearchPageProps) {
   return (
     <Page>
       <Head>
-        <title>Search | GAPE</title>
+        <title>Search | GrAPE</title>
       </Head>
       <h1 className={styles.center}>Search Courses</h1>
       <SearchBar
