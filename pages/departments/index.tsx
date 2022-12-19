@@ -36,7 +36,7 @@ function DepartmentsPage({ departments }: DepartmentsPageProps) {
   return (
     <Page>
       <Head>
-        <title>Departments | GAPE</title>
+        <title>Departments | GrAPE</title>
       </Head>
       <h1>All Departments</h1>
       <p>

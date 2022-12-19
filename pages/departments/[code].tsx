@@ -85,7 +85,7 @@ function DepartmentPage({ department, courses }: DepartmentPageProps) {
   return (
     <Page>
       <Head>
-        <title>{`${department.name} | GAPE`}</title>
+        <title>{`${department.name} | GrAPE`}</title>
       </Head>
       <h1>
         {department.name} ({department.code})

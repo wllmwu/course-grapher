@@ -1,6 +1,7 @@
 import React, { useEffect, useReducer, useState } from "react";
 import type { Course } from "../utils/data-schema";
 import type { BoundingBox } from "../utils/graph-schema";
+import * as cache from "../utils/frontend-cache";
 import { treeReducer } from "./graphing/treeReducer";
 import { makeGraph } from "./graphing/makeGraph";
 import Edges from "./graphing/Edges";
@@ -100,3 +101,28 @@ function GraphViewer({ root }: GraphViewerProps) {
 }
 
 export default GraphViewer;
+
+interface IndependentGraphViewerProps {
+  courseCode: string;
+}
+
+export function IndependentGraphViewer({
+  courseCode,
+}: IndependentGraphViewerProps) {
+  const [course, setCourse] = useState<Course | null>(null);
+  useEffect(() => {
+    async function loadCourse() {
+      setCourse(await cache.getCourse(courseCode));
+    }
+    loadCourse();
+  }, [courseCode]);
+
+  if (!course) {
+    return (
+      <div className={styles.graphBox}>
+        <p>Loading...</p>
+      </div>
+    );
+  }
+  return <GraphViewer root={course} />;
+}

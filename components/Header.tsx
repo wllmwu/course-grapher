@@ -22,7 +22,7 @@ function Header() {
     <header>
       <Link href="/">
         <a className={styles.headerBigLink}>
-          <h1>GAPE</h1>
+          <h1>GrAPE</h1>
           <h2>Graphical Assistant for Prerequisite Enrollment</h2>
         </a>
       </Link>

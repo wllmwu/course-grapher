@@ -35,9 +35,9 @@ function HomePage() {
   return (
     <Page>
       <Head>
-        <title>Home | GAPE</title>
+        <title>Home | GrAPE</title>
       </Head>
-      <h1 className={styles.center}>Welcome to GAPE!</h1>
+      <h1 className={styles.center}>Welcome to GrAPE!</h1>
       <p className={styles.center}>
         The Graphical Assistant for Prerequisite Enrollment can help you
         navigate UC San Diego&apos;s complex course prerequisites. Search for a

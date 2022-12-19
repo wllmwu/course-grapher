@@ -61,7 +61,7 @@ function CoursePage({ course, department }: CoursePageProps) {
   return (
     <Page>
       <Head>
-        <title>{`${course.code} | GAPE`}</title>
+        <title>{`${course.code} | GrAPE`}</title>
       </Head>
       {course ? (
         <>
