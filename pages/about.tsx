@@ -2,6 +2,7 @@ import React from "react";
 import Head from "next/head";
 import Link from "next/link";
 import Page from "../components/Page";
+import { IndependentGraphViewer } from "../components/GraphViewer";
 import styles from "../styles/HomePage.module.css";
 
 function AboutPage() {
@@ -16,8 +17,8 @@ function AboutPage() {
         planning tool for UC San Diego students. The name is inspired by CAPE,
         the Course And Professor Evaluations which students submit at the end of
         each quarter. Just as CAPE can be helpful when choosing courses to
-        enroll in, I hope that GrAPE proves useful to other students in deciding
-        which courses to take and in what order.
+        enroll in, I hope that GrAPE proves useful to other students in figuring
+        out which courses to take and in what order.
       </p>
       <p>
         On this page, I explain my method, means, and motivation for this
@@ -85,7 +86,19 @@ function AboutPage() {
         which fellow computer science students will be familiar with now or
         soon. With that in mind, I set out to create an application that
         displayed course prerequisites as graphs in order to help students like
-        me who might prefer to visualize them in this way.
+        me who might prefer to visualize them in this way. For example,
+        here&apos;s the graph for CSE 100, which you can also view on{" "}
+        <Link href="/courses/CSE_100">
+          <a>its page</a>
+        </Link>
+        .
+      </p>
+      <IndependentGraphViewer courseCode="CSE 100" />
+      <p>
+        Notice that these graphs are interactive, allowing you to show and hide
+        the prerequisites of each course. This feature can save students from
+        having to open multiple tabs or windows just to keep track of one
+        course&apos;s full set of prerequisites.
       </p>
       <h2>Means</h2>
       <p>
