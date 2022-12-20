@@ -5,7 +5,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: "/course-grapher", // TODO: remove when hosting on a separate domain
-}
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;

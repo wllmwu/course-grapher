@@ -184,13 +184,13 @@ function AboutPage() {
         <Link href="https://github.com/wllmwu/course-grapher">
           <a>GitHub repository</a>
         </Link>
-        , but it is currently not licensed and I retain all rights to it. With
+        , but it is currently not licensed so I retain all rights to it. With
         that said, there are more features I hope to add or improve, so if
         you&apos;d like to contribute then please reach out (see below) and I
         may add a license and guidelines.
       </p>
       <p>
-        Similarly, if you&apos;re interested in using my data for research or
+        Similarly, if you&apos;re interested in using these data for research or
         anything of the sort, then feel free to contact me. :)
       </p>
       <h2>About the Author</h2>
@@ -204,6 +204,22 @@ function AboutPage() {
           <a>williamwu.site</a>
         </Link>{" "}
         for more of my work and projects as well as contact information.
+      </p>
+      <h2>Typography and Design</h2>
+      <p>
+        The typeface used for this website is{" "}
+        <Link href="https://fonts.google.com/specimen/Roboto">
+          <a>Roboto</a>
+        </Link>
+        . The color scheme is based on the{" "}
+        <Link href="https://brand.ucsd.edu/logos-and-brand-elements/color-palette/index.html">
+          <a>UCSD color palette</a>
+        </Link>
+        . I created the favicon art, and used{" "}
+        <Link href="https://realfavicongenerator.net">
+          <a>RealFaviconGenerator</a>
+        </Link>{" "}
+        to generate the necessary files.
       </p>
     </Page>
   );

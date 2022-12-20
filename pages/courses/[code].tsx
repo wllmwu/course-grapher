@@ -6,6 +6,7 @@ import type { Course, Department } from "../../utils/data-schema";
 import { readDataDirectory, readDataFile } from "../../utils/buildtime";
 import * as cache from "../../utils/buildtime-cache";
 import Page from "../../components/Page";
+import CourseDescription from "../../components/CourseDescription";
 import GraphViewer from "../../components/GraphViewer";
 
 export const getStaticPaths: GetStaticPaths = async () => {
@@ -80,7 +81,7 @@ function CoursePage({ course, department }: CoursePageProps) {
             </p>
           )}
           <h2>Description</h2>
-          <p>{course.description}</p>
+          <CourseDescription text={course.description} />
           <h2>Prerequisite courses</h2>
           {course.prereqs ? <GraphViewer root={course} /> : <p>None</p>}
         </>
