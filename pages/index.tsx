@@ -4,6 +4,7 @@ import Head from "next/head";
 import Link from "next/link";
 import Page from "../components/Page";
 import SearchBar from "../components/SearchBar";
+import { IndependentGraphViewer } from "../components/GraphViewer";
 import LinkCard from "../components/LinkCard";
 import styles from "../styles/HomePage.module.css";
 
@@ -35,7 +36,7 @@ function HomePage() {
   return (
     <Page>
       <Head>
-        <title>Home | GrAPE</title>
+        <title>Course Grapher for UCSD Students | GrAPE</title>
       </Head>
       <h1 className={styles.center}>Welcome to GrAPE!</h1>
       <p className={styles.center}>
@@ -57,6 +58,18 @@ function HomePage() {
           </li>
         ))}
       </ul>
+      <h2>Example</h2>
+      <p>
+        To illustrate how GrAPE visualizes course prerequisites, here&apos;s the
+        graph for{" "}
+        <Link href="/courses/CSE_100">
+          <a>CSE 100</a>
+        </Link>{" "}
+        (Advanced Data Structures). You can view an interactive graph like this
+        for any course at UCSD that has prerequisites&mdash;just search for it
+        above.
+      </p>
+      <IndependentGraphViewer courseCode="CSE 100" />
       <h2>Note</h2>
       <p>
         All department and course information on this site is generated
