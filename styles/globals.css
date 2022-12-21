@@ -17,6 +17,14 @@
   }
 }
 
+@media (prefers-color-scheme: dark) {
+  :root {
+    --accent-blue-translucent: #00c5d740;
+    --background: #000;
+    --text-primary: #fff;
+  }
+}
+
 html,
 body {
   padding: 0;
