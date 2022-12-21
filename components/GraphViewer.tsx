@@ -167,7 +167,9 @@ function GraphViewer({ root }: GraphViewerProps) {
       <text x={0} y={50} dy={60}>
         {hasPointer ? "Click" : "Tap"} on a course to visit its page.
       </text>
-      <GraphNode node={state.tree} dispatch={dispatch} />
+      <GraphContext.Provider value={{ hasPointer }}>
+        <GraphNode node={state.tree} dispatch={dispatch} />
+      </GraphContext.Provider>
     </svg>
   );
 }

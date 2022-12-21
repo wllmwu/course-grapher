@@ -1,8 +1,9 @@
-import React from "react";
+import React, { useContext } from "react";
 import Link from "next/link";
 import type { CourseGraphNode } from "../../utils/graph-schema";
 import { slugifyCourseCode } from "../../utils";
 import { TreeReducerAction } from "./treeReducer";
+import GraphContext from "./GraphContext";
 import Edges from "./Edges";
 import TextWithBackground from "./TextWithBackground";
 import styles from "../../styles/GraphViewer.module.css";
@@ -13,6 +14,8 @@ interface CourseNodeProps {
 }
 
 function CourseNode({ node, dispatch }: CourseNodeProps) {
+  const { hasPointer } = useContext(GraphContext);
+  const vertexRadius = hasPointer ? 8 : 10;
   let vertexClassName = styles.courseNodeVertex;
   let labelClassName = styles.courseNodeLabel;
   switch (node.state) {
@@ -33,7 +36,7 @@ function CourseNode({ node, dispatch }: CourseNodeProps) {
         <Edges.Arrow
           x1={node.child.xOut}
           y1={node.child.y}
-          x2={node.xIn}
+          x2={node.xIn - vertexRadius / 2}
           y2={node.y}
         />
       )}
@@ -43,7 +46,7 @@ function CourseNode({ node, dispatch }: CourseNodeProps) {
       <circle
         cx={node.x}
         cy={node.y}
-        r={6}
+        r={vertexRadius}
         className={vertexClassName}
         onClick={(event) => {
           dispatch({
@@ -53,7 +56,11 @@ function CourseNode({ node, dispatch }: CourseNodeProps) {
           event.preventDefault();
         }}
       />
-      <TextWithBackground x={node.x + 10} y={node.y} className={labelClassName}>
+      <TextWithBackground
+        x={node.x + vertexRadius + 4}
+        y={node.y}
+        className={labelClassName}
+      >
         <Link href={`/courses/${slugifyCourseCode(node.code)}`}>
           <a>{node.code}</a>
         </Link>

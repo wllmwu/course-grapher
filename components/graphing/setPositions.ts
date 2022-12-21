@@ -103,7 +103,7 @@ function setPositionsHelper(
     node.y = (firstChildY + lastChildY) / 2;
     node.xIn = node.bounds.xMin;
     if (node.amount === "all" && !node.isNested) {
-      node.xOut = node.x - X_INTERVAL - HORIZONTAL_MARGIN;
+      node.xOut = node.x - X_INTERVAL - HORIZONTAL_MARGIN * 2;
     } else {
       node.xOut = node.bounds.xMax;
     }
