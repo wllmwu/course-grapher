@@ -17,11 +17,11 @@
 }
 
 .courseNodeVertex:hover {
-  fill: var(--background);
+  fill: #fff;
 }
 
 .courseNodeVertex.courseOpen {
-  fill: var(--background);
+  fill: #fff;
 }
 
 .courseNodeVertex.courseOpen:hover {
