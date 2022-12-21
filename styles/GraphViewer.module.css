@@ -1,11 +1,12 @@
 .graphBox {
   width: 100%;
-  min-width: 32rem;
+  min-width: 12rem;
   height: 32rem;
   border: 1px solid var(--cool-gray);
   border-radius: 0.5rem;
   cursor: move;
   user-select: none;
+  touch-action: none;
 }
 
 .courseNodeVertex {
