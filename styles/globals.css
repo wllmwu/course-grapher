@@ -11,6 +11,12 @@
   --content-side-margin: 12rem;
 }
 
+@media (max-width: 56rem) {
+  :root {
+    --content-side-margin: 2rem;
+  }
+}
+
 html,
 body {
   padding: 0;
