@@ -6,6 +6,7 @@
 
 .searchBar {
   width: 50%;
+  min-width: 16rem;
   padding: 0.5rem 0.75rem;
   font-size: 1.25rem;
   font-family: Roboto, Helvetica, Arial, sans-serif;
