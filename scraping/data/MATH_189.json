@@ -32,5 +32,11 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "DSC 180A",
+    "MATH 157",
+    "MATH 181D",
+    "MATH 181F"
+  ]
 }

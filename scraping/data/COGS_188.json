@@ -12,5 +12,8 @@
       "COGS 118A",
       "COGS 118B"
     ]
-  }
+  },
+  "successors": [
+    "DSC 180A"
+  ]
 }

@@ -11,5 +11,11 @@
       "MATH 31CH",
       "MATH 109"
     ]
-  }
+  },
+  "successors": [
+    "ECON 113",
+    "MATH 142B",
+    "MATH 190A",
+    "MATH 210A"
+  ]
 }

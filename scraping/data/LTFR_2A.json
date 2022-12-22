@@ -11,5 +11,8 @@
       "LIFR 1C",
       "LIFR 1CX"
     ]
-  }
+  },
+  "successors": [
+    "LTFR 2B"
+  ]
 }

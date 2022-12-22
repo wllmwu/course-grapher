@@ -20,5 +20,9 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "AESE 278C",
+    "AESE 278E"
+  ]
 }

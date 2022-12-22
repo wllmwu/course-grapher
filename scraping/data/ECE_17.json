@@ -12,5 +12,8 @@
       "CSE 11",
       "ECE 15"
     ]
-  }
+  },
+  "successors": [
+    "ECE 141A"
+  ]
 }

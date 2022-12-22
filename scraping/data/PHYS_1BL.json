@@ -30,5 +30,8 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "PHYS 1CL"
+  ]
 }

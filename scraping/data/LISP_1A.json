@@ -4,5 +4,9 @@
   "units": "LISP",
   "dept": "LING",
   "anchor": "lisp1a",
-  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Must be taken in conjunction with LISP 1AX. Prerequisites: no prior study of Spanish."
+  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Must be taken in conjunction with LISP 1AX. Prerequisites: no prior study of Spanish.",
+  "successors": [
+    "LISP 1B",
+    "LISP 1BX"
+  ]
 }

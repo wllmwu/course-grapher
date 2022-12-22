@@ -11,5 +11,8 @@
       "MUS 170",
       "MUS 174A"
     ]
-  }
+  },
+  "successors": [
+    "MUS 174C"
+  ]
 }

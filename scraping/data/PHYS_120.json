@@ -13,5 +13,10 @@
       "PHYS 4C",
       "PHYS 2CL"
     ]
-  }
+  },
+  "successors": [
+    "PHYS 122",
+    "PHYS 124",
+    "PHYS 173"
+  ]
 }

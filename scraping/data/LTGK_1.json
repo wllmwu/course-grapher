@@ -4,5 +4,14 @@
   "units": "4",
   "dept": "LIT",
   "anchor": "ltgk1",
-  "description": "Study of ancient Greek, including grammar and reading."
+  "description": "Study of ancient Greek, including grammar and reading.",
+  "successors": [
+    "CLAS 109",
+    "LTGK 102",
+    "LTGK 103",
+    "LTGK 104",
+    "LTGK 105",
+    "LTGK 2",
+    "LTGK 3"
+  ]
 }

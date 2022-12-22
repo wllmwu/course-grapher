@@ -5,5 +5,8 @@
   "dept": "SE",
   "anchor": "se104l",
   "description": "Materials testing for cement and concrete, metals and alloys, polymers and composites, and wood. Materials selection and structural design to meet functional and cost requirements. Structural construction and testing. Materials measurement techniques. Use of computer resources. Prerequisites: SE 104.",
-  "prereqs": "SE 104"
+  "prereqs": "SE 104",
+  "successors": [
+    "SE 160A"
+  ]
 }

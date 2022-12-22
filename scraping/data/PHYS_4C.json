@@ -33,5 +33,28 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "ECE 107",
+    "ECE 120",
+    "EDS 105",
+    "PHYS 100A",
+    "PHYS 105A",
+    "PHYS 110A",
+    "PHYS 111",
+    "PHYS 120",
+    "PHYS 130A",
+    "PHYS 139",
+    "PHYS 160",
+    "PHYS 161",
+    "PHYS 163",
+    "PHYS 164",
+    "PHYS 170",
+    "PHYS 2CL",
+    "PHYS 4D",
+    "PHYS 4E",
+    "SIO 111",
+    "SIO 135",
+    "SIO 171"
+  ]
 }

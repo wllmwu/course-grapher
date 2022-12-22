@@ -4,5 +4,8 @@
   "units": "1",
   "dept": "CHEM",
   "anchor": "chem87",
-  "description": "This seminar will present topics in chemistry at a level appropriate for first-year students."
+  "description": "This seminar will present topics in chemistry at a level appropriate for first-year students.",
+  "successors": [
+    "EDS 122"
+  ]
 }

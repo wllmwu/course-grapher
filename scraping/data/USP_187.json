@@ -5,5 +5,8 @@
   "dept": "USP",
   "anchor": "usp187",
   "description": "An intensive research, internship, and writing experience that culminates in an original senior research project. Students learn about the theoretical, ethical, and technical challenges of scholarly research and publication. Prerequisites: USP 186.",
-  "prereqs": "USP 186"
+  "prereqs": "USP 186",
+  "successors": [
+    "USP 190"
+  ]
 }

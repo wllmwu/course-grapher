@@ -4,5 +4,9 @@
   "units": "LIAB",
   "dept": "LING",
   "anchor": "liab1a",
-  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Must be taken in conjunction with LIAB 1AX. Prerequisites: no prior study of Arabic."
+  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Must be taken in conjunction with LIAB 1AX. Prerequisites: no prior study of Arabic.",
+  "successors": [
+    "LIAB 1B",
+    "LIAB 1BX"
+  ]
 }

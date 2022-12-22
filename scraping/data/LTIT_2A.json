@@ -12,5 +12,9 @@
       "LIIT 1C",
       "LIIT 1CX"
     ]
-  }
+  },
+  "successors": [
+    "LTIT 2B",
+    "LTIT 50"
+  ]
 }

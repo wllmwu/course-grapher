@@ -5,5 +5,8 @@
   "dept": "MATH",
   "anchor": "math204a",
   "description": "First course in graduate-level number theory. Local fields: valuations and metrics on fields; discrete valuation rings and Dedekind domains; completions; ramification theory; main statements of local class field theory. Prerequisites: MATH 200C. Students who have not taken MATH 200C may enroll with consent of instructor.",
-  "prereqs": "MATH 200C"
+  "prereqs": "MATH 200C",
+  "successors": [
+    "MATH 204B"
+  ]
 }

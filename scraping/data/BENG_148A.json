@@ -5,5 +5,8 @@
   "dept": "BENG",
   "anchor": "beng148a",
   "description": "Development of design project in cardiac bioengineering. Prerequisites: concurrent enrollment in BENG 187B; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (F)",
-  "prereqs": "BENG 187B"
+  "prereqs": "BENG 187B",
+  "successors": [
+    "BENG 148B"
+  ]
 }

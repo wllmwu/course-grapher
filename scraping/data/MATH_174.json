@@ -17,5 +17,11 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "MATH 175",
+    "MATH 179",
+    "MATH 275",
+    "MATH 279"
+  ]
 }

@@ -5,5 +5,8 @@
   "dept": "DSGN",
   "anchor": "dsgn100",
   "description": "Explores cognitive principles of thinking through making. Introduces methods and tools for prototyping user experiences. Students make various prototypes and participate in weekly critique sessions. Topics: experience design, rapid prototyping, sketching, bodystorming, cardboard modeling, UI hacking, and design theory. Prerequisites: DSGN 1.",
-  "prereqs": "DSGN 1"
+  "prereqs": "DSGN 1",
+  "successors": [
+    "COGS 122"
+  ]
 }

@@ -11,5 +11,32 @@
       "MATH 3C",
       "MATH 4C"
     ]
-  }
+  },
+  "successors": [
+    "BICD 156",
+    "BIEB 100",
+    "BIPN 146",
+    "BIPN 147",
+    "BIPN 164",
+    "CHEM 6B",
+    "CSE 4GS",
+    "CSE 6GS",
+    "ECON 118",
+    "ECON 119",
+    "ECON 135",
+    "ESYS 102",
+    "MATH 10B",
+    "MATH 18",
+    "MATH 187A",
+    "MATH 20A",
+    "MGT 153",
+    "MGT 181",
+    "PHYS 11",
+    "PHYS 1A",
+    "PHYS 1AL",
+    "PHYS 2A",
+    "PHYS 2AR",
+    "SIO 138",
+    "USP 102"
+  ]
 }

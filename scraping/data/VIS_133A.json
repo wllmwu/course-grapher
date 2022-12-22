@@ -11,5 +11,8 @@
       "VIS 30",
       "VIS 41"
     ]
-  }
+  },
+  "successors": [
+    "VIS 190"
+  ]
 }

@@ -24,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "CHEM 105A",
+    "CHEM 132",
+    "PHYS 175"
+  ]
 }

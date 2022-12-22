@@ -12,5 +12,11 @@
       "MUS 2A",
       "MUS 4"
     ]
-  }
+  },
+  "successors": [
+    "MUS 174A",
+    "MUS 174B",
+    "MUS 174C",
+    "MUS 175"
+  ]
 }

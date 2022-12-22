@@ -12,5 +12,8 @@
       "CHEM 130"
     ]
   },
-  "coreqs": "PHYS 140A"
+  "coreqs": "PHYS 140A",
+  "successors": [
+    "PHYS 152B"
+  ]
 }

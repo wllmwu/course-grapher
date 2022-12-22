@@ -11,5 +11,10 @@
       "LISP 1C",
       "LISP 1CX"
     ]
-  }
+  },
+  "successors": [
+    "LISP 15",
+    "LISP 18",
+    "LTSP 2A"
+  ]
 }

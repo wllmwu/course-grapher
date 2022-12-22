@@ -4,5 +4,8 @@
   "units": "4",
   "dept": "POLI",
   "anchor": "poli112a",
-  "description": "An introduction to theories of political behavior developed with the assumptions and methods of economics. General emphasis will be upon theories linking individual behavior to institutional patterns. Specific topics to be covered will include collective action, leadership, voting, and bargaining."
+  "description": "An introduction to theories of political behavior developed with the assumptions and methods of economics. General emphasis will be upon theories linking individual behavior to institutional patterns. Specific topics to be covered will include collective action, leadership, voting, and bargaining.",
+  "successors": [
+    "POLI 174"
+  ]
 }

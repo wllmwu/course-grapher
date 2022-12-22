@@ -19,5 +19,8 @@
       },
       "PHYS 2B"
     ]
-  }
+  },
+  "successors": [
+    "MAE 170"
+  ]
 }

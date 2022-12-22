@@ -4,5 +4,11 @@
   "units": "4",
   "dept": "MAE",
   "anchor": "mae290a",
-  "description": "Fundamental matrix decompositions: LU, QR, Eigen, Schur, Jordan, SVD. Exploiting sparsity, finding parallelism, minimizing storage. Pseudoinverses. Finite differences, adaptive integration. Stability and accuracy of Runge-Kutta and linear multistep methods for marching ODEs. Low-storage IMEXRK methods. Prerequisites: graduate standing or consent of instructor."
+  "description": "Fundamental matrix decompositions: LU, QR, Eigen, Schur, Jordan, SVD. Exploiting sparsity, finding parallelism, minimizing storage. Pseudoinverses. Finite differences, adaptive integration. Stability and accuracy of Runge-Kutta and linear multistep methods for marching ODEs. Low-storage IMEXRK methods. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "MAE 261",
+    "MAE 290B",
+    "MAE 290C",
+    "MAE 293"
+  ]
 }

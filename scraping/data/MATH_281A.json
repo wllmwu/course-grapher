@@ -4,5 +4,10 @@
   "units": "4",
   "dept": "MATH",
   "anchor": "math281a",
-  "description": "Statistical models, sufficiency, efficiency, optimal estimation, least squares and maximum likelihood, large sample theory. Prerequisites: advanced calculus and basic probability theory or consent of instructor."
+  "description": "Statistical models, sufficiency, efficiency, optimal estimation, least squares and maximum likelihood, large sample theory. Prerequisites: advanced calculus and basic probability theory or consent of instructor.",
+  "successors": [
+    "BNFO 286",
+    "FMPH 222",
+    "FMPH 223"
+  ]
 }

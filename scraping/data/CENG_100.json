@@ -11,5 +11,12 @@
       "CENG 4",
       "CHEM 6B"
     ]
-  }
+  },
+  "successors": [
+    "CENG 102",
+    "CENG 113",
+    "CENG 120",
+    "CENG 122",
+    "CENG 170"
+  ]
 }

@@ -11,5 +11,11 @@
       "MATH 20D",
       "NANO 101"
     ]
-  }
+  },
+  "successors": [
+    "NANO 110",
+    "NANO 112",
+    "NANO 146",
+    "NANO 168"
+  ]
 }

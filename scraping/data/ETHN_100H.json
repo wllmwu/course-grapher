@@ -11,5 +11,8 @@
       "ETHN 100A",
       "ETHN 100B"
     ]
-  }
+  },
+  "successors": [
+    "ETHN 196H"
+  ]
 }

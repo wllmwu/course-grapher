@@ -17,5 +17,15 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "BNFO 286",
+    "FMPH 223",
+    "FMPH 224",
+    "FMPH 225",
+    "FMPH 226",
+    "FMPH 227",
+    "FMPH 241",
+    "FMPH 242"
+  ]
 }

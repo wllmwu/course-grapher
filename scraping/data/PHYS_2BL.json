@@ -11,5 +11,11 @@
       "PHYS 2A",
       "PHYS 4A"
     ]
-  }
+  },
+  "successors": [
+    "CHEM 100B",
+    "CHEM 105A",
+    "PHYS 1BL",
+    "PHYS 2DL"
+  ]
 }

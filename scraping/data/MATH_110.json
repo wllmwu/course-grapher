@@ -25,5 +25,9 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "MATH 112B",
+    "SIOC 203A"
+  ]
 }

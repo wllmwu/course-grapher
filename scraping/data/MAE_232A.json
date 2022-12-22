@@ -4,5 +4,13 @@
   "units": "4",
   "dept": "MAE",
   "anchor": "mae232a",
-  "description": "(Cross-listed with SE 276A.) Finite element methods for linear problems in solid mechanics. Emphasis on the principle of virtual work, finite element stiffness matrices, various finite element formulations and their accuracy, and the numerical implementation required to solve problems in small strain, isotropic elasticity in solid mechanics. Prerequisites: graduate standing."
+  "description": "(Cross-listed with SE 276A.) Finite element methods for linear problems in solid mechanics. Emphasis on the principle of virtual work, finite element stiffness matrices, various finite element formulations and their accuracy, and the numerical implementation required to solve problems in small strain, isotropic elasticity in solid mechanics. Prerequisites: graduate standing.",
+  "successors": [
+    "MAE 232B",
+    "SE 276C",
+    "SE 278A",
+    "SE 279",
+    "SE 280",
+    "SE 285"
+  ]
 }

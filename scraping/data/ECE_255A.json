@@ -4,5 +4,8 @@
   "units": "4",
   "dept": "ECE",
   "anchor": "ece255an",
-  "description": "Introduction to basic concepts, source coding theorems, capacity, noisy-channel coding theorem. Recommended preparation: ECE 154A-B-C. Prerequisites: graduate standing."
+  "description": "Introduction to basic concepts, source coding theorems, capacity, noisy-channel coding theorem. Recommended preparation: ECE 154A-B-C. Prerequisites: graduate standing.",
+  "successors": [
+    "ECE 255B"
+  ]
 }

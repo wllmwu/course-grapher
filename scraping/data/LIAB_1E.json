@@ -11,5 +11,8 @@
       "LIAB 1D",
       "LIAB 1DX"
     ]
-  }
+  },
+  "successors": [
+    "LIAB 1F"
+  ]
 }

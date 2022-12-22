@@ -11,5 +11,24 @@
       "CHEM 6BH",
       "MATH 20B"
     ]
-  }
+  },
+  "successors": [
+    "CHEM 100A",
+    "CHEM 111",
+    "CHEM 120A",
+    "CHEM 126A",
+    "CHEM 130",
+    "CHEM 131",
+    "CHEM 171",
+    "CHEM 172",
+    "CHEM 173",
+    "CHEM 174",
+    "CHEM 187",
+    "CHEM 188",
+    "CHEM 40AH",
+    "NANO 159",
+    "SIO 141",
+    "SIO 143",
+    "SIO 174"
+  ]
 }

@@ -4,5 +4,9 @@
   "units": "4",
   "dept": "CSE",
   "anchor": "cse282",
-  "description": "(Formerly CSE 257A/BENG 202.) Introduction to methods for sequence analysis. Applications to genome and proteome sequences. Protein structure, sequence-structure analysis. Prerequisites: Pharm 201 or consent of instructor."
+  "description": "(Formerly CSE 257A/BENG 202.) Introduction to methods for sequence analysis. Applications to genome and proteome sequences. Protein structure, sequence-structure analysis. Prerequisites: Pharm 201 or consent of instructor.",
+  "successors": [
+    "BENG 203",
+    "CSE 283"
+  ]
 }

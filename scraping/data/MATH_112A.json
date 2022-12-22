@@ -27,5 +27,8 @@
       "MATH 20D",
       "BILD 1"
     ]
-  }
+  },
+  "successors": [
+    "MATH 112B"
+  ]
 }

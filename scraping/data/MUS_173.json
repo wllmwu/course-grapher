@@ -4,5 +4,9 @@
   "units": "4",
   "dept": "MUS",
   "anchor": "mus173",
-  "description": "(Formerly MUS 162.) Creative music production using digital audio workstations (DAWs), emphasizing hands-on composition projects including tempo warping, beat and tonality matching, virtual drum kits, chord progressions, sound processing and effects, arrangement, and remixing in the context of both popular and experimental genres. Existing works are analyzed and dissected for aesthetic value and production technique. Prerequisites: none; restricted to music, ICAM-music, and ICAM-visual arts majors and minors, or consent of instructor."
+  "description": "(Formerly MUS 162.) Creative music production using digital audio workstations (DAWs), emphasizing hands-on composition projects including tempo warping, beat and tonality matching, virtual drum kits, chord progressions, sound processing and effects, arrangement, and remixing in the context of both popular and experimental genres. Existing works are analyzed and dissected for aesthetic value and production technique. Prerequisites: none; restricted to music, ICAM-music, and ICAM-visual arts majors and minors, or consent of instructor.",
+  "successors": [
+    "MUS 267",
+    "TDDE 141"
+  ]
 }

@@ -12,5 +12,8 @@
       "MATH 20D",
       "MATH 20E"
     ]
-  }
+  },
+  "successors": [
+    "SIO 178"
+  ]
 }

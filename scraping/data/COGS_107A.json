@@ -11,5 +11,19 @@
       "BILD 12",
       "COGS 17"
     ]
-  }
+  },
+  "successors": [
+    "COGS 107B",
+    "COGS 115",
+    "COGS 116",
+    "COGS 169",
+    "COGS 172",
+    "COGS 175",
+    "COGS 176",
+    "COGS 178",
+    "COGS 179",
+    "COGS 184",
+    "COGS 279",
+    "PSYC 113"
+  ]
 }

@@ -24,5 +24,9 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "CHEM 100B",
+    "CHEM 105A"
+  ]
 }

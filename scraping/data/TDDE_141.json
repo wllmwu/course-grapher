@@ -13,5 +13,8 @@
       "TDDE 1",
       "MUS 173"
     ]
-  }
+  },
+  "successors": [
+    "TDDE 142"
+  ]
 }

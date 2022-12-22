@@ -19,5 +19,8 @@
       },
       "FMPH 110"
     ]
-  }
+  },
+  "successors": [
+    "FMPH 196B"
+  ]
 }

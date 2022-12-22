@@ -11,5 +11,12 @@
       "LTGK 1",
       "LTGK 2"
     ]
-  }
+  },
+  "successors": [
+    "CLAS 109",
+    "LTGK 102",
+    "LTGK 103",
+    "LTGK 104",
+    "LTGK 105"
+  ]
 }

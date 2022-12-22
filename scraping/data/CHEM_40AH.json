@@ -11,5 +11,13 @@
       "CHEM 6C",
       "CHEM 6CH"
     ]
-  }
+  },
+  "successors": [
+    "BIMM 100",
+    "CHEM 141",
+    "CHEM 151",
+    "CHEM 40BH",
+    "CHEM 43A",
+    "CHEM 43AM"
+  ]
 }

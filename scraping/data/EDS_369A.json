@@ -4,5 +4,8 @@
   "units": "Elementary",
   "dept": "EDS",
   "anchor": "eds369a",
-  "description": "First course in a series. The elementary credential candidate performs student teaching in participating schools for seven to eight weeks full-time for each course (fifteen weeks total) under the supervision of a cooperating teacher and university supervisor. The student teaching experience offers professional preparation and diversified teaching responsibilities for postbaccalaureate students pursuing the California Multiple Subject Teaching Credential. Prerequisites: ED78 major for Elementary Multiple Subjects only. Affirmed Multiple Subject Credential candidate at UC San Diego who has advanced to student teaching."
+  "description": "First course in a series. The elementary credential candidate performs student teaching in participating schools for seven to eight weeks full-time for each course (fifteen weeks total) under the supervision of a cooperating teacher and university supervisor. The student teaching experience offers professional preparation and diversified teaching responsibilities for postbaccalaureate students pursuing the California Multiple Subject Teaching Credential. Prerequisites: ED78 major for Elementary Multiple Subjects only. Affirmed Multiple Subject Credential candidate at UC San Diego who has advanced to student teaching.",
+  "successors": [
+    "EDS 369B"
+  ]
 }

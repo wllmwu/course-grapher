@@ -12,5 +12,10 @@
       "PHYS 212A",
       "PHYS 212B"
     ]
-  }
+  },
+  "successors": [
+    "PHYS 210B",
+    "PHYS 211B",
+    "PHYS 217"
+  ]
 }

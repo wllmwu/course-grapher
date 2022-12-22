@@ -5,5 +5,9 @@
   "dept": "CLRE",
   "anchor": "clre254",
   "description": "Scholars will understand and conduct advanced biostatistical analyses including multiple linear and logistic regression, survival analysis, and Cox and extended Cox regression. The scholar will also be familiar with person-time rate analysis with Poisson regression and longitudinal data analysis in the presence of missing values and varying measurement times. Class sessions may also be offered live via distance learning with established remote site. Prerequisites: CLRE 253.",
-  "prereqs": "CLRE 253"
+  "prereqs": "CLRE 253",
+  "successors": [
+    "CLRE 265",
+    "CLRE 267"
+  ]
 }

@@ -5,5 +5,8 @@
   "dept": "MAE",
   "anchor": "mde260b",
   "description": "Second of a three-quarter sequence, project-based course in medical device engineering, medical product regulation, quality systems and standards, engineering project management, and business development. Students will begin to design a medical device and an engineering strategy. Prerequisites: MDE 260A and consent of instructor. MDE students only.",
-  "prereqs": "MDE 260A"
+  "prereqs": "MDE 260A",
+  "successors": [
+    "MDE 260C"
+  ]
 }

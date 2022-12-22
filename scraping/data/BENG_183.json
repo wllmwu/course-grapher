@@ -11,5 +11,8 @@
       "BIMM 100",
       "CHEM 114C"
     ]
-  }
+  },
+  "successors": [
+    "BIMM 185"
+  ]
 }

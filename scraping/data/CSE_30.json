@@ -11,5 +11,22 @@
       "CSE 12",
       "CSE 15L"
     ]
-  }
+  },
+  "successors": [
+    "CSE 100",
+    "CSE 100R",
+    "CSE 109",
+    "CSE 120",
+    "CSE 123",
+    "CSE 124",
+    "CSE 140",
+    "CSE 140L",
+    "CSE 141",
+    "CSE 141L",
+    "CSE 142",
+    "CSE 142L",
+    "ECE 108",
+    "ECE 118",
+    "ECE 141A"
+  ]
 }

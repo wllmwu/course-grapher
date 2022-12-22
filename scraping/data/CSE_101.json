@@ -5,5 +5,15 @@
   "dept": "CSE",
   "anchor": "cse101",
   "description": "Design and analysis of efficient algorithms with emphasis of nonnumerical algorithms such as sorting, searching, pattern matching, and graph and network algorithms. Measuring complexity of algorithms, time and storage. NP-complete problems. Prerequisites: CSE 100; restricted to undergraduates. Graduate students will be allowed as space permits.",
-  "prereqs": "CSE 100"
+  "prereqs": "CSE 100",
+  "successors": [
+    "BENG 181",
+    "BIMM 181",
+    "CSE 107",
+    "CSE 120",
+    "CSE 123",
+    "CSE 124",
+    "CSE 181",
+    "CSE 202"
+  ]
 }

@@ -11,5 +11,9 @@
       "LIHI 1B",
       "LIHI 1BX"
     ]
-  }
+  },
+  "successors": [
+    "LIHI 1D",
+    "LIHI 1DX"
+  ]
 }

@@ -16,5 +16,12 @@
       "MATH 183",
       "MATH 186"
     ]
-  }
+  },
+  "successors": [
+    "MGT 112",
+    "MGT 183",
+    "MGT 184",
+    "MGT 185",
+    "MGT 189"
+  ]
 }

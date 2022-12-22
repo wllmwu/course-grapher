@@ -12,5 +12,10 @@
       "BIOM 200B",
       "BIOM 201"
     ]
-  }
+  },
+  "successors": [
+    "BGGN 237",
+    "BIOM 262",
+    "BNFO 286"
+  ]
 }

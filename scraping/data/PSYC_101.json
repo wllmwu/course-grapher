@@ -4,5 +4,10 @@
   "units": "4",
   "dept": "PSYC",
   "anchor": "psyc101",
-  "description": "This course provides a comprehensive overview of the field of developmental psychology, including topics in cognitive, language, and social development. Prerequisites: upper-division standing."
+  "description": "This course provides a comprehensive overview of the field of developmental psychology, including topics in cognitive, language, and social development. Prerequisites: upper-division standing.",
+  "successors": [
+    "HDS 110",
+    "PSYC 136",
+    "PSYC 156"
+  ]
 }

@@ -11,5 +11,9 @@
       "ECE 102",
       "ECE 107"
     ]
-  }
+  },
+  "successors": [
+    "ECE 265A",
+    "ECE 265B"
+  ]
 }

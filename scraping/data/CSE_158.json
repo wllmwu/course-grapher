@@ -38,5 +38,11 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "COGS 118A",
+    "COGS 181",
+    "COGS 182",
+    "DSC 180A"
+  ]
 }

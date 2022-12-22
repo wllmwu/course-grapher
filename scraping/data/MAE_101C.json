@@ -18,5 +18,10 @@
       "MAE 101B",
       "MAE 105"
     ]
-  }
+  },
+  "successors": [
+    "MAE 101D",
+    "MAE 156B",
+    "MAE 175A"
+  ]
 }

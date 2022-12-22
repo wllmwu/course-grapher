@@ -18,5 +18,8 @@
       },
       "MATH 20C"
     ]
-  }
+  },
+  "successors": [
+    "MATH 155B"
+  ]
 }

@@ -11,5 +11,11 @@
       "CHEM 126A",
       "CHEM 127"
     ]
-  }
+  },
+  "successors": [
+    "CHEM 105A",
+    "CHEM 135",
+    "CHEM 185",
+    "CHEM 186"
+  ]
 }

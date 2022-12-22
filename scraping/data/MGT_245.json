@@ -15,5 +15,8 @@
       "ECON 200B",
       "ECON 200C"
     ]
-  }
+  },
+  "successors": [
+    "MGT 246"
+  ]
 }

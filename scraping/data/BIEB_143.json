@@ -11,5 +11,8 @@
       "BIEB 100",
       "BIEB 150"
     ]
-  }
+  },
+  "successors": [
+    "BIEB 150"
+  ]
 }

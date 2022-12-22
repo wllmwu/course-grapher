@@ -21,5 +21,19 @@
       "BENG 169A",
       "BENG 179A"
     ]
-  }
+  },
+  "successors": [
+    "BENG 119A",
+    "BENG 126A",
+    "BENG 127A",
+    "BENG 128A",
+    "BENG 129A",
+    "BENG 139A",
+    "BENG 147A",
+    "BENG 148A",
+    "BENG 149A",
+    "BENG 169A",
+    "BENG 179A",
+    "BENG 187C"
+  ]
 }

@@ -5,5 +5,8 @@
   "dept": "MUS",
   "anchor": "mus120b",
   "description": "Second part of intensive historical, analytical, and cultural-aesthetic examination of music in Western culture from the ninth through the twenty-first centuries. Considers both instrumental and vocal repertories, from the Baroque to the Romantic, c. 1600\u20131830. Prerequisites: MUS 120A. Music majors should be enrolled concurrently in MUS 101B. Department stamp required for nonmajors.",
-  "prereqs": "MUS 120A"
+  "prereqs": "MUS 120A",
+  "successors": [
+    "MUS 120C"
+  ]
 }

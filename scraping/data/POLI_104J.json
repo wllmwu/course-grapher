@@ -11,5 +11,9 @@
       "POLI 104A",
       "POLI 104B"
     ]
-  }
+  },
+  "successors": [
+    "POLI 104K",
+    "POLI 104T"
+  ]
 }

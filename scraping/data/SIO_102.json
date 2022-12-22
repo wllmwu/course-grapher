@@ -13,5 +13,9 @@
       "CHEM 6B",
       "CHEM 6C"
     ]
-  }
+  },
+  "successors": [
+    "SIO 144",
+    "SIO 155"
+  ]
 }

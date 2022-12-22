@@ -26,5 +26,10 @@
       },
       "MATH 180A"
     ]
-  }
+  },
+  "successors": [
+    "ECE 155",
+    "ECE 157A",
+    "MATH 180C"
+  ]
 }

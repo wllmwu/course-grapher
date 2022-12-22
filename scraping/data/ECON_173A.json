@@ -24,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "ECON 103",
+    "ECON 173B",
+    "ECON 174"
+  ]
 }

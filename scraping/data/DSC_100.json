@@ -11,5 +11,9 @@
       "DSC 80",
       "DSC 40B"
     ]
-  }
+  },
+  "successors": [
+    "DSC 102",
+    "DSC 104"
+  ]
 }

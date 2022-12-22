@@ -5,5 +5,9 @@
   "dept": "SE",
   "anchor": "se150a",
   "description": "Load and resistance factor design concept and loadings for structural systems. Structural steel properties and selection. Design of tension members, compression members, beams, beam-columns, simple bolted, and welded connections. Prerequisites: SE 130A.",
-  "prereqs": "SE 130A"
+  "prereqs": "SE 130A",
+  "successors": [
+    "SE 140A",
+    "SE 150B"
+  ]
 }

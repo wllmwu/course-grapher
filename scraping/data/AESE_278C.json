@@ -12,5 +12,9 @@
       "AESE 278A",
       "AESE 278B"
     ]
-  }
+  },
+  "successors": [
+    "AESE 278D",
+    "AESE 278E"
+  ]
 }

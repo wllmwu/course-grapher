@@ -5,5 +5,19 @@
   "dept": "CAT",
   "anchor": "cat3",
   "description": "Students engage with various interdisciplinary modes of apprehending the near future. Working in teams on community projects, they are challenged to listen and communicate across cultures and develop cogent technological and artistic responses to local problems. Writing and information literacy instruction. Prerequisites: Sixth College students only; CAT 2.",
-  "prereqs": "CAT 2"
+  "prereqs": "CAT 2",
+  "successors": [
+    "CAT 197",
+    "CAT 198",
+    "CAT 199",
+    "CSE 194",
+    "HITO 106",
+    "LTEN 30",
+    "LTWR 8A",
+    "LTWR 8B",
+    "LTWR 8C",
+    "PHIL 27",
+    "PHYS 30",
+    "POLI 27"
+  ]
 }

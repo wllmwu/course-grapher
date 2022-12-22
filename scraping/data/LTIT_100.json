@@ -5,5 +5,8 @@
   "dept": "LIT",
   "anchor": "ltit100",
   "description": "Reading and discussion of selections from representative authors. Review of grammar as needed. May be taken for credit up to three times as topics vary.  Prerequisites:  LTIT 50 or its equivalent, or consent of instructor, or a score of 5 on the AP Italian Language and Culture exam.",
-  "prereqs": "LTIT 50"
+  "prereqs": "LTIT 50",
+  "successors": [
+    "LTIT 161"
+  ]
 }

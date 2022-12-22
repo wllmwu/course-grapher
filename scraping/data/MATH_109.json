@@ -18,5 +18,23 @@
       },
       "MATH 20C"
     ]
-  }
+  },
+  "successors": [
+    "CSE 105",
+    "CSE 140",
+    "CSE 140L",
+    "ECON 109",
+    "MATH 100A",
+    "MATH 103A",
+    "MATH 105",
+    "MATH 111A",
+    "MATH 140A",
+    "MATH 142A",
+    "MATH 153",
+    "MATH 154",
+    "MATH 158",
+    "MATH 180B",
+    "MATH 184",
+    "MATH 188"
+  ]
 }

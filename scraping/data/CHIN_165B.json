@@ -5,5 +5,8 @@
   "dept": "CHIN",
   "anchor": "",
   "description": "Continuation of CHIN 165A. Basic training in oral and written communication skills for business, including introduction to modern business terminology and social conventions. Prerequisites: CHIN 165A or equivalent.",
-  "prereqs": "CHIN 165A"
+  "prereqs": "CHIN 165A",
+  "successors": [
+    "CHIN 165C"
+  ]
 }

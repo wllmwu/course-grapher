@@ -11,5 +11,9 @@
       "MATH 11",
       "MATH 20B"
     ]
-  }
+  },
+  "successors": [
+    "ECON 132",
+    "ESYS 187A"
+  ]
 }

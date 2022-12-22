@@ -12,5 +12,18 @@
       "MATH 20D",
       "MATH 20E"
     ]
-  }
+  },
+  "successors": [
+    "BENG 103B",
+    "CENG 101B",
+    "CENG 101C",
+    "CENG 210A",
+    "MAE 101B",
+    "MAE 101C",
+    "MAE 113",
+    "MAE 118",
+    "MAE 120",
+    "MAE 122",
+    "MAE 126A"
+  ]
 }

@@ -12,5 +12,10 @@
       "CENG 100",
       "MATH 20D"
     ]
-  }
+  },
+  "successors": [
+    "CENG 120",
+    "CENG 124A",
+    "CENG 176A"
+  ]
 }

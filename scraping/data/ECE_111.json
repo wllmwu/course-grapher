@@ -11,5 +11,9 @@
       "ECE 25",
       "CSE 140"
     ]
-  }
+  },
+  "successors": [
+    "CSE 118",
+    "CSE 241A"
+  ]
 }

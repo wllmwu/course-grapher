@@ -11,5 +11,9 @@
       "MATH 110",
       "MATH 120A"
     ]
-  }
+  },
+  "successors": [
+    "SIOC 203B",
+    "SIOG 235"
+  ]
 }

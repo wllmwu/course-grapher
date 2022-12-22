@@ -11,5 +11,9 @@
       "LIGM 1A",
       "LIGM 1AX"
     ]
-  }
+  },
+  "successors": [
+    "LIGM 1C",
+    "LIGM 1CX"
+  ]
 }

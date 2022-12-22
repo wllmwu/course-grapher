@@ -11,5 +11,10 @@
       "MAE 140",
       "BENG 134"
     ]
-  }
+  },
+  "successors": [
+    "BENG 125",
+    "ECE 155",
+    "MAE 144"
+  ]
 }

@@ -11,5 +11,16 @@
       "MMW 12",
       "MMW 2"
     ]
-  }
+  },
+  "successors": [
+    "CSE 194",
+    "HITO 106",
+    "LTEN 30",
+    "LTWR 8A",
+    "LTWR 8B",
+    "LTWR 8C",
+    "MMW 14",
+    "MMW 15",
+    "PHYS 30"
+  ]
 }

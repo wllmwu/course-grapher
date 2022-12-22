@@ -29,5 +29,10 @@
       },
       "MATH 20C"
     ]
-  }
+  },
+  "successors": [
+    "ECON 101",
+    "ECON 103",
+    "ECON 106"
+  ]
 }

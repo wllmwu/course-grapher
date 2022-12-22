@@ -12,5 +12,11 @@
       "CHEM 6C",
       "MATH 20C"
     ]
-  }
+  },
+  "successors": [
+    "CENG 122",
+    "CENG 170",
+    "MAE 101B",
+    "MAE 113"
+  ]
 }

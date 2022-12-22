@@ -4,5 +4,9 @@
   "units": "2",
   "dept": "MATH",
   "anchor": "math95",
-  "description": "(Cross-listed with EDS 30.) Revisit students\u2019 learning difficulties in mathematics in more depth to prepare students to make meaningful observations of how K\u201312 teachers deal with these difficulties. Explore how instruction can use students\u2019 knowledge to pose problems that stimulate students\u2019 intellectual curiosity. Prerequisites: none."
+  "description": "(Cross-listed with EDS 30.) Revisit students\u2019 learning difficulties in mathematics in more depth to prepare students to make meaningful observations of how K\u201312 teachers deal with these difficulties. Explore how instruction can use students\u2019 knowledge to pose problems that stimulate students\u2019 intellectual curiosity. Prerequisites: none.",
+  "successors": [
+    "EDS 121A",
+    "MATH 121A"
+  ]
 }

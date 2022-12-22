@@ -11,5 +11,10 @@
       "POLI 30",
       "POLI 30D"
     ]
-  }
+  },
+  "successors": [
+    "DSC 161",
+    "POLI 175",
+    "POLI 176"
+  ]
 }

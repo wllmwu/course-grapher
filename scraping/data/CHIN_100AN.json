@@ -11,5 +11,8 @@
       "CHIN 23",
       "CHIN 20CN"
     ]
-  }
+  },
+  "successors": [
+    "CHIN 100BN"
+  ]
 }

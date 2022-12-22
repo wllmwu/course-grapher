@@ -12,5 +12,10 @@
       "BENG 209",
       "MAE 231A"
     ]
-  }
+  },
+  "successors": [
+    "MAE 231C",
+    "MAE 233A",
+    "MAE 233B"
+  ]
 }

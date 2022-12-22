@@ -31,5 +31,13 @@
       },
       "ECE 45"
     ]
-  }
+  },
+  "successors": [
+    "ECE 123",
+    "ECE 145AL-BL-CL",
+    "ECE 166",
+    "ECE 181",
+    "ECE 182",
+    "ECE 183"
+  ]
 }

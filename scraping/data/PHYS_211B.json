@@ -11,5 +11,8 @@
       "PHYS 210A",
       "PHYS 211A"
     ]
-  }
+  },
+  "successors": [
+    "PHYS 230"
+  ]
 }

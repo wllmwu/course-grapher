@@ -65,5 +65,14 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "LTWR 113",
+    "LTWR 114",
+    "LTWR 115",
+    "LTWR 120",
+    "LTWR 121",
+    "LTWR 124",
+    "LTWR 126"
+  ]
 }

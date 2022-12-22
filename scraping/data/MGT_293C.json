@@ -12,5 +12,8 @@
       "MGT 292",
       "MGT 293B"
     ]
-  }
+  },
+  "successors": [
+    "MGT 293D"
+  ]
 }

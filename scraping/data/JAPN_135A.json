@@ -5,5 +5,8 @@
   "dept": "JAPN",
   "anchor": "japn135a",
   "description": "Training in oral and written communication skills for professional settings in Japanese. Broad aspects of cultural issues in Japanese organizations are introduced and comparison of American and Japanese cultural business patterns will be conducted. Prerequisites: JAPN 20C, or consent of instructor.",
-  "prereqs": "JAPN 20C"
+  "prereqs": "JAPN 20C",
+  "successors": [
+    "JAPN 135B"
+  ]
 }

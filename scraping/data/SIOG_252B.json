@@ -11,5 +11,8 @@
       "SIOG 252A",
       "SIO 252A"
     ]
-  }
+  },
+  "successors": [
+    "SIOG 252C"
+  ]
 }

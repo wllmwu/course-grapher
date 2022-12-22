@@ -11,5 +11,15 @@
       "MATH 10B",
       "MATH 20B"
     ]
-  }
+  },
+  "successors": [
+    "CHEM 126A",
+    "ECON 100A",
+    "ECON 107",
+    "ECON 110A",
+    "ECON 110B",
+    "ECON 120A",
+    "ECON 132",
+    "MATH 20B"
+  ]
 }

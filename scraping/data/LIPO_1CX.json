@@ -11,5 +11,9 @@
       "LIPO 1B",
       "LIPO 1BX"
     ]
-  }
+  },
+  "successors": [
+    "LIPO 1D",
+    "LIPO 1DX"
+  ]
 }

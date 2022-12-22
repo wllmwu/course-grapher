@@ -16,5 +16,8 @@
       "FMPH 405",
       "FMPH 406"
     ]
-  }
+  },
+  "successors": [
+    "FMPH 499"
+  ]
 }

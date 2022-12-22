@@ -11,5 +11,9 @@
       "CSE 100",
       "CSE 100R"
     ]
-  }
+  },
+  "successors": [
+    "CSE 132B",
+    "CSE 132C"
+  ]
 }

@@ -11,5 +11,8 @@
       "ECE 45",
       "ECE 65"
     ]
-  }
+  },
+  "successors": [
+    "ECE 102"
+  ]
 }

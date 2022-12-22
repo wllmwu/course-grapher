@@ -11,5 +11,10 @@
       "LIFR 1B",
       "LIFR 1BX"
     ]
-  }
+  },
+  "successors": [
+    "LIFR 1D",
+    "LIFR 1DX",
+    "LTFR 2A"
+  ]
 }

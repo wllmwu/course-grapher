@@ -16,5 +16,8 @@
       },
       "LIIT 5AS"
     ]
-  }
+  },
+  "successors": [
+    "LIIT 5CS"
+  ]
 }

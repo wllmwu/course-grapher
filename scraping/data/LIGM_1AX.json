@@ -4,5 +4,9 @@
   "units": "LIGM",
   "dept": "LING",
   "anchor": "ligm1ax",
-  "description": "Presentation and practice of the basic grammatical structures needed for oral and written communication and for reading. The course is taught entirely in German. Must be taken with LIGM 1A. Prerequisites: no prior study of German."
+  "description": "Presentation and practice of the basic grammatical structures needed for oral and written communication and for reading. The course is taught entirely in German. Must be taken with LIGM 1A. Prerequisites: no prior study of German.",
+  "successors": [
+    "LIGM 1B",
+    "LIGM 1BX"
+  ]
 }

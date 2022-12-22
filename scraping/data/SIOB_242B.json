@@ -11,5 +11,8 @@
       "SIOB 242A",
       "SIO 242A"
     ]
-  }
+  },
+  "successors": [
+    "SIOB 242C"
+  ]
 }

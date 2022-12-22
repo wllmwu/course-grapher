@@ -4,5 +4,8 @@
   "units": "4",
   "dept": "JWSP",
   "anchor": "jwsp103",
-  "description": "Synthesis of fluency, reading, and grammatical skills. Reading of texts from a range of periods."
+  "description": "Synthesis of fluency, reading, and grammatical skills. Reading of texts from a range of periods.",
+  "successors": [
+    "JWSP 196B"
+  ]
 }

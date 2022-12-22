@@ -19,5 +19,19 @@
       },
       "MATH 20C"
     ]
-  }
+  },
+  "successors": [
+    "CSE 151A",
+    "CSE 151B",
+    "CSE 156",
+    "CSE 158",
+    "CSE 158R",
+    "DSC 148",
+    "MATH 181B",
+    "MATH 181D",
+    "MATH 181F",
+    "MATH 185",
+    "MGT 153",
+    "MGT 160"
+  ]
 }

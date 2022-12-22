@@ -24,5 +24,17 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "BENG 160",
+    "BENG 162",
+    "BENG 172",
+    "BENG 186B",
+    "CENG 176A",
+    "MAE 126A",
+    "MAE 155B",
+    "MAE 156A",
+    "MAE 171A",
+    "MAE 175A"
+  ]
 }

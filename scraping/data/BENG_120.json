@@ -11,5 +11,12 @@
       "CHEM 6A",
       "CHEM 6B"
     ]
-  }
+  },
+  "successors": [
+    "BENG 102",
+    "BENG 123",
+    "BIBC 100",
+    "BIBC 102",
+    "BIMM 100"
+  ]
 }

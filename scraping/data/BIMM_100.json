@@ -35,5 +35,24 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "BENG 181",
+    "BENG 183",
+    "BENG 211",
+    "BICD 112",
+    "BICD 140",
+    "BICD 145",
+    "BIMM 110",
+    "BIMM 112",
+    "BIMM 114",
+    "BIMM 120",
+    "BIMM 122",
+    "BIMM 172",
+    "BIMM 181",
+    "BIMM 194",
+    "CHEM 119",
+    "CHEM 164",
+    "CSE 181"
+  ]
 }

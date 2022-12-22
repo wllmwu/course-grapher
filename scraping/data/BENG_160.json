@@ -12,5 +12,9 @@
       "BENG 100",
       "MAE 170"
     ]
-  }
+  },
+  "successors": [
+    "BENG 161A",
+    "BENG 162"
+  ]
 }

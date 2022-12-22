@@ -11,5 +11,20 @@
       "MATH 10A",
       "MATH 20A"
     ]
-  }
+  },
+  "successors": [
+    "BIEB 100",
+    "BIPN 146",
+    "BIPN 147",
+    "BIPN 164",
+    "MATH 10C",
+    "MATH 11",
+    "MATH 20B",
+    "PHYS 1B",
+    "PHYS 1BL",
+    "PHYS 1C",
+    "PHYS 1CL",
+    "PHYS 2A",
+    "PHYS 2AR"
+  ]
 }

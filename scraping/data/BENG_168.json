@@ -11,5 +11,8 @@
       "BILD 1",
       "BENG 100"
     ]
-  }
+  },
+  "successors": [
+    "BENG 187A"
+  ]
 }

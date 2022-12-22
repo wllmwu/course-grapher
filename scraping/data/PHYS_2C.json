@@ -23,5 +23,43 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "BENG 110",
+    "BENG 130",
+    "BENG 140A",
+    "CHEM 100B",
+    "CHEM 126A",
+    "CHEM 130",
+    "CHEM 131",
+    "CHEM 134",
+    "ECE 107",
+    "ECE 120",
+    "ECE 134",
+    "ECE 187",
+    "EDS 105",
+    "MAE 11",
+    "MAE 119",
+    "MAE 170",
+    "PHYS 111",
+    "PHYS 139",
+    "PHYS 160",
+    "PHYS 161",
+    "PHYS 163",
+    "PHYS 164",
+    "PHYS 170",
+    "SIO 103",
+    "SIO 106",
+    "SIO 111",
+    "SIO 115",
+    "SIO 117",
+    "SIO 119",
+    "SIO 125",
+    "SIO 143",
+    "SIO 171",
+    "SIO 172",
+    "SIO 173",
+    "SIO 178",
+    "SIO 182"
+  ]
 }

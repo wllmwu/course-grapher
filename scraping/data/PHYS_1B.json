@@ -23,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "EDS 105",
+    "PHYS 170",
+    "PHYS 1C",
+    "PHYS 1CL"
+  ]
 }

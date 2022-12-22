@@ -24,5 +24,13 @@
       },
       "MATH 20D"
     ]
-  }
+  },
+  "successors": [
+    "CHEM 105A",
+    "CHEM 132",
+    "CHEM 135",
+    "CHEM 185",
+    "CHEM 186",
+    "PHYS 152A"
+  ]
 }

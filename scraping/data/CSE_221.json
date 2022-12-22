@@ -11,5 +11,9 @@
       "CSE 120",
       "CSE 121"
     ]
-  }
+  },
+  "successors": [
+    "CSE 223B",
+    "CSE 227"
+  ]
 }

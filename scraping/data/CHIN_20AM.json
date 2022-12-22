@@ -11,5 +11,8 @@
       "CHIN 13",
       "CHIN 10CM"
     ]
-  }
+  },
+  "successors": [
+    "CHIN 20BM"
+  ]
 }

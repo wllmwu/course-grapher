@@ -5,5 +5,20 @@
   "dept": "CAT",
   "anchor": "cat2",
   "description": "Fundamental shifts in one area of endeavor can have a profound impact on whole cultures. Examines select events, technologies, and works of art that revolutionized ways of inhabiting the world. Intensive instructions in university-level writing: featured sections on information literacy. Prerequisites: Sixth College students only; CAT 1; must be taken for a letter grade to fulfill GE requirement.",
-  "prereqs": "CAT 1"
+  "prereqs": "CAT 1",
+  "successors": [
+    "CAT 197",
+    "CAT 198",
+    "CAT 199",
+    "CAT 3",
+    "ENG 100D",
+    "HITO 106",
+    "LTEN 30",
+    "LTWR 8A",
+    "LTWR 8B",
+    "LTWR 8C",
+    "PHIL 27",
+    "PHYS 30",
+    "POLI 27"
+  ]
 }

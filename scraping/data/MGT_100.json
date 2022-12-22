@@ -11,5 +11,11 @@
       "ECON 120B",
       "MATH 181B"
     ]
-  }
+  },
+  "successors": [
+    "MGT 105",
+    "MGT 106",
+    "MGT 109",
+    "MGT 112"
+  ]
 }

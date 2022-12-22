@@ -11,5 +11,8 @@
       "MAE 232A",
       "SE 276A"
     ]
-  }
+  },
+  "successors": [
+    "SE 278B"
+  ]
 }

@@ -11,5 +11,21 @@
       "MATH 10A",
       "MATH 20A"
     ]
-  }
+  },
+  "successors": [
+    "BENG 120",
+    "BENG 140A",
+    "BIPN 106",
+    "CHEM 6B",
+    "ESYS 102",
+    "MAE 11",
+    "MAE 20",
+    "MAE 21",
+    "NANO 159",
+    "SIO 101",
+    "SIO 102",
+    "SIO 170",
+    "SIO 179",
+    "SIO 180"
+  ]
 }

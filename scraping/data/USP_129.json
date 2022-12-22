@@ -4,5 +4,8 @@
   "units": "4",
   "dept": "USP",
   "anchor": "usp129",
-  "description": "(Same as ETHN 190.) The course offers students the basic research methods with which to study ethnic and racial communities. The various topics to be explored include human and physical geography, transportation, employment, economic structure, cultural values, housing, health, education, and intergroup relations. Prerequisites: upper-division standing or consent of instructor."
+  "description": "(Same as ETHN 190.) The course offers students the basic research methods with which to study ethnic and racial communities. The various topics to be explored include human and physical geography, transportation, employment, economic structure, cultural values, housing, health, education, and intergroup relations. Prerequisites: upper-division standing or consent of instructor.",
+  "successors": [
+    "EDS 120"
+  ]
 }

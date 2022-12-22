@@ -11,5 +11,11 @@
       "PHYS 100B",
       "PHYS 130A"
     ]
-  }
+  },
+  "successors": [
+    "PHYS 113",
+    "PHYS 130C",
+    "PHYS 140B",
+    "PHYS 154"
+  ]
 }

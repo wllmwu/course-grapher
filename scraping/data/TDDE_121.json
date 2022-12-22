@@ -11,5 +11,8 @@
       "TDDE 1",
       "TDPR 3"
     ]
-  }
+  },
+  "successors": [
+    "TDDE 132"
+  ]
 }
