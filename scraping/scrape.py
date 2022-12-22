@@ -1,5 +1,6 @@
 import argparse
 from catalog_spider import CatalogSpider
+from metrics import ScrapingMetrics
 import os
 from postprocessor import Postprocessor
 from scrapy.crawler import CrawlerProcess
@@ -43,6 +44,7 @@ if __name__ == '__main__':
             sys.exit(1)
 
     # run crawler
+    metrics = ScrapingMetrics()
     process = CrawlerProcess(settings={
         'LOG_ENABLED': args.log_enabled,
         'LOG_FILE': args.log_file,
@@ -50,10 +52,12 @@ if __name__ == '__main__':
         'LOG_LEVEL': args.log_level,
         'LOG_STDOUT': True,
     })
-    process.crawl(CatalogSpider, dry_run=args.dry_run)
+    process.crawl(CatalogSpider, dry_run=args.dry_run, metrics=metrics)
     process.start()  # blocks until finished
 
     if not args.dry_run:
         # do postprocessing
         postprocessor = Postprocessor()
         postprocessor.run()
+
+    metrics.pretty_print()
