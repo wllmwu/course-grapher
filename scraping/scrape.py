@@ -57,7 +57,7 @@ if __name__ == '__main__':
 
     if not args.dry_run:
         # do postprocessing
-        postprocessor = Postprocessor()
+        postprocessor = Postprocessor(metrics)
         postprocessor.run()
 
     metrics.pretty_print()
