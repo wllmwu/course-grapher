@@ -1,6 +1,6 @@
 import type { AnyGraphNode, BoundingBox } from "../../utils/graph-schema";
 
-const X_INTERVAL = -200;
+const X_INTERVAL = 200;
 const Y_INTERVAL = 40;
 const COURSE_MAX_WIDTH = 110;
 const HORIZONTAL_MARGIN = 10;
@@ -25,7 +25,7 @@ export function setPositions(root: AnyGraphNode) {
   const yChange = -root.y;
   adjustPositions(root, yChange);
   const bounds: BoundingBox = {
-    xMin: (nextYCoordinates.length - 1) * X_INTERVAL,
+    xMin: (nextYCoordinates.length - 1) * -X_INTERVAL,
     xMax: 0,
     yMin: yChange,
     yMax: Math.max(...nextYCoordinates) - Y_INTERVAL + yChange,
@@ -56,11 +56,11 @@ function setPositionsHelper(
   yEstimate: number,
   nextYCoordinates: number[]
 ) {
-  node.x = depth * X_INTERVAL;
+  node.x = depth * -X_INTERVAL;
   if (depth < nextYCoordinates.length) {
     node.y = Math.max(yEstimate, nextYCoordinates[depth]);
   } else {
-    nextYCoordinates.push(0);
+    nextYCoordinates.push(Number.NEGATIVE_INFINITY);
     node.y = yEstimate;
   }
 
@@ -103,7 +103,7 @@ function setPositionsHelper(
     node.y = (firstChildY + lastChildY) / 2;
     node.xIn = node.bounds.xMin;
     if (node.amount === "all" && !node.isNested) {
-      node.xOut = node.x - X_INTERVAL - HORIZONTAL_MARGIN * 2;
+      node.xOut = node.x + X_INTERVAL - HORIZONTAL_MARGIN * 2;
     } else {
       node.xOut = node.bounds.xMax;
     }
