@@ -3,7 +3,7 @@ import type { GetStaticPaths, GetStaticProps } from "next";
 import Head from "next/head";
 import Link from "next/link";
 import type { Course, Department } from "../../utils/data-schema";
-import { readDataDirectory, readDataFile } from "../../utils/buildtime";
+import { getCourseCodeSlugs, readDataFile } from "../../utils/buildtime";
 import * as cache from "../../utils/buildtime-cache";
 import { courseCodeComparator, slugifyCourseCode } from "../../utils";
 import Page from "../../components/Page";
@@ -18,13 +18,9 @@ export const getStaticPaths: GetStaticPaths = async () => {
       fallback: "blocking",
     };
   }
-  const courseCodeSlugs = await readDataDirectory();
-  const index = courseCodeSlugs.indexOf("departments.json");
-  if (index != -1) {
-    courseCodeSlugs.splice(index, 1);
-  }
-  const paths = courseCodeSlugs.map((courseCode) => ({
-    params: { code: courseCode.slice(0, -5) }, // remove ".json"
+  const courseCodeSlugs = await getCourseCodeSlugs();
+  const paths = courseCodeSlugs.map((code) => ({
+    params: { code },
   }));
   return {
     paths,

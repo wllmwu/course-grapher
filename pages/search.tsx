@@ -3,7 +3,7 @@ import type { GetStaticProps } from "next";
 import { useRouter } from "next/router";
 import Head from "next/head";
 import type { Course } from "../utils/data-schema";
-import { readDataDirectory } from "../utils/buildtime";
+import { getCourseCodeSlugs } from "../utils/buildtime";
 import * as cache from "../utils/frontend-cache";
 import { courseComparator, deslugifyCourseCode } from "../utils";
 import Page from "../components/Page";
@@ -12,15 +12,11 @@ import CourseListing from "../components/CourseListing";
 import styles from "../styles/HomePage.module.css";
 
 export const getStaticProps: GetStaticProps = async () => {
-  const courseCodeSlugs = await readDataDirectory();
-  const index = courseCodeSlugs.indexOf("departments.json");
-  if (index != -1) {
-    courseCodeSlugs.splice(index, 1);
-  }
+  const courseCodeSlugs = await getCourseCodeSlugs();
   return {
     props: {
       courseCodes: courseCodeSlugs
-        .map((slug) => deslugifyCourseCode(slug.slice(0, -5)))
+        .map((slug) => deslugifyCourseCode(slug))
         .sort(),
     },
   };
