@@ -4,5 +4,9 @@
   "units": "5",
   "dept": "CHIN",
   "anchor": "chin10am",
-  "description": "Introductory course of basic Chinese for students with background in Mandarin Chinese. First quarter of one-year curriculum for entry-level Chinese in communicative skills. Covers pronunciation, fundamentals of Chinese grammar, and vocabulary. Topics include greetings, family affairs, numbers, and daily exchanges. Students may not receive duplicate credit for CHIN 11 and CHIN 10AM. Prerequisites: department approval."
+  "description": "Introductory course of basic Chinese for students with background in Mandarin Chinese. First quarter of one-year curriculum for entry-level Chinese in communicative skills. Covers pronunciation, fundamentals of Chinese grammar, and vocabulary. Topics include greetings, family affairs, numbers, and daily exchanges. Students may not receive duplicate credit for CHIN 11 and CHIN 10AM. Prerequisites: department approval.",
+  "successors": [
+    "CHIN 10BD",
+    "CHIN 10BM"
+  ]
 }

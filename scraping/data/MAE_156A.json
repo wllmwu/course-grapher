@@ -14,5 +14,8 @@
       "MAE 150",
       "MAE 170"
     ]
-  }
+  },
+  "successors": [
+    "MAE 156B"
+  ]
 }

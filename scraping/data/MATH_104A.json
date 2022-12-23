@@ -11,5 +11,8 @@
       "MATH 100B",
       "MATH 103B"
     ]
-  }
+  },
+  "successors": [
+    "MATH 104B"
+  ]
 }

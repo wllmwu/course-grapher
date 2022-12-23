@@ -11,5 +11,14 @@
       "BILD 1",
       "BILD 2"
     ]
-  }
+  },
+  "successors": [
+    "BIPN 142",
+    "BIPN 148",
+    "BIPN 152",
+    "BIPN 154",
+    "BIPN 156",
+    "BIPN 162",
+    "BIPN 194"
+  ]
 }

@@ -18,5 +18,25 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "ECON 100B",
+    "ECON 117",
+    "ECON 118",
+    "ECON 119",
+    "ECON 130",
+    "ECON 131",
+    "ECON 132",
+    "ECON 134",
+    "ECON 135",
+    "ECON 144",
+    "ECON 145",
+    "ECON 147",
+    "ECON 169",
+    "ECON 171",
+    "ECON 172A",
+    "ECON 173A",
+    "MGT 180",
+    "USP 102"
+  ]
 }

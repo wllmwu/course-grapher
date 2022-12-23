@@ -4,5 +4,9 @@
   "units": "LIFR",
   "dept": "LING",
   "anchor": "lifr1a",
-  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Must be taken in conjunction with LIFR 1AX. Prerequisites: no prior study of French."
+  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Must be taken in conjunction with LIFR 1AX. Prerequisites: no prior study of French.",
+  "successors": [
+    "LIFR 1B",
+    "LIFR 1BX"
+  ]
 }

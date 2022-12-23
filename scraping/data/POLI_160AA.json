@@ -11,5 +11,8 @@
       "POLI 10",
       "POLI 11"
     ]
-  }
+  },
+  "successors": [
+    "POLI 160AB"
+  ]
 }

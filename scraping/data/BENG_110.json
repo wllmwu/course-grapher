@@ -25,5 +25,9 @@
       },
       "PHYS 2C"
     ]
-  }
+  },
+  "successors": [
+    "BENG 112A",
+    "MAE 150"
+  ]
 }

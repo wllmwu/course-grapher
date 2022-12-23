@@ -24,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "CHEM 108",
+    "CHEM 109",
+    "CHEM 123",
+    "CHEM 143B",
+    "CHEM 143C"
+  ]
 }

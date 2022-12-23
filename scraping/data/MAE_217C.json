@@ -11,5 +11,10 @@
       "MAE 217A",
       "MAE 217B"
     ]
-  }
+  },
+  "successors": [
+    "MAE 218A",
+    "MAE 218B",
+    "MAE 228"
+  ]
 }

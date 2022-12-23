@@ -11,5 +11,17 @@
       "BILD 1",
       "BILD 2"
     ]
-  }
+  },
+  "successors": [
+    "BENG 193",
+    "BENG 230D",
+    "BIMM 118",
+    "BIPN 102",
+    "BIPN 105",
+    "BIPN 108",
+    "BIPN 120",
+    "BIPN 134",
+    "BIPN 142",
+    "BIPN 156"
+  ]
 }

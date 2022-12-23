@@ -11,5 +11,16 @@
       "MATH 20C",
       "PHYS 2A"
     ]
-  }
+  },
+  "successors": [
+    "MAE 131A",
+    "MAE 150",
+    "MAE 160",
+    "SE 101B",
+    "SE 102",
+    "SE 103",
+    "SE 104",
+    "SE 105",
+    "SE 110A"
+  ]
 }

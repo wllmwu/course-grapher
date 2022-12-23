@@ -11,5 +11,10 @@
       "PHYS 2C",
       "CHEM 6A"
     ]
-  }
+  },
+  "successors": [
+    "MAE 101B",
+    "MAE 110",
+    "MAE 113"
+  ]
 }

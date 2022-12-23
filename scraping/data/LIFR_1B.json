@@ -11,5 +11,9 @@
       "LIFR 1A",
       "LIFR 1AX"
     ]
-  }
+  },
+  "successors": [
+    "LIFR 1C",
+    "LIFR 1CX"
+  ]
 }

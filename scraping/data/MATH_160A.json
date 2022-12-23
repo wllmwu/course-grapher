@@ -12,5 +12,8 @@
       "MATH 103A",
       "MATH 140A"
     ]
-  }
+  },
+  "successors": [
+    "MATH 160B"
+  ]
 }

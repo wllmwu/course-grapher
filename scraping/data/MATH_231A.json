@@ -11,5 +11,8 @@
       "MATH 210B",
       "MATH 240C"
     ]
-  }
+  },
+  "successors": [
+    "MATH 231B"
+  ]
 }

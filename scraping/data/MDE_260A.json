@@ -4,5 +4,8 @@
   "units": "1",
   "dept": "MAE",
   "anchor": "mde260a",
-  "description": "Introduction of project-based course in medical device engineering, medical product regulation, quality systems and standards, engineering project management, and business development. Prerequisites: MDE students only."
+  "description": "Introduction of project-based course in medical device engineering, medical product regulation, quality systems and standards, engineering project management, and business development. Prerequisites: MDE students only.",
+  "successors": [
+    "MDE 260B"
+  ]
 }

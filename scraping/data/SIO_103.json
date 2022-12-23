@@ -18,5 +18,9 @@
       "PHYS 2C",
       "SIO 50"
     ]
-  }
+  },
+  "successors": [
+    "SIO 112",
+    "SIO 161"
+  ]
 }

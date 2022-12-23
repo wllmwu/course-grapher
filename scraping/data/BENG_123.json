@@ -14,5 +14,10 @@
       "BENG 120",
       "CHEM 40B"
     ]
-  }
+  },
+  "successors": [
+    "BENG 125",
+    "BENG 161A",
+    "BENG 186A"
+  ]
 }

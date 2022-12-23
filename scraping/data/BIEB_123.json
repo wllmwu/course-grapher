@@ -11,5 +11,9 @@
       "BILD 1",
       "BILD 3"
     ]
-  }
+  },
+  "successors": [
+    "BIMM 143",
+    "CSE 185"
+  ]
 }

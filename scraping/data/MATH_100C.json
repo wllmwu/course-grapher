@@ -5,5 +5,8 @@
   "dept": "MATH",
   "anchor": "math100c",
   "description": "Third course in a rigorous three-quarter introduction to the methods and basic structures of higher algebra. Topics include linear transformations, including Jordan canonical form and rational canonical form; Galois theory, including the insolvability of the quintic. Prerequisites: MATH 100B or consent of instructor.",
-  "prereqs": "MATH 100B"
+  "prereqs": "MATH 100B",
+  "successors": [
+    "MATH 290A-B-C"
+  ]
 }

@@ -11,5 +11,8 @@
       "COGS 1",
       "COGS 14A"
     ]
-  }
+  },
+  "successors": [
+    "COGS 157"
+  ]
 }

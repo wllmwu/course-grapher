@@ -11,5 +11,15 @@
       "CHEM 114A",
       "BIBC 100"
     ]
-  }
+  },
+  "successors": [
+    "BENG 181",
+    "BENG 183",
+    "BIMM 181",
+    "CHEM 114D",
+    "CHEM 115",
+    "CHEM 119",
+    "CHEM 164",
+    "CSE 181"
+  ]
 }

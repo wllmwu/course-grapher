@@ -11,5 +11,21 @@
       "BILD 1",
       "BILD 3"
     ]
-  }
+  },
+  "successors": [
+    "BENG 160",
+    "BICD 102",
+    "BICD 104",
+    "BICD 124",
+    "BICD 130",
+    "BICD 140",
+    "BICD 156",
+    "BIMM 110",
+    "BIMM 172",
+    "BIPN 150",
+    "BISP 194",
+    "BNFO 286",
+    "SIO 123",
+    "SIO 127"
+  ]
 }

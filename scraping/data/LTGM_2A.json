@@ -11,5 +11,8 @@
       "LTGM 1C",
       "LTGM 1CX"
     ]
-  }
+  },
+  "successors": [
+    "LTGM 2B"
+  ]
 }

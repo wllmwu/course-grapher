@@ -12,5 +12,8 @@
       "CHEM 40CH",
       "CHEM 41C"
     ]
-  }
+  },
+  "successors": [
+    "CHEM 155"
+  ]
 }

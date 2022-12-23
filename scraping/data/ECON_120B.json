@@ -15,5 +15,15 @@
       "MATH 183",
       "MATH 186"
     ]
-  }
+  },
+  "successors": [
+    "ECON 112",
+    "ECON 120C",
+    "ECON 122",
+    "ECON 125",
+    "ECON 147",
+    "ECON 173A",
+    "MATH 185",
+    "MGT 100"
+  ]
 }

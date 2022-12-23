@@ -13,5 +13,19 @@
       "CHEM 40BH",
       "CHEM 140BH"
     ]
-  }
+  },
+  "successors": [
+    "CHEM 113",
+    "CHEM 116",
+    "CHEM 119",
+    "CHEM 143D",
+    "CHEM 146",
+    "CHEM 152",
+    "CHEM 154",
+    "CHEM 156",
+    "CHEM 157",
+    "CHEM 158",
+    "CHEM 167",
+    "CHEM 168"
+  ]
 }

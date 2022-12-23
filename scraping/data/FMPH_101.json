@@ -18,5 +18,12 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "FMPH 130",
+    "FMPH 171",
+    "FMPH 193",
+    "FMPH 194",
+    "FMPH 196A"
+  ]
 }

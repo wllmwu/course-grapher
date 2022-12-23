@@ -11,5 +11,11 @@
       "CSE 8B",
       "CSE 11"
     ]
-  }
+  },
+  "successors": [
+    "CSE 105",
+    "CSE 140",
+    "CSE 140L",
+    "CSE 21"
+  ]
 }

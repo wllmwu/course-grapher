@@ -4,5 +4,8 @@
   "units": "4",
   "dept": "PSYC",
   "anchor": "psyc2",
-  "description": "This course provides an introductory survey of the relationship between human behavior and brain function. Specific areas of emphasis include vision and other sensory processes, memory, motivation, attention, and cognition."
+  "description": "This course provides an introductory survey of the relationship between human behavior and brain function. Specific areas of emphasis include vision and other sensory processes, memory, motivation, attention, and cognition.",
+  "successors": [
+    "PSYC 171"
+  ]
 }

@@ -5,5 +5,8 @@
   "dept": "CLRE",
   "anchor": "clre262",
   "description": "Course will introduce the R Statistical Platform and help to build proficiency for data analysis. Students will perform their own analysis of the data, using linear regression methods, ANOVA, logistic regression, and regression methods for survival data. They will understand the assumptions, areas of applicability, and limitations of these statistical methods. Prerequisites: CLRE 253.",
-  "prereqs": "CLRE 253"
+  "prereqs": "CLRE 253",
+  "successors": [
+    "CLRE 267"
+  ]
 }

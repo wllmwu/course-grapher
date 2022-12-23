@@ -19,5 +19,8 @@
       "ECE 45",
       "ECE 65"
     ]
-  }
+  },
+  "successors": [
+    "CSE 118"
+  ]
 }

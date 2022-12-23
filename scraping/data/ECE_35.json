@@ -13,5 +13,15 @@
       "MATH 20B",
       "PHYS 2A"
     ]
-  }
+  },
+  "successors": [
+    "BENG 186B",
+    "CSE 194",
+    "ECE 118",
+    "ECE 121A",
+    "ECE 148",
+    "ECE 45",
+    "ECE 65",
+    "MAE 148"
+  ]
 }

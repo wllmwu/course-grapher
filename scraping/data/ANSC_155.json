@@ -12,5 +12,9 @@
       "ANSC 123",
       "ANSC 148"
     ]
-  }
+  },
+  "successors": [
+    "ANSC 190GS",
+    "ANSC 191GS"
+  ]
 }

@@ -11,5 +11,11 @@
       "MATH 10A",
       "MATH 20A"
     ]
-  }
+  },
+  "successors": [
+    "EDS 105",
+    "ESYS 102",
+    "PHYS 1B",
+    "PHYS 1BL"
+  ]
 }

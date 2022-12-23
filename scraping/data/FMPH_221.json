@@ -4,5 +4,18 @@
   "units": "4",
   "dept": "FMPH",
   "anchor": "fmph221",
-  "description": "Introductory graduate course on the analysis of biomedical data using the R statistical software. Topics include t-tests, ANOVAs, linear regression, model diagnostics, model building and selection, interaction, confounding, multiple comparisons, and robust tests based on ranks and resampling. Prerequisites: biostatistics major or program approval."
+  "description": "Introductory graduate course on the analysis of biomedical data using the R statistical software. Topics include t-tests, ANOVAs, linear regression, model diagnostics, model building and selection, interaction, confounding, multiple comparisons, and robust tests based on ranks and resampling. Prerequisites: biostatistics major or program approval.",
+  "successors": [
+    "BNFO 286",
+    "FMPH 222",
+    "FMPH 224",
+    "FMPH 225",
+    "FMPH 226",
+    "FMPH 227",
+    "FMPH 241",
+    "FMPH 242",
+    "FMPH 243A",
+    "FMPH 243B",
+    "FMPH 243C"
+  ]
 }

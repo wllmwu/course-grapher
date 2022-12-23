@@ -4,5 +4,12 @@
   "units": "2",
   "dept": "CLRE",
   "anchor": "clre253",
-  "description": "Scholars will understand principles of measurement of clinical data, recognize data types, and correctly identify statistical methods appropriate for analysis of a given clinical data set. They will gain experience in assembling a clinical dataset in formats suitable for analysis by STATA or other comparable statistical packages. They will learn skills to conduct graphical and numerical exploratory data analysis, comparative tests of categorical, ordinal, and continuous data, linear and logistic regression analysis, and survival analysis by life table and Kaplan-Meier techniques. Class sessions may also be offered live via distance learning with established remote site."
+  "description": "Scholars will understand principles of measurement of clinical data, recognize data types, and correctly identify statistical methods appropriate for analysis of a given clinical data set. They will gain experience in assembling a clinical dataset in formats suitable for analysis by STATA or other comparable statistical packages. They will learn skills to conduct graphical and numerical exploratory data analysis, comparative tests of categorical, ordinal, and continuous data, linear and logistic regression analysis, and survival analysis by life table and Kaplan-Meier techniques. Class sessions may also be offered live via distance learning with established remote site.",
+  "successors": [
+    "CLRE 254",
+    "CLRE 262",
+    "CLRE 263",
+    "CLRE 265",
+    "CLRE 267"
+  ]
 }

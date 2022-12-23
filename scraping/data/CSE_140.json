@@ -20,5 +20,13 @@
       "CSE 30"
     ]
   },
-  "coreqs": "CSE 140L"
+  "coreqs": "CSE 140L",
+  "successors": [
+    "CSE 141",
+    "CSE 141L",
+    "CSE 143",
+    "CSE 241A",
+    "ECE 108",
+    "ECE 111"
+  ]
 }

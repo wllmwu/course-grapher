@@ -11,5 +11,9 @@
       "LISL 1A",
       "LISL 1AX"
     ]
-  }
+  },
+  "successors": [
+    "LISL 1C",
+    "LISL 1CX"
+  ]
 }

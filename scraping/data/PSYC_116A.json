@@ -11,5 +11,8 @@
       "PSYC 70",
       "PSYC 100"
     ]
-  }
+  },
+  "successors": [
+    "PSYC 116B"
+  ]
 }

@@ -12,5 +12,8 @@
       "HITO 104",
       "HITO 105"
     ]
-  }
+  },
+  "successors": [
+    "JWSP 196B"
+  ]
 }

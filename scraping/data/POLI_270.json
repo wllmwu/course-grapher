@@ -4,5 +4,8 @@
   "units": "4",
   "dept": "POLI",
   "anchor": "poli270",
-  "description": "This course reviews essential calculus and linear algebra and introduces probability theory (probability rules, random variables, univariate and multivariate distributions) and mathematical statistics (sampling distributions, estimation and inference frameworks). Prerequisites: graduate standing."
+  "description": "This course reviews essential calculus and linear algebra and introduces probability theory (probability rules, random variables, univariate and multivariate distributions) and mathematical statistics (sampling distributions, estimation and inference frameworks). Prerequisites: graduate standing.",
+  "successors": [
+    "POLI 260"
+  ]
 }

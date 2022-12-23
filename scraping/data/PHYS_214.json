@@ -5,5 +5,9 @@
   "dept": "PHYS",
   "anchor": "phys214",
   "description": "Classification of particles using symmetries and invariance principles, quarks and leptons, quantum electrodynamics, weak interactions, e+p- interactions, deep-inelastic lepton-nucleon scattering, pp collisions, introduction to QCD. Prerequisites: PHYS 215A.",
-  "prereqs": "PHYS 215A"
+  "prereqs": "PHYS 215A",
+  "successors": [
+    "PHYS 222A",
+    "PHYS 233"
+  ]
 }

@@ -11,5 +11,8 @@
       "SIOC 200A",
       "SIO 200A"
     ]
-  }
+  },
+  "successors": [
+    "SIOC 200C"
+  ]
 }

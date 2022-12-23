@@ -11,5 +11,11 @@
       "LIIT 1B",
       "LIIT 1BX"
     ]
-  }
+  },
+  "successors": [
+    "LIIT 1D",
+    "LIIT 1DX",
+    "LIIT 5DS",
+    "LTIT 2A"
+  ]
 }

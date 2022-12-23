@@ -13,5 +13,13 @@
       "CHEM 140A",
       "CHEM 140AH"
     ]
-  }
+  },
+  "successors": [
+    "BIMM 100",
+    "CHEM 114B",
+    "CHEM 142",
+    "CHEM 143C",
+    "CHEM 145",
+    "CHEM 40CH"
+  ]
 }

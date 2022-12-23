@@ -4,5 +4,8 @@
   "units": "?",
   "dept": "USP",
   "anchor": "usp141a",
-  "description": "This course introduces students to major concepts, demographic trends, and the diversity of the aging experience. Through site visits, community-based research, and interactions with elders, students will understand the social and structural determinants of health and well-being across the life course. Prerequisites: upper-division standing and department approval."
+  "description": "This course introduces students to major concepts, demographic trends, and the diversity of the aging experience. Through site visits, community-based research, and interactions with elders, students will understand the social and structural determinants of health and well-being across the life course. Prerequisites: upper-division standing and department approval.",
+  "successors": [
+    "USP 141B"
+  ]
 }

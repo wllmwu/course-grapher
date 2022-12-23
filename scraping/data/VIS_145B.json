@@ -11,5 +11,9 @@
       "VIS 145A",
       "ICAM 102"
     ]
-  }
+  },
+  "successors": [
+    "MUS 160A",
+    "VIS 160A"
+  ]
 }

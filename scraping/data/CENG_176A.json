@@ -12,5 +12,8 @@
       "CENG 122",
       "MAE 170"
     ]
-  }
+  },
+  "successors": [
+    "CENG 176B"
+  ]
 }

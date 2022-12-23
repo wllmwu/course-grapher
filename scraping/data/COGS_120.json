@@ -25,5 +25,14 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "COGS 121",
+    "COGS 122",
+    "COGS 123",
+    "COGS 124",
+    "COGS 125",
+    "COGS 126",
+    "CSE 176A"
+  ]
 }

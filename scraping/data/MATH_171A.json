@@ -18,5 +18,9 @@
       },
       "MATH 20C"
     ]
-  }
+  },
+  "successors": [
+    "ECON 172B",
+    "MATH 171B"
+  ]
 }

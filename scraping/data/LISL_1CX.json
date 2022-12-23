@@ -11,5 +11,12 @@
       "LISL 1B",
       "LISL 1BX"
     ]
-  }
+  },
+  "successors": [
+    "LIGN 144",
+    "LIGN 146",
+    "LIGN 148",
+    "LISL 1D",
+    "LISL 1DX"
+  ]
 }

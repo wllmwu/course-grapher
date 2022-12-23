@@ -4,5 +4,8 @@
   "units": "4",
   "dept": "USP",
   "anchor": "usp152",
-  "description": "This course investigates the institutions, instruments, and structures by which investment in real estate is financed. It reviews capital markets, the sources and uses of real estate funds, and the role of government in real estate finance. Prerequisites: upper-division standing."
+  "description": "This course investigates the institutions, instruments, and structures by which investment in real estate is financed. It reviews capital markets, the sources and uses of real estate funds, and the role of government in real estate finance. Prerequisites: upper-division standing.",
+  "successors": [
+    "USP 185A"
+  ]
 }

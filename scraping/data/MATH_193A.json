@@ -11,5 +11,8 @@
       "MATH 180A",
       "MATH 183"
     ]
-  }
+  },
+  "successors": [
+    "MATH 193B"
+  ]
 }

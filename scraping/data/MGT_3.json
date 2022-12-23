@@ -4,5 +4,11 @@
   "units": "4",
   "dept": "MGT",
   "anchor": "mgt3",
-  "description": "Introduction to techniques to develop/analyze data for informed tactical and strategic management decisions: statistical inference, probability, regression analysis, and optimization. Using these analytic approaches, theory-based formulas, and spreadsheets, students explore managerial applications across all areas of business activity."
+  "description": "Introduction to techniques to develop/analyze data for informed tactical and strategic management decisions: statistical inference, probability, regression analysis, and optimization. Using these analytic approaches, theory-based formulas, and spreadsheets, students explore managerial applications across all areas of business activity.",
+  "successors": [
+    "CSS 2",
+    "MGT 153",
+    "MGT 160",
+    "MGT 181"
+  ]
 }

@@ -13,5 +13,8 @@
       "LISP 1D",
       "LISP 1DX"
     ]
-  }
+  },
+  "successors": [
+    "LTSP 2B"
+  ]
 }

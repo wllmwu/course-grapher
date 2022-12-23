@@ -12,5 +12,8 @@
       "BENG 152",
       "BENG 168"
     ]
-  }
+  },
+  "successors": [
+    "BENG 187B"
+  ]
 }

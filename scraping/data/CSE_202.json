@@ -5,5 +5,12 @@
   "dept": "CSE",
   "anchor": "cse202",
   "description": "The basic techniques for the design and analysis of algorithms. Divide-and-conquer, dynamic programming, data structures, graph search, algebraic problems, randomized algorithms, lower bounds, probabilistic analysis, parallel algorithms. Prerequisites: CSE 101 or equivalent.",
-  "prereqs": "CSE 101"
+  "prereqs": "CSE 101",
+  "successors": [
+    "CSE 203A",
+    "CSE 206A",
+    "CSE 207",
+    "CSE 208",
+    "CSE 280A"
+  ]
 }

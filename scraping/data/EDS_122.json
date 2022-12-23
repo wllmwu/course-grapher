@@ -11,5 +11,9 @@
       "EDS 31",
       "CHEM 87"
     ]
-  }
+  },
+  "successors": [
+    "CHEM 188",
+    "EDS 123"
+  ]
 }

@@ -38,5 +38,11 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "PHYS 100B",
+    "PHYS 130A",
+    "PHYS 137",
+    "PHYS 175"
+  ]
 }

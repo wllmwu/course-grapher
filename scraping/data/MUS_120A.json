@@ -11,5 +11,8 @@
       "MUS 1C",
       "MUS 2C"
     ]
-  }
+  },
+  "successors": [
+    "MUS 120B"
+  ]
 }

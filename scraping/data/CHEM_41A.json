@@ -11,5 +11,14 @@
       "CHEM 6B",
       "CHEM 6BH"
     ]
-  }
+  },
+  "successors": [
+    "CHEM 114A",
+    "CHEM 120A",
+    "CHEM 141",
+    "CHEM 151",
+    "CHEM 41B",
+    "CHEM 43A",
+    "CHEM 43AM"
+  ]
 }

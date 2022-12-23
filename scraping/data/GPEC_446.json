@@ -11,5 +11,10 @@
       "GPCO 453",
       "GPCO 454"
     ]
-  }
+  },
+  "successors": [
+    "GPCO 468",
+    "GPEC 464",
+    "GPPA 460"
+  ]
 }

@@ -4,5 +4,8 @@
   "units": "4",
   "dept": "LATI",
   "anchor": "lati222a",
-  "description": "Survey of methods used by social and health scientists to gather primary data on international migrant and refugee populations, including sample surveys, unstructured interviewing, and ethnographic observation. Students serve as team leaders, design questionnaires, and conduct literature reviews. Prerequisites: permission of instructor, advanced competence in conversational Spanish (department authorization required)."
+  "description": "Survey of methods used by social and health scientists to gather primary data on international migrant and refugee populations, including sample surveys, unstructured interviewing, and ethnographic observation. Students serve as team leaders, design questionnaires, and conduct literature reviews. Prerequisites: permission of instructor, advanced competence in conversational Spanish (department authorization required).",
+  "successors": [
+    "LATI 222B"
+  ]
 }

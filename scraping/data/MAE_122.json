@@ -11,5 +11,8 @@
       "MAE 101A",
       "CENG 101A"
     ]
-  }
+  },
+  "successors": [
+    "MAE 121"
+  ]
 }

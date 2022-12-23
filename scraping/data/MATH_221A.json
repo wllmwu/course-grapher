@@ -11,5 +11,8 @@
       "MATH 200A",
       "MATH 220C"
     ]
-  }
+  },
+  "successors": [
+    "MATH 221B"
+  ]
 }

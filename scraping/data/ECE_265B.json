@@ -11,5 +11,10 @@
       "ECE 166",
       "ECE 265A"
     ]
-  }
+  },
+  "successors": [
+    "ECE 265C",
+    "ECE 265D",
+    "ECE 266"
+  ]
 }

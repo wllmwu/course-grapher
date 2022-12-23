@@ -11,5 +11,8 @@
       "EDS 342A",
       "EDS 361A"
     ]
-  }
+  },
+  "successors": [
+    "EDS 342C"
+  ]
 }

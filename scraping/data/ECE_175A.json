@@ -11,5 +11,11 @@
       "ECE 109",
       "ECE 174"
     ]
-  }
+  },
+  "successors": [
+    "COGS 118A",
+    "COGS 181",
+    "COGS 182",
+    "ECE 175B"
+  ]
 }

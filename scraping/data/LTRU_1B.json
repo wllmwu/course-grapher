@@ -5,5 +5,8 @@
   "dept": "LIT",
   "anchor": "ltru1b",
   "description": "First-year Russian, with attention to reading, writing, and speaking.   Prerequisites:   LTRU 1A or its equivalent or consent of instructor.",
-  "prereqs": "LTRU 1A"
+  "prereqs": "LTRU 1A",
+  "successors": [
+    "LTRU 1C"
+  ]
 }

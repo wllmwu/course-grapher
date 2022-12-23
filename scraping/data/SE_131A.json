@@ -19,5 +19,9 @@
       }
     ]
   },
-  "coreqs": "SE 130B"
+  "coreqs": "SE 130B",
+  "successors": [
+    "SE 131B",
+    "SE 168"
+  ]
 }

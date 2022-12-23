@@ -18,5 +18,20 @@
       "PHYS 2B",
       "MATH 20D"
     ]
-  }
+  },
+  "successors": [
+    "CHEM 100B",
+    "CHEM 126A",
+    "CHEM 130",
+    "CHEM 131",
+    "ECE 103",
+    "ECE 134",
+    "ECE 187",
+    "EDS 105",
+    "PHYS 139",
+    "PHYS 160",
+    "PHYS 161",
+    "PHYS 163",
+    "PHYS 164"
+  ]
 }

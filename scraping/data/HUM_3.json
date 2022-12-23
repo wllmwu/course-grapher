@@ -11,5 +11,8 @@
       "HUM 1",
       "HUM 2"
     ]
-  }
+  },
+  "successors": [
+    "HITO 106"
+  ]
 }

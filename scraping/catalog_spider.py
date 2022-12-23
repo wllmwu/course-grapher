@@ -18,16 +18,16 @@ class CatalogSpider(scrapy.Spider):
         }
     }
 
-    def __init__(self, dry_run=None, *args, **kwargs):
+    def __init__(self, dry_run=None, metrics: ScrapingMetrics = None, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.metrics = ScrapingMetrics()
+        if metrics is None:
+            self.metrics = ScrapingMetrics()
+        else:
+            self.metrics = metrics
         self.parser = CourseInfoParser(self.logger, self.metrics)
         self.dry_run = bool(dry_run)
         if self.dry_run:
             self.logger.info('This is a dry run! No data will be written')
-
-    def closed(self, reason):
-        self.metrics.pretty_print()
 
     def parse(self, response):
         selectors = response.css('span.courseFacLink').xpath(

@@ -5,5 +5,12 @@
   "dept": "ECE",
   "anchor": "ece101",
   "description": "Complex variables. Singularities and residues. Signal and system analysis in continuous and discrete time. Fourier series and transforms. Laplace and z-transforms. Linear Time Invariant Systems. Impulse response, frequency response, and transfer functions. Poles and zeros. Stability. Convolution. Sampling. Aliasing. Prerequisites: ECE 45.",
-  "prereqs": "ECE 45"
+  "prereqs": "ECE 45",
+  "successors": [
+    "ECE 155",
+    "ECE 161A",
+    "ECE 163",
+    "ECE 172A",
+    "ECE 187"
+  ]
 }

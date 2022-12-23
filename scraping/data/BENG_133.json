@@ -11,5 +11,9 @@
       "MATH 20D",
       "MATH 18"
     ]
-  }
+  },
+  "successors": [
+    "BENG 135",
+    "BENG 189"
+  ]
 }

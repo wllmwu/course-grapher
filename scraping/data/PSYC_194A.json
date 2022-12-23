@@ -12,5 +12,9 @@
       "PSYC 111A",
       "PSYC 111B"
     ]
-  }
+  },
+  "successors": [
+    "PSYC 194B",
+    "PSYC 194C"
+  ]
 }

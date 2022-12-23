@@ -13,5 +13,9 @@
       "CSE 140L"
     ]
   },
-  "coreqs": "CSE 141L"
+  "coreqs": "CSE 141L",
+  "successors": [
+    "CSE 148",
+    "CSE 240A"
+  ]
 }

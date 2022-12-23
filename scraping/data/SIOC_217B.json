@@ -11,5 +11,12 @@
       "SIOC 217A",
       "SIO 217A"
     ]
-  }
+  },
+  "successors": [
+    "SIOC 217C",
+    "SIOC 217D",
+    "SIOC 218",
+    "SIOC 235",
+    "SIOC 250"
+  ]
 }

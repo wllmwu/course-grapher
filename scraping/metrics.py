@@ -11,7 +11,8 @@ class ScrapingMetrics:
             'missing_anchors': 0,
             'missing_descriptions': 0,
             'with_prerequisites': 0,
-            'with_corequisites': 0
+            'with_corequisites': 0,
+            'with_successors': 0
         }
 
     def set_departments(self, n):
@@ -44,6 +45,9 @@ class ScrapingMetrics:
     def inc_with_corequisites(self):
         self.metrics['with_corequisites'] += 1
 
+    def inc_with_successors(self):
+        self.metrics['with_successors'] += 1
+
     def get_departments(self):
         return self.metrics['departments']
 
@@ -74,6 +78,9 @@ class ScrapingMetrics:
     def get_with_corequisites(self):
         return self.metrics['with_corequisites']
 
+    def get_with_successors(self):
+        return self.metrics['with_successors']
+
     def pretty_print(self):
         print('Scraping statistics:')
         print('Found %d departments, %d courses.' %
@@ -90,3 +97,4 @@ class ScrapingMetrics:
               self.get_missing_descriptions())
         print('%d courses had prerequisites' % self.get_with_prerequisites())
         print('%d courses had corequisites' % self.get_with_corequisites())
+        print('%d courses had successors' % self.get_with_successors())

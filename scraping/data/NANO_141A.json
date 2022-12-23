@@ -11,5 +11,8 @@
       "MATH 20C",
       "PHYS 2A"
     ]
-  }
+  },
+  "successors": [
+    "NANO 141B"
+  ]
 }

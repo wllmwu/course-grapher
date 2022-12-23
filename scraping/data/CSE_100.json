@@ -27,5 +27,29 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "BENG 181",
+    "BENG 182",
+    "BIMM 181",
+    "BIMM 182",
+    "CSE 101",
+    "CSE 110",
+    "CSE 130",
+    "CSE 131",
+    "CSE 132A",
+    "CSE 134B",
+    "CSE 135",
+    "CSE 142",
+    "CSE 142L",
+    "CSE 150B",
+    "CSE 160",
+    "CSE 166",
+    "CSE 167",
+    "CSE 181",
+    "CSE 182",
+    "CSE 210",
+    "CSE 231",
+    "CSE 232"
+  ]
 }

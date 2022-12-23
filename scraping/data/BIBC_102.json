@@ -25,5 +25,21 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "BIBC 120",
+    "BIBC 151",
+    "BIBC 194",
+    "BICD 110",
+    "BICD 130",
+    "BIMM 110",
+    "BIMM 118",
+    "BIMM 120",
+    "BIMM 124",
+    "BIMM 130",
+    "BIOM 266",
+    "BIPN 108",
+    "BIPN 150",
+    "CHEM 164"
+  ]
 }

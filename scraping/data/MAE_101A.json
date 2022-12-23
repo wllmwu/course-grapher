@@ -24,5 +24,18 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "BENG 103B",
+    "MAE 101B",
+    "MAE 101C",
+    "MAE 104",
+    "MAE 113",
+    "MAE 118",
+    "MAE 120",
+    "MAE 122",
+    "MAE 126A",
+    "MAE 171A",
+    "MAE 210B"
+  ]
 }

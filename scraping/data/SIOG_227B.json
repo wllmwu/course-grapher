@@ -11,5 +11,8 @@
       "SIOG 227A",
       "SIO 227A"
     ]
-  }
+  },
+  "successors": [
+    "SIOG 227C"
+  ]
 }

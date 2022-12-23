@@ -5,5 +5,8 @@
   "dept": "ECE",
   "anchor": "ece258b",
   "description": "Digital communication theory including performance of various modulation techniques, effects of intersymbol interference, adaptive equalization, spread spectrum communication. Recommended preparation: ECE 155. Prerequisites: ECE 250; graduate standing.",
-  "prereqs": "ECE 250"
+  "prereqs": "ECE 250",
+  "successors": [
+    "ECE 258B"
+  ]
 }

@@ -4,5 +4,8 @@
   "units": "4",
   "dept": "MGT",
   "anchor": "mgt407",
-  "description": "By taking an analytical approach to the study of marketing problems, this course provides an understanding of customers and competitors as a basis for developing, pricing, promoting, and distributing goods and services that satisfy customer and organizational objectives. Letter grades only. Prerequisites: MBA student or department stamp."
+  "description": "By taking an analytical approach to the study of marketing problems, this course provides an understanding of customers and competitors as a basis for developing, pricing, promoting, and distributing goods and services that satisfy customer and organizational objectives. Letter grades only. Prerequisites: MBA student or department stamp.",
+  "successors": [
+    "MGT 479"
+  ]
 }

@@ -11,5 +11,8 @@
       "NANO 108",
       "NANO 148"
     ]
-  }
+  },
+  "successors": [
+    "NANO 158L"
+  ]
 }

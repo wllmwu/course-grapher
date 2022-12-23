@@ -11,5 +11,8 @@
       "SIO 295S",
       "SIO 295LS"
     ]
-  }
+  },
+  "successors": [
+    "MBC 259"
+  ]
 }

@@ -18,6 +18,25 @@ export const readDataFile: (filePath: string) => Promise<string> = async (
 };
 
 /**
+ * Reads the data directory and extracts all course codes
+ *
+ * @returns A `Promise` which resolves to a string array containing all
+ * slugified course codes in the data set
+ */
+export const getCourseCodeSlugs: () => Promise<string[]> = async () => {
+  const slugs = await readDataDirectory();
+  let index = slugs.indexOf("departments.json");
+  if (index != -1) {
+    slugs.splice(index, 1);
+  }
+  index = slugs.indexOf("statistics.json");
+  if (index != -1) {
+    slugs.splice(index, 1);
+  }
+  return slugs.map((slug) => slug.slice(0, -5)); // remove ".json"
+};
+
+/**
  * Reads the contents of the `scraping/data` directory. Uses the `fs` Promises
  * API--see documentation below:
  *

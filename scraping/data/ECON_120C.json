@@ -11,5 +11,11 @@
       "ECON 120B",
       "MATH 181B"
     ]
-  }
+  },
+  "successors": [
+    "ECON 121",
+    "ECON 137",
+    "ECON 176",
+    "ECON 178"
+  ]
 }

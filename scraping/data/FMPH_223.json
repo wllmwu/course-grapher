@@ -19,5 +19,9 @@
       },
       "MATH 282B"
     ]
-  }
+  },
+  "successors": [
+    "FMPH 225",
+    "FMPH 226"
+  ]
 }

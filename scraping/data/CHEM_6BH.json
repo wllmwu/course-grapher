@@ -11,5 +11,15 @@
       "CHEM 6AH",
       "MATH 20A"
     ]
-  }
+  },
+  "successors": [
+    "CHEM 40A",
+    "CHEM 41A",
+    "CHEM 6C",
+    "CHEM 6CH",
+    "CHEM 7L",
+    "CHEM 7LM",
+    "NANO 159",
+    "SIO 107"
+  ]
 }

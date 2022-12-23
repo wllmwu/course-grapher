@@ -11,5 +11,8 @@
       "TDDR 108",
       "TDHT 10"
     ]
-  }
+  },
+  "successors": [
+    "TDDR 190"
+  ]
 }

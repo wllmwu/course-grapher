@@ -12,5 +12,8 @@
       "VIS 70N",
       "VIS 80"
     ]
-  }
+  },
+  "successors": [
+    "VIS 147B"
+  ]
 }

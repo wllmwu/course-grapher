@@ -19,5 +19,12 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "ECON 103",
+    "ECON 111",
+    "ECON 112",
+    "ECON 146",
+    "ECON 183"
+  ]
 }

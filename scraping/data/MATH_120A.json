@@ -11,5 +11,9 @@
       "MATH 20E",
       "MATH 31CH"
     ]
-  }
+  },
+  "successors": [
+    "MATH 120B",
+    "SIOC 203A"
+  ]
 }

@@ -11,5 +11,10 @@
       "ECE 45",
       "MAE 140"
     ]
-  }
+  },
+  "successors": [
+    "ECE 171B",
+    "MAE 142",
+    "MAE 144"
+  ]
 }

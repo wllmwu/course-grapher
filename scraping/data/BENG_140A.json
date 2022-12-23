@@ -26,5 +26,11 @@
       "BILD 1",
       "BENG 102"
     ]
-  }
+  },
+  "successors": [
+    "BENG 140B",
+    "BENG 189",
+    "BENG 193",
+    "BIPN 156"
+  ]
 }

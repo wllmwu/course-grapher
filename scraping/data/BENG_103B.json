@@ -12,5 +12,8 @@
       "MAE 101A",
       "BENG 112A"
     ]
-  }
+  },
+  "successors": [
+    "BENG 166A"
+  ]
 }

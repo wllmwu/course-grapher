@@ -11,5 +11,8 @@
       "CHIN 12",
       "CHIN 10BM"
     ]
-  }
+  },
+  "successors": [
+    "CHIN 20AM"
+  ]
 }

@@ -4,5 +4,8 @@
   "units": "4",
   "dept": "THEA",
   "anchor": "tdht10",
-  "description": "An introduction to the fundamental techniques of analyzing dramatic texts. Focus is on the student\u2019s ability to describe textual elements and their relationships to each other as well as on strategies for writing critically about drama. Prerequisites: none."
+  "description": "An introduction to the fundamental techniques of analyzing dramatic texts. Focus is on the student\u2019s ability to describe textual elements and their relationships to each other as well as on strategies for writing critically about drama. Prerequisites: none.",
+  "successors": [
+    "TDDR 111"
+  ]
 }

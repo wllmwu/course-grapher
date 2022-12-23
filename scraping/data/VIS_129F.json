@@ -16,5 +16,12 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "VIS 129A",
+    "VIS 129B",
+    "VIS 129C",
+    "VIS 129E",
+    "VIS 129F"
+  ]
 }

@@ -11,5 +11,8 @@
       "ECON 2",
       "ECON 100A"
     ]
-  }
+  },
+  "successors": [
+    "ECON 132"
+  ]
 }

@@ -23,5 +23,22 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "BENG 120",
+    "BENG 130",
+    "BENG 140A",
+    "BIPN 106",
+    "CENG 100",
+    "CHEM 40A",
+    "CHEM 41A",
+    "CHEM 6C",
+    "CHEM 7L",
+    "CHEM 7LM",
+    "NANO 101",
+    "NANO 159",
+    "SIO 102",
+    "SIO 107",
+    "SIO 138"
+  ]
 }

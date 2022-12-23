@@ -13,5 +13,8 @@
       "CHEM 114A",
       "CHEM 114B"
     ]
-  }
+  },
+  "successors": [
+    "BICD 194"
+  ]
 }

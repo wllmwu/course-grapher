@@ -11,5 +11,10 @@
       "MATH 142A",
       "MATH 140A"
     ]
-  }
+  },
+  "successors": [
+    "MATH 144",
+    "MATH 146",
+    "MATH 148"
+  ]
 }

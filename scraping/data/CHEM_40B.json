@@ -12,5 +12,18 @@
       "CHEM 140A",
       "CHEM 40A"
     ]
-  }
+  },
+  "successors": [
+    "BENG 123",
+    "BIBC 100",
+    "BIBC 102",
+    "BIMM 100",
+    "CHEM 114B",
+    "CHEM 142",
+    "CHEM 143B",
+    "CHEM 143C",
+    "CHEM 145",
+    "CHEM 40C",
+    "CHEM 40CH"
+  ]
 }

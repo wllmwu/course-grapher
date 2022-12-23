@@ -11,5 +11,11 @@
       "MATH 31CH",
       "MATH 109"
     ]
-  }
+  },
+  "successors": [
+    "CSE 105",
+    "MATH 103B",
+    "MATH 160A",
+    "MATH 188"
+  ]
 }

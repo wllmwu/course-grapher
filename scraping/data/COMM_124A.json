@@ -15,5 +15,9 @@
       "POLI 10D",
       "USP 1"
     ]
-  }
+  },
+  "successors": [
+    "COMM 124B",
+    "DSGN 119"
+  ]
 }

@@ -12,5 +12,8 @@
       "LTWR 8B",
       "LTWR 8C"
     ]
-  }
+  },
+  "successors": [
+    "LTWR 129"
+  ]
 }

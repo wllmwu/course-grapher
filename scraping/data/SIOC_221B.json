@@ -11,5 +11,8 @@
       "SIOC 221A",
       "SIO 221A"
     ]
-  }
+  },
+  "successors": [
+    "SIOC 221C"
+  ]
 }

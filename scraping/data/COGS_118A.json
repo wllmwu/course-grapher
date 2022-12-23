@@ -39,5 +39,11 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "COGS 181",
+    "COGS 185",
+    "COGS 188",
+    "COGS 189"
+  ]
 }

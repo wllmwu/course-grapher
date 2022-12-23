@@ -4,5 +4,8 @@
   "units": "4",
   "dept": "ECE",
   "anchor": "ece238a",
-  "description": "The thermodynamics and statistical mechanics of solids. Basic concepts, equilibrium properties of alloy systems, thermodynamic information from phase diagrams, surfaces and interfaces, crystalline defects. Cross-listed with Materials Science 201A and MAE 271A. Prerequisites: consent of instructor."
+  "description": "The thermodynamics and statistical mechanics of solids. Basic concepts, equilibrium properties of alloy systems, thermodynamic information from phase diagrams, surfaces and interfaces, crystalline defects. Cross-listed with Materials Science 201A and MAE 271A. Prerequisites: consent of instructor.",
+  "successors": [
+    "ECE 238B"
+  ]
 }

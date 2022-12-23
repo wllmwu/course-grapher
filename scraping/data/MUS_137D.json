@@ -12,5 +12,8 @@
       "MUS 137B",
       "MUS 137C"
     ]
-  }
+  },
+  "successors": [
+    "MUS 137E"
+  ]
 }

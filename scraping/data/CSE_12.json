@@ -11,5 +11,25 @@
       "CSE 8B",
       "CSE 11"
     ]
-  }
+  },
+  "successors": [
+    "CSE 100",
+    "CSE 100R",
+    "CSE 105",
+    "CSE 130",
+    "CSE 150A",
+    "CSE 150B",
+    "CSE 151A",
+    "CSE 152A",
+    "CSE 156",
+    "CSE 158",
+    "CSE 158R",
+    "CSE 15L",
+    "CSE 170",
+    "CSE 185",
+    "CSE 194",
+    "CSE 30",
+    "CSE 86",
+    "DSC 148"
+  ]
 }

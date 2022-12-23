@@ -11,5 +11,8 @@
       "CHIN 12",
       "CHIN 10BD"
     ]
-  }
+  },
+  "successors": [
+    "CHIN 20AD"
+  ]
 }

@@ -13,5 +13,9 @@
       "VIS 147B",
       "MUS 172"
     ]
-  }
+  },
+  "successors": [
+    "MUS 160B",
+    "VIS 160B"
+  ]
 }

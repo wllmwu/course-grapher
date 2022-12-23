@@ -23,5 +23,14 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "CHEM 100B",
+    "CHEM 105A",
+    "MAE 170",
+    "PHYS 120",
+    "PHYS 133",
+    "PHYS 1CL",
+    "PHYS 2DL"
+  ]
 }

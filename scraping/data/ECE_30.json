@@ -11,5 +11,10 @@
       "ECE 15",
       "ECE 25"
     ]
-  }
+  },
+  "successors": [
+    "ECE 108",
+    "ECE 118",
+    "ECE 141A"
+  ]
 }

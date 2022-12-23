@@ -20,5 +20,16 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "CSE 150A",
+    "CSE 150B",
+    "CSE 151A",
+    "CSE 151B",
+    "CSE 156",
+    "CSE 158",
+    "CSE 158R",
+    "DSC 148",
+    "MATH 189"
+  ]
 }

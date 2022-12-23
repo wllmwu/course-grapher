@@ -15,5 +15,9 @@
       "MMW 2",
       "WCWP 10B"
     ]
-  }
+  },
+  "successors": [
+    "CSE 170",
+    "ENG 100L"
+  ]
 }

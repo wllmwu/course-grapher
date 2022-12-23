@@ -11,5 +11,9 @@
       "EDS 30",
       "MATH 95"
     ]
-  }
+  },
+  "successors": [
+    "EDS 121B",
+    "MATH 121B"
+  ]
 }

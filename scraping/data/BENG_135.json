@@ -11,5 +11,8 @@
       "ECE 45",
       "BENG 133"
     ]
-  }
+  },
+  "successors": [
+    "BENG 189"
+  ]
 }

@@ -12,5 +12,8 @@
       "ECON 210B",
       "ECON 210C"
     ]
-  }
+  },
+  "successors": [
+    "ECON 201"
+  ]
 }

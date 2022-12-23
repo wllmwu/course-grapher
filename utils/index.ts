@@ -9,8 +9,15 @@ export const getCourseCodeDigits: (course: Course) => string = (course) => {
 };
 
 export const courseComparator: (a: Course, b: Course) => number = (a, b) => {
-  const [aSubject, aNumber] = a.code.split(" ");
-  const [bSubject, bNumber] = b.code.split(" ");
+  return courseCodeComparator(a.code, b.code);
+};
+
+export const courseCodeComparator: (a: string, b: string) => number = (
+  a,
+  b
+) => {
+  const [aSubject, aNumber] = a.split(" ");
+  const [bSubject, bNumber] = b.split(" ");
   if (aSubject !== bSubject) {
     return aSubject.localeCompare(bSubject);
   }

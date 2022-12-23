@@ -11,5 +11,9 @@
       "LTIT 2A",
       "LTIT 2B"
     ]
-  }
+  },
+  "successors": [
+    "LTIT 100",
+    "LTIT 122"
+  ]
 }

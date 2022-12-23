@@ -25,5 +25,15 @@
         ]
       }
     ]
-  }
+  },
+  "successors": [
+    "BENG 134",
+    "BENG 141",
+    "BENG 160",
+    "BENG 168",
+    "CSE 158",
+    "CSE 158R",
+    "MGT 153",
+    "MGT 160"
+  ]
 }

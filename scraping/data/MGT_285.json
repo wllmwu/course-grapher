@@ -12,5 +12,9 @@
       "ECON 220B",
       "ECON 220C"
     ]
-  }
+  },
+  "successors": [
+    "MGT 286",
+    "MGT 287"
+  ]
 }

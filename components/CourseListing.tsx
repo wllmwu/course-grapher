@@ -9,15 +9,25 @@ interface CourseListingProps {
 }
 
 function CourseListing({ course }: CourseListingProps) {
+  // TODO: pluralize "unit(s)" when possible
   return (
-    <>
+    <div id={slugifyCourseCode(course.code)}>
       <Link href={`/courses/${slugifyCourseCode(course.code)}`}>
         <a>
           <h3>{`${course.code}. ${course.title} (${course.units} units)`}</h3>
         </a>
       </Link>
+      {course.successors && (
+        <p>
+          <strong>
+            {`Prerequisite to ${course.successors.length} other course${
+              course.successors.length !== 1 ? "s" : ""
+            }`}
+          </strong>
+        </p>
+      )}
       <CourseDescription text={course.description} />
-    </>
+    </div>
   );
 }
 

@@ -11,5 +11,8 @@
       "MATH 10A",
       "MATH 20A"
     ]
-  }
+  },
+  "successors": [
+    "PHYS 1BL"
+  ]
 }

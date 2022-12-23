@@ -11,5 +11,9 @@
       "MAE 294A",
       "SIO 203A"
     ]
-  }
+  },
+  "successors": [
+    "MAE 294C",
+    "SIOC 203C"
+  ]
 }

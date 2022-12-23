@@ -17,5 +17,11 @@
       },
       "ECE 15"
     ]
-  }
+  },
+  "successors": [
+    "COGS 118A",
+    "COGS 181",
+    "COGS 182",
+    "ECE 175A"
+  ]
 }

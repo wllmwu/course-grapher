@@ -24,5 +24,8 @@
       },
       "MATH 20C"
     ]
-  }
+  },
+  "successors": [
+    "MAE 160"
+  ]
 }

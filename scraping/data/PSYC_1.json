@@ -4,5 +4,9 @@
   "units": "4",
   "dept": "PSYC",
   "anchor": "psyc1",
-  "description": "This course provides an overview of the basic concepts in psychology. Topics may include human information processing, learning and memory, motivation, development, language acquisition, social psychology, and personality."
+  "description": "This course provides an overview of the basic concepts in psychology. Topics may include human information processing, learning and memory, motivation, development, language acquisition, social psychology, and personality.",
+  "successors": [
+    "COGS 152",
+    "HDS 133"
+  ]
 }
