@@ -6,7 +6,7 @@ interface CourseDescriptionProps {
 
 function CourseDescription({ text }: CourseDescriptionProps) {
   // regex capturing groups are included in the array returned from `split()`
-  const splitText = text.split(/((?:Pre|Co)requisites:)/g);
+  const splitText = text.split(/((?:Pre|Co)requisites?:)/g);
   return (
     <p>
       {splitText.map((substring, index) => (

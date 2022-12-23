@@ -93,7 +93,7 @@ function CoursePage({ course, department }: CoursePageProps) {
           {course.successors ? (
             <>
               <p>
-                {course.code} is a prerequisite for the following{" "}
+                {course.code} is a prerequisite of the following{" "}
                 {course.successors.length} courses:
               </p>
               <ul>
