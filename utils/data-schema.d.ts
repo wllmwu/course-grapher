@@ -14,6 +14,7 @@ export interface Course {
   anchor?: string;
   prereqs?: string | PrerequisitesSet;
   coreqs?: string | PrerequisitesSet;
+  successors?: string[];
 }
 
 export interface PrerequisitesSet {

@@ -5,6 +5,7 @@ import Link from "next/link";
 import type { Course, Department } from "../../utils/data-schema";
 import { readDataDirectory, readDataFile } from "../../utils/buildtime";
 import * as cache from "../../utils/buildtime-cache";
+import { courseCodeComparator, slugifyCourseCode } from "../../utils";
 import Page from "../../components/Page";
 import CourseDescription from "../../components/CourseDescription";
 import GraphViewer from "../../components/GraphViewer";
@@ -39,6 +40,9 @@ export const getStaticProps: GetStaticProps = async (context) => {
   const course = JSON.parse(
     await readDataFile(`${context.params.code}.json`)
   ) as Course;
+  if (course.successors) {
+    course.successors.sort(courseCodeComparator);
+  }
   const department = cache.getDepartment(course.dept);
   return {
     props: {
@@ -59,6 +63,7 @@ function CoursePage({ course, department }: CoursePageProps) {
     catalogLink += `#${course.anchor}`;
   }
 
+  // TODO: pluralize "unit(s)" when possible
   return (
     <Page>
       <Head>
@@ -83,7 +88,31 @@ function CoursePage({ course, department }: CoursePageProps) {
           <h2>Description</h2>
           <CourseDescription text={course.description} />
           <h2>Prerequisite courses</h2>
-          {course.prereqs ? <GraphViewer root={course} /> : <p>None</p>}
+          {course.prereqs ? (
+            <GraphViewer root={course} />
+          ) : (
+            <p>{course.code} has no prerequisite courses.</p>
+          )}
+          <h2>Successor courses</h2>
+          {course.successors ? (
+            <>
+              <p>
+                {course.code} is a prerequisite for the following{" "}
+                {course.successors.length} courses:
+              </p>
+              <ul>
+                {course.successors.map((successorCode) => (
+                  <li key={successorCode}>
+                    <Link href={`/courses/${slugifyCourseCode(successorCode)}`}>
+                      <a>{successorCode}</a>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </>
+          ) : (
+            <p>No courses have {course.code} as a prerequisite.</p>
+          )}
         </>
       ) : (
         <p>Loading</p>
