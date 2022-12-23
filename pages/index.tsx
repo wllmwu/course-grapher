@@ -67,7 +67,8 @@ function HomePage() {
         </Link>{" "}
         (Advanced Data Structures). You can view an interactive graph like this
         for any course at UCSD that has prerequisites&mdash;just search for it
-        above.
+        above. On each course&apos;s page, you&apos;ll also find more
+        information such as which other courses require it as a prerequisite.
       </p>
       <IndependentGraphViewer courseCode="CSE 100" />
       <h2>Note</h2>
