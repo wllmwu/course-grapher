@@ -1,11 +1,42 @@
 import React from "react";
+import type { GetStaticProps } from "next";
 import Head from "next/head";
 import Link from "next/link";
+import { readDataFile } from "../utils/buildtime";
 import Page from "../components/Page";
 import { IndependentGraphViewer } from "../components/GraphViewer";
 import styles from "../styles/HomePage.module.css";
 
-function AboutPage() {
+export const getStaticProps: GetStaticProps = async () => {
+  const statistics = JSON.parse(await readDataFile("statistics.json"));
+  return {
+    props: {
+      statistics: { ...statistics },
+    },
+  };
+};
+
+interface AboutPageProps {
+  statistics: {
+    timestamp: string;
+    deptCount: number;
+    courseCount: number;
+    withPrereqsCount: number;
+    withCoreqsCount: number;
+    withSuccessorsCount: number;
+  };
+}
+
+function AboutPage({
+  statistics: {
+    timestamp,
+    deptCount,
+    courseCount,
+    withPrereqsCount,
+    withCoreqsCount,
+    withSuccessorsCount,
+  },
+}: AboutPageProps) {
   return (
     <Page>
       <Head>
@@ -177,6 +208,38 @@ function AboutPage() {
         and I&apos;m happy that I was able to accomplish this without any
         bloated third-party libraries.
       </p>
+      <h2>Statistics</h2>
+      <p>
+        Last updated{" "}
+        {new Intl.DateTimeFormat("en-US", { dateStyle: "long" }).format(
+          Date.parse(timestamp)
+        )}
+        .
+      </p>
+      <table>
+        <tbody>
+          <tr>
+            <td>Total departments</td>
+            <td>{deptCount}</td>
+          </tr>
+          <tr>
+            <td>Total courses</td>
+            <td>{courseCount}</td>
+          </tr>
+          <tr>
+            <td>Courses with prerequisites</td>
+            <td>{withPrereqsCount}</td>
+          </tr>
+          <tr>
+            <td>Courses with corequisites</td>
+            <td>{withCoreqsCount}</td>
+          </tr>
+          <tr>
+            <td>Courses with successors</td>
+            <td>{withSuccessorsCount}</td>
+          </tr>
+        </tbody>
+      </table>
       <h2>Contributing and Permissions</h2>
       <p>
         GrAPE is a personal project which I created on my own time. You can view
