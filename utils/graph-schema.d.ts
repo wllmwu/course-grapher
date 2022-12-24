@@ -25,6 +25,8 @@ interface BaseGraphNode {
    * may treat this value differently)
    */
   xOut: number;
+  /** The rectangle that bounds this node in the graph */
+  bounds: BoundingBox;
   /** Whether the node's parent is a set */
   isNested: boolean;
 }
@@ -55,8 +57,6 @@ export interface CourseSetGraphNode extends BaseGraphNode {
   amount: "all" | "one" | "two";
   /** The courses in this set - we may assume there are at least two */
   children: AnyGraphNode[];
-  /** The rectangle that bounds this set in the graph */
-  bounds: BoundingBox;
 }
 
 export type AnyGraphNode = CourseGraphNode | CourseSetGraphNode;

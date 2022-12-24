@@ -88,6 +88,7 @@ function courseGraphNodeFactory(code: string, isNested: boolean) {
     y: 0,
     xIn: 0,
     xOut: 0,
+    bounds: { xMin: 0, xMax: 0, yMin: 0, yMax: 0 },
     isNested,
   };
   return node;
