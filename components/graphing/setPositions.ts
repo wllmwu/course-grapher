@@ -23,29 +23,21 @@ const SET_HORIZONTAL_PADDING = 10;
  * @param root The root node of the prerequisite tree
  *
  * @returns An object with fields `xMin`, `xMax`, `yMin`, and `yMax`,
- * representing the bounding box of the tree after the nodes have been
- * positioned
+ * representing the bounding box of the course nodes in the tree after the nodes
+ * have been positioned
  */
-export function setPositions(root: CourseGraphNode) {
+export function setPositions(root: AnyGraphNode) {
   const nextYCoordinates: number[] = [];
-  positionCourse(root, 0, 0, nextYCoordinates);
-  const yChange = -root.y;
-  adjustPositions(root, yChange);
-  const bounds: BoundingBox = {
-    xMin: (nextYCoordinates.length - 1) * -X_INTERVAL,
-    xMax: 0,
-    yMin: yChange,
-    yMax: Math.max(...nextYCoordinates) - Y_INTERVAL + yChange,
-  };
-  return bounds;
+  positionNode(root, 0, 0, nextYCoordinates);
+  return getGraphBounds(root);
 }
 
 /**
  * Recursively sets node `x` and `y` coordinates, as well as `xIn`, `xOut`,
- * and `bounds` where applicable.
+ * and `bounds`. Also updates `graphBounds` if necessary.
  *
  * A node's *x* coordinate is just a function of its "semantic depth" (depth in
- * the tree where course set nodes do not contribute to depth).
+ * the tree, where course set nodes do not contribute to depth).
  *
  * A node's *y* coordinate is determined based on the provided estimate and the
  * *y* coordinates of its children.
@@ -56,88 +48,106 @@ export function setPositions(root: CourseGraphNode) {
  * bound should be placed
  * @param nextYCoordinates An array containing the minimum *y* coordinate where
  * a new node's upper *y* bound can be placed for each level of the tree
+ *
+ * @returns The maximum distance that the subtree rooted at this node can be
+ * shifted upwards (in the -*y* direction) while the rest of the tree stays
+ * constant, after the subtree's own layout has been computed (may be any
+ * non-negative value or `Infinity`)
  */
+function positionNode(
+  node: AnyGraphNode,
+  depth: number,
+  yEstimate: number,
+  nextYCoordinates: number[]
+) {
+  if (node.type === "course") {
+    return positionCourse(node, depth, yEstimate, nextYCoordinates);
+  } else {
+    return positionSet(node, depth, yEstimate, nextYCoordinates);
+  }
+}
+
 function positionCourse(
   node: CourseGraphNode,
   depth: number,
   yEstimate: number,
   nextYCoordinates: number[]
 ) {
+  // compute x and initial y and bounds
   node.x = depth * -X_INTERVAL;
   if (depth === nextYCoordinates.length) {
     nextYCoordinates.push(Number.NEGATIVE_INFINITY);
   }
   const initialYMin = Math.max(yEstimate, nextYCoordinates[depth]);
+  const maxSelfAdjustment = initialYMin - nextYCoordinates[depth];
+  node.y = initialYMin + COURSE_HEIGHT / 2;
   node.bounds = {
     xMin: node.x - COURSE_X_TO_MIN_X,
     xMax: node.x + COURSE_X_TO_MAX_X,
     yMin: initialYMin,
     yMax: initialYMin + COURSE_HEIGHT,
   };
-  node.y = initialYMin + COURSE_HEIGHT / 2;
-
-  if (node.state === "open" && node.child) {
-    if (node.child.type === "course") {
-      // single course
-      positionCourse(node.child, depth + 1, node.bounds.yMin, nextYCoordinates);
-    } else {
-      // course set
-      positionSet(node.child, depth + 1, node.bounds.yMin, nextYCoordinates);
-    }
-    const yDifference = node.child.y - node.y;
-    node.y += yDifference;
-    node.bounds.yMin += yDifference;
-    node.bounds.yMax += yDifference;
-  }
   node.xIn = node.bounds.xMin;
   node.xOut = node.bounds.xMax;
+
+  let maxSubtreeAdjustment = Number.POSITIVE_INFINITY;
+  if (node.state === "open" && node.child) {
+    // position child
+    maxSubtreeAdjustment = positionNode(
+      node.child,
+      depth + 1,
+      node.bounds.yMin,
+      nextYCoordinates
+    );
+    // center this node on child
+    const centerAdjustment = node.child.y - node.y;
+    node.y += centerAdjustment;
+    node.bounds.yMin += centerAdjustment;
+    node.bounds.yMax += centerAdjustment;
+    // adjust subtree if possible
+    const subtreeAdjustment = Math.min(centerAdjustment, maxSubtreeAdjustment);
+    if (subtreeAdjustment > 0) {
+      adjustPositions(node, -subtreeAdjustment, depth, nextYCoordinates);
+      maxSubtreeAdjustment -= subtreeAdjustment;
+    }
+  }
+
   nextYCoordinates[depth] = node.bounds.yMax + Y_INTERVAL;
+  return Math.min(maxSelfAdjustment, maxSubtreeAdjustment);
 }
 
-/**
- * Recursively sets node `x` and `y` coordinates, as well as `xIn`, `xOut`,
- * and `bounds` where applicable.
- *
- * A node's *x* coordinate is just a function of its "semantic depth" (depth in
- * the tree where course set nodes do not contribute to depth).
- *
- * A node's *y* coordinate is determined based on the provided estimate and the
- * *y* coordinates of its children.
- *
- * @param node The node to set the position of
- * @param depth The "semantic depth" of the current node
- * @param yEstimate The estimated *y* coordinate where the node's upper *y*
- * bound should be placed
- * @param nextYCoordinates An array containing the minimum *y* coordinate where
- * a new node's upper *y* bound can be placed for each level of the tree
- */
 function positionSet(
   node: CourseSetGraphNode,
   depth: number,
   yEstimate: number,
   nextYCoordinates: number[]
 ) {
+  // compute x and initial y
   node.x = depth * -X_INTERVAL;
   if (depth === nextYCoordinates.length) {
     nextYCoordinates.push(Number.NEGATIVE_INFINITY);
   }
-  const initialYMin = Math.max(
-    yEstimate -
-      ((node.children.length - 1) / 2) * (COURSE_HEIGHT + Y_INTERVAL) -
-      SET_TOP_PADDING,
-    nextYCoordinates[depth]
-  );
+  const initialYMin = Math.max(yEstimate, nextYCoordinates[depth]);
+  const maxSelfAdjustment = initialYMin - nextYCoordinates[depth];
+  const topOffset =
+    node.amount === "all" && !node.isNested ? 0 : SET_TOP_PADDING;
 
-  let nextY = initialYMin + SET_TOP_PADDING;
+  // position children
+  let nextY = initialYMin + topOffset;
   let minChildX = node.x;
   let maxChildX = node.x;
+  let maxSubtreeAdjustment = Number.NaN;
+  // `node.children` is assumed to have length at least 2
   for (const child of node.children) {
-    if (child.type === "course") {
-      // single course
-      positionCourse(child, depth, nextY, nextYCoordinates);
-    } else {
-      // course set
-      positionSet(child, depth, nextY, nextYCoordinates);
+    const childMaxAdjustment = positionNode(
+      child,
+      depth,
+      nextY,
+      nextYCoordinates
+    );
+    if (isNaN(maxSubtreeAdjustment)) {
+      // only take uppermost child's return value
+      maxSubtreeAdjustment = childMaxAdjustment;
     }
     if (child.bounds.xMin < minChildX) {
       minChildX = child.bounds.xMin;
@@ -147,43 +157,73 @@ function positionSet(
     }
     nextY = nextYCoordinates[depth];
   }
-  // `node.children` is assumed to have length at least 2
-  const innerYMin = node.children[0].bounds.yMin;
-  const innerYMax = node.children[node.children.length - 1].bounds.yMax;
-  node.bounds = {
-    xMin: minChildX - SET_HORIZONTAL_PADDING,
-    xMax: maxChildX + SET_HORIZONTAL_PADDING,
-    yMin: innerYMin - SET_TOP_PADDING,
-    yMax: innerYMax + SET_BOTTOM_PADDING,
-  };
-  node.y = (innerYMin + innerYMax) / 2;
-  node.xIn = node.bounds.xMin;
+
+  // compute bounds and y
+  const firstChildYMin = node.children[0].bounds.yMin;
+  const lastChildYMax = node.children[node.children.length - 1].bounds.yMax;
   if (node.amount === "all" && !node.isNested) {
+    node.bounds = {
+      xMin: minChildX,
+      xMax: maxChildX,
+      yMin: firstChildYMin,
+      yMax: lastChildYMax,
+    };
+    node.xIn = 0; // unused
     node.xOut = node.x + X_INTERVAL - SET_HORIZONTAL_PADDING * 2;
   } else {
+    node.bounds = {
+      xMin: minChildX - SET_HORIZONTAL_PADDING,
+      xMax: maxChildX + SET_HORIZONTAL_PADDING,
+      yMin: firstChildYMin - topOffset,
+      yMax: lastChildYMax + SET_BOTTOM_PADDING,
+    };
+    node.xIn = node.bounds.xMin;
     node.xOut = node.bounds.xMax;
   }
+  node.y = (node.bounds.yMin + node.bounds.yMax) / 2;
   nextYCoordinates[depth] = node.bounds.yMax + Y_INTERVAL;
+  return Math.min(maxSelfAdjustment, maxSubtreeAdjustment);
 }
 
 /**
  * Recursively adjusts the *y* coordinates of each node in the subtree rooted at
- * the given node by the given amount.
+ * the given node by the given amount. Also updates `nextYCoordinates`.
  *
  * @param node The root of the subtree to adjust
  * @param yChange The change in *y* to apply to the subtree
+ * @param depth The "semantic depth" of the current node
+ * @param nextYCoordinates An array containing the minimum *y* coordinate where
+ * a new node's upper *y* bound can be placed for each level of the tree
  */
-function adjustPositions(node: AnyGraphNode, yChange: number) {
+function adjustPositions(
+  node: AnyGraphNode,
+  yChange: number,
+  depth: number,
+  nextYCoordinates: number[]
+) {
   node.y += yChange;
+  node.bounds.yMin += yChange;
+  node.bounds.yMax += yChange;
   if (node.type === "course") {
     if (node.state === "open" && node.child) {
-      adjustPositions(node.child, yChange);
+      nextYCoordinates[depth] = node.bounds.yMax + Y_INTERVAL;
+      adjustPositions(node.child, yChange, depth + 1, nextYCoordinates);
     }
   } else {
-    node.bounds.yMin += yChange;
-    node.bounds.yMax += yChange;
     for (const child of node.children) {
-      adjustPositions(child, yChange);
+      adjustPositions(child, yChange, depth, nextYCoordinates);
     }
+    nextYCoordinates[depth] = node.bounds.yMax + Y_INTERVAL;
   }
+}
+
+function getGraphBounds(rootNode: AnyGraphNode) {
+  // TODO
+  const bounds: BoundingBox = {
+    xMin: -100,
+    xMax: 100,
+    yMin: -100,
+    yMax: 100,
+  };
+  return bounds;
 }

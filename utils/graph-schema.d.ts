@@ -55,7 +55,10 @@ export interface CourseSetGraphNode extends BaseGraphNode {
   type: "set";
   /** The amount of courses required to be taken from this set */
   amount: "all" | "one" | "two";
-  /** The courses in this set - we may assume there are at least two */
+  /**
+   * The courses and child sets in this set - we may assume there are at least
+   * two
+   */
   children: AnyGraphNode[];
 }
 
