@@ -29,7 +29,9 @@ const SET_HORIZONTAL_PADDING = 10;
 export function setPositions(root: AnyGraphNode) {
   const nextYCoordinates: number[] = [];
   positionNode(root, 0, 0, nextYCoordinates);
-  return getGraphBounds(root);
+  const bounds: BoundingBox = { xMin: 0, xMax: 0, yMin: 0, yMax: 0 };
+  updateGraphBounds(root, bounds);
+  return bounds;
 }
 
 /**
@@ -217,13 +219,28 @@ function adjustPositions(
   }
 }
 
-function getGraphBounds(rootNode: AnyGraphNode) {
-  // TODO
-  const bounds: BoundingBox = {
-    xMin: -100,
-    xMax: 100,
-    yMin: -100,
-    yMax: 100,
-  };
-  return bounds;
+function updateGraphBounds(rootNode: AnyGraphNode, result: BoundingBox) {
+  const nodeBounds = rootNode.bounds;
+  if (nodeBounds.xMin < result.xMin) {
+    result.xMin = nodeBounds.xMin;
+  }
+  if (nodeBounds.xMax > result.xMax) {
+    result.xMax = nodeBounds.xMax;
+  }
+  if (nodeBounds.yMin < result.yMin) {
+    result.yMin = nodeBounds.yMin;
+  }
+  if (nodeBounds.yMax > result.yMax) {
+    result.yMax = nodeBounds.yMax;
+  }
+
+  if (rootNode.type === "course") {
+    if (rootNode.state === "open" && rootNode.child) {
+      updateGraphBounds(rootNode.child, result);
+    }
+  } else {
+    for (const child of rootNode.children) {
+      updateGraphBounds(child, result);
+    }
+  }
 }
