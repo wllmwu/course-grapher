@@ -13,6 +13,8 @@ const COURSE_HEIGHT = 20;
 const SET_TOP_PADDING = 20;
 const SET_BOTTOM_PADDING = 10;
 const SET_HORIZONTAL_PADDING = 10;
+const COREQUISITE_OFFSET = 10;
+const COREQUISITE_INTERVAL = COURSE_HEIGHT + Y_INTERVAL / 2;
 
 /**
  * Sets `x`, `y`, `xIn`, `xOut`, `yMin`, and `yMax` where applicable on each
@@ -112,6 +114,10 @@ function positionCourse(
       adjustPositions(node, -subtreeAdjustment, depth, nextYCoordinates);
       maxSubtreeAdjustment -= subtreeAdjustment;
     }
+  }
+  if (node.state === "open" && node.coreqs) {
+    node.bounds.yMax +=
+      node.coreqs.length * COREQUISITE_INTERVAL + COREQUISITE_OFFSET;
   }
 
   nextYCoordinates[depth] = node.bounds.yMax + Y_INTERVAL;

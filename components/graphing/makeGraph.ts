@@ -1,5 +1,6 @@
 import type { Course, PrerequisitesSet } from "../../utils/data-schema";
 import type {
+  CoreqInfo,
   CourseGraphNode,
   CourseSetGraphNode,
 } from "../../utils/graph-schema";
@@ -31,8 +32,15 @@ async function convertCourseToGraphNode(
   const course = await cache.getCourse(code);
   if (!course) {
     node.state = "unknown";
-  } else if (course.prereqs && depth < 15) {
+    return node;
+  }
+  if ((!course.prereqs && !course.coreqs) || depth > 15) {
     // depth limit is to stop infinite cycle edge case
+    node.state = "noPrereqs";
+    return node;
+  }
+
+  if (course.prereqs) {
     if (typeof course.prereqs === "string") {
       // single course
       node.child = await convertCourseToGraphNode(
@@ -48,8 +56,9 @@ async function convertCourseToGraphNode(
         depth + 1
       );
     }
-  } else {
-    node.state = "noPrereqs";
+  }
+  if (course.coreqs) {
+    node.coreqs = await convertCorequisites(course.coreqs);
   }
   return node;
 }
@@ -79,10 +88,11 @@ async function convertSetToGraphNode(
 }
 
 function courseGraphNodeFactory(code: string, isNested: boolean) {
-  const node: CourseGraphNode = {
+  return <CourseGraphNode>{
     type: "course",
     code,
     child: null,
+    coreqs: null,
     state: "closed",
     x: 0,
     y: 0,
@@ -91,11 +101,10 @@ function courseGraphNodeFactory(code: string, isNested: boolean) {
     bounds: { xMin: 0, xMax: 0, yMin: 0, yMax: 0 },
     isNested,
   };
-  return node;
 }
 
 function setGraphNodeFactory(amount: "all" | "one" | "two", isNested: boolean) {
-  const node: CourseSetGraphNode = {
+  return <CourseSetGraphNode>{
     type: "set",
     amount,
     children: [],
@@ -106,5 +115,35 @@ function setGraphNodeFactory(amount: "all" | "one" | "two", isNested: boolean) {
     bounds: { xMin: 0, xMax: 0, yMin: 0, yMax: 0 },
     isNested,
   };
-  return node;
+}
+
+async function convertCorequisites(coreqs: string | PrerequisitesSet) {
+  const coreqsList: string[] = [];
+  flattenCorequisites(coreqs, coreqsList);
+  return Promise.all(
+    coreqsList.map(async (coreqCode) => {
+      const course = await cache.getCourse(coreqCode);
+      return <CoreqInfo>{
+        code: coreqCode,
+        exists: course !== null,
+      };
+    })
+  );
+}
+
+function flattenCorequisites(
+  coreqs: string | PrerequisitesSet,
+  result: string[]
+) {
+  if (typeof coreqs === "string") {
+    result.push(coreqs);
+  } else {
+    for (const child of coreqs.courses) {
+      if (typeof child === "string") {
+        result.push(child);
+      } else {
+        flattenCorequisites(child, result);
+      }
+    }
+  }
 }

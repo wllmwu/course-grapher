@@ -41,6 +41,11 @@ export interface CourseGraphNode extends BaseGraphNode {
    */
   child: AnyGraphNode | null;
   /**
+   * A list of corequisite course information, or `null` if there are no
+   * corequisites; a course node handles rendering its own corequisites
+   */
+  coreqs: CoreqInfo[] | null;
+  /**
    * The current state of the node as displayed in the graph; possible values
    * and their meanings are:
    * - `"closed"`: The course has prerequisites and they are currently hidden
@@ -49,6 +54,11 @@ export interface CourseGraphNode extends BaseGraphNode {
    * - `"unknown"`: The course was not found in our data set
    */
   state: "closed" | "open" | "noPrereqs" | "unknown";
+}
+
+export interface CoreqInfo {
+  code: string;
+  exists: boolean;
 }
 
 export interface CourseSetGraphNode extends BaseGraphNode {
