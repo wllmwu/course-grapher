@@ -25,6 +25,8 @@ interface BaseGraphNode {
    * may treat this value differently)
    */
   xOut: number;
+  /** The rectangle that bounds this node in the graph */
+  bounds: BoundingBox;
   /** Whether the node's parent is a set */
   isNested: boolean;
 }
@@ -39,6 +41,11 @@ export interface CourseGraphNode extends BaseGraphNode {
    */
   child: AnyGraphNode | null;
   /**
+   * A list of corequisite course information, or `null` if there are no
+   * corequisites; a course node handles rendering its own corequisites
+   */
+  coreqs: CoreqInfo[] | null;
+  /**
    * The current state of the node as displayed in the graph; possible values
    * and their meanings are:
    * - `"closed"`: The course has prerequisites and they are currently hidden
@@ -49,14 +56,20 @@ export interface CourseGraphNode extends BaseGraphNode {
   state: "closed" | "open" | "noPrereqs" | "unknown";
 }
 
+export interface CoreqInfo {
+  code: string;
+  exists: boolean;
+}
+
 export interface CourseSetGraphNode extends BaseGraphNode {
   type: "set";
   /** The amount of courses required to be taken from this set */
   amount: "all" | "one" | "two";
-  /** The courses in this set - we may assume there are at least two */
+  /**
+   * The courses and child sets in this set - we may assume there are at least
+   * two
+   */
   children: AnyGraphNode[];
-  /** The rectangle that bounds this set in the graph */
-  bounds: BoundingBox;
 }
 
 export type AnyGraphNode = CourseGraphNode | CourseSetGraphNode;

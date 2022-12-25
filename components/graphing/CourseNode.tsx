@@ -32,7 +32,7 @@ function CourseNode({ node, dispatch }: CourseNodeProps) {
   }
   return (
     <g>
-      {node.child && node.state === "open" && (
+      {node.state === "open" && node.child && (
         <Edges.Arrow
           x1={node.child.xOut}
           y1={node.child.y}
@@ -65,6 +65,33 @@ function CourseNode({ node, dispatch }: CourseNodeProps) {
           <a>{node.code}</a>
         </Link>
       </TextWithBackground>
+      {node.state === "open" && node.coreqs && (
+        <>
+          <text
+            x={node.x + vertexRadius + 4}
+            y={node.y + 25}
+            className={styles.setNodeLabel}
+          >
+            COREQUISITE(S)
+          </text>
+          {node.coreqs.map((coreq, index) => (
+            <TextWithBackground
+              key={coreq.code}
+              x={node.x + vertexRadius + 4}
+              y={node.y + (index + 1) * 30 + 10}
+              className={
+                coreq.exists
+                  ? styles.courseNodeLabel
+                  : `${styles.courseNodeLabel} ${styles.courseUnknown}`
+              }
+            >
+              <Link href={`/courses/${slugifyCourseCode(coreq.code)}`}>
+                <a>{coreq.code}</a>
+              </Link>
+            </TextWithBackground>
+          ))}
+        </>
+      )}
     </g>
   );
 }

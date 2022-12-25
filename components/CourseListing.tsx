@@ -20,7 +20,7 @@ function CourseListing({ course }: CourseListingProps) {
       {course.successors && (
         <p>
           <strong>
-            {`Prerequisite to ${course.successors.length} other course${
+            {`Prerequisite of ${course.successors.length} other course${
               course.successors.length !== 1 ? "s" : ""
             }`}
           </strong>

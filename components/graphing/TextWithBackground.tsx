@@ -51,7 +51,7 @@ function TextWithBackground({
       setVerticalPadding(parseInt(computedStyle["paddingTop"]));
       setHorizontalPadding(parseInt(computedStyle["paddingLeft"]));
     }
-  }, [textRef]);
+  }, [children, textRef]);
 
   const textVerticalOffset = textHeight * VERTICAL_OFFSET_FACTOR;
 
