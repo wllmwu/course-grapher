@@ -27,7 +27,8 @@ class Postprocessor:
         self.department_index: dict[str, dict] = {}
         # maps course codes to department codes
         self.course_index: dict[str, str] = {}
-        # maps course codes to successor course codes
+        # maps course codes to successor course codes (list of successors may
+        # contain duplicates)
         self.course_successors: dict[str, list[str]] = {}
 
     def run(self) -> None:
@@ -113,6 +114,7 @@ class Postprocessor:
         version is written to JSON.
         """
         self.logger.info('Writing courses')
+        writer = CourseWriter(self.course_successors)
         for dept in self.department_index.keys():
             try:
                 with jsonlines.open(f'intermediate/{dept}.jsonl', mode='r') as reader:
@@ -121,12 +123,7 @@ class Postprocessor:
                         if course_obj['dept'] != self.course_index[code]:
                             # skip if not the "authoritative" version
                             continue
-                        if code in self.course_successors:
-                            course_obj['successors'] = self._sorted_unique(
-                                self.course_successors[code])
-                        filename = code.replace(' ', '_')
-                        with open(f'data/{filename}.json', mode='w') as file:
-                            json.dump(course_obj, file, indent=2)
+                        writer.write(course_obj)
             except OSError as error:
                 self.logger.error(
                     'Error while rewriting %s courses:\n%s: %s',
@@ -186,6 +183,28 @@ class Postprocessor:
                 result.append(child)
             else:
                 self._course_tree_to_list_helper(child, result)
+
+
+class CourseWriter:
+    def __init__(self, successor_map: dict[str, list[str]]) -> None:
+        super.__init__()
+        self.logger = logging.getLogger('postprocessor.writer')
+        self.successor_map = successor_map
+
+    def write(self, course: dict) -> None:
+        """
+        Writes the given course object to output as JSON. If the course is
+        actually a sequence of courses in one listing, then it is split up into
+        individual courses, all of which get written to output. This method
+        throws an exception if it encounters an error while writing files.
+        """
+        code: str = course['code']
+        if code in self.successor_map:
+            course['successors'] = self._sorted_unique(
+                self.successor_map[code])
+        filename = code.replace(' ', '_')
+        with open(f'data/{filename}.json', mode='w') as file:
+            json.dump(course, file, indent=2)
 
     def _sorted_unique(self, l: list) -> list:
         """
