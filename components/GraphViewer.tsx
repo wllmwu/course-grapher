@@ -63,7 +63,7 @@ function GraphViewer({ root }: GraphViewerProps) {
 
   const graphBounds: BoundingBox = {
     xMin: state.bounds.xMin - GRAPH_PADDING,
-    xMax: state.bounds.xMax + GRAPH_PADDING * 2, // room for help text
+    xMax: state.bounds.xMax + GRAPH_PADDING * 3, // room for help text
     yMin: state.bounds.yMin - GRAPH_PADDING,
     yMax: state.bounds.yMax + GRAPH_PADDING,
   };
@@ -157,15 +157,15 @@ function GraphViewer({ root }: GraphViewerProps) {
       <defs>
         <Edges.ArrowheadDefinition />
       </defs>
-      <text x={0} y={50}>
-        {hasPointer ? "Click" : "Tap"} and drag to pan around the graph.
+      <text x={120} y={15}>
+        {(hasPointer ? "Click" : "Tap") + " and drag to pan around the graph."}
       </text>
-      <text x={0} y={50} dy={30}>
-        {hasPointer ? "Click" : "Tap"} on the circle next to a course to
-        show/hide its prerequisites.
+      <text x={120} y={15} dy={30}>
+        {(hasPointer ? "Click" : "Tap") +
+          " on the circle next to a course to show/hide its prerequisites."}
       </text>
-      <text x={0} y={50} dy={60}>
-        {hasPointer ? "Click" : "Tap"} on a course to visit its page.
+      <text x={120} y={15} dy={60}>
+        {(hasPointer ? "Click" : "Tap") + " on a course to visit its page."}
       </text>
       <GraphContext.Provider value={{ hasPointer }}>
         <GraphNode node={state.tree} dispatch={dispatch} />
