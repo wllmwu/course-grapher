@@ -1,14 +1,21 @@
 .searchForm {
-  margin: 2rem 0;
+  margin: 2rem auto;
+  width: 50%;
   display: flex;
+  flex-direction: column;
   justify-content: center;
 }
 
+.searchLabel {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
 .searchBar {
-  width: 50%;
+  width: 100%;
   min-width: 16rem;
   padding: 0.5rem 0.75rem;
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-family: Roboto, Helvetica, Arial, sans-serif;
   border: 1px solid var(--cool-gray);
   border-radius: 0.5rem;

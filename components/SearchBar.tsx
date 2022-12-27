@@ -33,9 +33,13 @@ function SearchBar({
       }}
       className={styles.searchForm}
     >
+      <label htmlFor="searchBar">
+        <p className={styles.searchLabel}>Search by course code</p>
+      </label>
       <input
-        type="text"
-        placeholder="Search for a course..."
+        id="searchBar"
+        type="search"
+        placeholder="cse 100"
         value={searchText}
         onChange={(event) => setSearchText(event.target.value)}
         className={styles.searchBar}
