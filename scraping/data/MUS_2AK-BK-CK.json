@@ -5,7 +5,7 @@
   "dept": "MUS",
   "anchor": "mus2ck",
   "description": "Scales, chords, harmonic progressions, transposition, and simple pieces. Prerequisites: concurrent enrollment in MUS 2A, B, C.",
-  "prereqs": {
+  "coreqs": {
     "type": "all",
     "courses": [
       "MUS 2A",
