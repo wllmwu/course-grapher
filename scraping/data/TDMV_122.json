@@ -5,10 +5,5 @@
   "dept": "THEA",
   "anchor": "tdmv122",
   "description": "The development of contemporary somatic approaches to dance as an expressive medium, emphasizing advanced technical skills, efficient athleticism, kinesthetic refinement, individual creative voice, and performance elements. Choreography and aesthetic concepts will be explored. Incorporates various principles of human movement research. May be taken for credit six times. Prerequisites: twelve units of TDMV 120 or consent of instructor.",
-  "prereqs": "TDMV 120",
-  "successors": [
-    "TDPF 160",
-    "TDPF 161",
-    "TDPF 162"
-  ]
+  "prereqs": "TDMV 120"
 }

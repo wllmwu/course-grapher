@@ -88,7 +88,7 @@ class PrerequisitesNode:
 _expr_1_matcher = re.compile(r'\band\b|(?P<end>(?=\)))')
 _expr_2_matcher = re.compile(r'\bor\b|(?P<end>(?=\band\b|\)))')
 _expr_3_matcher = re.compile(
-    r'(?P<code>[A-Z]{2,} [0-9]+[A-Z]*)|(?P<paren>\()|(?P<one_of>\bone\b)|(?P<two_of>\btwo\b)|(?P<end>(?=\bor\b|\band\b|\)))')
+    r'(?P<code>[A-Z]{2,} [0-9]+[A-Z]*)|(?P<paren>\()|(?P<one_of>\b[Oo]ne\b)|(?P<two_of>\b[Tt]wo\b)|(?P<end>(?=\bor\b|\band\b|\)))')
 ExprParseResult = tuple[PrerequisitesNode | str | None, int]
 
 

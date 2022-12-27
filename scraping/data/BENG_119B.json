@@ -5,5 +5,5 @@
   "dept": "BENG",
   "anchor": "beng119b",
   "description": "Implementation of design project in biomechanics. Prerequisites: concurrent enrollment in BENG 187C; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (W)",
-  "prereqs": "BENG 187C"
+  "coreqs": "BENG 187C"
 }

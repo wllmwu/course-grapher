@@ -28,22 +28,22 @@ _start_matcher = re.compile(
     r'(?<![Rr]ecommended )(?P<type>Pre|Co)requisites?:')
 # matches the prerequisites section
 _prerequisites_matcher = re.compile(
-    r'[^\.]*?(?P<prereqs>\(?(?:for )?(?:[A-Z]{3,}|SE) [0-9]+.*?)(?:\.|not|credit|restrict|majors|(?P<coreqs_start>concurrent|corequisite|[A-Z]{2,} [0-9]+[A-Z]* (?:must|should) be taken)|\Z)')
+    r'[^\.]*?(?:(?P<coreqs_start_1>concurrent)|(?P<prereqs>\(?(?:for )?(?:[A-Z]{3,}|SE)\s[0-9]+.*?|[Oo]ne of .*?|[Tt]wo of .*?)(?:\.|not|credit|restrict|majors|(?P<coreqs_start_2>concurrent|corequisite|[A-Z]{2,}\s[0-9]+[A-Z]* (?:must|should) be taken)|\Z))')
 # matches the corequisites section
 _corequisites_matcher = re.compile(
-    r'[^\.]*?(?P<coreqs>\(?(?:for )?(?:[A-Z]{3,}|SE) [0-9]+.*?)(?:\.|not|credit|restrict|majors|\Z)')
+    r'[^\.]*?(?P<coreqs>\(?(?:for )?(?:[A-Z]{3,}|SE)\s[0-9]+.*?|[Oo]ne of .*?|[Tt]wo of .*?)(?:\.|not|credit|restrict|majors|\Z)')
 # matches potential false positives for removal from the string
 _false_positive_matcher = re.compile(
     r'(?:[Gg]rade|[Ss]core) of .*? or (?:better|higher)|[A-D][-\u2013+]? or (?:better|higher)|,? or equivalent|GPA [0-9]|ACT|MBA|\(?(?:for|prior)[^,;]*\)?')
 # matches the last course code in the pre/corequisites section, accounting for
 # potential abbreviations/shorthand
 _last_course_matcher = re.compile(
-    r'.*[A-Z]{2,} [0-9]+[A-Z]*(?:(?:[-\u2013/]|, (?:and |or )?| (?:and|or) )(?:[0-9]+[A-Z]*|[A-Z]{1,2}(?![0-9A-z])))*\)?')
+    r'.*[A-Z]{2,}\s[0-9]+[A-Z]*(?:(?:[-\u2013/]|, (?:and |or )?| (?:and|or) )(?:[0-9]+[A-Z]*|[A-Z]{1,2}(?![0-9A-z])))*\)?')
 # matches "standard form", consisting only of complete course codes separated
 # by "and" or "or" and potentially with parentheses, to check whether an early
 # stop is possible
 _standard_form_matcher = re.compile(
-    r'^\(?[A-Z]{2,} [0-9]+[A-Z]*(?: (?:and|or) \(?[A-Z]{2,} [0-9]+[A-Z]*\)?)*$')
+    r'^\(?[A-Z]{2,}\s[0-9]+[A-Z]*(?: (?:and|or) \(?[A-Z]{2,}\s[0-9]+[A-Z]*\)?)*$')
 # matches the conjunction immediately following a comma or semicolon, if present
 _next_conjunction_matcher = re.compile(r'[,;]\s+(?P<conjunction>and|or)')
 # matches "and" or "or" tokens
@@ -53,14 +53,14 @@ _and_synonyms_matcher = re.compile(r'in addition to')
 # matches a course code subject and number or just a number, for insertion of
 # a subject into codes where it is omitted
 _subject_or_number_matcher = re.compile(
-    r'(?P<subject>[A-Z]{2,}) (?P<digits_1>[0-9]+)[A-Z]*| (?P<number>(?P<digits_2>[0-9]+)[A-Z]*[^ ]*|(?:[A-RT-Z][A-Z]?|S[A-DF-Z]?)(?![A-z]))')
+    r'(?P<subject>[A-Z]{2,})\s(?P<digits_1>[0-9]+)[A-Z]*|\s(?P<number>(?P<digits_2>[0-9]+)[A-Z]*[^\s]*|(?:[A-RT-Z][A-Z]?|S[A-DF-Z]?)(?![A-z]))')
 # matches the beginning of a course code sequence so it can be expanded into
 # full course codes
 _sequence_start_matcher = re.compile(
-    r'(?P<subject>[A-Z]{2,}) (?P<digits>[0-9]+)(?P<letters>[A-Z]*)(?=-)')
+    r'(?P<subject>[A-Z]{2,})\s(?P<digits>[0-9]+)(?P<letters>[A-Z]*)(?=-)')
 # matches the end of a course code sequence
 _sequence_end_matcher = re.compile(
-    r'-(?:(?:[A-Z]{3,}|SE) )?(?P<end_digits>[0-9]*)(?P<end_letters>[A-Z]*)')
+    r'-(?:(?:[A-Z]{3,}|SE)\s)?(?P<end_digits>[0-9]*)(?P<end_letters>[A-Z]*)')
 
 
 class CourseInfoParser:
@@ -147,16 +147,18 @@ class CourseInfoParser:
                     description, start)
                 if prereqs_match is None:
                     continue
-                prereqs_str = prereqs_match.group('prereqs')
-                self.logger.info('PREREQS   : %s', prereqs_str)
-                prereqs = self._generate_tree(prereqs_str)
-                if prereqs is not None:
-                    self.metrics.inc_with_prerequisites()
-                if prereqs_match.group('coreqs_start'):
+                if prereqs_match.group('coreqs_start_1'):
                     coreqs_in_prereqs = True
-                    start = prereqs_match.start('coreqs_start')
+                    start = prereqs_match.start('coreqs_start_1')
                 else:
-                    start = prereqs_match.end()
+                    prereqs_str = prereqs_match.group('prereqs')
+                    self.logger.info('PREREQS   : %s', prereqs_str)
+                    prereqs = self._generate_tree(prereqs_str)
+                    if prereqs_match.group('coreqs_start_2'):
+                        coreqs_in_prereqs = True
+                        start = prereqs_match.start('coreqs_start_2')
+                    else:
+                        start = prereqs_match.end()
             if start_match.group('type') == 'Co' or coreqs_in_prereqs:
                 coreqs_match = _corequisites_matcher.match(description, start)
                 if coreqs_match is None:
@@ -164,8 +166,6 @@ class CourseInfoParser:
                 coreqs_str = coreqs_match.group('coreqs')
                 self.logger.info('COREQS    : %s', coreqs_str)
                 coreqs = self._generate_tree(coreqs_str)
-                if coreqs is not None:
-                    self.metrics.inc_with_corequisites()
                 start = coreqs_match.end()
         return (prereqs, coreqs)
 

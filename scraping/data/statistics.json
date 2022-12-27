@@ -1,8 +1,22 @@
 {
-  "timestamp": "2022-12-22T14:38",
+  "timestamp": "2022-12-26T19:52",
   "deptCount": 81,
-  "courseCount": 6882,
-  "withPrereqsCount": 2166,
-  "withCoreqsCount": 37,
-  "withSuccessorsCount": 1494
+  "courseCount": 6840,
+  "withPrereqsCount": 2140,
+  "withCoreqsCount": 55,
+  "withSuccessorsCount": 1298,
+  "allStats": {
+    "departments": 81,
+    "courses": 6840,
+    "course_listings": 6882,
+    "sequence_listings": 67,
+    "code_match_failures": 6,
+    "ignored_crosslistings": 119,
+    "missing_units": 9,
+    "missing_anchors": 56,
+    "missing_descriptions": 0,
+    "with_prerequisites": 2140,
+    "with_corequisites": 55,
+    "with_successors": 1298
+  }
 }
