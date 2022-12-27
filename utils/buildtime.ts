@@ -4,6 +4,9 @@ import path from "path";
 export const slugifyCourseFile: (code: string) => string = (code) =>
   code.replaceAll(" ", "_").replaceAll("\u2013", "-");
 
+export const deslugifyCourseFile: (code: string) => string = (code) =>
+  code.replace("_", " ");
+
 /**
  * Reads the contents of the specified file in the `scraping/data` directory.
  * Uses the `fs` Promises API--see documentation below:
