@@ -1,9 +1,10 @@
 .searchForm {
   margin: 2rem auto;
   width: 50%;
+  min-width: 16rem;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  align-items: stretch;
 }
 
 .searchLabel {
@@ -12,11 +13,10 @@
 }
 
 .searchBar {
-  width: 100%;
-  min-width: 16rem;
   padding: 0.5rem 0.75rem;
   font-size: 1rem;
   font-family: Roboto, Helvetica, Arial, sans-serif;
   border: 1px solid var(--cool-gray);
   border-radius: 0.5rem;
+  background-color: var(--background);
 }

@@ -39,6 +39,7 @@ function SearchBar({
       <input
         id="searchBar"
         type="search"
+        inputMode="search"
         placeholder="cse 100"
         value={searchText}
         onChange={(event) => setSearchText(event.target.value)}
