@@ -193,16 +193,15 @@ class CourseWriter:
 
     def write(self, course: dict) -> None:
         """
-        Writes the given course object to output as JSON. If the course is
-        actually a sequence of courses in one listing, then it is split up into
-        individual courses, all of which get written to output. This method
-        throws an exception if it encounters an error while writing files.
+        Writes the given course object to output as JSON, slugifying the course
+        code to use as the file name. This method throws an exception if it
+        encounters an error while writing files.
         """
         code: str = course['code']
         if code in self.successor_map:
             course['successors'] = self._sorted_unique(
                 self.successor_map[code])
-        filename = code.replace(' ', '_')
+        filename = code.replace(' ', '_').replace('\u2013', '-')
         with open(f'data/{filename}.json', mode='w') as file:
             json.dump(course, file, indent=2)
 
