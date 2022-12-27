@@ -30,7 +30,7 @@ export const courseCodeComparator: (a: string, b: string) => number = (
 };
 
 export const slugifyCourseCode: (code: string) => string = (code) =>
-  code.replace(" ", "_");
+  code.replace(" ", "_").replace("\u2013", "-");
 
 export const deslugifyCourseCode: (code: string) => string = (code) =>
   code.replace("_", " ");
