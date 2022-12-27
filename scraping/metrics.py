@@ -4,6 +4,7 @@ class ScrapingMetrics:
         self.metrics = {
             'departments': 0,
             'courses': 0,
+            'course_listings': 0,
             'sequence_listings': 0,
             'code_match_failures': 0,
             'ignored_crosslistings': 0,
@@ -18,8 +19,11 @@ class ScrapingMetrics:
     def set_departments(self, n):
         self.metrics['departments'] = n
 
-    def add_courses(self, n):
-        self.metrics['courses'] += n
+    def inc_courses(self):
+        self.metrics['courses'] += 1
+
+    def add_course_listings(self, n):
+        self.metrics['course_listings'] += n
 
     def inc_sequence_listings(self):
         self.metrics['sequence_listings'] += 1
@@ -54,6 +58,9 @@ class ScrapingMetrics:
     def get_courses(self):
         return self.metrics['courses']
 
+    def get_course_listings(self):
+        return self.metrics['course_listings']
+
     def get_sequence_listings(self):
         return self.metrics['sequence_listings']
 
@@ -81,10 +88,13 @@ class ScrapingMetrics:
     def get_with_successors(self):
         return self.metrics['with_successors']
 
+    def get_all(self):
+        return dict(self.metrics)
+
     def pretty_print(self):
         print('Scraping statistics:')
-        print('Found %d departments, %d courses.' %
-              (self.get_departments(), self.get_courses()))
+        print('Found %d departments, %d course listings.' %
+              (self.get_departments(), self.get_course_listings()))
         print('%d courses were crosslisted (instances besides the first were skipped).' %
               self.get_ignored_crosslistings())
         print('%d courses were sequence listings.' %
@@ -95,6 +105,7 @@ class ScrapingMetrics:
         print('Anchor tag was missing %d times' % self.get_missing_anchors())
         print('Failed to find a description for %d courses' %
               self.get_missing_descriptions())
+        print('Wrote %d courses' % self.get_courses())
         print('%d courses had prerequisites' % self.get_with_prerequisites())
         print('%d courses had corequisites' % self.get_with_corequisites())
         print('%d courses had successors' % self.get_with_successors())

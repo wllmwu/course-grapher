@@ -49,7 +49,7 @@ class CatalogSpider(scrapy.Spider):
         title_line_selectors = response.css('p.course-name')
         self.logger.info('Found %d courses in department %s',
                          len(title_line_selectors), dept)
-        self.metrics.add_courses(len(title_line_selectors))
+        self.metrics.add_course_listings(len(title_line_selectors))
 
         if not self.dry_run:
             yield {
