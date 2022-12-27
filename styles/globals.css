@@ -60,6 +60,7 @@ p {
 a {
   color: var(--core-blue);
   text-decoration: none;
+  overflow-wrap: break-word;
 }
 
 a:hover {

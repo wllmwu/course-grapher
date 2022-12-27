@@ -88,8 +88,9 @@ function DepartmentPage({ department, courses }: DepartmentPageProps) {
       </h1>
       <p>
         This page lists all {courses.length} {department.code} courses found in
-        the catalog. Click on a course to view its prerequisite graph, or visit
-        the catalog page for this department at{" "}
+        the catalog. Click on a course to view its prerequisite graph and
+        connections to other courses, or visit the catalog page for this
+        department at{" "}
         <Link href={department.link}>
           <a>{department.link}</a>
         </Link>
@@ -106,18 +107,14 @@ function DepartmentPage({ department, courses }: DepartmentPageProps) {
           </React.Fragment>
         ))}
       </span>
-      <div className={styles.cardListWrapper}>
-        <div className={styles.cardList}>
-          {levels.map((level) => (
-            <React.Fragment key={level}>
-              <h2 id={level}>{level}</h2>
-              {coursesByLevel[level].map((course) => (
-                <CourseListing key={course.code} course={course} />
-              ))}
-            </React.Fragment>
+      {levels.map((level) => (
+        <React.Fragment key={level}>
+          <h2 id={level}>{level}</h2>
+          {coursesByLevel[level].map((course) => (
+            <CourseListing key={course.code} course={course} />
           ))}
-        </div>
-      </div>
+        </React.Fragment>
+      ))}
     </Page>
   );
 }

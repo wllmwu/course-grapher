@@ -3,9 +3,9 @@ import type { GetStaticProps } from "next";
 import { useRouter } from "next/router";
 import Head from "next/head";
 import type { Course } from "../utils/data-schema";
-import { getCourseCodeSlugs } from "../utils/buildtime";
+import { deslugifyCourseFile, getCourseCodeSlugs } from "../utils/buildtime";
 import * as cache from "../utils/frontend-cache";
-import { courseComparator, deslugifyCourseCode } from "../utils";
+import { courseComparator } from "../utils";
 import Page from "../components/Page";
 import SearchBar from "../components/SearchBar";
 import CourseListing from "../components/CourseListing";
@@ -16,7 +16,7 @@ export const getStaticProps: GetStaticProps = async () => {
   return {
     props: {
       courseCodes: courseCodeSlugs
-        .map((slug) => deslugifyCourseCode(slug))
+        .map((slug) => deslugifyCourseFile(slug))
         .sort(),
     },
   };
@@ -31,6 +31,7 @@ const MIN_QUERY_LENGTH = 2;
 function SearchPage({ courseCodes }: SearchPageProps) {
   const router = useRouter();
   const [searchResults, setSearchResults] = useState<Course[] | null>(null);
+  const [isLoading, setLoading] = useState(false);
   const userSearchText = useMemo<string | null>(() => {
     const query = router.query.q;
     if (!query) {
@@ -55,6 +56,7 @@ function SearchPage({ courseCodes }: SearchPageProps) {
       if (!userSearchText) {
         return;
       }
+      setLoading(true);
       const searchText = userSearchText
         .trim()
         .replaceAll(/[^A-z0-9\s]/g, "")
@@ -69,6 +71,7 @@ function SearchPage({ courseCodes }: SearchPageProps) {
       ) as Course[];
       results.sort(courseComparator);
       setSearchResults(results);
+      setLoading(false);
     }
     loadResults();
   }, [courseCodes, userSearchText]);
@@ -81,23 +84,26 @@ function SearchPage({ courseCodes }: SearchPageProps) {
       <h1 className={styles.center}>Search Courses</h1>
       <SearchBar
         initialValue={userSearchText ?? ""}
+        disabled={isLoading}
         onSubmit={(query: string) => {
           query = encodeURIComponent(query);
           router.push(`/search?q=${query}`, undefined, { shallow: true });
         }}
       />
-      {searchResults && (
+      <h2>
+        {isLoading
+          ? "Loading..."
+          : searchResults && `${searchResults.length} results`}
+      </h2>
+      {searchResults && searchResults.length > 0 && (
         <>
-          {searchResults.length === 0 ? (
-            <h2>No results</h2>
-          ) : (
-            <>
-              <h2>{searchResults.length} results</h2>
-              {searchResults.map((course) => (
-                <CourseListing key={course.code} course={course} />
-              ))}
-            </>
-          )}
+          <p>
+            Click on a course to visit its page and see its connections to other
+            courses.
+          </p>
+          {searchResults.map((course) => (
+            <CourseListing key={course.code} course={course} />
+          ))}
         </>
       )}
     </Page>

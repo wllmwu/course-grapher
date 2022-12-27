@@ -12,6 +12,10 @@ const navBarLinks = [
     link: "/departments",
   },
   {
+    title: "Search",
+    link: "/search",
+  },
+  {
     title: "About",
     link: "/about",
   },

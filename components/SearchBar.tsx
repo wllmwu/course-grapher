@@ -5,6 +5,7 @@ interface SearchBarProps {
   initialValue?: string;
   /** Defaults to 2 */
   minimumQueryLength?: number;
+  disabled?: boolean;
   /**
    * Callback function to be called when the user enters a search query. Only
    * called if the query is at least as long as `minimumQueryLength`. The query
@@ -18,6 +19,7 @@ interface SearchBarProps {
 function SearchBar({
   initialValue = "",
   minimumQueryLength = 2,
+  disabled = false,
   onSubmit,
 }: SearchBarProps) {
   const [searchText, setSearchText] = useState(initialValue);
@@ -33,9 +35,15 @@ function SearchBar({
       }}
       className={styles.searchForm}
     >
+      <label htmlFor="searchBar">
+        <p className={styles.searchLabel}>Search by course code</p>
+      </label>
       <input
-        type="text"
-        placeholder="Search for a course..."
+        id="searchBar"
+        type="search"
+        inputMode="search"
+        placeholder="cse 100"
+        disabled={disabled}
         value={searchText}
         onChange={(event) => setSearchText(event.target.value)}
         className={styles.searchBar}
