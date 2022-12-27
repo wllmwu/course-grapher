@@ -5,21 +5,18 @@ import re
 from utils import splice
 
 
-# matches the course code in a title line from the catalog
+# matches a basic course code in a title line from the catalog
 _course_code_matcher = re.compile(
-    r'(?P<subject>[A-Z]{2,}) (?P<number>[0-9]+[A-Z]*)(?P<ignore>/[A-Z]{2,} [0-9]+[A-Z]*)*[.: ]')
-# matches a special case where courses are crosslisted with the same number
-_crosslisted_same_number_matcher = re.compile(
-    r'(?P<subject>[A-Z]{2,})(?P<ignore>/[A-Z]{2,})+ (?P<number>[0-9]+[A-Z]*)')
-# matches a special case where courses are crosslisted in the same subject
-_crosslisted_same_subject_matcher = re.compile(
-    r'(?P<subject>[A-Z]{2,}) (?P<number>[0-9]+[A-Z]*)(?P<ignore>/[0-9]+[A-Z]*)+')
+    r'(?P<subject>[A-Z]{2,}) (?P<number>[0-9]+[A-Z]*)[.: ]')
+# matches a special case where multiple crosslisted course codes are present
+_crosslisted_code_matcher = re.compile(
+    r'(?P<subject>[A-Z]{2,})(?:/[A-Z]{2,})* (?P<number>[0-9]+[A-Z]*)(?:/|[A-Z]{2,} [0-9]+[A-Z]*|[0-9]+[A-Z]*)*[.: ]')
 # matches a special case where a listing describes a sequence of courses
 _title_sequence_matcher = re.compile(
-    r'(?P<subject>[A-Z]{2,}) (?P<number>[0-9]+[A-Z]*(?:[-\u2013][0-9A-Z]+)+)(?P<ignore>)')
+    r'(?P<subject>[A-Z]{2,}) (?P<number>[0-9]+[A-Z]*(?:[-\u2013][0-9A-Z]+)+)[.: ]')
 # matches special cases in the linguistics department
 _linguistics_matcher = re.compile(
-    r'Linguistics(?:/[A-Za-z ]+)? \((?P<subject>[A-Z]{2,})\) (?P<number>[0-9]+[A-Z]*)(?P<ignore>)')
+    r'Linguistics(?:/[A-Za-z ]+)? \((?P<subject>[A-Z]{2,})\) (?P<number>[0-9]+[A-Z]*(?:, [0-9]+[A-Z]*)*)[.: ]')
 # matches the unit count in a title line
 _units_matcher = re.compile(r'\((?P<units>.+?)\)')
 
@@ -87,9 +84,11 @@ class CourseInfoParser:
         title_line = title_line.strip()
         code_match = _course_code_matcher.match(title_line)
         if code_match is None:
-            code_match = _crosslisted_same_number_matcher.match(title_line)
-        if code_match is None:
-            code_match = _crosslisted_same_subject_matcher.match(title_line)
+            code_match = _crosslisted_code_matcher.match(title_line)
+            if code_match is not None:
+                self.logger.warning(
+                    'Ignored crosslisting(s) in "%s"', title_line)
+                self.metrics.inc_ignored_crosslistings()
         if code_match is None:
             code_match = _title_sequence_matcher.match(title_line)
             if code_match is not None:
@@ -102,14 +101,10 @@ class CourseInfoParser:
                 'Failed to match course code in "%s"', title_line)
             self.metrics.inc_code_match_failures()
             return None
-        subject, number, ignore = code_match.group(
-            'subject', 'number', 'ignore')
-        if ignore:
-            self.logger.warning('Ignored crosslisting(s) in "%s"', title_line)
-            self.metrics.inc_ignored_crosslistings()
+        subject, number = code_match.group('subject', 'number')
         title_start = code_match.end()
 
-        units_match = _units_matcher.search(title_line)
+        units_match = _units_matcher.search(title_line, title_start)
         if units_match is not None:
             units = units_match.group('units')
             title_end = units_match.start()

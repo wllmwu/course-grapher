@@ -3,13 +3,9 @@ import type { GetStaticPaths, GetStaticProps } from "next";
 import Head from "next/head";
 import Link from "next/link";
 import type { Course, Department } from "../../utils/data-schema";
-import { readDataFile } from "../../utils/buildtime";
+import { readDataFile, slugifyCourseFile } from "../../utils/buildtime";
 import * as cache from "../../utils/buildtime-cache";
-import {
-  courseComparator,
-  getCourseCodeDigits,
-  slugifyCourseCode,
-} from "../../utils";
+import { courseComparator, getCourseCodeDigits } from "../../utils";
 import Page from "../../components/Page";
 import CourseListing from "../../components/CourseListing";
 import styles from "../../styles/DepartmentsPage.module.css";
@@ -41,7 +37,7 @@ export const getStaticProps: GetStaticProps = async (context) => {
   const coursePromises = department.courses.map(
     async (courseCode: string) =>
       JSON.parse(
-        await readDataFile(`${slugifyCourseCode(courseCode)}.json`)
+        await readDataFile(`${slugifyCourseFile(courseCode)}.json`)
       ) as Course
   );
   const courses = await Promise.all(coursePromises);

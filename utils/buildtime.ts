@@ -1,6 +1,9 @@
 import { promises as fs } from "fs";
 import path from "path";
 
+export const slugifyCourseFile: (code: string) => string = (code) =>
+  code.replaceAll(" ", "_").replaceAll("\u2013", "-");
+
 /**
  * Reads the contents of the specified file in the `scraping/data` directory.
  * Uses the `fs` Promises API--see documentation below:

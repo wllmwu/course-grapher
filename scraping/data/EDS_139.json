@@ -8,21 +8,11 @@
   "coreqs": {
     "type": "one",
     "courses": [
-      {
-        "type": "all",
-        "courses": [
-          "EDS 128A",
-          "EDS 128B"
-        ]
-      },
-      {
-        "type": "all",
-        "courses": [
-          "EDS 129A",
-          "EDS 129B",
-          "EDS 129C"
-        ]
-      },
+      "EDS 128A",
+      "EDS 128B",
+      "EDS 129A",
+      "EDS 129B",
+      "EDS 129C",
       "EDS 130",
       "EDS 131",
       "EDS 133",
