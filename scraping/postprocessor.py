@@ -114,7 +114,7 @@ class Postprocessor:
         version is written to JSON.
         """
         self.logger.info('Writing courses')
-        writer = CourseWriter(self.course_successors)
+        writer = CourseWriter(self.course_successors, self.metrics)
         for dept in self.department_index.keys():
             try:
                 with jsonlines.open(f'intermediate/{dept}.jsonl', mode='r') as reader:
@@ -145,7 +145,8 @@ class Postprocessor:
                     'courseCount': self.metrics.get_courses(),
                     'withPrereqsCount': self.metrics.get_with_prerequisites(),
                     'withCoreqsCount': self.metrics.get_with_corequisites(),
-                    'withSuccessorsCount': self.metrics.get_with_successors()
+                    'withSuccessorsCount': self.metrics.get_with_successors(),
+                    'allStats': self.metrics.get_all()
                 }, file, indent=2)
         except OSError as error:
             self.logger.error(
@@ -163,7 +164,6 @@ class Postprocessor:
         for prereq_code in prereqs_list:
             if prereq_code not in self.course_successors:
                 self.course_successors[prereq_code] = []
-                self.metrics.inc_with_successors()
             self.course_successors[prereq_code].append(course['code'])
 
     def _course_tree_to_list(self, tree: ReqsDict | str) -> list[str]:
@@ -186,9 +186,10 @@ class Postprocessor:
 
 
 class CourseWriter:
-    def __init__(self, successor_map: dict[str, list[str]]) -> None:
-        super.__init__()
+    def __init__(self, successor_map: dict[str, list[str]], metrics: ScrapingMetrics) -> None:
+        super().__init__()
         self.logger = logging.getLogger('postprocessor.writer')
+        self.metrics = metrics
         self.successor_map = successor_map
 
     def write(self, course: dict) -> None:
@@ -198,9 +199,15 @@ class CourseWriter:
         encounters an error while writing files.
         """
         code: str = course['code']
+        self.metrics.inc_courses()
+        if 'prereqs' in course:
+            self.metrics.inc_with_prerequisites()
+        if 'coreqs' in course:
+            self.metrics.inc_with_corequisites()
         if code in self.successor_map:
             course['successors'] = self._sorted_unique(
                 self.successor_map[code])
+            self.metrics.inc_with_successors()
         filename = code.replace(' ', '_').replace('\u2013', '-')
         with open(f'data/{filename}.json', mode='w') as file:
             json.dump(course, file, indent=2)
