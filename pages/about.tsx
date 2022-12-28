@@ -51,11 +51,33 @@ function AboutPage({
         enroll in, I hope that GrAPE proves useful to other students in figuring
         out which courses to take and in what order.
       </p>
-      <p>
-        On this page, I explain my method, means, and motivation for this
-        project, in the reverse order.
-      </p>
-      <h2>Motivation</h2>
+      <h2>Contents</h2>
+      <ol>
+        <li>
+          <a href="#motivation">Motivation</a>
+        </li>
+        <li>
+          <a href="#how-it-works">How It Works</a>
+        </li>
+        <li>
+          <a href="#statistics">Statistics</a>
+        </li>
+        <li>
+          <a href="#acknowledgements">Acknowledgements</a>
+        </li>
+        <li>
+          <a href="#contributing-and-permissions">
+            Contributing and Permissions
+          </a>
+        </li>
+        <li>
+          <a href="#about-the-author">About the Author</a>
+        </li>
+        <li>
+          <a href="#typography-and-design">Typography and Design</a>
+        </li>
+      </ol>
+      <h2 id="motivation">Motivation</h2>
       <p>
         My primary motivation for developing this project was my own experience
         navigating the complex course prerequisites in the CSE department. The
@@ -89,8 +111,8 @@ function AboutPage({
         the preceding courses, such as CSE 21 and CSE 30. There are thousands of
         courses with prerequisites (I know thanks to this project), and their
         catalog descriptions are all written in a similar manner. It is not easy
-        to quickly understand what is required for each one until you&apos;re
-        very familiar with the relevant majors and departments.
+        to quickly understand what&apos;s required for each one until
+        you&apos;re very familiar with the relevant majors and departments.
       </p>
       <p>
         Besides that, the catalog itself is sometimes out of date. Another way
@@ -131,39 +153,7 @@ function AboutPage({
         having to open multiple tabs or windows just to keep track of one
         course&apos;s full set of prerequisites.
       </p>
-      <h2>Means</h2>
-      <p>
-        One thing I enjoy about this project is that I am able to apply some of
-        the concepts from the computer science courses I have taken. Namely, I
-        credit Dr. Jhala&apos;s CSE 130 (programming languages) and CSE 131
-        (compilers), Dr. Micciancio&apos;s CSE 105 (computability), Dr.
-        Kane&apos;s CSE 101 (algorithms), and Dr. Porter&apos;s CSE 142
-        (architecture), as well as all of the other great and knowledgeable
-        professors in our CSE department whose courses prepared me for those
-        ones&mdash;indeed, were prerequisites for those ones.
-      </p>
-      <p>
-        In addition, my work as a member of Triton Software Engineering, a UCSD
-        student org where we volunteer to create software for local nonprofits,
-        equipped me with the web development skills I needed to put everything
-        here together.
-      </p>
-      <p>
-        Major components of this project&apos;s tech stack include{" "}
-        <Link href="https://scrapy.org">
-          <a>Scrapy</a>
-        </Link>{" "}
-        for scraping the course catalog and{" "}
-        <Link href="https://nextjs.org">
-          <a>Next.js</a>
-        </Link>{" "}
-        and{" "}
-        <Link href="https://pages.github.com">
-          <a>GitHub Pages</a>
-        </Link>{" "}
-        for hosting the frontend website.
-      </p>
-      <h2>Method</h2>
+      <h2 id="how-it-works">How It Works</h2>
       <p>
         If you skim through the course catalog for a while, you might notice
         that there really is a set of rules which most of the prerequisite lists
@@ -173,7 +163,7 @@ function AboutPage({
         entire catalog is a collection of what one might call
         &quot;mostly-structured&quot; data, and with a little effort I can
         standardize it for easier interpretation by us students. Thus, GrAPE
-        works as follows&hellip;.
+        works as follows:
       </p>
       <p>
         The first step is to obtain the data. I wrote a Python program using the
@@ -196,7 +186,7 @@ function AboutPage({
         every single page upfront, reading data from the JSON files previously
         created, and then upload it to GitHub Pages. This step is reasonably
         fast, generally taking about 2 minutes on GitHub&apos;s servers to build
-        over 6,000 pages.
+        about 7,000 pages.
       </p>
       <p>
         The final step takes place in your browser. To shorten the build process
@@ -208,7 +198,7 @@ function AboutPage({
         and I&apos;m happy that I was able to accomplish this without any
         bloated third-party libraries.
       </p>
-      <h2>Statistics</h2>
+      <h2 id="statistics">Statistics</h2>
       <p>
         Last updated{" "}
         {new Intl.DateTimeFormat("en-US", { dateStyle: "long" }).format(
@@ -240,7 +230,39 @@ function AboutPage({
           </tr>
         </tbody>
       </table>
-      <h2>Contributing and Permissions</h2>
+      <h2 id="acknowledgements">Acknowledgements</h2>
+      <p>
+        One thing I enjoy about this project is that I am able to apply some of
+        the concepts from the computer science courses I have taken. Namely, I
+        credit Dr. Jhala&apos;s CSE 130 (programming languages) and CSE 131
+        (compilers), Dr. Micciancio&apos;s CSE 105 (computability), Dr.
+        Kane&apos;s CSE 101 (algorithms), and Dr. Porter&apos;s CSE 142
+        (architecture), as well as all of the other great and knowledgeable
+        professors in our CSE department whose courses prepared me for those
+        ones&mdash;indeed, were prerequisites for those ones.
+      </p>
+      <p>
+        In addition, my work as a member of Triton Software Engineering, a UCSD
+        student org where we volunteer to create software for local nonprofits,
+        equipped me with the web development skills I needed to put everything
+        here together.
+      </p>
+      <p>
+        Major components of this project&apos;s tech stack include{" "}
+        <Link href="https://scrapy.org">
+          <a>Scrapy</a>
+        </Link>{" "}
+        for scraping the course catalog and{" "}
+        <Link href="https://nextjs.org">
+          <a>Next.js</a>
+        </Link>{" "}
+        and{" "}
+        <Link href="https://pages.github.com">
+          <a>GitHub Pages</a>
+        </Link>{" "}
+        for hosting the frontend website.
+      </p>
+      <h2 id="contributing-and-permissions">Contributing and Permissions</h2>
       <p>
         GrAPE is a personal project which I created on my own time. You can view
         my code in the public{" "}
@@ -256,7 +278,7 @@ function AboutPage({
         Similarly, if you&apos;re interested in using these data for research or
         anything of the sort, then feel free to contact me. :)
       </p>
-      <h2>About the Author</h2>
+      <h2 id="about-the-author">About the Author</h2>
       <p>
         My name is William Wu and I&apos;m a computer science student at UC San
         Diego. I chose to study CS in order to learn more about how modern
@@ -268,7 +290,7 @@ function AboutPage({
         </Link>{" "}
         for more of my work and projects as well as contact information.
       </p>
-      <h2>Typography and Design</h2>
+      <h2 id="typography-and-design">Typography and Design</h2>
       <p>
         The typeface used for this website is{" "}
         <Link href="https://fonts.google.com/specimen/Roboto">
