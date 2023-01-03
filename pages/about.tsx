@@ -234,18 +234,23 @@ function AboutPage({
       <p>
         One thing I enjoy about this project is that I am able to apply some of
         the concepts from the computer science courses I have taken. Namely, I
-        credit Dr. Jhala&apos;s CSE 130 (programming languages) and CSE 131
-        (compilers), Dr. Micciancio&apos;s CSE 105 (computability), Dr.
-        Kane&apos;s CSE 101 (algorithms), and Dr. Porter&apos;s CSE 142
+        have taken much from Dr. Jhala&apos;s CSE 130 (programming languages)
+        and CSE 131 (compilers), Dr. Micciancio&apos;s CSE 105 (computability),
+        Dr. Kane&apos;s CSE 101 (algorithms), and Dr. Porter&apos;s CSE 142
         (architecture), as well as all of the other great and knowledgeable
         professors in our CSE department whose courses prepared me for those
         ones&mdash;indeed, were prerequisites for those ones.
       </p>
       <p>
-        In addition, my work as a member of Triton Software Engineering, a UCSD
-        student org where we volunteer to create software for local nonprofits,
-        equipped me with the web development skills I needed to put everything
-        here together.
+        In addition, my work as a member of{" "}
+        <Link href="https://tse.ucsd.edu">
+          <a>Triton Software Engineering</a>
+        </Link>
+        , a UCSD student org where we volunteer to create software for local
+        nonprofits, equipped me with the web development skills I needed to put
+        everything here together; and my great team at Motorola Solutions helped
+        me unlock the potential of continuous integration and act on engineering
+        vision during my internship there.
       </p>
       <p>
         Major components of this project&apos;s tech stack include{" "}
