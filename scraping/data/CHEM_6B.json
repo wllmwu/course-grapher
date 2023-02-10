@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "CHEM",
   "anchor": "chem6b",
-  "description": "Second quarter of a three-quarter sequence intended for science and engineering majors. Topics include covalent bonding, gases, liquids, and solids, colligative properties, physical and chemical equilibria, acids and bases, solubility. May not be taken for credit after CHEM 6BH. Prerequisites: CHEM 6A or 6AH and MATH 10A or 20A. Recommended: concurrent or prior enrollment in MATH 10B or 20B.",
+  "description": "Second quarter of a three-quarter sequence intended for science and engineering majors. Topics include gases, liquids, and solids, thermochemistry and thermodynamics, physical and chemical equilibria, solubility. May not be taken for credit after CHEM 6BH. Prerequisites: CHEM 6A or 6AH and MATH 10A or 20A. Recommended: concurrent or prior enrollment in MATH 10B or 20B.\u00a0(F, W, S)",
   "prereqs": {
     "type": "all",
     "courses": [

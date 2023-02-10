@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "CHEM",
   "anchor": "chem6c",
-  "description": "Third quarter of a three-quarter sequence intended for science and engineering majors. Topics include thermodynamics, kinetics, electrochemistry, coordination chemistry, and introductions to nuclear, main group organic, and biochemistry. May not be taken for credit after CHEM 6CH. Prerequisites: CHEM 6B or 6BH. Recommended: completion of MATH 10B or 20B.",
+  "description": "Third quarter of a three-quarter sequence intended for science and engineering majors. Topics include kinetics, acid-base equilibria, electrochemistry, coordination chemistry, and an introduction to nuclear chemistry. May not be taken for credit after CHEM 6CH. Prerequisites: CHEM 6B or 6BH. Recommended: completion of MATH 10B or 20B.\u00a0(F, W, S)",
   "prereqs": {
     "type": "one",
     "courses": [

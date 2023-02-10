@@ -4,5 +4,8 @@
   "units": "4",
   "dept": "MMW",
   "anchor": "mmw121",
-  "description": "MMW 121, the first of two required courses for ERC transfer students, addresses\u00a0themes and topics from the premodern world (from antiquity to the eighteenth century) and strengthens students\u2019 analytical, research, and writing skills. Students may not receive credit for MMW 21 and 121. Students who previously took MMW 21 and received a grade of D or F should contact Eleanor Roosevelt College academic advising for guidance. Prerequisites:\u00a0open to Eleanor Roosevelt College transfer students only.\u00a0Must be taken for a letter grade to meet the requirement. (F,Su)"
+  "description": "MMW 121, the first of two required courses for ERC transfer students, addresses\u00a0themes and topics from the premodern world (from antiquity to the eighteenth century) and strengthens students\u2019 analytical, research, and writing skills. Students may not receive credit for MMW 21 and 121. Students who previously took MMW 21 and received a grade of D or F should contact Eleanor Roosevelt College academic advising for guidance. Prerequisites:\u00a0open to Eleanor Roosevelt College transfer students only.\u00a0Must be taken for a letter grade to meet the requirement. (F,Su)",
+  "successors": [
+    "CSE 194"
+  ]
 }

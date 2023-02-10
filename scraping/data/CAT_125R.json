@@ -4,5 +4,8 @@
   "units": "4",
   "dept": "CAT",
   "anchor": "cat125r",
-  "description": "Online upper-division writing course in public rhetoric and practical communication. Students think critically about how technologies change how we communicate in a range of genres, media, and audiences. Faculty teach practical skills and strategies for writing and communicating in diverse digital environments via recorded videos. Prerequisites: upper-division standing."
+  "description": "Online upper-division writing course in public rhetoric and practical communication. Students think critically about how technologies change how we communicate in a range of genres, media, and audiences. Faculty teach practical skills and strategies for writing and communicating in diverse digital environments via recorded videos. Prerequisites: upper-division standing.",
+  "successors": [
+    "CSE 194"
+  ]
 }

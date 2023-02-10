@@ -23,6 +23,9 @@
     ]
   },
   "successors": [
-    "CSS 100"
+    "CSS 100",
+    "SOCI 102",
+    "SOCI 103M",
+    "SOCI 109"
   ]
 }

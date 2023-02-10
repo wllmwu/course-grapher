@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "CHEM",
   "anchor": "chem6a",
-  "description": "First quarter of a three-quarter sequence intended for science and engineering majors. Topics include atomic theory, bonding, molecular geometry, stoichiometry, types of reactions, and thermochemistry. May not be taken for credit after CHEM 6AH. Recommended: proficiency in high school chemistry and/or physics. Corequisite: MATH 10A or 20A or prior enrollment.",
+  "description": "First quarter of a three-quarter sequence intended for science and engineering majors. Topics include atomic theory, bonding, molecular geometry, stoichiometry, and types of reactions. May not be taken for credit after CHEM 6AH. Recommended: proficiency in high school chemistry and/or physics. Corequisite: MATH 10A or 20A or prior enrollment. (F, W, S)",
   "coreqs": {
     "type": "one",
     "courses": [
