@@ -25,10 +25,10 @@ _start_matcher = re.compile(
     r'(?<![Rr]ecommended )(?P<type>Pre|Co)requisites?:')
 # matches the prerequisites section
 _prerequisites_matcher = re.compile(
-    r'[^\.]*?(?:(?P<coreqs_start_1>concurrent)|(?P<prereqs>\(?(?:for )?(?:[A-Z]{3,}|SE)\s[0-9]+.*?|[Oo]ne of .*?|[Tt]wo of .*?)(?:\.|not|credit|restrict|majors|(?P<coreqs_start_2>concurrent|corequisite|[A-Z]{2,}\s[0-9]+[A-Z]* (?:must|should) be taken)|\Z))')
+    r'[^\.]*?(?:(?P<coreqs_start_1>concurrent)|(?P<prereqs>\(?(?:for )?(?:[A-Z]{3,}|SE)\s[0-9]+.*?|[Oo]ne of .*?|[Tt]wo of .*?)(?:\.|not|completed|credit|restrict|majors|(?P<coreqs_start_2>concurrent|corequisite|[A-Z]{2,}\s[0-9]+[A-Z]* (?:must|should) be taken)|\Z))')
 # matches the corequisites section
 _corequisites_matcher = re.compile(
-    r'[^\.]*?(?P<coreqs>\(?(?:for )?(?:[A-Z]{3,}|SE)\s[0-9]+.*?|[Oo]ne of .*?|[Tt]wo of .*?)(?:\.|not|credit|restrict|majors|\Z)')
+    r'[^\.]*?(?P<coreqs>\(?(?:for )?(?:[A-Z]{3,}|SE)\s[0-9]+.*?|[Oo]ne of .*?|[Tt]wo of .*?)(?:\.|not|completed|credit|restrict|majors|\Z)')
 # matches potential false positives for removal from the string
 _false_positive_matcher = re.compile(
     r'(?:[Gg]rade|[Ss]core) of .*? or (?:better|higher)|[A-D][-\u2013+]? or (?:better|higher)|,? or equivalent|GPA [0-9]|ACT|MBA|\(?(?:for|prior)[^,;]*\)?')
