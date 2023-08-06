@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "CAT",
   "anchor": "cat197",
-  "description": "Supervised community-based or industry-based fieldwork. Designated for Sixth College students to have the opportunity to work on a community-based or industry-based project supervised by a faculty member and community or industry mentor in which the subject or content of the project cannot be represented by a specific academic department. Students will submit written evaluations each week of their ongoing field study. Prerequisites: upper-division standing; completion of CAT 1, 2, and 3 or (for transfer students) completion of general-education requirements, including lower-division writing requirement.",
+  "description": "Supervised community-based or industry-based fieldwork. Designated for Sixth College students to have the opportunity to work on a community-based or industry-based project supervised by a faculty member and community or industry mentor in which the subject or content of the project cannot be represented by a specific academic department. Students will submit written evaluations each week of their ongoing field study. May be taken for credit three times. Prerequisites: upper-division standing; completion of lower-division writing sequence through taking CAT 1, CAT 2, and CAT 3 by students who entered as first-years, or through equivalent course work by transfer students.",
   "prereqs": {
     "type": "all",
     "courses": [

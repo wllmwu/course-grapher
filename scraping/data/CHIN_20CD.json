@@ -1,18 +1,8 @@
 {
   "code": "CHIN 20CD",
-  "title": "Second Year Chinese\u2014Dialect speakers III",
+  "title": "Second-Year Chinese for Dialect Speakers III",
   "units": "4",
   "dept": "CHIN",
   "anchor": "chin20cd",
-  "description": "Final course of second year Chinese for students with background in a dialect of Chinese. Third course of one-year curriculum for Chinese intermediate communicative skills. Expansion on pronunciation and more elaborate Chinese grammar and increasing vocabulary. Topics include food, physical actions, and culture. Students may not receive duplicate credit for both CHIN 23 and CHIN 20CD. Prerequisites: CHIN 22, CHIN 20BD, score of 5 on AP Chinese Language and Culture Exam, or department stamp.",
-  "prereqs": {
-    "type": "all",
-    "courses": [
-      "CHIN 22",
-      "CHIN 20BD"
-    ]
-  },
-  "successors": [
-    "CHIN 100AM"
-  ]
+  "description": "Intermediate Mandarin Chinese language course intended for students with some proficiency in a Chinese dialect other than Mandarin; part three of a three-quarter sequence that continues to expand oral and written communicative competence in Mandarin Chinese through interactive classes. Prerequisites: previous course or department approval through placement interview."
 }

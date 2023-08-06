@@ -4,9 +4,6 @@
   "units": "4",
   "dept": "MUS",
   "anchor": "mus120c",
-  "description": "Third part of intensive historical, analytical, and cultural-aesthetic examination of music in Western culture from the ninth through the twenty-first centuries. Considers both established traditions and new trends, from Romanticism through Modernism and Postmodernism, c. 1890\u2013present. Prerequisites: MUS 120B. Music majors should be enrolled concurrently in MUS 101C. Department stamp required for nonmajors.",
-  "prereqs": "MUS 120B",
-  "successors": [
-    "MUS 107"
-  ]
+  "description": "This sequence introduces key concepts, histories, and practices in contemporary music studies. In this course, students carry out projects developed in MUS 120A-B with peer feedback and faculty advising. Prerequisites: MUS 120B. Music majors are recommended to take MUS 101C concurrently. Department stamp required for nonmajors.",
+  "prereqs": "MUS 120B"
 }

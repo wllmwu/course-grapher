@@ -4,15 +4,15 @@
   "units": "5",
   "dept": "COGS",
   "anchor": "cogs120",
-  "description": "(Cross-listed with CSE 170.) Introduces fundamental methods and principles for designing, implementing, and evaluating user interfaces. Topics: user-centered design, rapid prototyping, experimentation, direct manipulation, cognitive principles, visual design, social software, software tools. Learn by doing: work with a team on a quarter-long design project. Recommended preparation: basic familiarity with HTML. Students may not receive credit for both COGS 120 and CSE 170. Prerequisites: CSE 11 or CSE 8B or DSC 30 and COGS 1 or COGS 187A or DSGN 1.",
+  "description": "Introduces fundamental methods and principles for designing, implementing, and evaluating user interfaces. Topics: user-centered design, rapid prototyping, experimentation, direct manipulation, cognitive principles, visual design, social software, software tools. Learn by doing: work with a team on a quarter-long design project. Recommended preparation: basic familiarity with HTML. Students may not receive credit for both COGS 120 and CSE 170. Prerequisites: COGS 108 or CSE 12 or DSC 30 and COGS 1 or COGS 10 or DSGN 1 or ENG 100D.",
   "prereqs": {
     "type": "all",
     "courses": [
       {
         "type": "one",
         "courses": [
-          "CSE 11",
-          "CSE 8B",
+          "COGS 108",
+          "CSE 12",
           "DSC 30"
         ]
       },
@@ -20,8 +20,9 @@
         "type": "one",
         "courses": [
           "COGS 1",
-          "COGS 187A",
-          "DSGN 1"
+          "COGS 10",
+          "DSGN 1",
+          "ENG 100D"
         ]
       }
     ]
@@ -30,9 +31,9 @@
     "COGS 121",
     "COGS 122",
     "COGS 123",
-    "COGS 124",
     "COGS 125",
     "COGS 126",
-    "CSE 176A"
+    "CSE 176A",
+    "DSGN 118"
   ]
 }

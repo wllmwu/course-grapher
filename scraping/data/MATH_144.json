@@ -11,5 +11,8 @@
       "MATH 140B",
       "MATH 142B"
     ]
-  }
+  },
+  "successors": [
+    "COGS 138"
+  ]
 }

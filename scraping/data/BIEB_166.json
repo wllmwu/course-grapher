@@ -5,8 +5,5 @@
   "dept": "BIOL",
   "anchor": "bieb166",
   "description": "An integrated approach to animal behavior focusing on mechanisms of acoustic, visual, and olfactory communication. Course covers ethology and the genetics and neurobiology of behavior; orientation and navigation; and signal origins, properties, design, and evolution. Prerequisites: BILD 3 and Physics 1A or 2A.",
-  "prereqs": "BILD 3",
-  "successors": [
-    "BIEB 167"
-  ]
+  "prereqs": "BILD 3"
 }

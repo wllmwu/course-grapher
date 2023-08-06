@@ -1,18 +1,8 @@
 {
   "code": "CHIN 10CN",
-  "title": "First Year Chinese\u2014Nonnative speakers III",
+  "title": "First-Year Chinese III",
   "units": "5",
   "dept": "CHIN",
   "anchor": "chin10cn",
-  "description": "Continuation course of basic Chinese for students with no background in Chinese. Third course of one-year curriculum for entry-level Chinese communicative skills. Expansion on pronunciation and more elaborate Chinese grammar and increasing vocabulary. Topics include dining, direction, and social life. Students may not receive duplicate credit for CHIN 13 and CHIN 10CN. Prerequisites: CHIN 12, CHIN 10BN, or department stamp.",
-  "prereqs": {
-    "type": "all",
-    "courses": [
-      "CHIN 12",
-      "CHIN 10BN"
-    ]
-  },
-  "successors": [
-    "CHIN 20AN"
-  ]
+  "description": "Introductory Mandarin Chinese language course for students with some basic Chinese language experience. Part three of a three-quarter sequence that covers foundational pronunciation, grammar, and vocabulary through interactive classes. Prerequisites: previous course or department approval through placement interview."
 }

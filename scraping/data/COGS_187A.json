@@ -26,10 +26,10 @@
     ]
   },
   "successors": [
-    "COGS 120",
     "COGS 122",
     "COGS 123",
     "COGS 127",
-    "COGS 187B"
+    "COGS 187B",
+    "DSGN 118"
   ]
 }

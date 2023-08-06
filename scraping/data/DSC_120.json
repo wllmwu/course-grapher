@@ -18,5 +18,8 @@
       "MATH 20C",
       "DSC 40B"
     ]
-  }
+  },
+  "successors": [
+    "COGS 138"
+  ]
 }

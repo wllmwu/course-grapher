@@ -13,6 +13,9 @@
     ]
   },
   "successors": [
+    "BIBC 100",
+    "BIBC 102",
+    "BIMM 100",
     "CHEM 114A",
     "CHEM 120A",
     "CHEM 141",

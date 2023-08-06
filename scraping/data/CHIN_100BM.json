@@ -1,18 +1,8 @@
 {
   "code": "CHIN 100BM",
-  "title": "Third Year Chinese\u2014Mandarin speakers II",
+  "title": "Third-Year Chinese for Mandarin and Dialect Speakers II",
   "units": "4",
   "dept": "CHIN",
   "anchor": "chin100bm",
-  "description": "Intermediate course of Chinese for students with background in Mandarin and other dialects. Second course of third year of Chinese that emphasizes the development of advanced oral, written competence, and aural skills in Mandarin. Topics include cultural aspects of the Chinese language, additional family issues and society. Students may not receive duplicate credit for both CHIN 112 and CHIN 100BM. Prerequisites: CHIN 111, CHIN 100AM, or department stamp.",
-  "prereqs": {
-    "type": "all",
-    "courses": [
-      "CHIN 111",
-      "CHIN 100AM"
-    ]
-  },
-  "successors": [
-    "CHIN 100CM"
-  ]
+  "description": "Advanced Mandarin Chinese language course intended for students with some oral or written proficiency in Mandarin or another Chinese dialect. Part two of a three-quarter sequence that further expands more complex oral and written communicative competence through study of topics including the history of Chinese language and society, education, and literature. Prerequisites: previous course or department approval through placement interview."
 }

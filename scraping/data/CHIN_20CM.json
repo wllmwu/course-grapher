@@ -1,18 +1,8 @@
 {
   "code": "CHIN 20CM",
-  "title": "Second Year Chinese\u2014Mandarin speakers III",
+  "title": "Second-Year Chinese for Mandarin Speakers III",
   "units": "4",
   "dept": "CHIN",
   "anchor": "chin20cm",
-  "description": "Final course of second year Chinese for students with background in Mandarin. Third course of one-year curriculum for Chinese intermediate communicative skills. Expansion on pronunciation and Chinese grammar and increasing vocabulary. Topics include food, physical actions, and culture. Students may not receive duplicate credit for both CHIN 23 and CHIN 20CM. Prerequisites: CHIN 22, CHIN 20BM, score of 5 on AP Chinese Language and Culture Exam, or department stamp.",
-  "prereqs": {
-    "type": "all",
-    "courses": [
-      "CHIN 22",
-      "CHIN 20BM"
-    ]
-  },
-  "successors": [
-    "CHIN 100AM"
-  ]
+  "description": "Intermediate Mandarin Chinese language course intended for students with some oral proficiency but little formal written training in Mandarin; part three of a three-quarter sequence focusing on increasing literacy with additional characters and expanding oral and written communicative competence in Mandarin Chinese through interactive classes. Prerequisites: previous course or department approval through placement interview."
 }

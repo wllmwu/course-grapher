@@ -1,18 +1,8 @@
 {
   "code": "CHIN 10BN",
-  "title": "First Year Chinese\u2014Nonnative speakers II",
+  "title": "First-Year Chinese II",
   "units": "5",
   "dept": "CHIN",
   "anchor": "chin10bn",
-  "description": "Continuation of basic Chinese for students with no background in Chinese. Second course of one-year curriculum for entry-level Chinese communicative skills. Covers pronunciation, more elaborate grammar, and vocabulary. Focus on goal-oriented tasks: school life, shopping, and transportation. Students may not receive duplicate credit for CHIN 12 and CHIN 10BN. Prerequisites: CHIN 11, CHIN 10AN, or department stamp.",
-  "prereqs": {
-    "type": "all",
-    "courses": [
-      "CHIN 11",
-      "CHIN 10AN"
-    ]
-  },
-  "successors": [
-    "CHIN 10CN"
-  ]
+  "description": "Introductory Mandarin Chinese language course for students with little to no Chinese language experience. Part two of a three-quarter sequence that covers foundational pronunciation, grammar, and vocabulary through interactive classes. Prerequisites: previous course or department approval through placement interview."
 }

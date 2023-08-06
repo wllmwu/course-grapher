@@ -13,5 +13,8 @@
       "COGS 118A",
       "COGS 118B"
     ]
-  }
+  },
+  "successors": [
+    "COGS 138"
+  ]
 }

@@ -1,18 +1,8 @@
 {
   "code": "CHIN 10BM",
-  "title": "First Year Chinese\u2014Mandarin speakers II",
+  "title": "First-Year Chinese for Mandarin Speakers II",
   "units": "5",
   "dept": "CHIN",
   "anchor": "chin10bm",
-  "description": "Continuation introduction of basic Chinese for students with background in Mandarin Chinese. Second course of one-year curriculum for entry-level Chinese communicative skills. Covers pronunciation, more elaborate Chinese grammar, and expanded vocabulary. Focus on goal-oriented tasks such as school life, shopping, and transportation. Students may not receive duplicate credit for CHIN 12 and CHIN 10BM. Prerequisites: CHIN 11, CHIN 10AM, or department stamp.",
-  "prereqs": {
-    "type": "all",
-    "courses": [
-      "CHIN 11",
-      "CHIN 10AM"
-    ]
-  },
-  "successors": [
-    "CHIN 10CM"
-  ]
+  "description": "Introductory Mandarin Chinese language course intended for students with some oral proficiency but who have not had significant written training in Mandarin; part two of a three-quarter sequence focusing on increasing literacy with additional characters. Prerequisites: previous course or department approval through placement interview."
 }

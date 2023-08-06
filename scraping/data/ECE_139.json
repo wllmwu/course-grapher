@@ -4,12 +4,5 @@
   "units": "4",
   "dept": "ECE",
   "anchor": "ece139",
-  "description": "Device physics of modern field effect transistors and bipolar transistors, including behavior of submicron structures. Relationship between structure and circuit models of transistors. CMOS and BiCMOS technologies. Emphasis on computer simulation of transistor operation and application in integrated circuits. Prerequisites: ECE 135A-B with grades of C\u2013 or better.",
-  "prereqs": {
-    "type": "all",
-    "courses": [
-      "ECE 135A",
-      "ECE 135B"
-    ]
-  }
+  "description": "This course is designed to provide a general background of semiconductor material, semiconductor device, circuit modeling and design based on fundamental physics, semiconductor physics, and device physics. Acquire the fundamental knowledge and technique to use material, device, mixed-mode, and circuit simulations. Recommended preparation:\u00a0ECE 135A-B."
 }

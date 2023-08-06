@@ -6,6 +6,7 @@
   "anchor": "cse6r",
   "description": "An introduction to computer science and programming using the Python language. The course will cover topics such as basic data types (e.g., integer, float, string), loops and iteration, basic data structures (e.g., list, set, dictionary), memory models, conditional statements, recursion, basic algorithm time complexity analysis, class design, and inheritance.",
   "successors": [
+    "COGS 138",
     "CSE 20",
     "MATH 157"
   ]

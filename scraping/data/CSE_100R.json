@@ -30,6 +30,8 @@
     ]
   },
   "successors": [
+    "BIMM 181",
+    "BIMM 182",
     "CSE 110",
     "CSE 130",
     "CSE 131",

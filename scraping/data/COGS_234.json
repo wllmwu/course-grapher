@@ -1,8 +1,8 @@
 {
   "code": "COGS 234",
-  "title": "Distributed Cognition",
+  "title": "Foundations for Future User Interfaces",
   "units": "4",
   "dept": "COGS",
   "anchor": "cogs234",
-  "description": "This course focuses on aspects of individual and socially distributed cognition. Empirical examples are drawn from natural and experimental settings that presuppose, tacitly or explicitly, socially distributed knowledge among participants. The class examines the way locally managed, pragmatic conditions influence how decisions are framed."
+  "description": "This course will cover the fundamental elements of effective human-computer interaction (HCI), including input modalities and techniques, representations, etc. In this course, the student will take a deep dive into classic literature in HCI, and in doing so identify fundamental problems that remain in today\u2019s user interfaces as well as proposing and developing exciting alternative user interface concepts."
 }

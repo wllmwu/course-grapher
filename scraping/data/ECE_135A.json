@@ -7,7 +7,6 @@
   "description": "Crystal structure and quantum theory of solids; electronic band structure; review of carrier statistics, drift and diffusion, p-n junctions; nonequilibrium carriers, imrefs, traps, recombination, etc.; metal-semiconductor junctions and heterojunctions. Prerequisites: ECE 103 with a grade of C\u2013 or better.",
   "prereqs": "ECE 103",
   "successors": [
-    "ECE 135B",
-    "ECE 139"
+    "ECE 135B"
   ]
 }
