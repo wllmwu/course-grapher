@@ -4,7 +4,7 @@
   "units": "5",
   "dept": "PHYS",
   "anchor": "phys203a",
-  "description": "Electrostatics, symmetries of Laplace\u2019s equation and methods for solution, boundary value problems, electrostatics in macroscopic media, magnetostatics, Maxwell\u2019s equations, Green functions for Maxwell\u2019s equations, plane wave solutions, plane waves in macroscopic media.",
+  "description": "A basic course in electromagnetism at the graduate level. Contents include special relativity, relativistic formulation of electrodynamics from the principle of least action, electrostatics, magnetostatics, multipoles, waves, light, diffraction, and multipole radiation.",
   "successors": [
     "PHYS 203B"
   ]

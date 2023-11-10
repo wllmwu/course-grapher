@@ -9,6 +9,7 @@ class ScrapingMetrics:
             'code_match_failures': 0,
             'ignored_crosslistings': 0,
             'missing_units': 0,
+            'nonstandard_units': 0,
             'missing_anchors': 0,
             'missing_descriptions': 0,
             'with_prerequisites': 0,
@@ -36,6 +37,9 @@ class ScrapingMetrics:
 
     def inc_missing_units(self):
         self.metrics['missing_units'] += 1
+
+    def inc_nonstandard_units(self):
+        self.metrics['nonstandard_units'] += 1
 
     def inc_missing_anchors(self):
         self.metrics['missing_anchors'] += 1
@@ -73,6 +77,9 @@ class ScrapingMetrics:
     def get_missing_units(self):
         return self.metrics['missing_units']
 
+    def get_nonstandard_units(self):
+        return self.metrics['nonstandard_units']
+
     def get_missing_anchors(self):
         return self.metrics['missing_anchors']
 
@@ -102,6 +109,8 @@ class ScrapingMetrics:
         print('Failed to parse course code %d times.' %
               self.get_code_match_failures())
         print('Unit count was missing %d times.' % self.get_missing_units())
+        print('Unit count was not a plain integer %d times' %
+              self.get_nonstandard_units())
         print('Anchor tag was missing %d times' % self.get_missing_anchors())
         print('Failed to find a description for %d courses' %
               self.get_missing_descriptions())

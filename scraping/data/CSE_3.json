@@ -6,6 +6,7 @@
   "anchor": "cse3",
   "description": "Introduces the concepts and skills necessary to effectively use information technology. Includes basic concepts and some practical skills with computer and networks. Prerequisites: none.",
   "successors": [
+    "CSE 180",
     "CSE 180R"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "code": "PHYS 2AR",
-  "title": "Physics\u2014Mechanics",
-  "units": "distance education",
+  "title": "Physics\u2014Mechanics (distance education)",
+  "units": "4",
   "dept": "PHYS",
   "anchor": "phys2ar",
   "description": "A calculus-based science-engineering general physics course covering vectors, motion in one and two dimensions, Newton\u2019s first and second laws, work and energy, conservation of energy, linear momentum, collisions, rotational kinematics, rotational dynamics, equilibrium of rigid bodies, oscillations, gravitation. This course is a distance education course. Students continuing to PHYS 2B/4B will also need MATH 20B. Students will not receive credit for both PHYS 2AR and PHYS 2A. Prerequisites: MATH 10A-B or 20A or 20B or 20C or 31BH. Recommended preparation: prior or concurrent enrollment in MATH 20B.",
@@ -20,5 +20,9 @@
       "MATH 20C",
       "MATH 31BH"
     ]
-  }
+  },
+  "successors": [
+    "SE 101A",
+    "SE 115"
+  ]
 }

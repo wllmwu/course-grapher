@@ -1,7 +1,7 @@
 {
   "code": "LTSP 100B",
-  "title": "Advanced Spanish Reading and Writing for the Humanities and the Social Sciences",
-  "units": "heritage speakers",
+  "title": "Advanced Spanish Reading and Writing for the Humanities and the Social Sciences (heritage speakers)",
+  "units": "4",
   "dept": "LIT",
   "anchor": "ltsp100b",
   "description": "Advanced development of writing and reading skills in Spanish for heritage speakers through the analysis of cultural production from Latin America and Spain. Introduction to literary and cultural analysis in preparation for upper-division Spanish literature courses and/or to perfecting writing and reading proficiency in Spanish. In addition, students will learn how to formulate formal and academic arguments in Spanish as the basis for more advanced research in Spanish. May be taken for credit up to three times as topics vary.  Prerequisites:  LTSP 2E.",
@@ -14,6 +14,7 @@
     "LTSP 135B",
     "LTSP 137",
     "LTSP 138",
+    "LTSP 145",
     "LTSP 150",
     "LTSP 150A",
     "LTSP 150B",
@@ -25,6 +26,7 @@
     "LTSP 174",
     "LTSP 175",
     "LTSP 176",
-    "LTSP 177"
+    "LTSP 177",
+    "LTSP 180"
   ]
 }

@@ -1,10 +1,10 @@
 {
   "code": "CHEM 40A",
-  "title": "Organic Chemistry I",
+  "title": "Organic Chemistry for Life Sciences I",
   "units": "4",
   "dept": "CHEM",
   "anchor": "chem40a",
-  "description": "Renumbered from CHEM 140A. Introduction to organic chemistry with applications to biochemistry. Bonding theory, isomerism, stereochemistry, chemical and physical properties. Introduction to substitution, addition, and elimination reactions. Students may only receive credit for one of the following: CHEM 40A, 40AH, 140A, or 140AH. Prerequisites: CHEM 6B or CHEM 6BH.",
+  "description": "The first quarter of a two-quarter organic chemistry sequence intended for biological sciences majors and other interested students. The course provides in-depth study of the molecular structure and reactivity of organic molecules with emphasis on biological applications. Topics covered include bonding theory, resonance, stereochemistry, conjugation, aromaticity, spectroscopy, effects of structure on properties and reactivity, introduction to reaction mechanisms, and nucleophilic substitutions. Students may receive credit for one of the following: CHEM 40A, CHEM 40AH, or CHEM 41A. Recommended: concurrent or prior enrollment in CHEM 6C or 6CH. Prerequisites: CHEM 6B or 6BH.",
   "prereqs": {
     "type": "one",
     "courses": [

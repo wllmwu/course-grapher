@@ -4,24 +4,22 @@
   "units": "4",
   "dept": "CHEM",
   "anchor": "chem143b",
-  "description": "Continuation of CHEM 43A, 143A, 43AM, and 143AM, emphasizing synthetic methods of organic chemistry. Enrollment is limited to majors in the Department of Chemistry and Biochemistry unless space is available. A materials fee is required. Prerequisites: CHEM 43A, 143A, 43AM or 143AM, and CHEM 40B or 140B.",
+  "description": "Continuation of CHEM 43A or 43AM, emphasizing synthetic methods of organic chemistry. Enrollment is limited to majors in the Department of Chemistry and Biochemistry unless space is available. Program or materials fees may apply. Prerequisites: CHEM 43A or 43AM and CHEM 40B or 41B.",
   "prereqs": {
     "type": "all",
     "courses": [
-      "CHEM 43A",
-      "CHEM 143A",
       {
         "type": "one",
         "courses": [
-          "CHEM 43AM",
-          "CHEM 143AM"
+          "CHEM 43A",
+          "CHEM 43AM"
         ]
       },
       {
         "type": "one",
         "courses": [
           "CHEM 40B",
-          "CHEM 140B"
+          "CHEM 41B"
         ]
       }
     ]

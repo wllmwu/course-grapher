@@ -1,22 +1,23 @@
 {
-  "timestamp": "2023-08-06T15:22",
+  "timestamp": "2023-11-10T14:14",
   "deptCount": 83,
-  "courseCount": 6988,
-  "withPrereqsCount": 2162,
-  "withCoreqsCount": 55,
-  "withSuccessorsCount": 1301,
+  "courseCount": 6987,
+  "withPrereqsCount": 2173,
+  "withCoreqsCount": 56,
+  "withSuccessorsCount": 1306,
   "allStats": {
     "departments": 83,
-    "courses": 6988,
-    "course_listings": 7030,
-    "sequence_listings": 66,
+    "courses": 6987,
+    "course_listings": 7029,
+    "sequence_listings": 61,
     "code_match_failures": 6,
     "ignored_crosslistings": 125,
     "missing_units": 9,
+    "nonstandard_units": 554,
     "missing_anchors": 55,
     "missing_descriptions": 0,
-    "with_prerequisites": 2162,
-    "with_corequisites": 55,
-    "with_successors": 1301
+    "with_prerequisites": 2173,
+    "with_corequisites": 56,
+    "with_successors": 1306
   }
 }

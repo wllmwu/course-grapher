@@ -18,7 +18,9 @@ _title_sequence_matcher = re.compile(
 _linguistics_matcher = re.compile(
     r'Linguistics(?:/[A-Za-z ]+)? \((?P<subject>[A-Z]{2,})\) (?P<number>[0-9]+[A-Z]*(?:, [0-9]+[A-Z]*)*)[.: ]')
 # matches the unit count in a title line
-_units_matcher = re.compile(r'\((?P<units>.+?)\)')
+_units_matcher = re.compile(r'.*\((?P<units>.+?)\)')
+# matches plain numbers to check unit counts
+_digits_matcher = re.compile(r'^[0-9]+$')
 
 # matches the beginning of the pre/corequisites section of a course description
 _start_matcher = re.compile(
@@ -107,7 +109,10 @@ class CourseInfoParser:
         units_match = _units_matcher.search(title_line, title_start)
         if units_match is not None:
             units = units_match.group('units')
-            title_end = units_match.start()
+            title_end = units_match.start('units') - 1
+            if _digits_matcher.match(units) is None:
+                self.logger.warning('Nonstandard units in "%s"', title_line)
+                self.metrics.inc_nonstandard_units()
         else:
             self.logger.warning('Missing units in "%s"', title_line)
             self.metrics.inc_missing_units()

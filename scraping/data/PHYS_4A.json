@@ -1,14 +1,13 @@
 {
   "code": "PHYS 4A",
-  "title": "Physics for Physics Majors\u2014Mechanics",
+  "title": "Physics for Physics Majors\u2013Mechanics",
   "units": "4",
   "dept": "PHYS",
   "anchor": "phys4a",
-  "description": "The first quarter of a five-quarter calculus-based physics sequence for physics majors and students with a serious interest in physics. The topics covered are vectors, particle kinematics and dynamics, work and energy, conservation of energy, conservation of momentum, collisions, rotational kinematics and dynamics, equilibrium of rigid bodies. Prerequisites: MATH 20A. Recommended preparation: prior or concurrent enrollment in MATH 20B and a knowledge of vectors.",
+  "description": "The first quarter of a five-quarter calculus-based physics sequence for physics majors and students with a serious interest in physics. The topics covered are vectors, particle kinematics and dynamics, work and energy, conservation of energy, conservation of momentum, collisions, rotational kinematics and dynamics, equilibrium of rigid bodies, small oscillations, gravitation, and central force motion. Prerequisites: MATH 20A. Recommended preparation: prior or concurrent enrollment in MATH 20B and a knowledge of vectors.",
   "prereqs": "MATH 20A",
   "successors": [
     "ECE 107",
-    "ECE 120",
     "EDS 105",
     "MAE 03",
     "MAE 101A",
