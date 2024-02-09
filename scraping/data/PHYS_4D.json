@@ -43,6 +43,11 @@
     ]
   },
   "successors": [
+    "ASTR 101",
+    "ASTR 120",
+    "ASTR 123",
+    "ASTR 124",
+    "ASTR 150",
     "ECE 103",
     "PHYS 100A",
     "PHYS 105A",

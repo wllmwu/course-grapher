@@ -4,8 +4,5 @@
   "units": "4",
   "dept": "ECE",
   "anchor": "ece251c",
-  "description": "Fundamentals of multirate systems (Noble Identities, Polyphase representations), maximally decimated filter banks (QMF filters for 2-channels, M-channel perfect reconstruction systems), Paraunitary perfect reconstruction filter banks, the wavelet transform (Multiresolution, discrete wavelet transform, filter banks and wavelet). Prerequisites: graduate standing.",
-  "successors": [
-    "SIOC 207D"
-  ]
+  "description": "Fundamentals of multirate systems (Noble Identities, Polyphase representations), maximally decimated filter banks (QMF filters for 2-channels, M-channel perfect reconstruction systems), Paraunitary perfect reconstruction filter banks, the wavelet transform (Multiresolution, discrete wavelet transform, filter banks and wavelet). Prerequisites: graduate standing."
 }

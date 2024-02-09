@@ -4,12 +4,7 @@
   "units": "2",
   "dept": "CLRE",
   "anchor": "clre265",
-  "description": "This course will expose and familiarize students with important advanced statistical methods such as methods for numeric outcomes (Linear regression), nonlinear regression, methods for binary outcomes (Logistic regression), methods for counts (Poisson regression) and categorical outcomes (Log-linear models). Prerequisites: CLRE 253, CLRE 254.",
-  "prereqs": {
-    "type": "all",
-    "courses": [
-      "CLRE 253",
-      "CLRE 254"
-    ]
-  }
+  "description": "This course will introduce advanced biostatistical methods including: meta-analysis, smoothing, Poisson and negative binomial regression, ordinal and nominal logistic regression, propensity score analysis, and analysis of time-to-event data with competing risks. Corequisite: CLRE 254. Prerequisites: CLRE 253, admission to the MAS in Clinical Research Program, or consent of department.",
+  "prereqs": "CLRE 253",
+  "coreqs": "CLRE 254"
 }

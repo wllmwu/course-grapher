@@ -6,6 +6,7 @@
   "anchor": "cse11",
   "description": "Accelerated introductory programming including an object-oriented approach. Covers basic programming topics from CSE 8A including variables, conditionals, loops, functions/methods, structured data storage, and mutation. Also covers topics from CSE 8B including the Java programming language, class design, interfaces, basic class hierarchies, recursion, event-based programming, and file I/O. Basics of command-line navigation for file management and running programs. Zero units of credit offered for CSE 11 if CSE 8B taken previously or concurrently. Recommended preparation: Significant prior programming experience (for example, high school AP CSA). Students should consult the \u201cCSE Course Placement Advice\u201d web page for assistance in choosing a first CSE course. Prerequisites: restricted to undergraduates. Graduate students will be allowed as space permits.",
   "successors": [
+    "ASTR 150",
     "COGS 108",
     "COGS 109",
     "COGS 118A",

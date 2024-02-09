@@ -28,8 +28,10 @@
     ]
   },
   "successors": [
+    "CSE 151A",
     "ECE 155",
     "ECE 157A",
+    "ECON 171",
     "MATH 180C",
     "MGT 151R"
   ]

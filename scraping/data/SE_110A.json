@@ -4,18 +4,12 @@
   "units": "4",
   "dept": "SE",
   "anchor": "se110a",
-  "description": "Concepts of stress and strain. Hooke\u2019s law. Stress transformation. Axial loading of bars. Torsion of circular shafts. Torsion of thin-walled members. Pure bending of beams. Unsymmetric bending of beams. Shear stresses in beams. Shear stresses in thin-walled beams. Shear center. Differential equation of the deflection curve. Deflections and slopes of beams from integration methods. Statically determinate and indeterminate problems. Prerequisites: MATH 20D and SE 101A (or MAE 130A).",
+  "description": "Concepts of stress and strain. Hooke\u2019s law. Stress transformation. Axial loading of bars. Torsion of circular shafts. Torsion of thin-walled members. Pure bending of beams. Unsymmetric bending of beams. Shear stresses in beams. Shear stresses in thin-walled beams. Shear center. Differential equation of the deflection curve. Deflections and slopes of beams from integration methods. Statically determinate and indeterminate problems. Prerequisites: MATH 20D and SE 101A.",
   "prereqs": {
     "type": "all",
     "courses": [
       "MATH 20D",
-      {
-        "type": "one",
-        "courses": [
-          "SE 101A",
-          "MAE 130A"
-        ]
-      }
+      "SE 101A"
     ]
   },
   "successors": [

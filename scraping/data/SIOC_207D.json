@@ -4,18 +4,12 @@
   "units": "4",
   "dept": "SIO",
   "anchor": "sioc207d",
-  "description": "The coherent processing of data collected from sensors distributed in space for signal enhancement and noise rejection purposes or wavefield directionality estimation. Conventional and adaptive beamforming. Matched field processing. Sparse array design and processing techniques. Applications to acoustics, geophysics, and electromagnetics. Coscheduled with ECE 251D. (Recommended Prerequisites: ECE251A or ECE 251AN.) Prerequisites: graduate standing; ECE 251C (for ECE 251D); SIOC 207C or SIO 207C (for SIOC 207D).",
+  "description": "The coherent processing of data collected from sensors distributed in space for signal enhancement and noise rejection purposes or wavefield directionality estimation. Conventional and adaptive beamforming. Matched field processing. Sparse array design and processing techniques. Applications to acoustics, geophysics, and electromagnetics. Cross-listed with ECE 251D. Students will not receive credit for both ECE 251D and SIOC 207D.\u00a0Prerequisites: graduate standing; ECE 251A or SIOC 207B.",
   "prereqs": {
-    "type": "all",
+    "type": "one",
     "courses": [
-      "ECE 251C",
-      {
-        "type": "one",
-        "courses": [
-          "SIOC 207C",
-          "SIO 207C"
-        ]
-      }
+      "ECE 251A",
+      "SIOC 207B"
     ]
   }
 }

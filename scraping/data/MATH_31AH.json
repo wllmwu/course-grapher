@@ -6,6 +6,7 @@
   "anchor": "math31ah",
   "description": "First quarter of three-quarter honors integrated linear algebra/multivariable calculus sequence for well-prepared students. Topics include real/complex number systems, vector spaces, linear transformations, bases and dimension, change of basis, eigenvalues, eigenvectors, diagonalization. (Credit not offered for both MATH 31AH and 20F.) Prerequisites: AP Calculus BC score of 5 or consent of instructor.",
   "successors": [
+    "ASTR 101",
     "BENG 100",
     "BENG 110",
     "BENG 123",
@@ -81,6 +82,7 @@
     "PHYS 4C",
     "PHYS 4D",
     "PHYS 4E",
+    "SE 101C",
     "SE 125",
     "SE 130B",
     "SIO 175",

@@ -7,6 +7,12 @@
   "description": "The first quarter of a five-quarter calculus-based physics sequence for physics majors and students with a serious interest in physics. The topics covered are vectors, particle kinematics and dynamics, work and energy, conservation of energy, conservation of momentum, collisions, rotational kinematics and dynamics, equilibrium of rigid bodies, small oscillations, gravitation, and central force motion. Prerequisites: MATH 20A. Recommended preparation: prior or concurrent enrollment in MATH 20B and a knowledge of vectors.",
   "prereqs": "MATH 20A",
   "successors": [
+    "ASTR 101",
+    "ASTR 120",
+    "ASTR 123",
+    "ASTR 124",
+    "ASTR 150",
+    "ASTR 20A",
     "ECE 107",
     "EDS 105",
     "MAE 03",

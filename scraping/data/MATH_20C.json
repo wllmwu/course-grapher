@@ -7,6 +7,7 @@
   "description": "Vector geometry, vector functions and their derivatives. Partial differentiation. Maxima and minima. Double integration. (Two units of credit given if taken after MATH 10C. Credit not offered for both MATH 20C and 31BH. Formerly numbered MATH 21C.) Prerequisites: AP Calculus BC score of 4 or 5, or MATH 20B with a grade of C\u2013 or better.",
   "prereqs": "MATH 20B",
   "successors": [
+    "ASTR 20A",
     "BENG 100",
     "CENG 102",
     "CHEM 126A",

@@ -4,5 +4,8 @@
   "units": "4",
   "dept": "MAE",
   "anchor": "mae204",
-  "description": "This course covers topics in robotics, dynamics, kinematics, mechatronics, control, locomotion, and manipulation. Prerequisites: nongraduate students may enroll with consent of instructor."
+  "description": "This course covers topics in robotics, dynamics, kinematics, mechatronics, control, locomotion, and manipulation. Prerequisites: nongraduate students may enroll with consent of instructor.",
+  "successors": [
+    "MAE 269"
+  ]
 }
