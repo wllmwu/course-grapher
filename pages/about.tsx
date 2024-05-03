@@ -274,10 +274,8 @@ function AboutPage({
         <Link href="https://github.com/wllmwu/course-grapher">
           <a>GitHub repository</a>
         </Link>
-        , but it is currently not licensed so I retain all rights to it. With
-        that said, there are more features I hope to add or improve, so if
-        you&apos;d like to contribute then please reach out (see below) and I
-        may add a license and guidelines.
+        . There are more features I hope to add or improve, so if you&apos;d
+        like to contribute then please reach out (see below).
       </p>
       <p>
         Similarly, if you&apos;re interested in using these data for research or
@@ -290,8 +288,8 @@ function AboutPage({
         technology works, in both theory and practice, and how I could build
         things for others to use and enjoy (like this project). Check out my
         personal website at{" "}
-        <Link href="https://williamwu.site">
-          <a>williamwu.site</a>
+        <Link href="https://williamwu.net">
+          <a>williamwu.net</a>
         </Link>{" "}
         for more of my work and projects as well as contact information.
       </p>
