@@ -1,12 +1,12 @@
 {
-  "timestamp": "2024-02-08T19:23",
-  "deptCount": 85,
+  "timestamp": "2024-06-01T13:32",
+  "deptCount": 86,
   "courseCount": 7047,
   "withPrereqsCount": 2215,
   "withCoreqsCount": 57,
   "withSuccessorsCount": 1334,
   "allStats": {
-    "departments": 85,
+    "departments": 86,
     "courses": 7047,
     "course_listings": 7089,
     "sequence_listings": 61,
