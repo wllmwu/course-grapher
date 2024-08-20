@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "MGT",
   "anchor": "mgt109",
-  "description": "Introduces advanced topics of special interest in marketing. Topics may include advertising, consumer behavior, pricing, product life cycles, etc. This course may also cover the unique demands of innovation-driven, biotech, and high-technology markets. Prerequisites: MGT 100 or MGT 103, upper-division standing.",
+  "description": "Introduces advanced topics of special interest in marketing. Topics may include advertising, consumer behavior, pricing, product life cycles, etc. This course may also cover the unique demands of innovation-driven, biotech, and high-technology markets.\u00a0May be taken for credit no more than three times.\u00a0Prerequisites: MGT 100 or MGT 103, upper-division standing.",
   "prereqs": {
     "type": "one",
     "courses": [

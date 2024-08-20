@@ -4,29 +4,15 @@
   "units": "4",
   "dept": "PHYS",
   "anchor": "phys161",
-  "description": "An introduction to Einstein\u2019s theory of general relativity with emphasis on the physics of black holes. Topics will include metrics and curved space-time, the Schwarzchild metric, motion around and inside black holes, rotating black holes, gravitational lensing, gravity waves, Hawking radiation, and observations of black holes. PHYS 160, 161, 162, and 163 may be taken as a four-quarter sequence for students interested in pursuing graduate study in astrophysics or individually as topics of interest. Prerequisites: PHYS 2A-B-C-D or 4A-B-C-D-E.",
+  "description": "An introduction to Einstein\u2019s theory of general relativity with emphasis on the physics of black holes. Topics will include metrics and curved space-time, the Schwarzschild metric, motion around and inside black holes, rotating black holes, gravitational lensing, gravity waves, Hawking radiation, and observations of black holes. Prerequisites: PHYS 4A-B-C-D-E.",
   "prereqs": {
-    "type": "one",
+    "type": "all",
     "courses": [
-      {
-        "type": "all",
-        "courses": [
-          "PHYS 2A",
-          "PHYS 2B",
-          "PHYS 2C",
-          "PHYS 2D"
-        ]
-      },
-      {
-        "type": "all",
-        "courses": [
-          "PHYS 4A",
-          "PHYS 4B",
-          "PHYS 4C",
-          "PHYS 4D",
-          "PHYS 4E"
-        ]
-      }
+      "PHYS 4A",
+      "PHYS 4B",
+      "PHYS 4C",
+      "PHYS 4D",
+      "PHYS 4E"
     ]
   }
 }

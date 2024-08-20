@@ -1,8 +1,0 @@
-{
-  "code": "PHYA 232",
-  "title": "Astrostatistics",
-  "units": "4",
-  "dept": "PHYS",
-  "anchor": "phya232",
-  "description": "This course reviews the fundamentals of large data set analysis and machine learning methods relevant to modern astronomical survey datasets. Topics include statistical distributions, classical and Bayesian inference, Monte Carlo methods, data clustering and classification, principal component analysis, model fitting, decision trees, and time series analysis."
-}

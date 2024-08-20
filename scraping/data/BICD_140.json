@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "BIOL",
   "anchor": "bicd140",
-  "description": "Formation and function of the mammalian immune system, molecular and cellular basis of the immune response, infectious diseases and autoimmunity. Prerequisites: BICD 100 or BICD 100R, BIMM 100. BIBC 100 recommended.",
+  "description": "Formation and function of the mammalian immune system, molecular and cellular basis of the immune response, infectious diseases and autoimmunity. Prerequisites: BICD 100 or BICD 100R and BIMM 100. BIBC 100 recommended.",
   "prereqs": {
     "type": "all",
     "courses": [

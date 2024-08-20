@@ -1,15 +1,16 @@
 {
   "code": "CSE 30",
-  "title": "Computer Organization and Systems Programming",
+  "title": "Computer Organization",
   "units": "4",
   "dept": "CSE",
   "anchor": "cse30",
-  "description": "Introduction to organization of modern digital computers\u2014understanding the various components of a computer and their interrelationships. Study of a specific architecture/machine with emphasis on systems programming in C and Assembly languages in a UNIX environment. Prerequisites: CSE 12 and CSE 15L; restricted to undergraduates. Graduate students will be allowed as space permits.",
+  "description": "Introduction to organization of modern digital computers. Students learn how to write programs in assembly, design basic processors capable of executing the assembly programs, and how to build the basic components of processors using digital logic. Topics include assembly programming, combinational and sequential logic, processor performance, processor design, and the memory hierarchy. Prerequisites: CSE 15L or CSE 29 or ECE 15; restricted to undergraduates. Graduate students will be allowed as space permits.",
   "prereqs": {
-    "type": "all",
+    "type": "one",
     "courses": [
-      "CSE 12",
-      "CSE 15L"
+      "CSE 15L",
+      "CSE 29",
+      "ECE 15"
     ]
   },
   "successors": [

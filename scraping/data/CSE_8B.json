@@ -8,6 +8,8 @@
   "prereqs": "CSE 8A",
   "successors": [
     "ASTR 150",
+    "ASTR 154",
+    "ASTR 155",
     "COGS 118A",
     "COGS 118B",
     "COGS 121",
@@ -21,6 +23,7 @@
     "CSE 180R",
     "CSE 185",
     "CSE 20",
+    "CSE 29",
     "ECE 140A",
     "ECE 144",
     "ECE 16",

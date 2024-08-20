@@ -1,19 +1,22 @@
 {
   "code": "MUS 170",
-  "title": "Musical Acoustics",
+  "title": "Art of Sound",
   "units": "4",
   "dept": "MUS",
   "anchor": "mus170",
-  "description": "(Formerly MUS 160A.) An introduction to the acoustics of music with particular emphasis on contemporary digital techniques for understanding and manipulating sound. Prerequisites: MUS 1A, 2A, or 4.",
+  "description": "Survey of applications of audio technology to music and related art forms. Physical and perceptual properties of sound and its artistic uses. Prerequisites: MUS 1A, 2A, 5, 6, or 7, or consent of instructor.",
   "prereqs": {
     "type": "one",
     "courses": [
       "MUS 1A",
       "MUS 2A",
-      "MUS 4"
+      "MUS 5",
+      "MUS 6",
+      "MUS 7"
     ]
   },
   "successors": [
+    "MUS 171",
     "MUS 174A",
     "MUS 174B",
     "MUS 174C",

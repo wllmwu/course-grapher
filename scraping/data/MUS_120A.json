@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "MUS",
   "anchor": "mus120a",
-  "description": "This sequence introduces key concepts, histories, and practices in contemporary music studies. Students will explore methodological approaches and learn about current research through focused historical and ethnographic case studies. Prerequisites: MUS 1C or 2C or passing grade on proficiency exam. Music majors are recommended to take MUS 101A concurrently. Department stamp required for nonmajors.",
+  "description": "This sequence introduces key concepts, histories, and practices in contemporary music studies. Students will explore methodological approaches and learn about current research through focused historical and ethnographic case studies. Prerequisites: MUS 1C or 2C or passing grade on proficiency exam. Music majors are recommended to take MUS 101A concurrently. Department approval required for nonmajors.",
   "prereqs": {
     "type": "one",
     "courses": [

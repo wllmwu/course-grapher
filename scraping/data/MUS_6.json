@@ -4,5 +4,8 @@
   "units": "4",
   "dept": "MUS",
   "anchor": "mus6",
-  "description": "Lectures and listening sessions devoted to the most significant works of music realized through the use of computers and other electronic devices from the middle of this century through the present. Prerequisites: none."
+  "description": "Lectures and listening sessions devoted to the most significant works of music realized through the use of computers and other electronic devices from the middle of this century through the present. Prerequisites: none.",
+  "successors": [
+    "MUS 170"
+  ]
 }

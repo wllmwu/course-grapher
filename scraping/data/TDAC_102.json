@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "THEA",
   "anchor": "tdac102",
-  "description": "Further study in the application of the given circumstances to a text and the development of characterization. Prerequisites: TDAC 101.",
+  "description": "Further study in the application of the given circumstances to a text and the development of characterization. Prerequisites: TDAC 101 or consent of instructor.",
   "prereqs": "TDAC 101",
   "successors": [
     "TDAC 103A",

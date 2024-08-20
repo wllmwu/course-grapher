@@ -4,12 +4,30 @@
   "units": "4",
   "dept": "PHYS",
   "anchor": "phys4c",
-  "description": "Continuation of PHYS 4B covering charge and Coulomb\u2019s law, electric field, Gauss\u2019s law, electric potential, capacitors and dielectrics, current and resistance, magnetic field, Ampere\u2019s law, Faraday\u2019s law, inductance, AC circuits. Prerequisites: PHYS 4A-B, MATH 20A-B-C or 31BH, and 18 or 20F or 31AH. Recommended preparation: prior or concurrent enrollment in MATH 20E or 31CH.",
+  "description": "Continuation of PHYS 4B covering charge and Coulomb\u2019s law, electric field, Gauss\u2019s law, electric potential, capacitors and dielectrics, current and resistance, magnetic field, Ampere\u2019s law, Faraday\u2019s law, inductance, AC circuits. Prerequisites: PHYS 4A-B or PHYS 2A-B-C, MATH 20A-B-C or 31BH, and 18 or 20F or 31AH. Recommended preparation: prior or concurrent enrollment in MATH 20E or 31CH.",
   "prereqs": {
     "type": "all",
     "courses": [
-      "PHYS 4A",
-      "PHYS 4B",
+      {
+        "type": "one",
+        "courses": [
+          {
+            "type": "all",
+            "courses": [
+              "PHYS 4A",
+              "PHYS 4B"
+            ]
+          },
+          {
+            "type": "all",
+            "courses": [
+              "PHYS 2A",
+              "PHYS 2B",
+              "PHYS 2C"
+            ]
+          }
+        ]
+      },
       {
         "type": "one",
         "courses": [
@@ -37,9 +55,15 @@
   "successors": [
     "ASTR 101",
     "ASTR 120",
+    "ASTR 122",
     "ASTR 123",
     "ASTR 124",
+    "ASTR 130",
+    "ASTR 131",
     "ASTR 150",
+    "ASTR 152",
+    "ASTR 154",
+    "ASTR 155",
     "ECE 107",
     "EDS 105",
     "PHYS 100A",
@@ -49,11 +73,8 @@
     "PHYS 120",
     "PHYS 130A",
     "PHYS 139",
-    "PHYS 160",
     "PHYS 161",
     "PHYS 162",
-    "PHYS 163",
-    "PHYS 164",
     "PHYS 170",
     "PHYS 2CL",
     "PHYS 4D",

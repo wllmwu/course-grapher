@@ -1,8 +1,8 @@
 {
   "code": "PHYS 278",
-  "title": "Biophysical Basis of Neuronal Computation",
+  "title": "Biophysics of Neurons and Networks",
   "units": "4",
   "dept": "PHYS",
   "anchor": "phys278",
-  "description": "This course explores principles and design rules for the neuronal circuits that underlie animal behavior. We provide an analytical path from the dynamics of single neurons to different forms of neuronal computations. Classic and contemporary experimental studies serve as examples, and aspects of applied mathematics and experimental techniques are discussed as appropriate. Recommended preparation: a working knowledge of ordinary differential equations, linear algebra, statistical mechanics (at the level of PHYS 140A), and electrical circuits (at the level of PHYS 100B)."
+  "description": "Information processing by nervous system through physical reasoning and mathematical analysis. A review of the biophysics of neurons and synapses and fundamental limits to signaling by nervous systems is followed by essential aspects of the dynamics of phase coupled neuronal oscillators, the dynamics and computational capabilities of recurrent neuronal networks, and the computational capability of layered networks. May be coscheduled with PHYS 178. Recommended preparation: a working knowledge of calculus and linear algebra."
 }

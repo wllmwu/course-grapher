@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "POLI",
   "anchor": "poli27",
-  "description": "An examination of ethical principles (e.g., utilitarianism, individual rights, etc.) and their social and political applications to contemporary issues such as abortion, environmental protection, and affirmative action. Ethical principles will also be applied to moral dilemmas familiar in government, law, business, and the professions. Satisfies the Warren College ethics and society requirement. Prerequisites: CAT 2 and 3, DOC 2 and 3, MCWP 40 and 50, HUM 1 and 2, MMW 2 and 3, WCWP 10A\u2013B, or WARR 11A\u2013B, SYN 1R and SYN 2R, CCE 1 and CCE 2.",
+  "description": "An examination of ethical principles (e.g., utilitarianism, individual rights, etc.) and their social and political applications to contemporary issues such as abortion, environmental protection, and affirmative action. Ethical principles will also be applied to moral dilemmas familiar in government, law, business, and the professions. Satisfies the Warren College ethics and society requirement. Prerequisites: CAT 2 and 3, DOC 2 and 3, MCWP 40 and 50, HUM 1 and 2, MMW 2 and 3, WCWP 10A\u2013B, or WARR 11A\u2013B, SYN 1 and SYN 2, CCE 1 and CCE 2.",
   "prereqs": {
     "type": "all",
     "courses": [
@@ -62,8 +62,8 @@
           }
         ]
       },
-      "SYN 1R",
-      "SYN 2R",
+      "SYN 1",
+      "SYN 2",
       "CCE 1",
       "CCE 2"
     ]

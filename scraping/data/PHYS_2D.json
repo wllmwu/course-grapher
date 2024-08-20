@@ -22,9 +22,15 @@
   "successors": [
     "ASTR 101",
     "ASTR 120",
+    "ASTR 122",
     "ASTR 123",
     "ASTR 124",
+    "ASTR 130",
+    "ASTR 131",
     "ASTR 150",
+    "ASTR 152",
+    "ASTR 154",
+    "ASTR 155",
     "ASTR 18",
     "CHEM 100B",
     "CHEM 126A",
@@ -34,11 +40,6 @@
     "ECE 134",
     "ECE 187",
     "EDS 105",
-    "PHYS 139",
-    "PHYS 160",
-    "PHYS 161",
-    "PHYS 162",
-    "PHYS 163",
-    "PHYS 164"
+    "PHYS 139"
   ]
 }

@@ -4,5 +4,8 @@
   "units": "4",
   "dept": "COMM",
   "anchor": "comm30",
-  "description": "The role of digital communication in a democratic system, and the ways mass media both facilitate and inhibit the development of a viable public sphere. By exploring today\u2019s digital communication dynamics, students will have the opportunity to become more mindful, active consumers of media and to feel empowered to be engaged participants in public life."
+  "description": "The role of digital communication in a democratic system, and the ways mass media both facilitate and inhibit the development of a viable public sphere. By exploring today\u2019s digital communication dynamics, students will have the opportunity to become more mindful, active consumers of media and to feel empowered to be engaged participants in public life.",
+  "successors": [
+    "COMM 118C"
+  ]
 }

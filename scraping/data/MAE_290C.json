@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "MAE",
   "anchor": "mae290c",
-  "description": "Numerical methods in fluid dynamics and convective transport processes. Numerical solution of the Euler and Navier-Stokes equation. Additional topics will vary according to instructor. Examples include eigenvalue problems in hydrodynamic stability, vortex methods, spectral and panel methods. Students may not receive credit for both MAE 290C and MAE 223. Prerequisites: MAE 210A-B, 290A-B.",
+  "description": "Numerical methods in fluid dynamics and convective transport processes. Numerical solution of the Euler and Navier-Stokes equation. Additional topics will vary according to instructor. Examples include eigenvalue problems in hydrodynamic stability, vortex methods, spectral and panel methods. Prerequisites: MAE 210A-B, 290A-B.",
   "prereqs": {
     "type": "all",
     "courses": [

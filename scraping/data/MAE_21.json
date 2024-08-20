@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "MAE",
   "anchor": "mae21",
-  "description": "Atomic structure and physical properties of engineering materials including metals, ceramics, glasses, polymers, and composite materials. Defects and phase diagram of materials. Material testing and processing. Program or materials fees may apply. Prerequisites: PHYS 2A or 4A, CHEM 6A or CHEM 6AH, and MATH 20B. Enrollment restricted to MC 25 majors only.",
+  "description": "Atomic structure and physical properties of engineering materials including metals, ceramics, glasses, polymers, and composite materials. Defects and phase diagram of materials. Material testing and processing. Program or materials fees may apply. Prerequisites: PHYS 2A or 4A, CHEM 6A or CHEM 6AH, and MATH 20B. Enrollment restricted to MC 25 and MC 35\u201337 majors only.",
   "prereqs": {
     "type": "all",
     "courses": [
