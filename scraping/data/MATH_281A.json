@@ -7,7 +7,8 @@
   "description": "Statistical models, sufficiency, efficiency, optimal estimation, least squares and maximum likelihood, large sample theory. Prerequisites: advanced calculus and basic probability theory or consent of instructor.",
   "successors": [
     "BNFO 286",
-    "FMPH 222",
-    "FMPH 223"
+    "PHB 222",
+    "PHB 223",
+    "PHB 228"
   ]
 }

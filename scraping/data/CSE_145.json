@@ -1,8 +1,8 @@
 {
   "code": "CSE 145",
-  "title": "Embedded System Design Project",
+  "title": "Embedded Systems Design Project",
   "units": "4",
   "dept": "CSE",
   "anchor": "cse145",
-  "description": "Project class building an embedded computing system. Learn fundamental knowledge of microcontrollers, sensors, and actuators. Introduction to the hardware and software tools to build project in a team environment and end-to-end system building. Prerequisites: instructor approval required, by application only."
+  "description": "This project-based course builds an embedded computing system. Topics include rapid system prototyping, hardware/software codesign, technical writing, public speaking, project management, entrepreneurship, and research ethics. May be coscheduled with CSE 237D. Prerequisites: instructor approval required, by application only."
 }

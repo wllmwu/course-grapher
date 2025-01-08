@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "PHIL",
   "anchor": "phil27",
-  "description": "An examination of ethical principles (e.g., utilitarianism, individual rights, etc.) and their social and political applications to contemporary issues: abortion, environmental protection, and affirmative action. Ethical principles will also be applied to moral dilemmas in government, law, business, and the professions. Warren College students must take course for a letter grade in order to satisfy the Warren College general-education requirement. Prerequisites: CAT 2 and 3 or DOC 2 and 3 or MCWP 40 and 50 or HUM 1 and 2 or MMW 2 and 3 or WCWP 10A and B.",
+  "description": "An examination of ethical principles (e.g., utilitarianism, individual rights, etc.) and their social and political applications to contemporary issues: abortion, environmental protection, and affirmative action. Ethical principles will also be applied to moral dilemmas in government, law, business, and the professions. Warren College students must take course for a letter grade in order to satisfy the Warren College general-education requirement. Prerequisites: CAT 2 and 3 or CAT 2CE and 3CE or CCE 1 and 2 or DOC 2 and 3 or HUM 1 and 2 or MCWP 40 and 50 or MCWP 40R and 50R or MMW 12 and 13 or WCWP 10A and B or SYN 1 and 2 or WARR 11A and 11B or SYN 1R and 2R.",
   "prereqs": {
     "type": "one",
     "courses": [
@@ -18,15 +18,22 @@
       {
         "type": "all",
         "courses": [
-          "DOC 2",
-          "DOC 3"
+          "CAT 2CE",
+          "CAT 3CE"
         ]
       },
       {
         "type": "all",
         "courses": [
-          "MCWP 40",
-          "MCWP 50"
+          "CCE 1",
+          "CCE 2"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "DOC 2",
+          "DOC 3"
         ]
       },
       {
@@ -39,8 +46,22 @@
       {
         "type": "all",
         "courses": [
-          "MMW 2",
-          "MMW 3"
+          "MCWP 40",
+          "MCWP 50"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "MCWP 40R",
+          "MCWP 50R"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "MMW 12",
+          "MMW 13"
         ]
       },
       {
@@ -48,6 +69,27 @@
         "courses": [
           "WCWP 10A",
           "WCWP 10B"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "SYN 1",
+          "SYN 2"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "WARR 11A",
+          "WARR 11B"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "SYN 1R",
+          "SYN 2R"
         ]
       }
     ]

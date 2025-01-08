@@ -4,14 +4,8 @@
   "units": "4",
   "dept": "LING",
   "anchor": "liab1f",
-  "description": "A course to increase the proficiency level of students who have completed LIAB 1E/1EX or who are at an equivalent level. Attention to listening comprehension, conversation, vocabulary building, reading, grammar analysis, and culture. Prerequisites: LIAB 1E or equivalent or LIAB 1EX.",
-  "prereqs": {
-    "type": "one",
-    "courses": [
-      "LIAB 1E",
-      "LIAB 1EX"
-    ]
-  },
+  "description": "A course to increase the proficiency level of students who have completed LIAB 1E or who are at an equivalent level. Attention to listening comprehension, conversation, vocabulary building, reading, grammar analysis, and culture. Prerequisites: LIAB 1E.",
+  "prereqs": "LIAB 1E",
   "successors": [
     "LIAB 1G"
   ]

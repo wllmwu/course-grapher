@@ -5,8 +5,5 @@
   "dept": "MATH",
   "anchor": "math282b",
   "description": "Diagnostics, outlier detection, robust regression. Variable selection, ridge regression, the lasso. Generalized linear models, including logistic regression. Data analysis using the statistical software R. Students who have not taken MATH 282A may enroll with consent of instructor. Prerequisites: MATH 282A or consent of instructor. (S/U grades permitted.)",
-  "prereqs": "MATH 282A",
-  "successors": [
-    "FMPH 223"
-  ]
+  "prereqs": "MATH 282A"
 }

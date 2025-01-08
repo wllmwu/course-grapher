@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "SE",
   "anchor": "se103",
-  "description": "Introduction to structural design approaches for civil structures. Structural materials. Loads and load paths. Gravity and lateral load elements and systems. Code design fundamentals. Construction methods. Structural idealization. Hand and computer methods of analysis. Experimental methods applied through team-based projects. Program or materials fees may apply. Prerequisites: SE 3, MAE 8 or SE 9, SE 101A, and SE 105.",
+  "description": "Introduction to structural design approaches for civil structures. Structural materials. Loads and load paths. Gravity and lateral load elements and systems. Code design fundamentals. Construction methods. Structural idealization. Hand and computer methods of analysis. Experimental methods applied through team-based projects. Program or materials fees may apply. Prerequisites: SE 3, SE 9 or MAE 8, SE 101A, and SE 105.",
   "prereqs": {
     "type": "all",
     "courses": [
@@ -12,8 +12,8 @@
       {
         "type": "one",
         "courses": [
-          "MAE 8",
-          "SE 9"
+          "SE 9",
+          "MAE 8"
         ]
       },
       "SE 101A",

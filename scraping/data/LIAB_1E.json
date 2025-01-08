@@ -1,10 +1,10 @@
 {
   "code": "LIAB 1E",
-  "title": "Arabic Conversation",
-  "units": "2.5",
+  "title": "Intermediate Arabic Conversation and Analysis",
+  "units": "4",
   "dept": "LING",
   "anchor": "liab1e",
-  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Must be taken in conjunction with LIAB 1EX. Prerequisites: LIAB 1D with a grade of C\u2013 or better, or equivalent, and LIAB 1DX with a grade of D or better, or equivalent.",
+  "description": "A course to increase proficiency in written and spoken Arabic for students at the intermediate level. Attention to listening comprehension, conversation, vocabulary, reading, grammar analysis, and culture. Prerequisites: LIAB 1D with a grade of C\u2013 or better, or equivalent, and LIAB 1DX with a grade of D or better, or equivalent.",
   "prereqs": {
     "type": "all",
     "courses": [

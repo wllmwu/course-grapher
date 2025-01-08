@@ -4,8 +4,5 @@
   "units": "4",
   "dept": "MATH",
   "anchor": "math281b",
-  "description": "Hypothesis testing and confidence intervals, one-sample and two-sample problems. Bayes theory, statistical decision theory, linear models and regression. Prerequisites: advanced calculus and basic probability theory or consent of instructor.",
-  "successors": [
-    "FMPH 223"
-  ]
+  "description": "Hypothesis testing and confidence intervals, one-sample and two-sample problems. Bayes theory, statistical decision theory, linear models and regression. Prerequisites: advanced calculus and basic probability theory or consent of instructor."
 }

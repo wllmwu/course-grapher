@@ -21,6 +21,8 @@
     ]
   },
   "successors": [
+    "CSE 150A",
+    "CSE 150B",
     "CSE 151A",
     "CSE 151B",
     "CSE 156",

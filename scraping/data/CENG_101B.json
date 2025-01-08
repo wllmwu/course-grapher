@@ -8,7 +8,6 @@
   "prereqs": "CENG 101A",
   "successors": [
     "CENG 120",
-    "CENG 157",
-    "MAE 175A"
+    "CENG 157"
   ]
 }
