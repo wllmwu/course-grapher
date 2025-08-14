@@ -1,0 +1,12 @@
+{
+  "code": "PAE 222",
+  "title": "Pharmacology and Pharmacotherapeutics I",
+  "units": "2",
+  "dept": "PAS",
+  "anchor": "pae222",
+  "description": "The first in a series of four lecture-based courses that explores the knowledge and concepts required to safely prescribe and monitor medications used to diagnose and treat common medical conditions in primary care and emergency department settings.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75) and successful completion of PAE 214.",
+  "prereqs": "PAE 214",
+  "successors": [
+    "PAE 290"
+  ]
+}

@@ -19,5 +19,9 @@
       "PHYS 2C",
       "PHYS 2D"
     ]
-  }
+  },
+  "successors": [
+    "ASTR 102",
+    "ASTR 105"
+  ]
 }

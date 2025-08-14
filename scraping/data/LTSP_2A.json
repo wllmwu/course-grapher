@@ -1,10 +1,10 @@
 {
   "code": "LTSP 2A",
-  "title": "Intermediate Spanish I: Foundations",
+  "title": "Intermediate Spanish I",
   "units": "5",
   "dept": "LIT",
   "anchor": "ltsp2a",
-  "description": "Course is taught in Spanish, emphasizing the development of reading ability, listening comprehension, and writing skills. It includes grammar review, weekly compositions, and class discussions.  Prerequisites:  LISP 1C/1CX or LISP 1D/DX, or score of 3 on AP Spanish Language Exam, or placement result of 3 or 4 the Language Placement Exam\u2014Spanish, or consent of instructor.",
+  "description": "Emphasizes the development of communication skills, listening comprehension, reading ability, and writing skills. It includes grammar review, composition, and class discussions. This course is for students who began learning Spanish in a classroom environment. Students who have experience with Spanish outside of the classroom (at home, in their community) should take courses for heritage learners (LTSP 1F, 2F, 3F).  Prerequisites:  LISP 1C/1CX or LISP 1D/DX, or score of 3 on AP Spanish Language Exam, or placement result of 3 or 4 the Language Placement Exam\u2014Spanish, or consent of instructor.",
   "prereqs": {
     "type": "one",
     "courses": [

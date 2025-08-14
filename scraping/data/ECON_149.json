@@ -4,5 +4,18 @@
   "units": "4",
   "dept": "ECON",
   "anchor": "econ149",
-  "description": "The course will examine the theory and practice of designing markets and institutions for strategic agents. We will discuss applications in auctions, voting and social choice, online platforms, resource allocation, and matching markets. Prerequisites: none."
+  "description": "The course will examine the theory and practice of designing markets and institutions for strategic agents. We will discuss applications in auctions, voting and social choice, online platforms, resource allocation, and matching markets. Prerequisites: MATH 109 or MATH 15A or ECON 100A or CSE 21 or CSE 20 or MATH 154 or MATH 188 or MATH 184.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 109",
+      "MATH 15A",
+      "ECON 100A",
+      "CSE 21",
+      "CSE 20",
+      "MATH 154",
+      "MATH 188",
+      "MATH 184"
+    ]
+  }
 }

@@ -1,0 +1,11 @@
+{
+  "code": "PAE 250",
+  "title": "Technical Skills and Procedures II",
+  "units": "2",
+  "dept": "PAS",
+  "anchor": "pae250",
+  "description": "The second in a series of two stand-alone courses designed to introduce learners to the indications, contraindications, step-by-step procedures, and complications of technical skills commonly performed by physician assistants. Simulation activities during lab sessions allow learners to practice skills. Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 290"
+  ]
+}

@@ -11,5 +11,8 @@
       "CENG 100",
       "CENG 102"
     ]
-  }
+  },
+  "successors": [
+    "CENG 176A"
+  ]
 }

@@ -1,0 +1,15 @@
+{
+  "code": "MGT 155",
+  "title": "Advanced Business Analytics",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt155",
+  "description": "Prescriptive analytics, which employs analytics to formulate, identify, and solve business problems, offers the opportunity to move beyond gut reactions toward systematizing decision making in business contexts. The purpose of this course is to introduce the students to the tools and methodology of prescriptive analytics. Topics include discrete event simulation, dynamic optimization, revenue management, queuing systems and capacity management, and machine learning. Prerequisites: MGT 151R or MGT 153.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MGT 151R",
+      "MGT 153"
+    ]
+  }
+}

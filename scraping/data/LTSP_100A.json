@@ -1,15 +1,21 @@
 {
   "code": "LTSP 100A",
-  "title": "Advanced Spanish Reading and Writing for the Humanities and the Social Sciences",
+  "title": "Advanced Spanish Language and Culture",
   "units": "4",
   "dept": "LIT",
   "anchor": "ltsp100a",
-  "description": "Advanced development of writing and reading skills in Spanish through the analysis of cultural production from Latin America and Spain. Introduction to literary and cultural analysis in preparation for upper-division Spanish literature courses and/or to the development of near-native writing and reading proficiency in Spanish. In addition, students will learn how to formulate formal and academic arguments in Spanish for more advanced research in Spanish. May be taken for credit up to three times as topics vary.  Prerequisites:  LTSP 2C.",
+  "description": "This course is an advanced conversation and writing course for second language learners of Spanish. The objective of the course is to develop oral, reading, and writing academic proficiency in Spanish. Students will explore a variety of cultural, literary, and writing genres from the Spanish-speaking world in both class discussions and writing assignments. This course has the purpose of preparing students to work in a professional context in Spanish. May be taken for credit up to three times as topics vary.  Prerequisites:  LTSP 2C.",
   "prereqs": "LTSP 2C",
   "successors": [
     "LTSP 101",
+    "LTSP 110",
+    "LTSP 115",
     "LTSP 116",
     "LTSP 123",
+    "LTSP 123GS",
+    "LTSP 124",
+    "LTSP 126",
+    "LTSP 128",
     "LTSP 134",
     "LTSP 135A",
     "LTSP 135B",
@@ -27,9 +33,12 @@
     "LTSP 170",
     "LTSP 172",
     "LTSP 174",
+    "LTSP 174GS",
     "LTSP 175",
     "LTSP 176",
     "LTSP 177",
-    "LTSP 180"
+    "LTSP 180",
+    "LTWR 101C",
+    "LTWR 101W"
   ]
 }

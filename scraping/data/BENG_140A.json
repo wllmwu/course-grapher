@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "BENG",
   "anchor": "beng140a",
-  "description": "Introductory mammalian physiology for bioengineering students, with emphasis on control mechanisms and engineering principles. Basic cell functions; biological control systems; muscle; neural; endocrine, and circulatory systems. Not intended for premedical bioengineering students. Credit not allowed for both BIPN 100 and BENG 140A. Prerequisites: CHEM 6A-B, PHYS 2A-B-C, BILD 1, or BENG 102; majors only or consent of department. (W)",
+  "description": "Introductory mammalian physiology for bioengineering students, with emphasis on control mechanisms and engineering principles. Basic cell functions; biological control systems; muscle; neural; endocrine, and circulatory systems. Not intended for premedical bioengineering students. Credit not allowed for both BIPN 100 or BIPN 100R and BENG 140A. Prerequisites: CHEM 6A-B, PHYS 2A-C, BILD 1, or BENG 102; majors only or consent of department. (W)",
   "prereqs": {
     "type": "one",
     "courses": [
@@ -28,7 +28,6 @@
     ]
   },
   "successors": [
-    "BENG 140B",
     "BENG 189",
     "BENG 193",
     "BIPN 156"

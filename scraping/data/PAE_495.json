@@ -1,0 +1,15 @@
+{
+  "code": "PAE 495",
+  "title": "Program to Practice",
+  "units": "1",
+  "dept": "PAS",
+  "anchor": "pae495",
+  "description": "This seminar course examines topics to the transition from the role the physician assistant learner to professional practice, including career development, contract negotiation, financial literacy, debt management, medical liability, risk management, licensing and credentialing process, and post-graduate education opportunities. Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75) and successful completion of PAE 290 and PAE 494.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PAE 290",
+      "PAE 494"
+    ]
+  }
+}

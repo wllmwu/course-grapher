@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "ECON",
   "anchor": "econ100c",
-  "description": "Analysis of the effects of imperfect market structure, strategy, and imperfect information. Prerequisites: ECON 100B.",
+  "description": "Advanced analysis of production, costs, the supply of output, and demand for factors of production. Advanced analysis of the demand for goods and services. Applications to consumption and saving decisions, strategic behavior, and the supply of labor. General equilibrium and welfare. Prerequisites: ECON 100B.",
   "prereqs": "ECON 100B",
   "successors": [
     "ECON 104",

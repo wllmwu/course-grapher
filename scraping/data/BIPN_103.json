@@ -1,0 +1,21 @@
+{
+  "code": "BIPN 103",
+  "title": "Human Anatomy with Lab",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bipn103",
+  "description": "Tour the human body, studying the form and function of your internal structures. Through lecture, students will examine the cellular and structural organization of different organ systems, including the cardiovascular, digestive, muscular, nervous, renal, reproductive, respiratory, and skeletal systems. In lab, students will apply what is learned through hands-on work. Note: The course uses virtual reality headsets as a teaching tool. Program or material lab fees may apply. Intended for pre-health students. Recommended preparation: BIPN 102. Prerequisites: BILD 4 and BIPN 100 or BIPN 100R.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 4",
+      {
+        "type": "one",
+        "courses": [
+          "BIPN 100",
+          "BIPN 100R"
+        ]
+      }
+    ]
+  }
+}

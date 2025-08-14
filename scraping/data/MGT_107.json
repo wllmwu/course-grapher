@@ -4,6 +4,12 @@
   "units": "4",
   "dept": "MGT",
   "anchor": "mgt107",
-  "description": "The course identifies the factors that influence the selection and usage of products and services. Students will be introduced to problems/decisions that include evaluating behavior, understanding the consumers\u2019 decision process, and strategies to create desirable consumer behavior. Prerequisites: MGT 103.",
-  "prereqs": "MGT 103"
+  "description": "The course identifies the factors that influence the selection and usage of products and services. Students will be introduced to problems/decisions that include evaluating behavior, understanding the consumers\u2019 decision process, and strategies to create desirable consumer behavior. Prerequisites: MGT 100 or MGT 103.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MGT 100",
+      "MGT 103"
+    ]
+  }
 }

@@ -1,0 +1,13 @@
+{
+  "code": "PAE 410",
+  "title": "Family Medicine Rotation",
+  "units": "4",
+  "dept": "PAS",
+  "anchor": "pae410",
+  "description": "This supervised clinical practice experience requires active participation in the clinical evaluation and management of patients seeking preventive, urgent, acute, and chronic care in a primary care setting. Encounters will include experience with infants, children, adolescents, adults, and elderly.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75) and successful completion of PAE 290.",
+  "prereqs": "PAE 290",
+  "successors": [
+    "PAE 454",
+    "PAE 489"
+  ]
+}

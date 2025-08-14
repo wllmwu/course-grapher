@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "ECON",
   "anchor": "econ100a",
-  "description": "Economic analysis of household determination of the demand for goods and services, consumption/saving decisions, and the supply of labor. Prerequisites: ECON 1 and MATH 10C or 20C or 31BH.",
+  "description": "Economic analysis of household choices for the demand of goods and services. Analysis of firms\u2019 production and costs and the supply of output. Analysis of perfectly competitive markets and introduction to general equilibrium. Prerequisites: ECON 1 and MATH 10C or 20C or 31BH.",
   "prereqs": {
     "type": "all",
     "courses": [
@@ -32,6 +32,7 @@
     "ECON 144",
     "ECON 145",
     "ECON 147",
+    "ECON 149",
     "ECON 169",
     "ECON 171",
     "ECON 172A",

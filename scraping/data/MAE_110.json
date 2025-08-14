@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "MAE",
   "anchor": "mae110",
-  "description": "Thermodynamic analysis of power cycles with application to combustion driven engines: internal combustion, diesel, and gas turbines. Thermodynamics of mixtures and chemical and phase equilibrium. Computational methods for calculating chemical equilibrium. Renumbered from MAE 110B. Students may not receive credit for MAE 110 and MAE 110B. Prerequisites: MAE 11 or 110A. (Course not offered every year.)",
+  "description": "Thermodynamic analysis of power cycles with application to combustion driven engines: internal combustion, diesel, and gas turbines. Thermodynamics of mixtures and chemical and phase equilibrium. Computational methods for calculating chemical equilibrium. Renumbered from MAE 110B. Students may not receive credit for MAE 110 and MAE 110B. Prerequisites: MAE 11 or 110A.",
   "prereqs": {
     "type": "one",
     "courses": [

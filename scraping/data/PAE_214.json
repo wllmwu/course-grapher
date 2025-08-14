@@ -1,0 +1,20 @@
+{
+  "code": "PAE 214",
+  "title": "Human Physiology and Pathophysiology I",
+  "units": "4",
+  "dept": "PAS",
+  "anchor": "pae214",
+  "description": "This is the first in a series of two lecture-based courses that offers a comprehensive overview of normal human organ function, alterations in normal function, and the interaction of organ systems in states of health and disease.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 221",
+    "PAE 222",
+    "PAE 223",
+    "PAE 231",
+    "PAE 232",
+    "PAE 242",
+    "PAE 243",
+    "PAE 252",
+    "PAE 253",
+    "PAE 290"
+  ]
+}

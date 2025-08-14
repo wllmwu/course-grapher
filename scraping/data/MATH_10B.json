@@ -13,7 +13,6 @@
     ]
   },
   "successors": [
-    "BIEB 100",
     "BIPN 146",
     "BIPN 147",
     "BIPN 164",
@@ -24,7 +23,6 @@
     "PHYS 1BL",
     "PHYS 1C",
     "PHYS 1CL",
-    "PHYS 2A",
-    "PHYS 2AR"
+    "PHYS 2A"
   ]
 }

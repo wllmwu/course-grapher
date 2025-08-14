@@ -20,6 +20,9 @@
     ]
   },
   "successors": [
+    "CSE 165",
+    "CSE 168",
+    "CSE 168R",
     "MATH 155B"
   ]
 }

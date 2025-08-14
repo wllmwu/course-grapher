@@ -4,8 +4,34 @@
   "units": "4",
   "dept": "BENG",
   "anchor": "beng140b",
-  "description": "Introductory mammalian physiology for bioengineering students, with emphasis on control mechanisms and engineering principles. Digestive, respiratory, renal, and reproductive systems; regulation of metabolism, and defense mechanisms. (Credit not allowed for both BIPN 102 and BENG 140B.) Prerequisites: BENG 140A; majors only or consent of instructor. (S)",
-  "prereqs": "BENG 140A",
+  "description": "Introductory mammalian physiology for bioengineering students, with emphasis on control mechanisms and engineering principles. Digestive, respiratory, renal, and reproductive systems; regulation of metabolism, and defense mechanisms. (Credit not allowed for both BIPN 102 and BENG 140B.) Prerequisites: CHEM 6A or CHEM 6AH and PHYS 2A or PHYS 2AR and PHYS 2B and BILD 1, or BENG 102; majors only or consent of instructor. (S)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 6A",
+          "CHEM 6AH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2A",
+          "PHYS 2AR"
+        ]
+      },
+      "PHYS 2B",
+      {
+        "type": "one",
+        "courses": [
+          "BILD 1",
+          "BENG 102"
+        ]
+      }
+    ]
+  },
   "successors": [
     "BENG 189",
     "BENG 193"

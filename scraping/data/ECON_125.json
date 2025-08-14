@@ -1,15 +1,21 @@
 {
   "code": "ECON 125",
-  "title": "Demographic Analysis and Forecasting",
+  "title": "The Science of Population",
   "units": "4",
   "dept": "ECON",
   "anchor": "econ125",
-  "description": "Interaction between economic forces and demographic changes are considered, as are demographic composition and analysis; fertility, mortality, and migration processes and trends. Course emphasizes the creation, evaluation, and interpretation of forecasts for states, regions, and subcounty areas. ECON 178 is recommended. Prerequisites: ECON 120B or MATH 181B.",
+  "description": "Explores how to measure and understand the forces that shape human population and its interaction with social, economic, and natural environments. Topics include the growth rate and structure of population, as well as mortality, fertility, migration, and their drivers. Emphasizes analysis of demographic data using statistical programming. Applications focus on differences between the past and present, between rich and poor countries, and between racial and ethnic groups within the United States. Prerequisites: PSYC 60 or MATH 183 or MATH 181A or MATH 11 or ECON 120A or MATH 186 or ECE 109 or MAE 108.",
   "prereqs": {
     "type": "one",
     "courses": [
-      "ECON 120B",
-      "MATH 181B"
+      "PSYC 60",
+      "MATH 183",
+      "MATH 181A",
+      "MATH 11",
+      "ECON 120A",
+      "MATH 186",
+      "ECE 109",
+      "MAE 108"
     ]
   }
 }

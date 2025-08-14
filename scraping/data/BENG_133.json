@@ -4,16 +4,21 @@
   "units": "4",
   "dept": "BENG",
   "anchor": "beng133",
-  "description": "Principles of digital computing, including number representation and arithmetic operations. Accuracy, stability, and convergence. Algorithms for solving linear systems of equations, interpolation, numerical differentiation, and integration and ordinary differential equations. Prerequisites: MATH 20D and 18 or consent of department. (S)",
+  "description": "Principles of digital computing, including number representation and arithmetic operations. Accuracy, stability, and convergence. Algorithms for solving linear systems of equations, interpolation, numerical differentiation, and integration and ordinary differential equations. Prerequisites: MATH 20D and MATH 18 or MATH 31AH or consent of department. (F)",
   "prereqs": {
     "type": "all",
     "courses": [
       "MATH 20D",
-      "MATH 18"
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      }
     ]
   },
   "successors": [
-    "BENG 135",
     "BENG 189"
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "code": "PAE 245",
+  "title": "Clinical Reasoning III",
+  "units": "2",
+  "dept": "PAS",
+  "anchor": "pae245",
+  "description": "The third in a series of four lecture- and lab-based courses designed to engage learners in team-based activities that require them to integrate newly acquired knowledge and skill to develop and strengthen their clinical reasoning ability.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75) and successful completion of PAE 212, PAE 215, and PAE 216.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PAE 212",
+      "PAE 215",
+      "PAE 216"
+    ]
+  },
+  "successors": [
+    "PAE 290"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "code": "PH 196AH",
+  "title": "Public Health Honors Practicum I",
+  "units": "6",
+  "dept": "PH",
+  "anchor": "ph196ah",
+  "description": "This is the first of an accelerated two-part honors series that serves as the culminating experience for the BS in public health (BSPH) majors. Students review, reinforce, and complement skills and knowledge gained throughout the BSPH program, and prepare a proposal integrating critical elements of public health research and practice. This course represents an experiential learning opportunity at a pre-approved community site. Students will develop, refine, and implement a public health proposal. Must be taken for a letter grade to be applied to the public health major. Prerequisites: PH 40 or FMPH 40, PH 45, PH 101 or FMPH 101, PH 102 or FMPH 102, PH 110 or FMPH 110, PH 120 or FMPH 120. Department approval required. Restricted to upper-division public health majors only.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      {
+        "type": "all",
+        "courses": [
+          "FMPH 40",
+          "FMPH 40PH",
+          "FMPH 45PH"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "FMPH 101",
+          "FMPH 101PH"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "FMPH 102",
+          "FMPH 102PH"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "FMPH 110",
+          "FMPH 110PH"
+        ]
+      },
+      "FMPH 120"
+    ]
+  }
+}

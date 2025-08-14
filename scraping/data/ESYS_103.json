@@ -4,14 +4,7 @@
   "units": "4",
   "dept": "ESYS",
   "anchor": "esys103",
-  "description": "This course explores the impacts of human, social, economic, and industrial activity on the environment. It highlights the central roles in ensuring sustainable development played by market forces, technological innovation, and government regulation on local, national, and global scales. Prerequisites: MATH 11 or MATH 20B or consent of instructor.",
-  "prereqs": {
-    "type": "one",
-    "courses": [
-      "MATH 11",
-      "MATH 20B"
-    ]
-  },
+  "description": "This course explores the impacts of human, social, economic, and industrial activity on the environment. It highlights the central roles in ensuring sustainable development played by market forces, technological innovation, and government regulation on local, national, and global scales. Prerequisites: junior or senior standing or consent of instructor.",
   "successors": [
     "ECON 132",
     "ESYS 187A"

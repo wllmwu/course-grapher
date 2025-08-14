@@ -4,5 +4,12 @@
   "units": "4",
   "dept": "SIO",
   "anchor": "siob270a",
-  "description": "Aspects of marine ecology relevant to the reproduction, survival, and distribution of commercially important marine species. Alternate years only. Prerequisites: graduate standing or consent of instructor."
+  "description": "Aspects of marine ecology relevant to the reproduction, survival, and distribution of commercially important marine species. Alternate years only. Prerequisites: SIOB 280 and SIOC 210 and graduate standing or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "SIOB 280",
+      "SIOC 210"
+    ]
+  }
 }

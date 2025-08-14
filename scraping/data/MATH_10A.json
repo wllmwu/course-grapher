@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "MATH",
   "anchor": "math10a",
-  "description": "Differential calculus of functions of one variable, with applications. Functions, graphs, continuity, limits, derivatives, tangent lines, optimization problems. (No credit given if taken after or concurrent with MATH 20A.) Prerequisites: Math Placement Exam qualifying score, or AP Calculus AB score of 2, or SAT II Math Level 2 score of 600 or higher, or MATH 3C, or MATH 4C.",
+  "description": "Differential calculus of functions of one variable, with applications. Functions, graphs, continuity, limits, derivatives, tangent lines, optimization problems. (No credit given if taken after or concurrent with MATH 20A.) Prerequisites: Math Placement Exam qualifying score, or AP Calculus AB score of 2, or MATH 3C, or MATH 4C.",
   "prereqs": {
     "type": "one",
     "courses": [
@@ -14,7 +14,6 @@
   },
   "successors": [
     "BICD 156",
-    "BIEB 100",
     "BIPN 146",
     "BIPN 147",
     "BIPN 164",
@@ -37,7 +36,6 @@
     "PHYS 1A",
     "PHYS 1AL",
     "PHYS 2A",
-    "PHYS 2AR",
     "SIO 138",
     "USP 102"
   ]

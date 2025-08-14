@@ -1,0 +1,19 @@
+{
+  "code": "LTWR 124C",
+  "title": "Translation of Literary Texts Craft",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltwr124c",
+  "description": "A reading and craft course on the theory and practice of literary translation. Selected readings in translation theory. Reading and lectures will accompany writing and translation exercises. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.  Prerequisites:  LTWR 8A or 8B or 8C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTWR 8A",
+      "LTWR 8B",
+      "LTWR 8C"
+    ]
+  },
+  "successors": [
+    "LTWR 124W"
+  ]
+}

@@ -7,6 +7,7 @@
   "description": "Layered network architectures, data link control protocols and multiple-access systems, performance analysis. Flow control; prevention of deadlock and throughput degradation. Routing, centralized and decentralized schemes, static dynamic algorithms. Shortest path and minimum average delay algorithms. Comparisons. Prerequisites: ECE 109 with a grade of C\u2013 or better.",
   "prereqs": "ECE 109",
   "successors": [
+    "CSE 127",
     "ECE 158B"
   ]
 }

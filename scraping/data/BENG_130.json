@@ -16,5 +16,8 @@
       "PHYS 2B",
       "PHYS 2C"
     ]
-  }
+  },
+  "successors": [
+    "BENG 186A"
+  ]
 }

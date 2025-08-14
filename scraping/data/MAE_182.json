@@ -4,6 +4,12 @@
   "units": "4",
   "dept": "MAE",
   "anchor": "mae182",
-  "description": "Navigational and guidance requirements for orbital, planetary, and atmospheric entry missions. Guidance systems. Observation instrument point, tracking, control. Celestial, radio, and inertial navigation schemes. Link budgets, antennas, and telemetry systems. Prerequisites: MAE 180.",
-  "prereqs": "MAE 180"
+  "description": "Navigational and guidance requirements for orbital, planetary, and atmospheric entry missions. Guidance systems. Observation instrument point, tracking, control. Celestial, radio, and inertial navigation schemes. Link budgets, antennas, and telemetry systems. Prerequisites: MAE 108 and MAE 180. Recommended enrollment in MAE 143B before or concurrently.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MAE 108",
+      "MAE 180"
+    ]
+  }
 }

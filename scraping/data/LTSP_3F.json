@@ -1,0 +1,18 @@
+{
+  "code": "LTSP 3F",
+  "title": "Spanish for Heritage Learners III",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp3f",
+  "description": "This course is designed for students who have been raised in a Spanish-speaking environment and speak some Spanish as a result of hearing it in the home and in the community by family, friends, and neighbors, or some experience with Spanish in the classroom. The main goals of this course are to further develop and expand the Spanish language skills in reading, writing, listening, and speaking, while promoting a greater connection with the Latinx cultures of the students\u2019 heritage. Renumbered from LTSP 2E. Students may not receive credit for both LTSP 3F and LTSP 2E.  Prerequisites:  LTSP 2D or LTSP 2F or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 2D",
+      "LTSP 2F"
+    ]
+  },
+  "successors": [
+    "LTSP 100F"
+  ]
+}

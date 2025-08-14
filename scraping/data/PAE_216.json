@@ -1,0 +1,16 @@
+{
+  "code": "PAE 216",
+  "title": "Evidence-based Medicine in Practice",
+  "units": "1",
+  "dept": "PAS",
+  "anchor": "pae216",
+  "description": "This course prepares learners to apply evidence-based medicine skills and concepts in clinical practice. Skills include framing research questions, retrieving high-quality evidence, interpreting basic statistical data, and understanding the limits of medical research.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 225",
+    "PAE 234",
+    "PAE 245",
+    "PAE 254",
+    "PAE 255",
+    "PAE 290"
+  ]
+}

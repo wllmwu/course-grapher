@@ -1,0 +1,16 @@
+{
+  "code": "LTWR 115W",
+  "title": "Experimental Writing Workshop",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltwr115w",
+  "description": "This workshop explores writing for which the traditional generic distinctions of prose/poetry, fiction/documentary, narrative/discourse do not apply. Students taking this course will be asked to challenge the boundaries of literature to discover new forms and modes of expression. Renumbered from LTWR 115. LTWR 115W may only be taken once for credit. No credit given for LTWR 115W if prior credit was earned three times for LTWR 115. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.  Prerequisites:  LTWR 8A, 8B, or 8C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTWR 8A",
+      "LTWR 8B",
+      "LTWR 8C"
+    ]
+  }
+}

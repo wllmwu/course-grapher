@@ -1,9 +1,17 @@
 {
   "code": "MGT 179",
-  "title": "Topics in Supply Chain Management",
-  "units": "2",
+  "title": "Topics in Innovation, Technology, and Operations Management",
+  "units": "4",
   "dept": "MGT",
   "anchor": "mgt179",
-  "description": "Introduces advanced topics of special interest in supply chain. Students will develop the ability to apply the supply chain management concepts that they have learned to real-life situations. May be taken for credit two times if topics are substantially different. Prerequisites: MGT 175.",
-  "prereqs": "MGT 175"
+  "description": "Introduces advanced topics of special interest in technology, innovation, and operations management. Students will acquire skills to apply rigorous theoretical models to data-rich real-life applications, including hospital and healthcare operations, manufacturing and supply chain management, technology supply chains, etc. May be taken for credit up to three times. Prerequisites: MGT 71 or MGT 71R or MGT 171 or MGT 171R.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MGT 71",
+      "MGT 71R",
+      "MGT 171",
+      "MGT 171R"
+    ]
+  }
 }

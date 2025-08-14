@@ -1,0 +1,40 @@
+{
+  "code": "BENG 209",
+  "title": "Continuum Mechanics Applied to Medicine/Biology",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng209",
+  "description": "Introduction to the basic definitions of continuum mechanics and their mathematical formulation at the graduate level with applications to problems in medicine and biology. Prerequisites: (BENG 226 or MAE 201 or MAE 210A) and (BENG 227 or MAE 201 or MAE 210A) and (BENG 221 or MAE 208). (S)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BENG 226",
+          "MAE 201",
+          "MAE 210A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BENG 227",
+          "MAE 201",
+          "MAE 210A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BENG 221",
+          "MAE 208"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "MAE 210B",
+    "MAE 231B"
+  ]
+}

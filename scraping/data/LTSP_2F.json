@@ -1,0 +1,12 @@
+{
+  "code": "LTSP 2F",
+  "title": "Spanish for Heritage Learners II",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp2f",
+  "description": "The course is designed for those students who learned Spanish at home and/or other students from Spanish-speaking backgrounds that have little to no formal training in the language. The main goals of the course are to enhance students\u2019 reading, writing, speaking, and listening skills in a culturally relevant setting. Students also explore their cultural heritage and learn about Hispanic cultures in the United States and the language diversity of its speakers. Renumbered from LTSP 2D. Students may not receive credit for both LTSP 2F and LTSP 2D.  Prerequisites:  LTSP 1F or consent of instructor.",
+  "prereqs": "LTSP 1F",
+  "successors": [
+    "LTSP 3F"
+  ]
+}

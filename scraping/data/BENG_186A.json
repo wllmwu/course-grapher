@@ -4,12 +4,19 @@
   "units": "4",
   "dept": "BENG",
   "anchor": "beng186a",
-  "description": "Fundamentals of materials science as applied to bioengineering design. Natural and synthetic polymeric materials. Materials characterization and design. Wound repair, blood clotting, foreign body response, transplantation biology, biocompatibility of materials, tissue engineering. Artificial organs and medical devices. Government regulations. Patenting. Economic impact. Ethical issues. A term project and oral presentation are required. Prerequisites: BENG 112B or BENG 123, or consent of department. (S)",
+  "description": "Fundamentals of materials science as applied to bioengineering design. Natural and synthetic polymeric materials. Materials characterization and design. Wound repair, blood clotting, foreign body response, transplantation biology, biocompatibility of materials, tissue engineering. Artificial organs and medical devices. Government regulations. Patenting. Economic impact. Ethical issues. A term project and oral presentation are required. Prerequisites: BILD 1 and BENG 130 and PHYS 2A or PHYS 2AR, or consent of department. (S)",
   "prereqs": {
-    "type": "one",
+    "type": "all",
     "courses": [
-      "BENG 112B",
-      "BENG 123"
+      "BILD 1",
+      "BENG 130",
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2A",
+          "PHYS 2AR"
+        ]
+      }
     ]
   }
 }

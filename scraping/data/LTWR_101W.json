@@ -1,0 +1,21 @@
+{
+  "code": "LTWR 101W",
+  "title": "Writing Fiction in Spanish Workshop",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltwr101w",
+  "description": "A workshop for students with interest in writing fiction in Spanish. Focuses primarily on the discussion of student work. Renumbered from LTWR 101. LTWR 101W may only be taken once for credit. No credit given for LTWR 101W if prior credit was earned three times for LTWR 101. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT29 during first pass of registration. All other students may register during second pass of registration with the approval of the department.  Prerequisites:  LTWR 8A; LTSP 100A or 100B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LTWR 8A",
+      {
+        "type": "one",
+        "courses": [
+          "LTSP 100A",
+          "LTSP 100B"
+        ]
+      }
+    ]
+  }
+}

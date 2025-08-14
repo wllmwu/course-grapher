@@ -1,8 +1,8 @@
 {
   "code": "CSE 224",
-  "title": "Graduate Networked Systems",
+  "title": "Networked Services",
   "units": "4",
   "dept": "CSE",
   "anchor": "cse224",
-  "description": "This course will provide a broad understanding of network design and implementation. Topics include techniques for building distributed applications, sockets programming, remote procedure calls (RPC), scale-out distributed directories, distributed consensus and state management, fault tolerance, networked storage, indirection, overlay networks, load balancing, and datacenter design. Prerequisites: graduate standing or consent of instructor. This course is intended for MS students. PhD students may only take the course if they are not in systems/networking concentrations."
+  "description": "The architecture of modern networked services, including data center design, enterprise storage, fault tolerance, and load balancing. Protocol software structuring, the Transmission Control Protocol (TCP), remote procedure calls, protocols for digital audio and video communication, overlay and peer-to-peer systems, secure communication. Not recommended for PhD students in systems/networking concentrations. This course is intended for MS students. May be coscheduled with CSE 124. Restricted to students within the CS75, CS78, CS89, CS88, CS77, CS80, CS81, CS83, and CS76 majors. All other students will be allowed as space permits."
 }

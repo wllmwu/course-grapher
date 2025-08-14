@@ -1,8 +1,11 @@
 {
   "code": "MGT 71R",
-  "title": "Business Process and Operations Management",
+  "title": "Operating a Successful Business",
   "units": "4",
   "dept": "MGT",
   "anchor": "mgt71r",
-  "description": "Effective management of operations is vital to every type of organization. Competitive advantages accrue to firms that can excel in execution and achieve sustained and profitable growth. This course covers the systematic design, execution, and improvement of business processes, projects, and partner relationships. Builds up strategic framework of operations and process management, followed by process analysis including primary operations metrics. Introduces continuous improvement and lean operations. Students will not receive credit for both MGT 71R and MGT 71. This course is a distance education course."
+  "description": "Operating a business is a complex task but a skill that can be mastered. Business managers make interconnected decisions to bring products and services to market. How many workers should a burrito chain employ given demand projections and which burrito-building tasks should be completed before a customer walks in? When a bakery makes pastries, how many at a time? Why do airlines overbook? Managers must answer these questions to keep operations lean and outdo competitors. Students will not receive credit for both MGT 71R and MGT 71. This course is a distance education course.",
+  "successors": [
+    "MGT 179"
+  ]
 }

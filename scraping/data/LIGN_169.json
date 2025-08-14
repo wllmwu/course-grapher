@@ -1,0 +1,16 @@
+{
+  "code": "LIGN 169",
+  "title": "Information Theory in Linguistics",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign169",
+  "description": "Information theory is the mathematical framework for quantifying information and communication. It has found applications in many fields, from computer science and engineering to physics and genetics. While providing an accessible introduction to the fundamental concepts of information theory with a focus on linguistic case studies, we discuss applications of those concepts in both classic and recent research in linguistics, cognitive science, and natural language processing. Prerequisites: LIGN 101 or LIGN 165 or LIGN 167.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LIGN 101",
+      "LIGN 165",
+      "LIGN 167"
+    ]
+  }
+}

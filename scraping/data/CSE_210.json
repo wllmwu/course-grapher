@@ -4,13 +4,5 @@
   "units": "4",
   "dept": "CSE",
   "anchor": "cse210",
-  "description": "(Formerly CSE 264A.) General principles in modern software engineering. Both theoretical and practical topics are covered. Theoretical topics include proofs of correctness, programming language semantics, and theory of testing. Practical topics include structured programming, modularization techniques, design of languages for reliable programming, and software tools. Prerequisites: CSE 100, 131A, 120, or consent of instructor.",
-  "prereqs": {
-    "type": "all",
-    "courses": [
-      "CSE 100",
-      "CSE 131A",
-      "CSE 120"
-    ]
-  }
+  "description": "(Formerly CSE 264A.) General principles in modern software engineering. Both theoretical and practical topics are covered. Theoretical topics include proofs of correctness, programming language semantics, and theory of testing. Practical topics include structured programming, modularization techniques, design of languages for reliable programming, and software tools. Restricted to students within the CS75, CS78, CS89, CS88, CS77, CS80, CS81, CS83, and CS76 majors. All other students will be allowed as space permits."
 }

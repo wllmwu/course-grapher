@@ -4,5 +4,5 @@
   "units": "4",
   "dept": "CSE",
   "anchor": "cse250a",
-  "description": "Methods based on probability theory for reasoning and learning under uncertainty. Content may include directed and undirected probabilistic graphical models, exact and approximate inference, latent variables, expectation-maximization, hidden Markov models, Markov decision processes, applications to vision, robotics, speech, and/or text. Recommended preparation: CSE 103 or similar course. Prerequisites: graduate standing in CSE or consent of instructor."
+  "description": "Methods based on probability theory for reasoning and learning under uncertainty. Content may include directed and undirected probabilistic graphical models, exact and approximate inference, latent variables, expectation-maximization, hidden Markov models, Markov decision processes, applications to vision, robotics, speech, and/or text. Recommended preparation: CSE 103 or similar course. Prerequisites: graduate standing. Restricted to students within the CS75, CS78, CS89, CS88, CS77, CS80, CS81, CS83, and CS76 majors. All other students will be allowed as space permits. Recommended preparation: understanding of probability and statistics."
 }

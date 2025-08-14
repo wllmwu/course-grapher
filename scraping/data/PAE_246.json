@@ -1,0 +1,11 @@
+{
+  "code": "PAE 246",
+  "title": "Rehabilitative Medicine and Palliative Care",
+  "units": "1",
+  "dept": "PAS",
+  "anchor": "pae246",
+  "description": "This lecture-based course will introduce learners to current concepts in the evaluation and management of patients and families requiring rehabilitative and/or palliative care. Evidence-based interventions aimed at maintaining function and quality of life are key concepts.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 290"
+  ]
+}

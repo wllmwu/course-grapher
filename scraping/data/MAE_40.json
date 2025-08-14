@@ -21,6 +21,10 @@
     ]
   },
   "successors": [
+    "BENG 122A",
+    "BENG 135",
+    "BENG 152",
+    "BENG 186B",
     "MAE 170"
   ]
 }

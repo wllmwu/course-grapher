@@ -1,0 +1,15 @@
+{
+  "code": "ECON 184",
+  "title": "Topics in Economics with Data Analytics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ184",
+  "description": "Selected topics in economics with an emphasis on data applications. Prerequisites: ECON 120B or MATH 181B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 120B",
+      "MATH 181B"
+    ]
+  }
+}

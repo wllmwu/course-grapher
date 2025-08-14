@@ -1,0 +1,16 @@
+{
+  "code": "LTSP 115",
+  "title": "Critical Race Studies in Latin America",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp115",
+  "description": "This course offers an interdisciplinary and transnational approach to racism in Latin America. It problematizes the categories of race and racism to introduce students to the multidimensional and particular development of these problematic formations. In addition, it addresses specific moments in the history of Latin America from colonial times to the present day. It also exposes students to different cultural regions from Latin America.  Prerequisites:  LTSP 100A or 100B or 100F, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B",
+      "LTSP 100F"
+    ]
+  }
+}

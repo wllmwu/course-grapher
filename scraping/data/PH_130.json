@@ -1,0 +1,21 @@
+{
+  "code": "PH 130",
+  "title": "Environmental and Occupational Health",
+  "units": "4",
+  "dept": "PH",
+  "anchor": "ph130",
+  "description": "This core public health course addresses the fundamentals of environmental and occupational health, including identification of hazards, basic toxicology, risk assessment, prevention/protection, and regulatory/control policies. Specific environmental and occupational hazards and relevant case studies will be presented. Must be taken for a letter grade to be applied to the public health major. Renumbered from FMPH 130. Students may not receive credit for FMPH 130 and PH 130. Prerequisites: PH 40 or FMPH 40, PH 101 or FMPH 101, and upper-division standing.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      {
+        "type": "all",
+        "courses": [
+          "FMPH 40",
+          "FMPH 40PH"
+        ]
+      },
+      "FMPH 101"
+    ]
+  }
+}

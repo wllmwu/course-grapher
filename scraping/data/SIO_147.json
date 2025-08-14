@@ -4,6 +4,6 @@
   "units": "6",
   "dept": "SIO",
   "anchor": "sio147",
-  "description": "Overview of the computer-based methods for constructing phylogenetic trees using morphological and molecular data. Lectures and labs cover evolutionary and ecological transformations, biodiversity measurements, biogeography, systematic and taxonomy. An independent project and presentation are required. (Students may not receive credit for both SIO 147 and BIEB 147.) Prerequisites: BILD 3 or consent of instructor.",
+  "description": "Because life\u2019s history spans macroevolutionary time scales, challenging direct study, we rely on indirect tools like phylogenetics. The first part of the course covers phylogenetic inference theory, encompassing principles and applications. Part two delves into phylogenetic comparative methods, employing trees for macroevolutionary inference. These methods explore global biodiversity, diversification rates, and morphological evolution. The course also features a substantial computer lab component. Prerequisites: BILD 3 or consent of instructor.",
   "prereqs": "BILD 3"
 }

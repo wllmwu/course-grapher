@@ -1,0 +1,16 @@
+{
+  "code": "LTSP 128",
+  "title": "Community Language Project",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp128",
+  "description": "In this project-based course we will document the language and culture spoken by bilingual community members. Students will be trained in the best practices for conducting interviews and then will interview community members about their experiences or will be trained to work with other representations of language in the community. We will use the interviews and other language documentation to facilitate class discussion on language and culture.  Prerequisites:  LTSP 100A or 100B or 100F, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B",
+      "LTSP 100F"
+    ]
+  }
+}

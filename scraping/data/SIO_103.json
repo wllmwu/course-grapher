@@ -20,7 +20,6 @@
     ]
   },
   "successors": [
-    "SIO 112",
-    "SIO 161"
+    "SIO 112"
   ]
 }

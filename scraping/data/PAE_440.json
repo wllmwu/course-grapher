@@ -1,0 +1,13 @@
+{
+  "code": "PAE 440",
+  "title": "Surgery Rotation",
+  "units": "4",
+  "dept": "PAS",
+  "anchor": "pae440",
+  "description": "This four-week supervised clinical practice experience requires active participation in the care of patients in a surgical specialty. Emphasis will include a focus on the physician assistant\u2019s role as a member of the surgical management team.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75) and successful completion of PAE 290.",
+  "prereqs": "PAE 290",
+  "successors": [
+    "PAE 454",
+    "PAE 489"
+  ]
+}

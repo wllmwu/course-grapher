@@ -1,0 +1,43 @@
+{
+  "code": "PH 193",
+  "title": "Public Health Capstone I",
+  "units": "4",
+  "dept": "PH",
+  "anchor": "ph193",
+  "description": "This is the first of a two-part capstone series that serves as the culminating experience for the BS in public health (BSPH) majors. Students will integrate the skills and knowledge gained throughout the BSPH program and learn critical elements of public health research and practice. Must be taken for a letter grade to be applied to the public health major. Prerequisites: PH 40 or FMPH 40, PH 45, PH 101 or FMPH 101, PH 102 or FMPH 102, PH 110 or FMPH 110, and PH 120 or FMPH 120. Department approval required. Restricted to senior public health majors only. Renumbered from FMPH 193. Students may only receive credit for one of the following: PH 193, PH 193R, or FMPH 193.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      {
+        "type": "all",
+        "courses": [
+          "FMPH 40",
+          "FMPH 40PH",
+          "FMPH 45PH"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "FMPH 101",
+          "FMPH 101PH"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "FMPH 102",
+          "FMPH 102PH"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "FMPH 110",
+          "FMPH 110PH"
+        ]
+      },
+      "FMPH 120"
+    ]
+  }
+}

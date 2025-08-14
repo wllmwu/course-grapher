@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 174GS",
+  "title": "Topics in Culture and Politics",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp174gs",
+  "description": "Study of the relationships between cultural production (literature, film, popular cultures), social change, and political conflict, covering topics such as colonialism, imperialism, modernization, social movements, dictatorship, revolution. Program or materials fees may apply. Course may be taken for credit up to two times. Students may receive a combined total of eight units for LTSP 174GS and LTSP 174.  Prerequisites:  LTSP 100A or 100B; students must apply and be accepted to the Global Seminars program.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

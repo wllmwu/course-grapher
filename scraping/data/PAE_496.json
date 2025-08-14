@@ -1,0 +1,15 @@
+{
+  "code": "PAE 496",
+  "title": "Comprehensive Review",
+  "units": "1",
+  "dept": "PAS",
+  "anchor": "pae496",
+  "description": "This seminar course offers the physician assistant learner a seminar designed to synthesize didactic and clinical education and training as it applies to preparation for the Physician Assistant National Certification Examination (PANCE). Test-taking skills and high-yield preparation strategies are discussed.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75) and successful completion of PAE 290 and PAE 494.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PAE 290",
+      "PAE 494"
+    ]
+  }
+}

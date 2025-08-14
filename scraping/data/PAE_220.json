@@ -1,0 +1,11 @@
+{
+  "code": "PAE 220",
+  "title": "Professional Practice II",
+  "units": "1",
+  "dept": "PAS",
+  "anchor": "pae220",
+  "description": "The second in a series of four lecture-based courses dedicated to defining professionalism for healthcare providers. Lectures, readings, and discussion topics focused on patient- and family-centered care, understanding patients as people, working in interdisciplinary teams, and responding to adverse events.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 290"
+  ]
+}

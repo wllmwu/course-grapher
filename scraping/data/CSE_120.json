@@ -1,10 +1,10 @@
 {
   "code": "CSE 120",
-  "title": "Principles of Computer Operating Systems",
+  "title": "Operating Systems Principles",
   "units": "4",
   "dept": "CSE",
   "anchor": "cse120",
-  "description": "Basic functions of operating systems; basic kernel structure, concurrency, memory management, virtual memory, file systems, process scheduling, security and protection. Prerequisites: CSE 15L or CSE 29 and CSE 101 and CSE 110; restricted to students within the CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits.",
+  "description": "Introduces operating systems concepts, including processes, synchronization, scheduling, memory management, virtual memory, file systems, and protection. May be coscheduled with CSE 220. Prerequisites: CSE 15L or CSE 29 and CSE 30 and CSE 100 or CSE 100R and CSE 101; restricted to students within the CS25, CS26, CS27, CS29, and EC26 majors. All other students will be allowed as space permits.",
   "prereqs": {
     "type": "all",
     "courses": [
@@ -15,14 +15,20 @@
           "CSE 29"
         ]
       },
-      "CSE 101",
-      "CSE 110"
+      "CSE 30",
+      {
+        "type": "one",
+        "courses": [
+          "CSE 100",
+          "CSE 100R"
+        ]
+      },
+      "CSE 101"
     ]
   },
   "successors": [
     "CSE 121",
     "CSE 127",
-    "CSE 210",
     "CSE 221"
   ]
 }

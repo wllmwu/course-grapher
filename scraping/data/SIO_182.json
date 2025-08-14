@@ -4,11 +4,17 @@
   "units": "4",
   "dept": "SIO",
   "anchor": "sio182",
-  "description": "Theory and practice of nonseismic geophysics for groundwater, environmental, and exploration purposes. Lectures are supplemented by collection of gravity, magnetic, and resistivity data; data analysis; and report writing. Includes an introduction to MATLAB as a tool for geophysical data interpretation. Prerequisites: MATH 20D and PHYS 2C, or consent of instructor.",
+  "description": "Theory and practice of nonseismic geophysics for groundwater, environmental, and exploration purposes. Lectures are supplemented by collection of gravity, magnetic, and resistivity data; data analysis; and report writing. Includes an introduction to MATLAB as a tool for geophysical data interpretation. Prerequisites: MATH 20C or MATH 31BH, and PHYS 2C, or consent of instructor.",
   "prereqs": {
     "type": "all",
     "courses": [
-      "MATH 20D",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      },
       "PHYS 2C"
     ]
   }

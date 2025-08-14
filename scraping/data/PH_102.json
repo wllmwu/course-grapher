@@ -1,0 +1,23 @@
+{
+  "code": "PH 102",
+  "title": "Biostatistics in Public Health",
+  "units": "4",
+  "dept": "PH",
+  "anchor": "ph102",
+  "description": "Fundamentals of biostatistics and basic methods for analysis of continuous and binary outcomes for one, two, or several groups. Includes: summarizing and displaying data; probability; statistical distributions; central limit theorem, confidence intervals, hypothesis testing; comparing means of continuous variables between two groups; comparing proportions between two groups; simple and multiple linear regression. Hands-on data analysis using software and statistical applications in public health. Must be taken for a letter grade to be applied to the public health major. Renumbered from FMPH 102. Students may not receive credit for FMPH 102 and PH 102. Prerequisites: PH 40 or FMPH 40 and PSYC 60, HDS 60, MATH 11, or COGS 14B, and upper-division standing.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "FMPH 40",
+      {
+        "type": "one",
+        "courses": [
+          "PSYC 60",
+          "HDS 60",
+          "MATH 11",
+          "COGS 14B"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "code": "COMM 147",
+  "title": "Media Activism",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm147",
+  "description": "This course explores the way artists and media-makers intervene in the public sphere and influence debates about pressing social, economic, and political problems. Looking at a range of media formats, we study and compare the tactics, strategies, and effectiveness of different approaches. This survey of political art and media is intended to stoke students\u2019 curiosity in the local and global problems addressed and inspire students to engage in their own form of media art and activism. Prerequisites: COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "COMM 20",
+      "COMM 30",
+      "COMM 30GS",
+      "COMM 40"
+    ]
+  }
+}

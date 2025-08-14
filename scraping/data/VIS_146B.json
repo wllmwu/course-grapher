@@ -1,0 +1,9 @@
+{
+  "code": "VIS 146B",
+  "title": "Computer-controlled Fabrication in Art II",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis146b",
+  "description": "Critique-based, studio continuation of VIS 146A. Advanced topics in computer-controlled manufacturing and subtractive multi-axis CNC technologies. Includes survey of emerging or esoteric fabrication technologies and advanced 3-D CAD design for outsourcing to commercial and specialist fabricators. Prerequisites: VIS 146A. Open to ICAM and speculative design majors and computing and the arts and speculative design minors.",
+  "prereqs": "VIS 146A"
+}

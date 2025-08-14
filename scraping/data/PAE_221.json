@@ -1,0 +1,12 @@
+{
+  "code": "PAE 221",
+  "title": "Clinical Medicine I",
+  "units": "6",
+  "dept": "PAS",
+  "anchor": "pae221",
+  "description": "The first in a series of four lecture-based courses studying the clinical presentation, diagnosis, evaluation, and management of patients seeking care for common medical conditions in primary and specialty care settings.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75) and successful completion of PAE 214.",
+  "prereqs": "PAE 214",
+  "successors": [
+    "PAE 290"
+  ]
+}

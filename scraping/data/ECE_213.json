@@ -1,0 +1,8 @@
+{
+  "code": "ECE 213",
+  "title": "Parallel Computing in Bioinformatics",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece213",
+  "description": "Students will learn foundational and emerging bioinformatics algorithms involved in analyzing massive biological datasets, such as genomic data, which is among the fastest growing data types on the planet. Students will learn to \u201cthink parallel\u201d in the context of bioinformatics, in particular to identify, decompose, and modify algorithms to achieve high concurrency, and to exploit this concurrency for high performance on various parallel processors, such as CPUs, GPUs, and hardware accelerators. Recommended prerequisites: ECE 141A/B or equivalent; ECE 30 or equivalent; knowledge of C++ programming, basic computer architecture, and data structures and algorithms. Prerequisites: graduate standing."
+}

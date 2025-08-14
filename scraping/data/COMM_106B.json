@@ -1,0 +1,18 @@
+{
+  "code": "COMM 106B",
+  "title": "Streaming Media Industries",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm106b",
+  "description": "This course critically examines the ecosystem of streaming media from the perspective of power and political economy, focusing on the key corporations that shape our experience of it. How do corporations control the infrastructure of streaming media? How have streams, platforms, and algorithms changed our society? What is the effect of streaming media on creatives, laborers, and producers of content? What opportunities and obstacles are there in streaming media for more diversity and equality? Prerequisites: COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "COMM 20",
+      "COMM 30",
+      "COMM 30GS",
+      "COMM 40"
+    ]
+  }
+}

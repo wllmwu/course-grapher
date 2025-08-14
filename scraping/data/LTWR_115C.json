@@ -1,0 +1,16 @@
+{
+  "code": "LTWR 115C",
+  "title": "Experimental Writing Craft",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltwr115c",
+  "description": "This reading and craft class explores writing for which the traditional generic distinctions of prose/poetry, fiction/documentary, narrative/discourse do not apply. Readings and lectures will accompany writing exercises. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.  Prerequisites:  LTWR 8A, 8B, or 8C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTWR 8A",
+      "LTWR 8B",
+      "LTWR 8C"
+    ]
+  }
+}

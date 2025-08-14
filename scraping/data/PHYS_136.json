@@ -1,0 +1,16 @@
+{
+  "code": "PHYS 136",
+  "title": "Nuclear Physics",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys136",
+  "description": "Introduction to nuclear physics, covering nuclear properties (mass, radius, binding energy, angular momentum), nucleon-nucleon forces, nuclear structure, drop and shell models, radioactivity (decay law, units, growth of daughters, radioactive dating, measurement of), alpha decay (systematics, theory of, angular momentum, and parity), beta decay (energy release, Fermi theory, allowed vs forbidden decays, neutrinos, double-beta decay). Recommended preparation: prior or concurrent enrollment in PHYS 130B is strongly recommended. Prerequisites: PHYS 4D, 100A, 130A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 4D",
+      "PHYS 100A",
+      "PHYS 130A"
+    ]
+  }
+}

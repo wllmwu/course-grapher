@@ -4,8 +4,14 @@
   "units": "4",
   "dept": "BENG",
   "anchor": "beng152",
-  "description": "Experimental study of real and simulated systems and their controls (examples will include electrical, biological, and biomechanical systems). Projects consist of identification, input-output analysis, design, and implementation of analog controls. Laboratory examples will include electrical circuit design and analysis, analysis of living tissues such as bone, analysis and manipulation of cells (bacteria in chemostat). Program or materials fees may apply.\u00a0Prerequisites: BENG 102; bioengineering: biosystems majors only or consent of department. (W)",
-  "prereqs": "BENG 102",
+  "description": "Experimental study of real and simulated systems and their controls (examples will include electrical, biological, and biomechanical systems). Projects consist of identification, input-output analysis, design, and implementation of analog controls. Laboratory examples will include electrical circuit design and analysis, analysis of living tissues such as bone, analysis and manipulation of cells (bacteria in chemostat). Program or materials fees may apply.\u00a0Prerequisites: MAE 40 or ECE 35; bioengineering: biosystems majors only or consent of department. (W)",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MAE 40",
+      "ECE 35"
+    ]
+  },
   "successors": [
     "BENG 187A"
   ]

@@ -1,0 +1,9 @@
+{
+  "code": "BIPN 118",
+  "title": "Neuropharmacology",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bipn118",
+  "description": "Course will cover fundamental concepts in pharmacology, major drug classes that act in the brain and their mechanisms of action, and advanced concepts at the frontier of drug discovery in neuroscience. Advanced topics will include allosteric modulators, biased signaling at GPCRs, therapeutic uses of ketamine and psychedelic drugs, and precision pharmacology for research and medicine. Prerequisites: BIPN 140.",
+  "prereqs": "BIPN 140"
+}

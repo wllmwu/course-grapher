@@ -1,0 +1,11 @@
+{
+  "code": "PAE 251",
+  "title": "Concepts in Emergency Medicine",
+  "units": "2",
+  "dept": "PAS",
+  "anchor": "pae251",
+  "description": "This lecture-based course will prepare learners to efficiently evaluate and manage patients seeking care in the emergency department setting. Topics include focused, evidence-based assessment and triage of common urgent and emergent conditions, medical stabilization, disposition planning and resource stewardship.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 290"
+  ]
+}

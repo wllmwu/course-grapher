@@ -1,0 +1,11 @@
+{
+  "code": "PAE 213",
+  "title": "Human Anatomy",
+  "units": "3",
+  "dept": "PAS",
+  "anchor": "pae213",
+  "description": "This lecture- and lab-based course provides learners with advanced knowledge of human body organ structures and their organization into functional systems. Clinical application is emphasized. Lab sessions will include human donor dissections. Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 290"
+  ]
+}

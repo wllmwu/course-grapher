@@ -1,0 +1,8 @@
+{
+  "code": "BENG 216",
+  "title": "Neuromorphic Integrated Bioelectronics",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng216",
+  "description": "Custom design of very large-scale integrated circuits and systems in silicon microchips that emulate the adaptive intelligence, resilience, and efficiency of neural sensing and cognitive processing in the brain, and interface dynamically with the body to probe and modulate physiological function. Assignments include a final project that entails the design, layout, and simulation of a neuromorphic or biomedical integrated circuit. Prerequisites: graduate standing. (F)"
+}

@@ -1,0 +1,9 @@
+{
+  "code": "BIEB 164",
+  "title": "Behavioral Ecology and Conservation",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bieb164",
+  "description": "Principles of behavioral ecology from individuals to societies from evolutionary and applied perspectives. Considers how behavior evolves in its environmental context, including human impacts and human-wildlife interactions. Encourages critical engagement with the scientific process and practice, examining inclusion and representation. Prerequisites: BILD 3.",
+  "prereqs": "BILD 3"
+}

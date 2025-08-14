@@ -1,0 +1,9 @@
+{
+  "code": "CSE 240E",
+  "title": "Securing Processor Architectures",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse240e",
+  "description": "This course will examine the challenges of building a secure processor architecture. We will examine side channel attacks that exploit vulnerabilities throughout the processor and pipeline, transient execution attacks, architectures that mitigate various vulnerabilities, some more fundamentally secure architectural designs, architectures that provide memory isolation, and those that provide control flow isolation. Prerequisites: CSE 240A. Restricted to students within the CS75, CS78, CS89, CS88, CS77, CS80, CS81, CS83, and CS76 majors. All other students will be allowed as space permits. Recommended preparation: some background in security is useful but not required.",
+  "prereqs": "CSE 240A"
+}

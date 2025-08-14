@@ -1,0 +1,20 @@
+{
+  "code": "PAE 454",
+  "title": "Independent Study Rotation",
+  "units": "4",
+  "dept": "PAS",
+  "anchor": "pae454",
+  "description": "This four-week non-clinical experience provides the learner with time to focus their efforts on completing their capstone project. Learners will also create a self-directed learning plan to prepare for final written and practical summative assessments required for graduation.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75) and successful completion of PAE 410, PAE 411, PAE 412, PAE 420, PAE 430, PAE 440, and PAE 450.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PAE 410",
+      "PAE 411",
+      "PAE 412",
+      "PAE 420",
+      "PAE 430",
+      "PAE 440",
+      "PAE 450"
+    ]
+  }
+}

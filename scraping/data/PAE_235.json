@@ -1,0 +1,11 @@
+{
+  "code": "PAE 235",
+  "title": "Diagnostic Studies II",
+  "units": "3",
+  "dept": "PAS",
+  "anchor": "pae235",
+  "description": "The second of a two-part series designed to provide learners with an overview of common diagnostic tests utilized during patient evaluation, diagnosis, and monitoring. Clinical indications for and accurate interpretation of electrocardiography, x-rays, computed tomography, MRI, and ultrasound are included. Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 290"
+  ]
+}

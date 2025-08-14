@@ -1,0 +1,13 @@
+{
+  "code": "PAE 420",
+  "title": "Women\u2019s Health Rotation",
+  "units": "4",
+  "dept": "PAS",
+  "anchor": "pae420",
+  "description": "This supervised clinical practice experience requires active participation in the clinical evaluation and management of patients seeking women\u2019s health, to include prenatal and gynecologic care. Encounters will include adolescents, adults, and elderly.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75) and successful completion of PAE 290.",
+  "prereqs": "PAE 290",
+  "successors": [
+    "PAE 454",
+    "PAE 489"
+  ]
+}

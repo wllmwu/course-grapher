@@ -1,0 +1,13 @@
+{
+  "code": "PAE 450",
+  "title": "Emergency Medicine Rotation",
+  "units": "4",
+  "dept": "PAS",
+  "anchor": "pae450",
+  "description": "This four-week supervised clinical practice experience requires active participation in the care of patients in an emergency department setting with a focus on the evaluation and management of patients who present with acute, traumatic, urgent, and emergent medical needs.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75) and successful completion of PAE 290.",
+  "prereqs": "PAE 290",
+  "successors": [
+    "PAE 454",
+    "PAE 489"
+  ]
+}

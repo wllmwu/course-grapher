@@ -1,0 +1,15 @@
+{
+  "code": "LTWR 119W",
+  "title": "Writing for Performance Workshop",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltwr119w",
+  "description": "A workshop of experimental approaches to the writing and production of performance works in a range of literary genres. Emphasis will be placed on the integration of written texts with nonverbal elements from the visual arts, theatre, and music. Renumbered from LTWR 119. LTWR 119W may only be taken once for credit. No credit given for LTWR 119W if prior credit was earned three times for LTWR 119. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.  Prerequisites:  LTWR 8A or 8B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTWR 8A",
+      "LTWR 8B"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "code": "PAE 211",
+  "title": "The Physician Assistant Profession",
+  "units": "1",
+  "dept": "PAS",
+  "anchor": "pae211",
+  "description": "This lecture-based course explores the historical development of the physician assistant (PA) profession, current policy, and regulations that impact PA practice, and the state and national organizations advocating for the growth and development of the profession.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 290"
+  ]
+}

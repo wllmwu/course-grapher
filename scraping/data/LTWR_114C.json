@@ -1,0 +1,19 @@
+{
+  "code": "LTWR 114C",
+  "title": "Graphic Texts Craft",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltwr114c",
+  "description": "From illuminated manuscripts to digital literatures, from alphabets to concrete poems, from artists\u2019 books to comics, this course explores the histories and techniques of combinatory image/word literary arts. The course may emphasize specific movements or genres. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.  Prerequisites:  LTWR 8A or 8B or 8C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTWR 8A",
+      "LTWR 8B",
+      "LTWR 8C"
+    ]
+  },
+  "successors": [
+    "LTWR 114W"
+  ]
+}

@@ -13,6 +13,9 @@
     ]
   },
   "successors": [
+    "BIBC 110",
+    "CENG 100",
+    "CENG 110",
     "CHEM 40A",
     "CHEM 41A",
     "CHEM 6C",

@@ -1,0 +1,26 @@
+{
+  "code": "PH 101",
+  "title": "Epidemiology",
+  "units": "4",
+  "dept": "PH",
+  "anchor": "ph101",
+  "description": "This course covers the basic principles of epidemiology, with applications to investigations of noninfectious (\u201cchronic\u201d) and infectious diseases. Explores various study designs appropriate for disease surveillance and studies of etiology and prevention. Must be taken for a letter grade to be applied to the public health major. Renumbered from FMPH 101. Students may not receive credit for FMPH 101 and PH 101. Prerequisites: PH 40 or FMPH 40 and PSYC 60, HDS 60, MATH 11, or COGS 14B, and upper-division standing.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "FMPH 40",
+      {
+        "type": "one",
+        "courses": [
+          "PSYC 60",
+          "HDS 60",
+          "MATH 11",
+          "COGS 14B"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "PH 171"
+  ]
+}

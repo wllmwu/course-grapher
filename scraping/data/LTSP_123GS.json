@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 123GS",
+  "title": "Topics in Modern Spanish Culture",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp123gs",
+  "description": "Investigation of selected topics concerning Spanish cultural production after 1800. Topics might focus on a genre (film, popular novel, theater) or on the transformations of a theme or metaphor (nation, femininity, the uncanny). Program or materials fees may apply. Course may be taken for credit up to two times. Students may receive a combined total of eight units for LTSP 123GS and LTSP 123.  Prerequisites:  LTSP 100A or LTSP 100B; student must apply and be accepted to the Global Seminars program.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

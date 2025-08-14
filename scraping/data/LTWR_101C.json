@@ -1,0 +1,22 @@
+{
+  "code": "LTWR 101C",
+  "title": "Writing Fiction in Spanish Craft",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltwr101c",
+  "description": "A reading and craft class for students with some experience and special interest in writing fiction in Spanish. There will be analysis and discussion of representative examples of short fiction from the present and past ages. Reading and lectures will accompany writing exercises. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.  Prerequisites:  LTWR 8A; LTSP 100A or 100B or 100F.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LTWR 8A",
+      {
+        "type": "one",
+        "courses": [
+          "LTSP 100A",
+          "LTSP 100B",
+          "LTSP 100F"
+        ]
+      }
+    ]
+  }
+}

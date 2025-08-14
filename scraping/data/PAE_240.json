@@ -1,0 +1,11 @@
+{
+  "code": "PAE 240",
+  "title": "Professional Practice IV",
+  "units": "1",
+  "dept": "PAS",
+  "anchor": "pae240",
+  "description": "The final in a series of four lecture-based courses dedicated to defining professionalism for healthcare providers. Lectures, readings, and discussion topics focus on social determinants, healthcare disparities, and the triple aim of healthcare for individuals and populations. Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 290"
+  ]
+}

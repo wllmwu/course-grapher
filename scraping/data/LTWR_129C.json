@@ -1,0 +1,16 @@
+{
+  "code": "LTWR 129C",
+  "title": "Distributing Literature Craft",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltwr129c",
+  "description": "A craft-based class designed to critique and engage the means of distributing literature within culture. Publishing from \u201czine\u201d through mainstream publication; web publishing; readings and \u201cslams\u201d; publicity and funding; colloquia with writers; politics and literature; and the uses of performance and media. Readings and lectures will accompany creative exercises and projects. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.  Prerequisites:  LTWR 100C or 102C or 120C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTWR 100C",
+      "LTWR 102C",
+      "LTWR 120C"
+    ]
+  }
+}

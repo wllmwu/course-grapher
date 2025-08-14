@@ -1,0 +1,18 @@
+{
+  "code": "COMM 115D",
+  "title": "Data Science for Communication Students",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm115d",
+  "description": "Introduction to methods, theories, practices, and implications of applying data science methods to issues of communication, culture, media, and the digital humanities. Designed for communication, humanities, and qualitative social science majors. Students will learn how to collect, organize, analyze, and visualize data through programming in Python or R. Students will critically interrogate data science practice, discussing topics such as privacy, power, bias, interpretation, and context. Prerequisites: COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "COMM 20",
+      "COMM 30",
+      "COMM 30GS",
+      "COMM 40"
+    ]
+  }
+}

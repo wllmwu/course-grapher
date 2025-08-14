@@ -4,12 +4,18 @@
   "units": "4",
   "dept": "NANO",
   "anchor": "ceng100",
-  "description": "Introduction to steady and time-dependent material and energy balances using a variety of problem-solving strategies. Concepts include degrees-of-freedom analysis, unit operations, multiunit systems, chemical reaction kinetics and equilibrium, and phase equilibrium. Prerequisites: CENG 4 and CHEM 6B.",
+  "description": "Introduction to steady and time-dependent material and energy balances using a variety of problem-solving strategies. Concepts include degrees-of-freedom analysis, unit operations, multiunit systems, chemical reaction kinetics and equilibrium, and phase equilibrium. Prerequisites: CENG 4 and CHEM 6B or CHEM 6BH. Students may not receive credit for both CENG 100 and CENG 110.",
   "prereqs": {
     "type": "all",
     "courses": [
       "CENG 4",
-      "CHEM 6B"
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 6B",
+          "CHEM 6BH"
+        ]
+      }
     ]
   },
   "successors": [

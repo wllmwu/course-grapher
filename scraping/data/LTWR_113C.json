@@ -1,0 +1,16 @@
+{
+  "code": "LTWR 113C",
+  "title": "Intercultural Writing Craft",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltwr113c",
+  "description": "This course is an introduction to modes of writing from other cultural systems vastly different from the cultural and aesthetic assumptions of Anglo-American writing. While disclosing the limitations of the English language, this course attempts to provide new language strategies for students. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.  Prerequisites:  LTWR 8A or 8B or 8C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTWR 8A",
+      "LTWR 8B",
+      "LTWR 8C"
+    ]
+  }
+}

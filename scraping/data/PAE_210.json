@@ -1,0 +1,11 @@
+{
+  "code": "PAE 210",
+  "title": "Professional Practice II",
+  "units": "1",
+  "dept": "PAS",
+  "anchor": "pae210",
+  "description": "The first in a series of four lecture-based courses dedicated to defining professionalism for healthcare providers. Lectures, readings, and discussion topics focus on academic integrity, medical ethics, and self-care strategies proven to promote wellness and prevent burnout.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 290"
+  ]
+}

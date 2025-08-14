@@ -1,0 +1,50 @@
+{
+  "code": "PH 194R",
+  "title": "Public Health Capstone II",
+  "units": "4",
+  "dept": "PH",
+  "anchor": "ph194r",
+  "description": "This is the second of a two-part capstone series that serves as the culminating experience for the BS in public health (BSPH) majors. Students will interpret and contextualize findings from their projects completed in the first part of the series. Oral and written presentations will focus on disseminating public health information in diverse formats. Must be taken for a letter grade to be applied to the public health major. Prerequisites: PH 40 or FMPH 40, PH 45, PH 101 or FMPH 101, PH 102 or FMPH 102, PH 110 or FMPH 110, PH 120 or FMPH 120, and PH 193 or FMPH 193. Department approval required. Restricted to senior public health majors only. This is a distance education course. Students may only receive credit for one of the following: PH 194, PH 194R, or FMPH 194.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      {
+        "type": "all",
+        "courses": [
+          "FMPH 40",
+          "FMPH 40PH",
+          "FMPH 45PH"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "FMPH 101",
+          "FMPH 101PH"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "FMPH 102",
+          "FMPH 102PH"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "FMPH 110",
+          "FMPH 110PH"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "FMPH 120",
+          "FMPH 120PH"
+        ]
+      },
+      "FMPH 193"
+    ]
+  }
+}

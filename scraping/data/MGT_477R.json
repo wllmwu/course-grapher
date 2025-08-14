@@ -1,0 +1,15 @@
+{
+  "code": "MGT 477R",
+  "title": "Consumer Behavior",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt477r",
+  "description": "The course identifies the factors that influence the selection and usage of products and services. Students will be introduced to problems and decisions that include evaluating behavior; understanding the consumers\u2019 decision process, and strategies to create desirable consumer behavior. Students may not earn credit for both MGT 477R and MGT 477. They are course equivalents. This is a distance education course. Prerequisites: MGT 407 or MGT 407R; MBA student or instructor approval or department approval.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MGT 407",
+      "MGT 407R"
+    ]
+  }
+}

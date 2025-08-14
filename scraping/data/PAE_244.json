@@ -1,0 +1,11 @@
+{
+  "code": "PAE 244",
+  "title": "Behavioral and Mental Healthcare",
+  "units": "4",
+  "dept": "PAS",
+  "anchor": "pae244",
+  "description": "This lecture-based course introduces learners to the evaluation, diagnosis, and management of patients who present with behavioral or mental health concerns in primary care and emergency department settings. Clinical interventions including pharmacotherapeutic options will be discussed.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 290"
+  ]
+}

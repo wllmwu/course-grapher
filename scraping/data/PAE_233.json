@@ -1,0 +1,11 @@
+{
+  "code": "PAE 233",
+  "title": "Perioperative Medicine",
+  "units": "1",
+  "dept": "PAS",
+  "anchor": "pae233",
+  "description": "This lab-based course introduces learners to the roles and responsibilities of the perioperative healthcare team, and the unique needs of patients preparing for, undergoing, and recuperating from surgery. Demonstrating the knowledge and ability to perform perioperative technical skills is required.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 290"
+  ]
+}

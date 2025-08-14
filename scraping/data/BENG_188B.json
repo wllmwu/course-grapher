@@ -1,0 +1,9 @@
+{
+  "code": "BENG 188B",
+  "title": "Design Implementation in Bioengineering",
+  "units": "3",
+  "dept": "BENG",
+  "anchor": "beng188b",
+  "description": "Implementation of design project in bioengineering. Prerequisites: BENG 188A; BE25, BE27, BE28, and BE29 majors only or consent of department. (W)",
+  "prereqs": "BENG 188A"
+}

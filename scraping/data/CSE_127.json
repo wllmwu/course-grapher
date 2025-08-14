@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "CSE",
   "anchor": "cse127",
-  "description": "Topics include basic cryptography, security/threat analysis, access control, auditing, security models, distributed systems security, and theory behind common attack and defense techniques. The class will go over formal models as well as the bits and bytes of security exploits. Prerequisites: CSE 21 or MATH 154 or MATH 158 or MATH 184 or MATH 188 and CSE 120 or CSE 123 or CSE 124; restricted to students within the CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits.",
+  "description": "Topics include basic cryptography, security/threat analysis, access control, auditing, security models, distributed systems security, and theory behind common attack and defense techniques. The class will go over formal models as well as the bits and bytes of security exploits. Prerequisites: CSE 21 or MATH 154 or MATH 158 or MATH 184 or MATH 188 and CSE 120 or CSE 123 or CSE 124 or ECE 158A or ECE 158B; restricted to students within the CS25, CS26, CS27, CS28, CS29, and EC26 majors. All other students will be allowed as space permits.",
   "prereqs": {
     "type": "all",
     "courses": [
@@ -23,7 +23,9 @@
         "courses": [
           "CSE 120",
           "CSE 123",
-          "CSE 124"
+          "CSE 124",
+          "ECE 158A",
+          "ECE 158B"
         ]
       }
     ]

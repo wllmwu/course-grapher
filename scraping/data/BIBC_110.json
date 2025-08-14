@@ -1,0 +1,21 @@
+{
+  "code": "BIBC 110",
+  "title": "Catalysis, Reactivity, and Molecular Structure",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bibc110",
+  "description": "This course focuses on using a project-based learning approach to help students develop skills in applying the principles governing molecular structure and reactivity in a variety of contexts. Students will develop facility with using computer visualization tools to enhance their understanding of how these concepts operate in biological settings. Prerequisites: BILD 1 and CHEM 6B or CHEM 6BH.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 6B",
+          "CHEM 6BH"
+        ]
+      }
+    ]
+  }
+}

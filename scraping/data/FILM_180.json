@@ -1,0 +1,15 @@
+{
+  "code": "FILM 180",
+  "title": "Advanced 3-D and CGI",
+  "units": "4",
+  "dept": "CIN",
+  "anchor": "film180",
+  "description": "A practice-based overview of 3-D animation, visual effects, and the integration of computer-generated images with original footage. Students will learn techniques in modeling, working with texture materials, rendering, and compositing. Prerequisites: FILM 179 or VIS 172.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "FILM 179",
+      "VIS 172"
+    ]
+  }
+}

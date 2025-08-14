@@ -4,8 +4,14 @@
   "units": "4",
   "dept": "BIOL",
   "anchor": "bimm101",
-  "description": "Theory and practice of recombinant DNA and molecular biology techniques. Includes CRISPR-Cas9 editing, DNA sequencing, PCR, and basic bioinformatics. Nonattendance may result in the student\u2019s being dropped from the course roster. Note: Students may not enroll in or receive credit for both BIMM 101 and CHEM 109. Material lab fees will apply. Prerequisites: BILD 1.",
-  "prereqs": "BILD 1",
+  "description": "Theory and practice of recombinant DNA and molecular biology techniques. Includes CRISPR-Cas9 editing, DNA sequencing, PCR, and basic bioinformatics. Attendance at the first lecture/lab is required. Nonattendance may result in the student\u2019s being dropped from the course roster. Note: Students may not enroll in or receive credit for both BIMM 101 and CHEM 109. Program or materials fees may apply. Prerequisites: BILD 1 and BILD 4.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      "BILD 4"
+    ]
+  },
   "successors": [
     "BIMM 100",
     "BIMM 143",

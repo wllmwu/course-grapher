@@ -1,0 +1,11 @@
+{
+  "code": "PAE 226",
+  "title": "Diagnostic Studies I",
+  "units": "3",
+  "dept": "PAS",
+  "anchor": "pae226",
+  "description": "The first of a two-part series designed to provide learners with an overview of common medical lab science assays utilized for the purposes of patient evaluation, diagnosis, and monitoring. Assay selection, interpretation, and value-based care concepts are emphasized.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 290"
+  ]
+}

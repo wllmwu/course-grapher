@@ -1,0 +1,8 @@
+{
+  "code": "CSE 220",
+  "title": "Operating Systems Principles",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse220",
+  "description": "Introduces operating systems concepts, including processes, synchronization, scheduling, memory management, virtual memory, file systems, and protection. Restricted to students within the CS75, CS78, CS89, CS88, CS77, CS80, CS81, CS83, and CS76 majors. All other students will be allowed as space permits. May be coscheduled with CSE 120. Recommended preparation: requires an understanding of architecture/machine organization with emphasis on systems programming in C."
+}

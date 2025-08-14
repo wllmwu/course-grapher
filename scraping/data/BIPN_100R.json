@@ -1,0 +1,26 @@
+{
+  "code": "BIPN 100R",
+  "title": "Human Physiology I",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bipn100r",
+  "description": "Course introduces the concepts of physiological regulation, controlled and integrated by the nervous and endocrine systems. Course then examines the muscular, cardiovascular, and renal systems in detail and considers their control through the interaction of nervous activity and hormones. Note: This course is a distance education course. Students may receive credit for one of the following: BIPN 100, BIPN 100R, or BENG 140A. Prerequisites: BILD 1 and BILD 2.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      "BILD 2"
+    ]
+  },
+  "successors": [
+    "BIMM 118",
+    "BIPN 102",
+    "BIPN 103",
+    "BIPN 105",
+    "BIPN 108",
+    "BIPN 120",
+    "BIPN 134",
+    "BIPN 142",
+    "BIPN 156"
+  ]
+}

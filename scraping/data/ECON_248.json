@@ -1,0 +1,16 @@
+{
+  "code": "ECON 248",
+  "title": "Spatial Economics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ248",
+  "description": "This graduate-level course presents the workhorse spatial model used to think about economic geography in economics. We present numerous additions and extensions to the framework to study a wide variety of topics including but not limited to inequality, firm location choices, endogenous amenities and segregation, knowledge spillovers, migration frictions, interregional trade, coastal flooding, and more. Prerequisites: ECON 200A and ECON 210A and ECON 280.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 200A",
+      "ECON 210A",
+      "ECON 280"
+    ]
+  }
+}

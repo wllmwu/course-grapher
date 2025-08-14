@@ -1,0 +1,13 @@
+{
+  "code": "PAE 430",
+  "title": "Mental and Behavioral Health Rotation",
+  "units": "4",
+  "dept": "PAS",
+  "anchor": "pae430",
+  "description": "This four-week supervised clinical practice experience requires active participation in the care of patients seeking behavioral and mental healthcare across the lifespan. Learners will participate in the evaluation and management of patients with mental and behavioral health concerns.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75) and successful completion of PAE 290.",
+  "prereqs": "PAE 290",
+  "successors": [
+    "PAE 454",
+    "PAE 489"
+  ]
+}

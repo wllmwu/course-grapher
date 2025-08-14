@@ -1,0 +1,12 @@
+{
+  "code": "LTWR 104AW",
+  "title": "The Novella I Workshop",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltwr104aw",
+  "description": "A two-quarter workshop for fiction writers ready to explore a longer form and committed to developing a single piece over the course of two consecutive quarters. In addition to analyzing student work, we will read and discuss a wide range of published novellas. Renumbered from LTWR 104A. Students may not receive credit for both LTWR 104AW and LTWR 104A. Two-quarter sequence; students must complete LTWR 104AW and LTWR 104BW in order to receive final grade in both courses. Restricted to major codes LT34 and LT42 and minor code LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.  Prerequisites:  LTWR 100C.",
+  "prereqs": "LTWR 100C",
+  "successors": [
+    "LTWR 104BW"
+  ]
+}

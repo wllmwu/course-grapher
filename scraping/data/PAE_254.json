@@ -1,0 +1,12 @@
+{
+  "code": "PAE 254",
+  "title": "Clinical Inquiry and Research Design",
+  "units": "1",
+  "dept": "PAS",
+  "anchor": "pae254",
+  "description": "This lecture-based course builds upon foundational knowledge learned in the evidence-based medicine course with greater emphasis on researching clinical questions, analyzing available evidence, utilizing common research methods, and developing the skills to prepare a capstone project prior to graduation. Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75) and successful completion of PAE 216.",
+  "prereqs": "PAE 216",
+  "successors": [
+    "PAE 290"
+  ]
+}

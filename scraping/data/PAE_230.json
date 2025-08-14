@@ -1,0 +1,11 @@
+{
+  "code": "PAE 230",
+  "title": "Professional Practice III",
+  "units": "1",
+  "dept": "PAS",
+  "anchor": "pae230",
+  "description": "The third in a series of four lecture-based courses dedicated to defining professionalism for healthcare providers. Lectures, readings, and discussion topics focus on building effective interdisciplinary healthcare teams and the science of quality improvement.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 290"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "code": "COMM 118T",
+  "title": "Television as a Cultural Form",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm118t",
+  "description": "How and what does television communicate? Emphasis will be on contemporary U.S. television programming, placed in comparative and historical context. Special topics may include TV genres, TV and politics, TV and other media. In-class screenings. (Renumbered from COMM 106T. Students may not receive credit for both COMM 118T and COMM 106T.) Prerequisites: COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "COMM 20",
+      "COMM 30",
+      "COMM 30GS",
+      "COMM 40"
+    ]
+  }
+}

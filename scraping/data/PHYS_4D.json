@@ -58,7 +58,10 @@
   },
   "successors": [
     "ASTR 101",
+    "ASTR 102",
+    "ASTR 105",
     "ASTR 120",
+    "ASTR 121",
     "ASTR 122",
     "ASTR 123",
     "ASTR 124",
@@ -73,6 +76,7 @@
     "PHYS 105A",
     "PHYS 110A",
     "PHYS 130A",
+    "PHYS 136",
     "PHYS 139",
     "PHYS 161",
     "PHYS 162",

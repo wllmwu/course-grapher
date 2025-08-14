@@ -1,0 +1,12 @@
+{
+  "code": "VIS 146A",
+  "title": "Computer-controlled Fabrication in Art I",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis146a",
+  "description": "2-D and 3-D digital fabrication with an overview of related contemporary art practices. Topics may include 3-D CAD software, laser etching and cutting, paint application (spray booth, powder baking), fabric technologies, additive 3-D printing, and other resources relevant to maker spaces. Prerequisites: VIS 142. Open to ICAM and speculative design majors and computing and the arts and speculative design minors.",
+  "prereqs": "VIS 142",
+  "successors": [
+    "VIS 146B"
+  ]
+}

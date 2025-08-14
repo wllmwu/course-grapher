@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "ECON",
   "anchor": "econ120c",
-  "description": "Advanced econometric methods: estimation of linear regression models with endogeneity, economic methods designed for panel data sets, estimation of discrete choice models, time series analysis, and estimation in the presence of autocorrelated and heteroskedastic errors. Prerequisites: ECON 120B or MATH 181B.",
+  "description": "This course covers causal inference methods in econometrics. Students are introduced to commonly used causal inference methods in economics, business, and public policy for identifying and estimating causal effects. The main topics are causality and causal models, experiments and quasi-experiments, instrumental variable regression, panel data methods, difference-indifferences, and regression discontinuity designs. Prerequisites: ECON 120B or MATH 181B.",
   "prereqs": {
     "type": "one",
     "courses": [

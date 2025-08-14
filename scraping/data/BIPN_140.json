@@ -13,12 +13,12 @@
     ]
   },
   "successors": [
+    "BIPN 118",
     "BIPN 142",
     "BIPN 148",
     "BIPN 152",
     "BIPN 154",
     "BIPN 156",
-    "BIPN 162",
     "BIPN 194"
   ]
 }

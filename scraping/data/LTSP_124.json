@@ -1,0 +1,16 @@
+{
+  "code": "LTSP 124",
+  "title": "Spanish in the Community",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp124",
+  "description": "An overview of the study of the Spanish language as it is spoken in the community and the social and cultural meaning attached to different ways of speaking. Topics include culture of language, language and gender, language variation and change, language attitudes and ideologies, language contract, language choice, language mixing, language politics and planning.  Prerequisites:  LTSP 100A or 100B or 100F, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B",
+      "LTSP 100F"
+    ]
+  }
+}

@@ -4,5 +4,5 @@
   "units": "4",
   "dept": "MAE",
   "anchor": "mae247",
-  "description": "Tools for the design of cooperative control strategies for multi-agent systems are presented. Topics include continuous and discrete-time evolution models, proximity graphs, performance measures, invariance principles, and coordination algorithms for rendezvous, deployment, flocking, formation of autonomous vehicles and consensus."
+  "description": "Tools for the design of cooperative control strategies for multi-agent systems are presented. Topics include continuous and discrete-time evolution models, proximity graphs, performance measures, invariance principles, and coordination algorithms for rendezvous, deployment, flocking, formation of autonomous vehicles and consensus.\u00a0Prerequisites: graduate standing."
 }

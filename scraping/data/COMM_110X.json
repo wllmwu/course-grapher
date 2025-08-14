@@ -1,0 +1,18 @@
+{
+  "code": "COMM 110X",
+  "title": "Texting and Talking",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm110x",
+  "description": "This course explores the complexities of how people use language in face-to-face and mediated contexts to participate in social interaction. Students will learn about how language and our use of it has evolved in the digital age, and how these ongoing shifts impact our daily lives. Prerequisites: COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "COMM 20",
+      "COMM 30",
+      "COMM 30GS",
+      "COMM 40"
+    ]
+  }
+}

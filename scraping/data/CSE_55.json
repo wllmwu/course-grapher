@@ -1,0 +1,36 @@
+{
+  "code": "CSE 55",
+  "title": "Foundations of Artificial Intelligence and Machine Learning",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse55",
+  "description": "This course prepares students with the mathematical foundation and programming skills required for more advanced artificial intelligence (AI) and machine learning (ML) courses. Topics include applications of optimization and linear algebra in machine learning, including convex optimization, gradient-based methods, and representation learning. Theoretical concepts will be grounded in programming projects. Prerequisites: CSE 12 and CSE 25 and CSE 15L or CSE 29 and MATH 18 or MATH 31AH and MATH 20C or MATH 31BH; restricted to students within the CS29 major. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CSE 12",
+      "CSE 25",
+      {
+        "type": "one",
+        "courses": [
+          "CSE 15L",
+          "CSE 29"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      }
+    ]
+  }
+}

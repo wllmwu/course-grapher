@@ -8,6 +8,7 @@
   "prereqs": "CHEM 40A",
   "successors": [
     "BENG 123",
+    "BENG 160",
     "BIBC 100",
     "BIBC 102",
     "BIMM 100",
@@ -17,7 +18,9 @@
     "CHEM 143B",
     "CHEM 143C",
     "CHEM 145",
-    "CHEM 40C",
-    "CHEM 40CH"
+    "CHEM 152",
+    "CHEM 154",
+    "CHEM 156",
+    "CHEM 40C"
   ]
 }

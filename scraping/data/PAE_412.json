@@ -1,0 +1,13 @@
+{
+  "code": "PAE 412",
+  "title": "Pediatric Rotation",
+  "units": "4",
+  "dept": "PAS",
+  "anchor": "pae412",
+  "description": "This four-week supervised clinical practice experience requires active participation in the care of patients in the primary care specialty of pediatrics which focuses on the care of patients from birth to adolescence through young adulthood.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75) and successful completion of PAE 290.",
+  "prereqs": "PAE 290",
+  "successors": [
+    "PAE 454",
+    "PAE 489"
+  ]
+}

@@ -4,6 +4,6 @@
   "units": "4",
   "dept": "NANO",
   "anchor": "ceng160",
-  "description": "Introduction to biochemical engineering. Topics include biological macromolecules, enzyme kinetics, cell metabolism, protein synthesis, recombinant DNA technology, bioreactor design, and bioproduct recovery. Prerequisites:\u00a0CENG 100.",
+  "description": "Introduction to biochemical engineering. Topics include biological macromolecules, enzyme kinetics, cell metabolism, protein synthesis, recombinant DNA technology, bioreactor design, and bioproduct recovery. Prerequisites:\u00a0CENG 100. Students may not receive credit for both CENG 160 and CENG 260.",
   "prereqs": "CENG 100"
 }

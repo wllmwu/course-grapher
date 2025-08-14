@@ -1,0 +1,11 @@
+{
+  "code": "PHIL 104",
+  "title": "The Rationalists",
+  "units": "4",
+  "dept": "PHIL",
+  "anchor": "phil104",
+  "description": "The major writings of one or more of the seventeenth-century rationalists\u2014Descartes, Spinoza, and Leibniz. Topics include the existence of God, the mind-body problem, free will, the nature of knowledge, belief, and error. May be repeated for credit with change of content and approval of instructor. Prerequisites: upper-division standing or consent of instructor.",
+  "successors": [
+    "PHIL 106"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "PAE 224",
+  "title": "Patient Education",
+  "units": "2",
+  "dept": "PAS",
+  "anchor": "pae224",
+  "description": "This course explores the effects of health literacy, patient education, and shared decision-making on patient care outcomes. Lab sessions will utilize clinical scenarios, case studies, and simulations that allow learners to practice new skills.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 290"
+  ]
+}

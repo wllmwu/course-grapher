@@ -1,0 +1,16 @@
+{
+  "code": "COGS 183",
+  "title": "Generative AI",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs183",
+  "description": "The course will teach students about the principles of generative AI, both theory and practice. Students gain hands-on experience with some of the popular generative AI tools such as text-to-image, large language models (LLMs), and generative pre-trained transformers (GPTs), e.g., ChatGPT. Prerequisites: COGS 118A or COGS 118B or COGS 109.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COGS 118A",
+      "COGS 118B",
+      "COGS 109"
+    ]
+  }
+}

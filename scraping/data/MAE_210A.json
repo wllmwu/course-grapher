@@ -4,8 +4,9 @@
   "units": "4",
   "dept": "MAE",
   "anchor": "mae210a",
-  "description": "Basic conservation laws. Flow kinematics. The Navier-Stokes equations and some of its exact solutions. Nondimensional parameters and different flow regimes, vorticity dynamics.",
+  "description": "Basic conservation laws. Flow kinematics. The Navier-Stokes equations and some of its exact solutions. Nondimensional parameters and different flow regimes, vorticity dynamics.\u00a0Prerequisites: graduate standing.",
   "successors": [
+    "BENG 209",
     "MAE 209",
     "MAE 210B",
     "MAE 210C",

@@ -1,0 +1,11 @@
+{
+  "code": "PAE 241",
+  "title": "Technical Skills and Procedures I",
+  "units": "2",
+  "dept": "PAS",
+  "anchor": "pae241",
+  "description": "The first in a series of two stand-alone courses designed to introduce learners to the indications, contradictions, step-by-step procedures, and complications of technical skills commonly performed by physician assistants. Simulation activities during lab sessions allow learners to practice skills.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 290"
+  ]
+}

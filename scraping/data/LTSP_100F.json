@@ -1,0 +1,45 @@
+{
+  "code": "LTSP 100F",
+  "title": "Advanced Spanish Language and Culture for Heritage Learners",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp100f",
+  "description": "For students who learned Spanish at home and/or who went to school in a Spanish speaking country. This course allows students to expand their oral, reading, and writing academic proficiency in Spanish and through class discussions promote critical thinking in a relevant cultural context for Latinx students. Additionally, students will explore a variety of cultural, literary, and writing genres. This course has the purpose of preparing students to work in a professional context in Spanish. Renumbered from LTSP 100B. LTSP 100F and/or LTSP 100B may be taken for credit for a combined total of three times as topics vary.  Prerequisites:  LTSP 2E or LTSP 3F.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 2E",
+      "LTSP 3F"
+    ]
+  },
+  "successors": [
+    "LTSP 101",
+    "LTSP 110",
+    "LTSP 115",
+    "LTSP 116",
+    "LTSP 124",
+    "LTSP 126",
+    "LTSP 128",
+    "LTSP 134",
+    "LTSP 135A",
+    "LTSP 135B",
+    "LTSP 136",
+    "LTSP 137",
+    "LTSP 138",
+    "LTSP 145",
+    "LTSP 150",
+    "LTSP 150A",
+    "LTSP 150B",
+    "LTSP 151",
+    "LTSP 155",
+    "LTSP 166",
+    "LTSP 169",
+    "LTSP 170",
+    "LTSP 172",
+    "LTSP 175",
+    "LTSP 176",
+    "LTSP 177",
+    "LTSP 180",
+    "LTWR 101C"
+  ]
+}

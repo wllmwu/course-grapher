@@ -14,6 +14,8 @@
     ]
   },
   "successors": [
+    "CSE 100",
+    "CSE 100R",
     "CSE 109",
     "CSE 120",
     "CSE 123",
@@ -22,10 +24,13 @@
     "CSE 150B",
     "CSE 151A",
     "CSE 152A",
+    "CSE 153",
+    "CSE 153R",
     "CSE 156",
     "CSE 158",
     "CSE 158R",
     "CSE 30",
+    "CSE 55",
     "DSC 148"
   ]
 }

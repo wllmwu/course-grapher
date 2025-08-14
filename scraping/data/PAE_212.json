@@ -1,0 +1,15 @@
+{
+  "code": "PAE 212",
+  "title": "The Physical Exam",
+  "units": "3",
+  "dept": "PAS",
+  "anchor": "pae212",
+  "description": "This lecture- and lab-based course provides learners with a comprehensive study of physical assessment and diagnosis including the clinical and technical skills required to successfully elicit, interpret, and document findings. Lab sessions provide learners an opportunity to practice new skills. Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 225",
+    "PAE 234",
+    "PAE 245",
+    "PAE 255",
+    "PAE 290"
+  ]
+}

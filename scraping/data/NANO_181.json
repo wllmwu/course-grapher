@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "NANO",
   "anchor": "nano181",
-  "description": "Comprehensive introduction into the application of data science to materials science. Introduction to broad array of machine learning techniques (e.g., supervised, unsupervised, etc.) and applications (e.g., regression, dimensionality reduction, classification), with a focus on practical examples in materials science. Prerequisites: NANO 114 or CENG 114.",
+  "description": "Comprehensive introduction into the application of data science to materials science. Introduction to broad array of machine learning techniques (e.g., supervised, unsupervised, etc.) and applications (e.g., regression, dimensionality reduction, classification), with a focus on practical examples in materials science. Prerequisites: NANO 114 or CENG 114. Students may not receive credit for both NANO 181 and NANO 181R.",
   "prereqs": {
     "type": "one",
     "courses": [

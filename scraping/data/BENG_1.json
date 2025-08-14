@@ -4,9 +4,8 @@
   "units": "2",
   "dept": "BENG",
   "anchor": "beng1",
-  "description": "An introduction to bioengineering that includes lectures and hands-on laboratory for design projects. The principles of problem definition, engineering inventiveness, team design, prototyping, and testing, as well as information access, engineering standards, communication, ethics, and social responsibility will be emphasized. P/NP grades only. Prerequisites: none. (W)",
+  "description": "An introduction to bioengineering that includes lectures and hands-on laboratory for design projects. The principles of problem definition, engineering inventiveness, team design, prototyping, and testing, as well as information access, engineering standards, communication, ethics, and social responsibility will be emphasized. P/NP grades only. Prerequisites: none. (F,W)",
   "successors": [
-    "BENG 100",
     "ECE 196"
   ]
 }

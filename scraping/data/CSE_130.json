@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "CSE",
   "anchor": "cse130",
-  "description": "(Formerly CSE 173.) Introduction to programming languages and paradigms, the components that comprise them, and the principles of language design, all through the analysis and comparison of a variety of languages (e.g., Pascal, Ada, C++, PROLOG, ML.) Will involve programming in most languages studied. Prerequisites: CSE 12 and CSE 100 or CSE 100R and CSE 105; restricted to students within the CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits.",
+  "description": "(Formerly CSE 173.) Introduction to programming languages and paradigms, the components that comprise them, and the principles of language design, all through the analysis and comparison of a variety of languages (e.g., Pascal, Ada, C++, PROLOG, ML.) Will involve programming in most languages studied. Prerequisites: CSE 12 and CSE 100 or CSE 100R and CSE 105; restricted to students within the CS25, CS26, CS27, CS29, and EC26 majors. All other students will be allowed as space permits.",
   "prereqs": {
     "type": "all",
     "courses": [
@@ -20,7 +20,6 @@
     ]
   },
   "successors": [
-    "CSE 131",
-    "CSE 230"
+    "CSE 131"
   ]
 }

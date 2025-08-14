@@ -4,10 +4,11 @@
   "units": "4",
   "dept": "CSE",
   "anchor": "cse131",
-  "description": "(Formerly CSE 131B.) Introduction to the compilation of programming languages, practice of syntax-directed translation, type checking, code generation, optimization, interpretation, and compiler structure. Students may receive repeat credit for CSE 131A and CSE 131B by completing CSE 131.\u00a0May be coscheduled with CSE 231.\u00a0Prerequisites: CSE 100 or CSE 100R and CSE 105 and CSE 130; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits.",
+  "description": "(Formerly CSE 131B.) Introduction to the compilation of programming languages, practice of syntax-directed translation, type checking, code generation, optimization, interpretation, and compiler structure. Students may receive repeat credit for CSE 131A and CSE 131B by completing CSE 131.\u00a0May be coscheduled with CSE 231.\u00a0Prerequisites: CSE 30 and CSE 100 or CSE 100R and CSE 105 and CSE 130; restricted to CS25, CS26, CS27, CS29, and EC26 majors. All other students will be allowed as space permits.",
   "prereqs": {
     "type": "all",
     "courses": [
+      "CSE 30",
       {
         "type": "one",
         "courses": [

@@ -15,6 +15,8 @@
     ]
   },
   "successors": [
+    "BENG 122A",
+    "BENG 152",
     "BENG 186B",
     "CSE 194",
     "ECE 118",

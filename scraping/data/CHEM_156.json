@@ -4,13 +4,18 @@
   "units": "4",
   "dept": "CHEM",
   "anchor": "chem156",
-  "description": "Introduction to the measurement and theoretical correlation of the physical properties of organic molecules. Topics covered include molecular geometry, molecular-orbital theory, orbital hybridization, aromaticity, chemical reactivity, stereochemistry, infrared and electronic spectra, photochemistry, and nuclear magnetic resonance. May be coscheduled with CHEM 256. Prerequisites: CHEM 40C, 40CH, or 41C.",
+  "description": "Introduction to the physical properties of organic molecules and strategies to investigate the microscopic elements of catalytic reactions. Topics covered include catalytic rate laws determinations, isotope effects, linear free energy relationships, non-covalent interactions, and pH/pKa. This is the third quarter of the advanced organic chemistry sequence. May be coscheduled with CHEM 256. Prerequisites: CHEM 40B or 41C and CHEM 120A. Recommended: CHEM 154 is strongly recommended.",
   "prereqs": {
-    "type": "one",
+    "type": "all",
     "courses": [
-      "CHEM 40C",
-      "CHEM 40CH",
-      "CHEM 41C"
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 40B",
+          "CHEM 41C"
+        ]
+      },
+      "CHEM 120A"
     ]
   }
 }

@@ -4,5 +4,5 @@
   "units": "4",
   "dept": "MAE",
   "anchor": "mae259",
-  "description": "Orthogonality and norms. Reflection and rotation matrices. Solving systems of linear equations via LU and QR decompositions; least squares. Conditioning, sparsity, and parallelism. Iterative methods. Matrix subspaces. Eigen, Schur, and singular value decompositions. Pseudoinverses. Spectral representations, Fourier transforms, and the Dirac delta."
+  "description": "Orthogonality and norms. Reflection and rotation matrices. Solving systems of linear equations via LU and QR decompositions; least squares. Conditioning, sparsity, and parallelism. Iterative methods. Matrix subspaces. Eigen, Schur, and singular value decompositions. Pseudoinverses. Spectral representations, Fourier transforms, and the Dirac delta.\u00a0Prerequisites: graduate standing."
 }

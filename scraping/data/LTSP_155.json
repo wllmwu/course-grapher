@@ -4,12 +4,13 @@
   "units": "4",
   "dept": "LIT",
   "anchor": "ltsp155",
-  "description": "This course introduces students to the comparative and multidisciplinary study of cultural productions and historical formations that link Asia and Latin America. Students will be exposed to diverse methodologies drawn from transpacific studies, postcolonial theory, critical race studies, and the study of imperialism, colonialism, global modernity, and popular cultures.  Prerequisites:  LTSP 100A or 100B, or consent of instructor.",
+  "description": "This course introduces students to the comparative and multidisciplinary study of cultural productions and historical formations that link Asia and Latin America. Students will be exposed to diverse methodologies drawn from transpacific studies, postcolonial theory, critical race studies, and the study of imperialism, colonialism, global modernity, and popular cultures.  Prerequisites:  LTSP 100A or 100B or 100F, or consent of instructor.",
   "prereqs": {
     "type": "one",
     "courses": [
       "LTSP 100A",
-      "LTSP 100B"
+      "LTSP 100B",
+      "LTSP 100F"
     ]
   }
 }

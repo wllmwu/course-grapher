@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "CSE",
   "anchor": "cse221",
-  "description": "Operating system structures, concurrent computation models, scheduling, synchronization mechanisms, address spaces, memory management protection and security, buffering, streams, data-copying reduction techniques, file systems, naming, caching, disk organization, mapped files, remote file systems, case studies of major operating systems. Prerequisites: CSE 120 and 121, or consent of instructor.",
+  "description": "Operating system structures, concurrent computation models, scheduling, synchronization mechanisms, address spaces, memory management protection and security, buffering, streams, data-copying reduction techniques, file systems, naming, caching, disk organization, mapped files, remote file systems, case studies of major operating systems. Prerequisites: CSE 120 and 121, or consent of instructor. Restricted to students within the CS75, CS78, CS89, CS88, CS77, CS80, CS81, CS83, and CS76 majors. All other students will be allowed as space permits.",
   "prereqs": {
     "type": "all",
     "courses": [

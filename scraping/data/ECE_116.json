@@ -1,0 +1,24 @@
+{
+  "code": "ECE 116",
+  "title": "Advanced Hardware and Software Design",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece116",
+  "description": "In this hands-on course, students are introduced to the basic concepts of practical embedded system design. It covers concepts from microprocessors, signal processing, communication, data science, and programming. Students learn to apply their foundational knowledge in a set of design challenges and a final project. The course is heavily focused on system building and learning through practice. Students may not receive credit for ECE 116 and ECE 16. Prerequisites: CSE 8B or CSE 11 or ECE 15 or MAE 8 and ECE 5, ECE 18.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CSE 8B",
+          "CSE 11",
+          "ECE 15",
+          "MAE 8"
+        ]
+      },
+      "ECE 5",
+      "ECE 18"
+    ]
+  }
+}

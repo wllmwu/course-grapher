@@ -1,0 +1,15 @@
+{
+  "code": "PAE 215",
+  "title": "The Medical Interview",
+  "units": "3",
+  "dept": "PAS",
+  "anchor": "pae215",
+  "description": "This course will equip learners with the knowledge and skills required to perform a patient-centered medical interview, obtain a medical history, respect the values of persons seeking healthcare, and efficiently document essential information. Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 225",
+    "PAE 234",
+    "PAE 245",
+    "PAE 255",
+    "PAE 290"
+  ]
+}

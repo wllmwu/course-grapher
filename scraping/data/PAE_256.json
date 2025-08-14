@@ -1,0 +1,11 @@
+{
+  "code": "PAE 256",
+  "title": "Health Promotion and Disease Prevention",
+  "units": "1",
+  "dept": "PAS",
+  "anchor": "pae256",
+  "description": "This lecture-based course focuses on the utilization and efficacy of public health interventions. Topics include disease surveillance and reporting, population health, patient advocacy, and health maintenance. Case discussions will allow learners to apply concepts.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75).",
+  "successors": [
+    "PAE 290"
+  ]
+}

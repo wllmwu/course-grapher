@@ -12,5 +12,8 @@
       "MATH 20C",
       "MATH 31BH"
     ]
-  }
+  },
+  "successors": [
+    "LIGN 169"
+  ]
 }

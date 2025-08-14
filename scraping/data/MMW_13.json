@@ -4,8 +4,14 @@
   "units": "6",
   "dept": "MMW",
   "anchor": "mmw13",
-  "description": "This course presents a global perspective on the connections, exchanges, and transformations that linked Afro-Eurasia and the Americas during the period from 1200 to 1750 CE. The course examines the nature and consequences of this increasingly connected world. It focuses on spaces of cross-cultural contact and exchange, including the transfer of technologies, ideas, commodities, and customs and their environmental impact; encounters in the form of travel, trade, migration, and invasion; and exploitation through empire, colonization, and slavery, and their manifestation in state violence, intolerance, discrimination, and racism. MMW 13 is the second of two writing-intensive courses in the MMW sequence. Students may not receive credit for both MMW 13 and MMW 13R. Open to Eleanor Roosevelt College (ERC) students only. Must be taken for a letter grade to meet the ERC graduation requirement. Prerequisites: MMW 12.",
-  "prereqs": "MMW 12",
+  "description": "This course presents a global perspective on the connections, exchanges, and transformations that linked Afro-Eurasia and the Americas during the period from 1200 to 1750 CE. The course examines the nature and consequences of this increasingly connected world. It focuses on spaces of cross-cultural contact and exchange, including the transfer of technologies, ideas, commodities, and customs and their environmental impact; encounters in the form of travel, trade, migration, and invasion; and exploitation through empire, colonization, and slavery, and their manifestation in state violence, intolerance, discrimination, and racism. MMW 13 is the second of two writing-intensive courses in the MMW sequence. Students may not receive credit for both MMW 13 and MMW 13R. Open to Eleanor Roosevelt College (ERC) students only. Must be taken for a letter grade to meet the ERC graduation requirement. Prerequisites: MMW 12 or MMW 12R.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MMW 12",
+      "MMW 12R"
+    ]
+  },
   "successors": [
     "CSE 194",
     "HITO 106",

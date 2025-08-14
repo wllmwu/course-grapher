@@ -4,17 +4,15 @@
   "units": "4",
   "dept": "BENG",
   "anchor": "beng100",
-  "description": "The class provides foundation in probability and statistics. Topics include probability spaces, random variables, independence, common distributions, CLT, estimator accuracy, maximum likelihood, and hypothesis testing. Written problems are provided for each topic. Applications are discussed in regard to bioengineering problems. Prerequisites: BENG 1, MATH 18 or MATH 31AH or MATH 20F, MATH 20C or MATH 31BH; bioengineering majors only or consent of department. (S)",
+  "description": "The class provides foundation in probability and statistics. Topics include probability spaces, random variables, independence, common distributions, CLT, estimator accuracy, maximum likelihood, and hypothesis testing. Written problems are provided for each topic. Applications are discussed in regard to bioengineering problems. Prerequisites: MATH 18 or MATH 31AH , MATH 20C or MATH 31BH; bioengineering majors only or consent of department. (F,S,Su)",
   "prereqs": {
     "type": "all",
     "courses": [
-      "BENG 1",
       {
         "type": "one",
         "courses": [
           "MATH 18",
-          "MATH 31AH",
-          "MATH 20F"
+          "MATH 31AH"
         ]
       },
       {
@@ -28,9 +26,9 @@
   },
   "successors": [
     "BENG 134",
-    "BENG 141",
     "BENG 160",
-    "BENG 168",
+    "CSE 153",
+    "CSE 153R",
     "CSE 158",
     "CSE 158R",
     "MGT 151R",

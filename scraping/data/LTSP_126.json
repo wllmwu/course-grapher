@@ -1,0 +1,16 @@
+{
+  "code": "LTSP 126",
+  "title": "Spanish in the United States",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp126",
+  "description": "The goal of this course is to introduce students to the many cultural and language issues facing speakers of Spanish in the United States. Topics will include the representation of Spanish speakers in the media, Spanish in education, language attitudes, and bilingual phenomena. We will also discuss the power dynamics and language ideologies that lead to language discrimination practices.  Prerequisites:  LTSP 100A or 100B or 100F, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B",
+      "LTSP 100F"
+    ]
+  }
+}

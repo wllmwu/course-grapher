@@ -1,0 +1,8 @@
+{
+  "code": "LIGN 117",
+  "title": "The Language Code",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign117",
+  "description": "Natural languages are codes used for communication. This course examines the design features of language that allow them to satisfy two desiderata: communicative effectiveness and efficiency. Topics covered include elementary probability theory (conditional probability; Bayes\u2019 Rule), binary representations, elementary information theory (entropy), data compression, error correction, n-gram language models, noisy channel models, and large language models (e.g., ChatGPT)."
+}

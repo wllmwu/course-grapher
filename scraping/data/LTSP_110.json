@@ -1,0 +1,16 @@
+{
+  "code": "LTSP 110",
+  "title": "Descriptive Spanish Grammar",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp110",
+  "description": "This course explores advanced Spanish grammar topics from a corpus-based approach and how grammar and culture intertwine. We will also discuss the language dialectal variation of the Spanish-speaking world with an emphasis in the Spanish spoken along the US-Mexico border. Students will bring examples of Spanish from their communities to the classroom to help facilitate discussions on Spanish grammar.  Prerequisites:  LTSP 100A or 100B or 100F, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B",
+      "LTSP 100F"
+    ]
+  }
+}

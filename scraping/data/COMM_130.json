@@ -1,0 +1,18 @@
+{
+  "code": "COMM 130",
+  "title": "Creative Labor in the Media Industries",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm130",
+  "description": "This course examines work in cultural industries, combining macro-legal/economic and micro-sociological analyses of various \u201cproduction cultures\u201d where creative work happens. We will consider a cluster of concerns for creative, collaborative workers including ownership, authorship, and IP; occupational discrimination and equity; labor unions; workplace safety and oversight; recruitment, training, and worker mobility; flexible and on-demand labor markets; exploitation of creatives\u2019 love of work. Prerequisites: COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "COMM 20",
+      "COMM 30",
+      "COMM 30GS",
+      "COMM 40"
+    ]
+  }
+}

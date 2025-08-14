@@ -4,12 +4,12 @@
   "units": "4",
   "dept": "BENG",
   "anchor": "beng135",
-  "description": "Discrete systems: linearity, convolution, impulse, and step responses. Linear systems properties. Difference equations. Fourier Series. Continuous FS. Discrete FS. Periodic signals, filtering, and FT. Discrete FT examples. Frequency response of linear systems. Sampling. Relationship between FT, DFT. Laplace Transform. LT and inverse LT. Prerequisites: ECE 45 and BENG 133 or consent of department. (F) Not offered until fall 2016.",
+  "description": "Discrete systems: linearity, convolution, impulse, and step responses. Linear systems properties. Difference equations. Fourier Series. Continuous FS. Discrete FS. Periodic signals, filtering, and FT. Discrete FT examples. Frequency response of linear systems. Sampling. Relationship between FT, DFT. Laplace Transform. LT and inverse LT. Prerequisites: ECE 45 and MAE 40; bioengineering majors only (BE25, BE27, BE28 and BE29) or consent of department. (F)",
   "prereqs": {
     "type": "all",
     "courses": [
       "ECE 45",
-      "BENG 133"
+      "MAE 40"
     ]
   },
   "successors": [

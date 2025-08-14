@@ -1,0 +1,13 @@
+{
+  "code": "PAE 411",
+  "title": "Internal Medicine Rotation",
+  "units": "4",
+  "dept": "PAS",
+  "anchor": "pae411",
+  "description": "This four-week supervised clinical practice experience requires active participation in the comprehensive, longitudinal care of adult patients in an internal medicine specialty. Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75) and successful completion of PAE 290.",
+  "prereqs": "PAE 290",
+  "successors": [
+    "PAE 454",
+    "PAE 489"
+  ]
+}

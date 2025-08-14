@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "CSE",
   "anchor": "cse100",
-  "description": "High-performance data structures and supporting algorithms. Use and implementation of data structures like (un)balanced trees, graphs, priority queues, and hash tables. Also, memory management, pointers, recursion. Theoretical and practical performance analysis, both average case and amortized. Uses C++ and STL. Recommended preparation: background in C or C++ programming. Prerequisites: CSE 21 or MATH 154 or MATH 158 or MATH 184 or MATH 188 and CSE 12 and CSE 15L and CSE 30 or ECE 15; restricted to undergraduates. Graduate students will be allowed as space permits. Students may not receive credit for both CSE 100R and CSE 100.",
+  "description": "High-performance data structures and supporting algorithms. Use and implementation of data structures like (un)balanced trees, graphs, priority queues, and hash tables. Also, memory management, pointers, recursion. Theoretical and practical performance analysis, both average case and amortized. Uses C++ and STL. Recommended preparation: background in C or C++ programming. Prerequisites: CSE 21 or MATH 154 or MATH 158 or MATH 184 or MATH 188 and CSE 12 and CSE 15L or CSE 29 or ECE 15; restricted to undergraduates. Graduate students will be allowed as space permits. Students may not receive credit for both CSE 100R and CSE 100.",
   "prereqs": {
     "type": "all",
     "courses": [
@@ -19,11 +19,11 @@
         ]
       },
       "CSE 12",
-      "CSE 15L",
       {
         "type": "one",
         "courses": [
-          "CSE 30",
+          "CSE 15L",
+          "CSE 29",
           "ECE 15"
         ]
       }
@@ -35,6 +35,7 @@
     "BIMM 181",
     "BIMM 182",
     "CSE 110",
+    "CSE 120",
     "CSE 130",
     "CSE 131",
     "CSE 132A",
@@ -48,8 +49,7 @@
     "CSE 167",
     "CSE 167R",
     "CSE 181",
-    "CSE 182",
-    "CSE 210",
-    "CSE 232"
+    "CSE 181R",
+    "CSE 182"
   ]
 }

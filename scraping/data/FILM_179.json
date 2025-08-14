@@ -1,0 +1,11 @@
+{
+  "code": "FILM 179",
+  "title": "Fundamentals of Animation",
+  "units": "4",
+  "dept": "CIN",
+  "anchor": "film179",
+  "description": "A hands-on introduction to the fundamentals of 2-D animation, including both handmade and digitally designed approaches. Students will learn to analyze, understand, and incorporate strategies to apply traditional and experimental compositional approaches to animated storytelling. Recommended preparation is one of the following: COMM 101D, COMM 101K, COMM 101N, LTWR 110, TDPW 104, VIS 172, VIS 174, VIS 175, VIS 176, VIS 177, VIS 178, or VIS 179. Prerequisites: open to cinematic arts majors and media majors. FILM 71 or VIS 60 and FILM 72 or VIS 70N.",
+  "successors": [
+    "FILM 180"
+  ]
+}

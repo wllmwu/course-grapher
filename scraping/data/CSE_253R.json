@@ -1,0 +1,8 @@
+{
+  "code": "CSE 253R",
+  "title": "Machine Learning for Music",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse253r",
+  "description": "This course will introduce students to the application of machine learning to understand and generate music. The course will cover data structures for music representation; predictive tasks and music information retrieval; and techniques for algorithmic music synthesis. This is a distance education course. May be coscheduled with CSE 153R. Students may not receive credit for CSE 253R and CSE 253."
+}

@@ -4,5 +4,8 @@
   "units": "2",
   "dept": "ECON",
   "anchor": "econ280",
-  "description": "Introduction to computing for economists. Prerequisites: enrollment limited to economics PhD students (EN75)."
+  "description": "Introduction to computing for economists. This course introduces students to the most widely used computational and programming tools in economics. The methods and tools covered in the class will be illustrated through various empirical applications. Prerequisites: enrollment limited to economics PhD students (EN75).",
+  "successors": [
+    "ECON 248"
+  ]
 }

@@ -4,5 +4,12 @@
   "units": "4",
   "dept": "MGT",
   "anchor": "mgt477",
-  "description": "The course identifies the factors that influence the selection and usage of products and services. Students will be introduced to problems/decisions that include evaluating behavior; understanding the consumers\u2019 decision process, and strategies to create desirable consumer behavior. Students may not earn credit for both MGT 477 and MGT 203. They are course equivalents. Prerequisites: MBA student or consent of instructor and department stamp."
+  "description": "The course identifies the factors that influence the selection and usage of products and services. Students will be introduced to problems/decisions that include evaluating behavior; understanding the consumers\u2019 decision process, and strategies to create desirable consumer behavior. Students may not earn credit for both MGT 477 and MGT 477R. They are course equivalents. Prerequisites: MGT 407 or MGT 407R; MBA student or instructor approval or department approval.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MGT 407",
+      "MGT 407R"
+    ]
+  }
 }

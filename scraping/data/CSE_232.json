@@ -4,8 +4,7 @@
   "units": "4",
   "dept": "CSE",
   "anchor": "cse232",
-  "description": "(Formerly CSE 264D.) Database models including relational, hierarchic, and network approaches. Implementation of databases including query languages and system architectures. Prerequisites: CSE 100 or consent of instructor.",
-  "prereqs": "CSE 100",
+  "description": "(Formerly CSE 264D.) Database models including relational, hierarchic, and network approaches. Implementation of databases including query languages and system architectures. Restricted to students within the CS75, CS78, CS89, CS88, CS77, CS80, CS81, CS83, and CS76 majors. All other students will be allowed as space permits.",
   "successors": [
     "CSE 232B"
   ]

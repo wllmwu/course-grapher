@@ -7,6 +7,7 @@
   "description": "This course describes the movement of heat and chemical mass in biological systems. Diffusion, convection and biochemical reactions in a variety of biological and engineering examples are analyzed and modeled. Students that have taken BENG 222 cannot take BENG 227 for credit. Prerequisites: BENG 221, graduate standing, or consent of instructor. (S)",
   "prereqs": "BENG 221",
   "successors": [
+    "BENG 209",
     "MAE 209"
   ]
 }

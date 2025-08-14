@@ -1,0 +1,18 @@
+{
+  "code": "PAE 242",
+  "title": "Clinical Medicine III",
+  "units": "6",
+  "dept": "PAS",
+  "anchor": "pae242",
+  "description": "The third in a series of four lecture-based courses studying the clinical presentation, diagnosis, evaluation, and management of patients seeking care for common medical conditions in primary and specialty care settings.\u00a0Prerequisites:\u00a0admission to the Physician Assistant Education Program (PE75) and successful completion of PAE 214 and PAE 223.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PAE 214",
+      "PAE 223"
+    ]
+  },
+  "successors": [
+    "PAE 290"
+  ]
+}

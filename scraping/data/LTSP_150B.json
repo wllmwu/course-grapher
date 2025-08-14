@@ -4,12 +4,13 @@
   "units": "4",
   "dept": "LIT",
   "anchor": "ltsp150b",
-  "description": "Cross-disciplinary study of late twentieth-century Latino/a-Chicano/a literature, the visual and performing arts, film, or other cultural practices. Specific periods covered will fall between the Kennedy years to the era of neoliberalism and the creation of \u201cHispanic\u201d or Latino identities. May be taken for credit up to two times as topics vary.  Prerequisites:  LTSP 100A or 100B, or consent of instructor.",
+  "description": "Cross-disciplinary study of late twentieth-century Latino/a-Chicano/a literature, the visual and performing arts, film, or other cultural practices. Specific periods covered will fall between the Kennedy years to the era of neoliberalism and the creation of \u201cHispanic\u201d or Latino identities. LTSP 150B and ETHN 135B may be taken for credit for a combined total of two times.  Prerequisites:  LTSP 100A or 100B or 100F, or consent of instructor.",
   "prereqs": {
     "type": "one",
     "courses": [
       "LTSP 100A",
-      "LTSP 100B"
+      "LTSP 100B",
+      "LTSP 100F"
     ]
   }
 }
