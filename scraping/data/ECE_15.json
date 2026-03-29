@@ -1,10 +1,10 @@
 {
   "code": "ECE 15",
-  "title": "Engineering Computation",
+  "title": "Engineering Computation: Introduction to Programming in C",
   "units": "4",
   "dept": "ECE",
   "anchor": "ece15",
-  "description": "Students learn the C programming language with an emphasis on high-performance numerical computation. The commonality across programming languages of control structures, data structures, and I/O is also covered. Techniques for using MATLAB to graph the results of C computations are developed. Prerequisites: a familiarity with basic mathematics such as trigonometry functions and graphing is expected but this course assumes no prior programming knowledge.",
+  "description": "Students learn the fundamentals of programming through the C programming language. The course covers foundational universal programming concepts such as control and data structures, and top-down modular design. It also focuses on core building blocks of the C language, such as pointers and memory management. Recommended preparation: A familiarity with basic mathematics such as trigonometry functions and graphing is expected but this course assumes no prior programming knowledge.",
   "successors": [
     "CSE 100",
     "CSE 100R",
@@ -18,6 +18,7 @@
     "ECE 16",
     "ECE 17",
     "ECE 174",
+    "ECE 18",
     "ECE 30",
     "MAE 148",
     "MATH 157"

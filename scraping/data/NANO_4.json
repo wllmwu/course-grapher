@@ -6,7 +6,6 @@
   "anchor": "nano4",
   "description": "Introduction to NanoEngineering lab-based skills. Hands-on training and experimentation with nanofabrication techniques, integration, and analytical tools. This class is for NANO majors who are incoming first-year students, to be taken their first year. P/NP grades only. Prerequisites: department approval required.",
   "successors": [
-    "ECE 196",
-    "NANO 11"
+    "ECE 196"
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "code": "DSC 123B",
+  "title": "Optimization Methods for Data Science II",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc123b",
+  "description": "Unconstrained optimization: linear least squares; randomized linear least squares; method(s) of steepest descent; line-search methods; conjugate-gradient method; comparing the efficiency of methods; randomized/stochastic methods; nonlinear least squares; norm minimization methods. Convex constrained optimization: optimality conditions; convex programming; Lagrangian relaxation; the method of multipliers; the alternating direction method of multipliers; minimizing combinations of norms. Prerequisites: DSC 123A or MATH 173A. Students may not receive credit for both DSC 123B and MATH 173B. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "DSC 123A",
+      "MATH 173A"
+    ]
+  }
+}

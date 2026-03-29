@@ -1,0 +1,12 @@
+{
+  "code": "PH 402",
+  "title": "Introduction to Health Behavior",
+  "units": "4",
+  "dept": "PH",
+  "anchor": "ph402",
+  "description": "This course provides an opportunity to explore the theoretical issues and current methodologies related to understanding and influencing health behavior change in diverse populations. The course will focus on the social, behavioral, and biologic determinants of health on the individual, interpersonal, community, institutional, and policy levels. The examples of application of theories to determinants and intervention research and disparities in health behavior and outcomes are covered. Prerequisites: must be enrolled in MPH program (PB75, PB87, PB88, PB89, PB90, and PB91) or program approval. Renumbered from FMPH 402. Students may not receive credit for both FMPH 402 and PH 402.",
+  "successors": [
+    "FMPH 426",
+    "PH 412"
+  ]
+}

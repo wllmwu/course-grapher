@@ -4,7 +4,14 @@
   "units": "4",
   "dept": "CHEM",
   "anchor": "chem6ah",
-  "description": "First quarter of a three-quarter honors sequence intended for well-prepared science and engineering majors. Topics include quantum mechanics, molecular orbital theory, and bonding. An understanding of nomenclature, stoichiometry, and other fundamentals is assumed. Students completing 6AH may not subsequently take 6A for credit.\u00a0May be taken for credit after credit for CHEM 6A. Recommended: completion of a high school physics course strongly recommended. Concurrent enrollment in MATH 20A or higher.",
+  "description": "First quarter of a three-quarter honors sequence intended for well-prepared science and engineering majors. Topics include quantum mechanics, molecular orbital theory, and bonding. An understanding of nomenclature, stoichiometry, and other fundamentals is assumed. Students completing 6AH may not subsequently take 6A for credit.\u00a0May be taken for credit after credit for CHEM 6A.\u00a0Prerequisites: AP Chemistry score of 4, or Math Placement Exam qualifying score, or AP Calculus AB score of 3, or MATH 4C or MATH 10A. Recommended: completion of a high school physics course strongly recommended. Concurrent enrollment in MATH 20A or higher.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 4C",
+      "MATH 10A"
+    ]
+  },
   "successors": [
     "BENG 140B",
     "CHEM 6B",

@@ -1,0 +1,11 @@
+{
+  "code": "ANTH 131",
+  "title": "Anthropology of AI",
+  "units": "4",
+  "dept": "ANTH",
+  "anchor": "anth131",
+  "description": "This course takes an anthropological approach to artificial intelligence in an era of rapid advancement in machine learning, neural networks, and other transformative technologies. We explore AI\u2019s societal impact, including its intersection with race, gender, ethics, religion, and concepts of personhood\u2014from grief and mourning to human enhancement. This course critically analyzes how AI shapes our understanding of technology, identity, and human potential. Prerequisites: upper-division standing.",
+  "successors": [
+    "EDS 120"
+  ]
+}

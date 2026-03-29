@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "PHIL",
   "anchor": "phil27",
-  "description": "An examination of ethical principles (e.g., utilitarianism, individual rights, etc.) and their social and political applications to contemporary issues: abortion, environmental protection, and affirmative action. Ethical principles will also be applied to moral dilemmas in government, law, business, and the professions. Warren College students must take course for a letter grade in order to satisfy the Warren College general-education requirement. Prerequisites: CAT 2 and 3 or CAT 2CE and 3CE or CCE 1 and 2 or DOC 2 and 3 or HUM 1 and 2 or MCWP 40 and 50 or MCWP 40R and 50R or MMW 12 and 13 or WCWP 10A and B or SYN 1 and 2 or WARR 11A and 11B or SYN 1R and 2R.",
+  "description": "An examination of ethical principles (e.g., utilitarianism, individual rights, etc.) and their social and political applications to contemporary issues: abortion, environmental protection, and affirmative action. Ethical principles will also be applied to moral dilemmas in government, law, business, and the professions. Warren College students must take course for a letter grade in order to satisfy the Warren College general-education requirement.\u00a0May not be repeated for credit. Prerequisites: CAT 2 and 3 or CAT 2CE and 3CE or CCE 1 and 2 or DOC 2 and 3 or HUM 1 and 2 or MCWP 40 and 50 or MCWP 40R and 50R or MMW 12 and 13 or WCWP 10A and B or SYN 1 and 2 or WARR 11A and 11B or SYN 1R and 2R.",
   "prereqs": {
     "type": "one",
     "courses": [

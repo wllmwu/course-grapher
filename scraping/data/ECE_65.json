@@ -4,8 +4,14 @@
   "units": "4",
   "dept": "ECE",
   "anchor": "ece65",
-  "description": "Introduction to linear and nonlinear components and circuits. Topics will include two terminal devices, bipolar and field-effect transistors, and large and small signal analysis of diode and transistor circuits. (Program or materials fees may apply.) Prerequisites: ECE 35.",
-  "prereqs": "ECE 35",
+  "description": "Introduction to linear and nonlinear components and circuits. Topics will include two terminal devices, bipolar and field-effect transistors, and large and small signal analysis of diode and transistor circuits. Program or materials fees may apply. Prerequisites: ECE 5 and ECE 35.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECE 5",
+      "ECE 35"
+    ]
+  },
   "successors": [
     "ECE 100",
     "ECE 102",

@@ -7,6 +7,7 @@
   "description": "An introduction to electrical and computer engineering. Topics include circuit theory, assembly, and testing, embedded systems programming and debugging, transducer mechanisms and interfacing transducers, signals and systems theory, digital signal processing, and modular design techniques.",
   "successors": [
     "ECE 116",
-    "ECE 196"
+    "ECE 196",
+    "ECE 65"
   ]
 }

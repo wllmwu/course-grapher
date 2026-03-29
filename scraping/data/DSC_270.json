@@ -1,0 +1,9 @@
+{
+  "code": "DSC 270",
+  "title": "Interpretability and Explainability in Machine Learning",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc270",
+  "description": "This course will cover advances in interpretable and explainable machine learning. Topics include modern methods to learn simple, transparent models (e.g., rule lists, decision trees, sparse linear models); methods for post-hoc explainability (e.g., SHAP, LIME, saliency maps, prototype-generation methods); and overarching concepts in the interpretation, description, explanation of machine learning (e.g., model multiplicity, cognitive biases, user studies). Prerequisites: DSC 240. Students should be comfortable reading research papers with a critical perspective; have prior course work in machine learning (e.g., DSC 240); and have some interest in interpretability and explainability for your research or career. Restricted to major codes DS75 and DS76.",
+  "prereqs": "DSC 240"
+}

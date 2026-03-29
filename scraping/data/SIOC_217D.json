@@ -4,31 +4,6 @@
   "units": "4",
   "dept": "SIO",
   "anchor": "sioc217d",
-  "description": "Atmospheric chemistry that impacts climate change, including photochemical reactions, ozone chemistry, and aerosol evolution in the troposphere and stratosphere. Atmospheric applications of catalytic cycles, heterogeneous chemistry, and microphysical processes will include the ozone hole, urban smog, and aerosol-cloud interactions. Prerequisites: SIOC 217A or SIO 217A and SIOC 217B or SIO 217B and SIOC 217C or SIO 217C.",
-  "prereqs": {
-    "type": "all",
-    "courses": [
-      {
-        "type": "one",
-        "courses": [
-          "SIOC 217A",
-          "SIO 217A"
-        ]
-      },
-      {
-        "type": "one",
-        "courses": [
-          "SIOC 217B",
-          "SIO 217B"
-        ]
-      },
-      {
-        "type": "one",
-        "courses": [
-          "SIOC 217C",
-          "SIO 217C"
-        ]
-      }
-    ]
-  }
+  "description": "Atmospheric and ocean chemistry that impacts and is impacted by climate change, including the processes related to aerosol microphysics and the controls on atmospheric CO2 and other greenhouse gases. Atmospheric applications will focus on aerosol growth and sinks, aerosol-cloud interactions, atmospheric lifetimes of long-lived gases, ocean and land carbon cycling, and isotopes relevant for climate diagnosis. The course will include problem solving with computational tools. Recommended preparation: MATLAB boot camp, SIOC 214A, or adequate knowledge of fluid dynamics highly recommended. Prerequisites: graduate standing and SIOC 217A or consent of instructor.",
+  "prereqs": "SIOC 217A"
 }

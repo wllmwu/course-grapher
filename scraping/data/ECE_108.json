@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "ECE",
   "anchor": "ece108",
-  "description": "A transistor-level view of digital integrated circuits. CMOS combinational logic, ratioed logic, noise margins, rise and fall delays, power dissipation, transmission gates. Short channel MOS model, effects on scaling. Sequential circuits, memory and array logic circuits. Three hours of lecture, one hour of discussion, three hours of laboratory. Prerequisites:  ECE 25 or CSE 140, 45, and ECE 30 or CSE 30.",
+  "description": "A transistor-level view of digital integrated circuits. CMOS combinational logic, ratioed logic, noise margins, rise and fall delays, power dissipation, transmission gates. Short channel MOS model, effects on scaling. Sequential circuits, memory and array logic circuits. Three hours of lecture, one hour of discussion, three hours of laboratory.\u00a0Students may not receive credit for both ECE 108 and ECE 165.\u00a0Prerequisites: ECE 25 or CSE 140, 45, and ECE 30 or CSE 30. Open to EC26 and CS25 major codes only.",
   "prereqs": {
     "type": "all",
     "courses": [

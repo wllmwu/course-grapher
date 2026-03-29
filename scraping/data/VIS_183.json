@@ -1,0 +1,27 @@
+{
+  "code": "VIS 183",
+  "title": "Film Production Studio Technique",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis183",
+  "description": "An in-depth exploration of what it means to produce a film project. Students will learn strategies to coordinate and plan a production, with emphasis on collaboration and coordination. From project design and budgets to time management and casting, this course introduces students to the creative capacity of producing a film. Students may not receive credit for both VIS 183 and FILM 182. Prerequisites: VIS 60 or VIS 71 and VIS 70N or VIS 72. Open to media and cinematic arts majors only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "VIS 60",
+          "VIS 71"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "VIS 70N",
+          "VIS 72"
+        ]
+      }
+    ]
+  }
+}

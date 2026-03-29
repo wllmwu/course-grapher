@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "ECON",
   "anchor": "econ5",
-  "description": "(Cross-listed with POLI 5D.) Introduction to probability and analysis for understanding data in the social world. Students engage in hands-on learning with applied social science problems. Basics of probability, visual display of data, data collection and management, hypothesis testing, and computation. Students may receive credit for only one of the following courses: ECON 5, POLI 5, or POLI 5D.",
+  "description": "(Cross-listed with POLI 5D.) Students engage in hands-on learning with applied social science problems. The course teaches the basics of data management and collection, data analysis, and data visualization. To perform these analyses, students learn how to code in various programming software, including Excel, Stata, and R. Students may receive credit for only one of the following courses: ECON 5, POLI 5, POLI 5D, ECON 5R.",
   "successors": [
     "DSC 161",
     "ECON 121",
@@ -12,6 +12,7 @@
     "POLI 161",
     "POLI 170",
     "POLI 171",
-    "POLI 172"
+    "POLI 172",
+    "POLI 175"
   ]
 }

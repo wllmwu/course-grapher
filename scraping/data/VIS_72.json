@@ -1,0 +1,12 @@
+{
+  "code": "VIS 72",
+  "title": "Introduction to Directing",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis72",
+  "description": "An introduction to the practices and techniques of directing in visual arts. From lectures, field, and lab experience, students will learn historical and contemporary methodologies in directing including with cameras, sound, actors, and in documentary contexts. Students may not receive credit for both VIS 72 and FILM 72. Prerequisites: none.",
+  "successors": [
+    "VIS 173",
+    "VIS 183"
+  ]
+}

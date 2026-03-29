@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "ECE",
   "anchor": "ece222c",
-  "description": "Computational techniques for numerical analysis of electromagnetic fields, including the finite difference time domain (FDTD) method, finite difference frequency domain (FDFD) method, method of moments (MOM), and finite element method (FEM). Practice in writing numerical codes. Review of commercial electromagnetic simulators. Prerequisites: ECE 222B; graduate standing.",
+  "description": "Computational techniques for numerical analysis of electromagnetic fields, including the finite difference time domain (FDTD) method, finite difference frequency domain (FDFD) method, method of moments (MOM), and finite element method (FEM). Practice in writing numerical codes. Review of commercial electromagnetic simulators. Prerequisites: ECE 222B with a grade of B\u2013 or above; graduate standing.",
   "prereqs": "ECE 222B",
   "successors": [
     "ECE 222D"

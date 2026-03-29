@@ -1,0 +1,9 @@
+{
+  "code": "ECE 266B",
+  "title": "CMOS Circuit Lab II",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece266b",
+  "description": "Discussion of CMOS packaging, PCB design, and how to measure and characterize the performance of CMOS circuits. Students will learn how to characterize their design and automate measurements. Recommended preparation: ECE 164, Analog Integrated Circuit Design, or equivalent. Prerequisites: ECE 266A with a grade of B\u2013 or above; graduate standing.",
+  "prereqs": "ECE 266A"
+}

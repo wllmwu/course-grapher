@@ -1,0 +1,15 @@
+{
+  "code": "PH 418",
+  "title": "Infectious Diseases and Public Health",
+  "units": "4",
+  "dept": "PH",
+  "anchor": "ph418",
+  "description": "Designed to increase understanding of the history, classification, surveillance, prevention, and control of major and emerging infectious diseases. Lectures, assignments, and discussions will also introduce students to methods of particular relevance to infectious disease epidemiology. Prerequisites: must be enrolled in MPH program (PB75 and PB91) or program approval and successfully completed FMPH 401 or PH 401. Renumbered from FMPH 418. Students may not receive credit for both FMPH 418 and PH 418.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "FMPH 401",
+      "PH 401"
+    ]
+  }
+}

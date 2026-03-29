@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "PHYS",
   "anchor": "phys140b",
-  "description": "Applications of the theory of ideal quantum gases in condensed matter physics, nuclear physics and astrophysics; advanced thermodynamics, the third law, chemical equilibrium, low temperature physics; kinetic theory and transport in nonequilibrium systems; introduction to critical phenomena including mean field theory. Prerequisites: PHYS 130B and 140A. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only.",
+  "description": "Applications of the theory of ideal quantum gases in condensed matter physics, nuclear physics and astrophysics; advanced thermodynamics, the third law, chemical equilibrium, low temperature physics; kinetic theory and transport in nonequilibrium systems; introduction to critical phenomena including mean field theory. Prerequisites: PHYS 130B and 140A. Open to major codes PY26, PY28, PY29, PY32, PY33, PY34, and PY35 only.",
   "prereqs": {
     "type": "all",
     "courses": [

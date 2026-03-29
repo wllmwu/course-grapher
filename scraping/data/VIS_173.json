@@ -1,0 +1,30 @@
+{
+  "code": "VIS 173",
+  "title": "Introduction to Animation",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis173",
+  "description": "A hands-on introduction to the fundamentals of 2-D animation, including both handmade and digitally designed approaches in visual arts. Students will learn to analyze, understand, and incorporate strategies to apply traditional and experimental compositional approaches to animated storytelling. Students may not receive credit for both VIS 173 and FILM 179. Prerequisites: VIS 60 or VIS 71 and VIS 70N or VIS 72. Open to media and cinematic arts majors only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "VIS 60",
+          "VIS 71"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "VIS 70N",
+          "VIS 72"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "VIS 180"
+  ]
+}

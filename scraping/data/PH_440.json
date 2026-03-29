@@ -1,0 +1,15 @@
+{
+  "code": "PH 440",
+  "title": "Introduction to Health Economics",
+  "units": "4",
+  "dept": "PH",
+  "anchor": "ph440",
+  "description": "This course will introduce key concepts in health economics and apply these concepts to better understand and evaluate health policy issues in the U.S. health-care system. It will also introduce basic microeconomic analysis tools from the perspective of public health. Module 1 gives an overview of the U.S. health-care system and introduces microeconomic tools. Module 2 examines key players in the U.S. health-care system. Module 3 introduces economic evaluation tools and health policy issues. Prerequisites: must be enrolled in MPH program (PB75 and PB88) and successfully completed FMPH 405 or PH 405. Renumbered from FMPH 440. Students may not receive credit for both FMPH 440 and PH 440.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "FMPH 405",
+      "PH 405"
+    ]
+  }
+}

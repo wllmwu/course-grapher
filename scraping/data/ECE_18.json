@@ -1,0 +1,19 @@
+{
+  "code": "ECE 18",
+  "title": "Programming in Python and Object-Oriented Principles",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece18",
+  "description": "This course covers the fundamentals of the Python programming language, combined with a study of commonly used Python modules and modern software development techniques. It emphasizes the use of Python as both a scripting language and an important general purpose programming language in fields such as data science. It also covers the object-oriented approach to developing Python programs, and a general introduction to object-oriented design principles. Prerequisites: CSE 8B or CSE 11 or ECE 15.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 8B",
+      "CSE 11",
+      "ECE 15"
+    ]
+  },
+  "successors": [
+    "ECE 116"
+  ]
+}

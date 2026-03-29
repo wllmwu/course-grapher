@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "CIN",
   "anchor": "film180",
-  "description": "A practice-based overview of 3-D animation, visual effects, and the integration of computer-generated images with original footage. Students will learn techniques in modeling, working with texture materials, rendering, and compositing. Prerequisites: FILM 179 or VIS 172.",
+  "description": "A practice-based overview of 3-D animation, visual effects, and the integration of computer-generated images with original footage. Students will learn techniques in modeling, working with texture materials, rendering, and compositing.\u00a0Students may not receive credit for both FILM 180 and VIS 180.\u00a0Prerequisites: FILM 179 or VIS 172.",
   "prereqs": {
     "type": "one",
     "courses": [

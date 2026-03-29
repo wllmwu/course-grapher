@@ -1,0 +1,15 @@
+{
+  "code": "MGT 159T",
+  "title": "Topics in Analytics",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt159t",
+  "description": "Introduces advanced topics of special interest in business analytics. Topics may include fraud analytics, supply chain analytics, blockchain analytics, service operations analytics, etc. Prerequisites: MGT 151R or MGT 153, upper-division standing.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MGT 151R",
+      "MGT 153"
+    ]
+  }
+}

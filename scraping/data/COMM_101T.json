@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "COMM",
   "anchor": "comm101t",
-  "description": "Specialized study in production with topics to be determined by the instructor for any given quarter. Students will use studio, editing rooms, cameras to construct a variety of in or outside studio productions that can include YouTube, Documentary shorts, Vimeo, with topics that show the effects on social issues. May be taken for credit three times. Prerequisites: COMM 101 or COGN 22 or VIS 70N prerequisites can be taken concurrently by permission.",
+  "description": "Specialized study in production with topics to be determined by the instructor for any given quarter. Students will use audio/film studios, editing rooms, and cameras to produce media work in a variety of forms for various presentation platforms that can include documentary shorts, radio plays, or digital images. May be taken for credit three times. Prerequisites: COMM 101 or COGN 22 or VIS 70N prerequisites can be taken concurrently by permission.",
   "prereqs": {
     "type": "one",
     "courses": [

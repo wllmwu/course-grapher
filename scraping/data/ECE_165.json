@@ -4,6 +4,6 @@
   "units": "4",
   "dept": "ECE",
   "anchor": "ece165",
-  "description": "VLSI digital systems. Circuit characterization, performance estimation, and optimization. Circuits for alternative logic styles and clocking schemes. Subsystems include ALUs, memory, processor arrays, and PLAs. Techniques for gate arrays, standard cell, and custom design. Design and simulation using CAD tools. Prerequisites: ECE 102.",
+  "description": "VLSI digital systems. Circuit characterization, performance estimation, and optimization. Circuits for alternative logic styles and clocking schemes. Subsystems include ALUs, memory, processor arrays, and PLAs. Techniques for gate arrays, standard cell, and custom design. Design and simulation using CAD tools.\u00a0Students may not receive credit for both ECE 165 and ECE 108.\u00a0Prerequisites: ECE 102. Open to EC27, EC28, and EC37 major codes only.",
   "prereqs": "ECE 102"
 }

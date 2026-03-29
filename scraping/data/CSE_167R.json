@@ -13,8 +13,10 @@
     ]
   },
   "successors": [
+    "CSE 163",
     "CSE 165",
     "CSE 168",
-    "CSE 168R"
+    "CSE 168R",
+    "CSE 169"
   ]
 }

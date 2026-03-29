@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "ECE",
   "anchor": "ece259c",
-  "description": "Advanced topics in coding theory. Course contents vary by instructor. Example course topics: Coded-modulation for bandwidth-efficient data transmission; advanced algebraic and combinatorial coding theory; space-time coding for wireless communications; constrained coding for digital recording. Students who have taken ECE 259CN may not receive credit for ECE 259C. Prerequisites: ECE 259A-B; graduate standing.",
+  "description": "Advanced topics in coding theory. Course contents vary by instructor. Example course topics: Coded-modulation for bandwidth-efficient data transmission; advanced algebraic and combinatorial coding theory; space-time coding for wireless communications; constrained coding for digital recording. Students who have taken ECE 259CN may not receive credit for ECE 259C. Prerequisites: ECE 259A-B with a grade of B\u2013 or above; graduate standing.",
   "prereqs": {
     "type": "all",
     "courses": [

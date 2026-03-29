@@ -4,5 +4,6 @@
   "units": "4",
   "dept": "USP",
   "anchor": "usp175",
-  "description": "Introduction to the theory and practice of context-sensitive site analysis, including regulatory framework, site inventory, site selection and programming, and conceptual design. Demonstrates use of planning and development tools to conduct suitability analysis and project visualization in real world settings. Prerequisites: upper-division standing or consent of instructor."
+  "description": "Introduction to the theory and practice of context-sensitive site analysis, including regulatory framework, site inventory, site selection and programming, and conceptual design. Demonstrates use of planning and development tools to conduct suitability analysis and project visualization in real world settings. Enrollment restricted to USP (US26) and RED (US27) majors and minors only. Prerequisites: USP 124, upper-division standing or consent of instructor.",
+  "prereqs": "USP 124"
 }

@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "SE",
   "anchor": "se101a",
-  "description": "Principles of statics using vectors. Two- and three-dimensional equilibrium of statically determinate structures under discrete and distributed loading including hydrostatics; internal forces and concept of stress; free body diagrams; moment, product of inertia; analysis of trusses and beams. Prerequisites: MATH 20C or MATH 31BH and PHYS 2A or PHYS 2AR.",
+  "description": "Statics of particles and rigid bodies in two and three dimensions using vector representation; free body diagrams; analysis of trusses, frames, and machines; internal forces; shear force and bending moment diagrams; equilibrium problems with friction; introduction to moment of inertia. Prerequisites: MATH 20C or MATH 31BH and PHYS 2A or PHYS 2AR.",
   "prereqs": {
     "type": "all",
     "courses": [

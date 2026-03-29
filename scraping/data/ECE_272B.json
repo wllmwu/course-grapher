@@ -4,6 +4,6 @@
   "units": "4",
   "dept": "ECE",
   "anchor": "ece272b",
-  "description": "Continuous and discrete random processes, Markov models and hidden Markov models, Martingales, linear and nonlinear estimation. Applications in mathematical finance and real options. Prerequisites: ECE 272A; graduate standing.",
+  "description": "Continuous and discrete random processes, Markov models and hidden Markov models, Martingales, linear and nonlinear estimation. Applications in mathematical finance and real options. Prerequisites: ECE 272A with a grade of B\u2013 or above; graduate standing.",
   "prereqs": "ECE 272A"
 }

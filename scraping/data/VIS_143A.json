@@ -1,0 +1,18 @@
+{
+  "code": "VIS 143A",
+  "title": "Virtual Environments I",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis143a",
+  "description": "Introduction to virtual environments in the field of computational and new media arts. The course offers a historical survey of related topics, relevant theoretical and conceptual frameworks, and an introduction to practical skills development for project creation. Topics may include 2-D and 3-D world building, game engines, and immersive and responsive environments. Materials fees required. Prerequisites: VIS 142; CSE 11 recommended. Open to visual arts majors and ICAM minors only. Two production-course limitation.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "VIS 142",
+      "CSE 11"
+    ]
+  },
+  "successors": [
+    "VIS 143B"
+  ]
+}

@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "MAE",
   "anchor": "mae294b",
-  "description": "(Cross-listed with SIO 203B.) Asymptotic methods: method of steepest descent (if not covered in I) WKB, method of multiple scales, boundary layer theory. Elements of complex analysis. Prerequisites: MAE 294A or SIO 203A or consent of instructor.",
+  "description": "(Cross-listed with SIO 203B.) Partial differential equations: characteristics, similarity solutions, Green\u2019s functions, images, wave equation, diffusion equation, Laplace\u2019s equation. Applications to continuum mechanics, potential fields, and transport phenomena such as diffusion, linear and nonlinear waves, Burger\u2019s equation, shocks, and other topics. Other topics according to the interests of the instructor. Prerequisites: MAE 294A or SIO 203A or consent of instructor.",
   "prereqs": {
     "type": "one",
     "courses": [

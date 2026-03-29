@@ -1,0 +1,16 @@
+{
+  "code": "COMM 149",
+  "title": "Southern California in Cinema",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm149",
+  "description": "This class examines the history and representation of Southern California on film. Consider the emergence of Hollywood as a defining moment in the history of Los Angeles and how film is central to the popular imagination of social life in Southern California. Examine the cinematic representation of different communities and neighborhoods and discuss topics such as car culture and regional sprawl, the beach as imagined lifestyle, and noir as regional critique. Prerequisites: COMM 100A, COMM 100B, or COMM 100C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 100A",
+      "COMM 100B",
+      "COMM 100C"
+    ]
+  }
+}

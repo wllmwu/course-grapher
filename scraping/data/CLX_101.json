@@ -1,0 +1,11 @@
+{
+  "code": "CLX 101",
+  "title": "Approaches to Research in Chicanx and Latinx Studies",
+  "units": "4",
+  "dept": "CLS",
+  "anchor": "clx101",
+  "description": "This course builds on CLX 1 and provides students with an immersive experience with Chicanx and Latinx theory and research methodologies. Students will become equipped to conduct ethical research, formulate equitable relationships with local partners, and foster strategies for community outreach. These skills will serve as the basis for developing potential research projects that engage the Chicanx and Latinx experience. CLX 101 is a prerequisite for CLX 102 and CLX 103.",
+  "successors": [
+    "CLX 102"
+  ]
+}

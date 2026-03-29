@@ -1,0 +1,15 @@
+{
+  "code": "MATH 213",
+  "title": "Applied Survival Analysis",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math213",
+  "description": "Survival analysis has applications in biomedicine, economics, and engineering. It deals with the analysis of time-to-events data with censoring and truncation. This course discusses concepts and methods, comparing survival distributions, proportional hazards and other regression models, competing risks data, and design of survival studies. The emphasis is on semiparametric approaches, and material is drawn from recent literature including machine learning methods. Students may not receive credit for both MATH 213 and PHB 248. Prerequisites: FMPH 244B or PHB 244B. Students who have not taken FMPH 244B or PHB 244B may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "FMPH 244B",
+      "PHB 244B"
+    ]
+  }
+}

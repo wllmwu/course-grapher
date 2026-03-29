@@ -1,0 +1,8 @@
+{
+  "code": "ECE 263",
+  "title": "Power Management Integrated Circuits Design",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece263",
+  "description": "An engaging project-based class where students learn important concepts, integrated circuits, and techniques in integrated power electronics. The project is to design a fully integrated DC-DC converter for high-performance computing, covering converter topologies (LDO, inductive, switched-capacitor, and hybrid converters), loss analysis, optimization, circuit building blocks (gate drivers, level shifter, PWM generator, amplifier, comparator, current sense, etc.), system regulation, and stability. Recommended preparation: Familiarity with small signal circuits and analysis, analog circuits, differential amplifier, current mirrors, comparators, frequency response, feedback, and stability. Knowledge on power converter operation and loss analysis will be an advantage. Prerequisites: graduate standing."
+}

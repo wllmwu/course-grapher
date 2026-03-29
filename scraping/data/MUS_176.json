@@ -4,5 +4,6 @@
   "units": "4",
   "dept": "MUS",
   "anchor": "mus176",
-  "description": "Selected topics in music technology and its application to composition and/or performance. Offerings vary according to faculty availability and interest. May be taken for credit twice. Department approval required."
+  "description": "Selected topics in music technology and its application to composition and/or performance. Offerings vary according to faculty availability and interest. May be taken for credit twice. Department approval required. Prerequisites: consent of instructor, MUS 171 recommended.",
+  "prereqs": "MUS 171"
 }

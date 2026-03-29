@@ -1,0 +1,17 @@
+{
+  "code": "CLRE 242",
+  "title": "Life Cycle Evidence Planning",
+  "units": "2",
+  "dept": "CLRE",
+  "anchor": "clre242",
+  "description": "This course will cover the design and development of an integrated evidence plan (IEP) from early and late-stage clinical development (including phase I, II, and III) to post approval including real world data (RWD), phase 3b/4, investigator initiated and label enhancement studies. Prerequisites: CLRE 250 or CLRE 250R or CLRE 236 or CLRE 236R and admission to the MAS Clinical Research Program or consent of department.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CLRE 250",
+      "CLRE 250R",
+      "CLRE 236",
+      "CLRE 236R"
+    ]
+  }
+}

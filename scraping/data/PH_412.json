@@ -1,0 +1,15 @@
+{
+  "code": "PH 412",
+  "title": "Health Promotion and Communication",
+  "units": "4",
+  "dept": "PH",
+  "anchor": "ph412",
+  "description": "This course is focused on the principles of health promotion and health communication, examining the societal impact and needs, behavioral change theory, and study designs to develop and evaluate interventions. Effective communication techniques used to promote behavior change, disseminate evidence, and communicate risk in today\u2019s multimedia world are highlighted, including cultural tailoring. Students serially develop and apply these strategies in the design of a public health campaign of their choice. Prerequisites: must be enrolled in MPH program (PB75, PB87, and PB90) or program approval and successfully completed FMPH 402 or PH 402. Renumbered from FMPH 412. Students may not receive credit for both FMPH 412 and PH 412.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "FMPH 402",
+      "PH 402"
+    ]
+  }
+}

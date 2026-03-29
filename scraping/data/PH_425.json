@@ -1,0 +1,15 @@
+{
+  "code": "PH 425",
+  "title": "Public Mental Health Epidemiology",
+  "units": "4",
+  "dept": "PH",
+  "anchor": "ph425",
+  "description": "This course focuses on public health approaches to studying mental illnesses nationally and globally. Course content will include an overview of global mental health epidemiology; research methods; vulnerable populations, such as refugees and immigrants; and the challenges and future opportunities to address the mental illness epidemic, taking into consideration the social and cultural diversity within study populations. Prerequisites: must be enrolled in MPH program (PB75, PB89, and PB91) or program approval and successfully completed FMPH 401 or PH 401. Renumbered from FMPH 425. Students may not receive credit for both FMPH 425 and PH 425.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "FMPH 401",
+      "PH 401"
+    ]
+  }
+}

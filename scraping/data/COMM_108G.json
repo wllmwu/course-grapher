@@ -1,9 +1,9 @@
 {
   "code": "COMM 108G",
-  "title": "POB: Gender and Biomedicine",
+  "title": "Politics of Bodies: Gender and Biomedicine",
   "units": "4",
   "dept": "COMM",
   "anchor": "comm108g",
-  "description": "Historical and cultural aspects of media, information, imaging technology use in biomedical research, clinical care, health communication to constructions of gender and identity. We approach the subject through audiovisual texts and writings from fields including science and technology studies and cultural studies. Prerequisites: COMM 10.",
+  "description": "This course explores the construction of gender by biomedicine, and the influence of conceptions of gender on the development of biomedicine. From challenges to binary conceptions of sex to the intersection of race and pharmaceutical development around the world, the course will examine the ways in which embodied experiences of gender, sexuality, and race have interacted with social processes of biomedicalization and pharmaceuticalization. Prerequisites: COMM 10.",
   "prereqs": "COMM 10"
 }

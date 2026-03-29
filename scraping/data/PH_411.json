@@ -1,0 +1,27 @@
+{
+  "code": "PH 411",
+  "title": "Program Optimization and Evaluation",
+  "units": "4",
+  "dept": "PH",
+  "anchor": "ph411",
+  "description": "This course covers study designs to iteratively optimize and evaluate public health programs such as a proof-of-concept trial, randomized controlled trial, sequential multiple assignment randomized trial, factorial screening trial, microrandomized trial, stepped wedge trial, single case experiments, and nonrandomized study designs. The course includes a philosophical grounding on why evidence is important and what underlying assumptions undergird \u201cevidence-based practice.\u201d Prerequisites: must be enrolled in MPH program (PB87, PB90, and PB75) or program approval and successfully completed FMPH 402 or PH 402, and FMPH 403 or PH 403. Renumbered from FMPH 411. Students may not receive credit for both FMPH 411 and PH 411.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 402",
+          "FMPH 402PH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 403",
+          "FMPH 403PH"
+        ]
+      }
+    ]
+  }
+}

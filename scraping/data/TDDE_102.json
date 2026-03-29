@@ -4,9 +4,9 @@
   "units": "4",
   "dept": "THEA",
   "anchor": "tdde102",
-  "description": "An advanced course based on the \u201cpractice\u201d of scenic design, dealing with the solution finding process, from text to idea to realized work. Prerequisites: THDE or TDDE 1, THDE or TDDE 101, or consent of instructor.",
+  "description": "An advanced course based on the \u201cpractice\u201d of scenic design, dealing with the solution finding process, from text to idea to realized work. Prerequisites:\u00a0TDDE 1 or TDDE 101, or consent of instructor.",
   "prereqs": {
-    "type": "all",
+    "type": "one",
     "courses": [
       "TDDE 1",
       "TDDE 101"

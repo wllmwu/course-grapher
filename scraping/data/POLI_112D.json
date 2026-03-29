@@ -1,0 +1,15 @@
+{
+  "code": "POLI 112D",
+  "title": "Game Theory in Political Science II",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli112d",
+  "description": "This course examines applications of game theory to electoral systems, political accountability, collective action problems, and legislative behavior, among other topics. It introduces advanced game theoretic concepts including repeated games and Bayesian equilibria. Through problem sets and analytical exercises, students will develop their ability to model complex political interactions and institutional dynamics using game theoretic tools. Prerequisites: upper-division standing and POLI 112B or POLI 118.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "POLI 112B",
+      "POLI 118"
+    ]
+  }
+}

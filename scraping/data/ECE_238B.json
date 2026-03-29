@@ -4,6 +4,6 @@
   "units": "4",
   "dept": "ECE",
   "anchor": "ece238b",
-  "description": "Thermally activated processes. Boltzman factor, homogeneous and heterogeneous reactions, solid state diffusion, Fick\u2019s law, diffusion mechanisms, Kirkendall effects, Boltzmann-Manato analysis, high diffusivity paths. Cross-listed with Materials Science 201B and MAE 271B. Prerequisites: ECE 238A.",
+  "description": "Thermally activated processes. Boltzman factor, homogeneous and heterogeneous reactions, solid state diffusion, Fick\u2019s law, diffusion mechanisms, Kirkendall effects, Boltzmann-Manato analysis, high diffusivity paths. Cross-listed with Materials Science 201B and MAE 271B. Prerequisites: ECE 238A with a grade of B\u2013 or above.",
   "prereqs": "ECE 238A"
 }

@@ -4,7 +4,8 @@
   "units": "4",
   "dept": "ANTH",
   "anchor": "anth196a",
-  "description": "Seminar to explore student research interests and methodologies needed to complete Honors Thesis in ANTH 196B. Students will be admitted to the Honors Program by invitation of the department in the spring of their junior year. Completion of this course with a grade of at least B+ is a prerequisite to ANTH 196B. Prerequisites: department approval required.",
+  "description": "In this seminar, students will explore research interests and methodologies needed to complete an honors thesis. By the conclusion of the course, students will complete a preliminary paper. Prerequisites: ANTH 192 and department approval.",
+  "prereqs": "ANTH 192",
   "successors": [
     "ANTH 196B",
     "ANTH 196C"

@@ -4,12 +4,12 @@
   "units": "4",
   "dept": "COMM",
   "anchor": "comm101n",
-  "description": "Advanced seminar in sound production, design, and editing. Students create projects by recording original sounds and editing on a Pro-Tools system. We consider the potential of sound in film, radio, TV, and on the web by reviewing work and reading sound theory. Prerequisites: COMM 10 and COMM 101.",
+  "description": "This hands-on course serves as an introduction to sound production, design, and editing. Students create projects by recording original sounds and editing on a digital audio workstation. We consider the potential of sound in film, radio, TV, and on the web by reviewing work and reading sound theory. May be taken for credit three times. Prerequisites: COMM 101 or VIS 70N.",
   "prereqs": {
-    "type": "all",
+    "type": "one",
     "courses": [
-      "COMM 10",
-      "COMM 101"
+      "COMM 101",
+      "VIS 70N"
     ]
   }
 }

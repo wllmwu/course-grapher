@@ -1,0 +1,12 @@
+{
+  "code": "VIS 71",
+  "title": "Introduction to Cinematography",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis71",
+  "description": "An introduction to the camera and the principles of cinematography in visual arts. Emphasis is placed on developing fundamental control of the processes and materials through lectures, field, and lab experience. Students may not receive credit for both VIS 71 and FILM 71. Prerequisites: none.",
+  "successors": [
+    "VIS 173",
+    "VIS 183"
+  ]
+}

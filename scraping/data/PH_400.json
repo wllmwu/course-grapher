@@ -1,0 +1,11 @@
+{
+  "code": "PH 400",
+  "title": "Introduction to Biostatistics",
+  "units": "4",
+  "dept": "PH",
+  "anchor": "ph400",
+  "description": "Students will understand principles of measurement of clinical data, recognize data types, and determine statistical methods for analysis of a given dataset. They will gain experience in preparing a clinical dataset for analysis. Students will learn basic data visualization, statistical testing and inference, and statistical modeling with R. Prerequisites: must be enrolled in MPH program (PB75, PB87, PB88, PB89, PB90, and PB91) or program approval. Renumbered from FMPH 400. Students may not receive credit for both FMPH 400 and PH 400.",
+  "successors": [
+    "PH 419"
+  ]
+}

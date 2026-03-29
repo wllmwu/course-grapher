@@ -1,0 +1,11 @@
+{
+  "code": "VIS 42",
+  "title": "Introduction to Creative Coding",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis42",
+  "description": "This course provides students with a foundation in programming and computational thinking, and their application in creative projects. Topics covered may include generative graphics and sound, interactive media, and others. Students will gain practical skills through hands-on experience and experimentation, learning to integrate computing into artistic practices. Prerequisites: none.",
+  "successors": [
+    "VIS 142"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "VIS 180",
+  "title": "Advanced Projects in 3-D and CGI",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis180",
+  "description": "A practice-based overview of 3-D animation, visual effects, and the integration of computer-generated images with original footage in visual arts. Students will learn techniques in modeling, working with texture materials, rendering, and compositing. Students may not receive credit for both VIS 180 and FILM 180. Prerequisites: VIS 172 or VIS 173. Open to media and cinematic arts majors only.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 172",
+      "VIS 173"
+    ]
+  }
+}

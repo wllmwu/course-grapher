@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "THEA",
   "anchor": "tdde112",
-  "description": "An advanced course based on the \u201cpractice\u201d of costume design, dealing with the solution finding process, from text to idea to realized work. Prerequisites: THDE or TDDE 1, THDE or TDDE 111, or consent of instructor.",
+  "description": "An advanced course based on the \u201cpractice\u201d of costume design, dealing with the solution finding process, from text to idea to realized work. Prerequisites:\u00a0TDDE 1 and TDDE 111, or consent of instructor.",
   "prereqs": {
     "type": "all",
     "courses": [

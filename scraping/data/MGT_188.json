@@ -1,0 +1,16 @@
+{
+  "code": "MGT 188",
+  "title": "Collecting and Analyzing Financial Data",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt188",
+  "description": "This course will teach students how to obtain and process data in order to answer empirical questions in financial economics. The first goal is to apply basic economic theory and institutional details about financial markets to develop specific research hypotheses and econometric frameworks to test them. The second goal is to develop techniques in data management and algorithmic thinking. Exposure to statistics/econometrics and mild programming experience are highly encouraged. Prerequisites: MGT 180 or MGT 180R or MGT 181.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MGT 180",
+      "MGT 180R",
+      "MGT 181"
+    ]
+  }
+}

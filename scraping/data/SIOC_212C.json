@@ -1,0 +1,9 @@
+{
+  "code": "SIOC 212C",
+  "title": "Geophysical Fluid Dynamics III",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc212c",
+  "description": "This course equips physical oceanography students to research unbalanced processes, emphasizing upper ocean and mixed layer dynamics. These include processes once balanced but no longer (e.g., frontal instabilities), those never balanced (e.g., internal waves), and their nonlinear interactions. These topics are not covered in parts I and II of the geophysical fluid dynamics sequence. Prerequisites: graduate standing and SIOC 212B or consent of instructor.",
+  "prereqs": "SIOC 212B"
+}

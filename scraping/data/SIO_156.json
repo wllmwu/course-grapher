@@ -1,0 +1,23 @@
+{
+  "code": "SIO 156",
+  "title": "Oceans and Human Health",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio156",
+  "description": "This course explores the two-way relationship between ocean and human health. Covering topics from biochemistry to policy, it examines how the ocean supports well-being through medicine, food, and mental health, and how human actions like pollution and climate change harm marine ecosystems. Emphasis is placed on strategies to conserve biodiversity and sustain vital ocean services. Prerequisites: BILD 1, BILD 2, BILD 3, and CHEM 6C or CHEM 6CH.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      "BILD 2",
+      "BILD 3",
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 6C",
+          "CHEM 6CH"
+        ]
+      }
+    ]
+  }
+}

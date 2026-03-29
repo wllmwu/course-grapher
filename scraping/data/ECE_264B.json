@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "ECE",
   "anchor": "ece264b",
-  "description": "Nonideal effects and their mitigation in high-performance operational amplifiers. Switched-capacitor circuit techniques: CMOS circuit topologies, analysis and mitigation of nonideal effects, and filter synthesis. Overview of CMOS samplers, data converters, and PLLs. Recommended preparation: Introduction to Digital Signal Processing (ECE 161A), Digital Signal Processing I (ECE 251A). Prerequisites: ECE 250 and ECE 264A; graduate standing.",
+  "description": "Nonideal effects and their mitigation in high-performance operational amplifiers. Switched-capacitor circuit techniques: CMOS circuit topologies, analysis and mitigation of nonideal effects, and filter synthesis. Overview of CMOS samplers, data converters, and PLLs. Recommended preparation: Introduction to Digital Signal Processing (ECE 161A), Digital Signal Processing I (ECE 251A). Prerequisites: ECE 250 and ECE 264A with a grade of B\u2013 or above; graduate standing.",
   "prereqs": {
     "type": "all",
     "courses": [
@@ -13,7 +13,6 @@
     ]
   },
   "successors": [
-    "ECE 264C",
-    "ECE 266"
+    "ECE 264C"
   ]
 }

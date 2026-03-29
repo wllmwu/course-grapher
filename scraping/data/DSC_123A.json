@@ -1,0 +1,31 @@
+{
+  "code": "DSC 123A",
+  "title": "Optimization Methods for Data Science I",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc123a",
+  "description": "TIntroduction to convexity: convex sets, convex functions; geometry of hyperplanes; support functions for convex sets; hyperplanes and support vector machines. Linear and quadratic programming: optimality conditions; duality; primal and dual forms of linear support vector machines; active-set methods; interior methods. Prerequisites: (MATH 20C or MATH 31BH) and (MATH 18 or MATH 31 AH). Students may not receive credit for both DSC 123A and MATH 173A. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "DSC 123B",
+    "MATH 173B"
+  ]
+}

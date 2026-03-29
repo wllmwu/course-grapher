@@ -1,0 +1,15 @@
+{
+  "code": "PH 441",
+  "title": "The Organization and Financing of the U.S. Health-Care System",
+  "units": "4",
+  "dept": "PH",
+  "anchor": "ph441",
+  "description": "Students will learn about the organization and financing of health services in the United States and the implications of system characteristics for quality, equity, and health-care costs; develop an understanding of how health policy decisions are made in the United States; and learn how health-care financing in the US compares with other countries around the world. Students will develop the background and skills to solve a range of problems in the fields of health policy and public health. Prerequisites: must be enrolled in MPH program (PB75 and PB88) and successfully completed FMPH 405 or PH 405. Renumbered from FMPH 441. Students may not receive credit for both FMPH 441 and PH 441.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "FMPH 405",
+      "PH 405"
+    ]
+  }
+}

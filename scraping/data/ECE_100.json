@@ -4,10 +4,11 @@
   "units": "4",
   "dept": "ECE",
   "anchor": "ece100",
-  "description": "Linear active circuit and system design. Topics include frequency response; use of Laplace transforms; design and stability of filters using operational amplifiers. Integrated lab and lecture involves analysis, design, simulation, and testing of circuits and systems. Program or materials fees may apply. Prerequisites: ECE 45 and ECE 65. ECE 65 may be taken concurrently.",
+  "description": "Linear active circuit and system design. Topics include frequency response; use of Laplace transforms; design and stability of filters using operational amplifiers. Integrated lab and lecture involves analysis, design, simulation, and testing of circuits and systems. Program or materials fees may apply. Prerequisites: MATH 20D, ECE 45, and ECE 65. ECE 65 may be taken concurrently. Open to EC26, EC27, EC28, EC37, and CS25 major codes only.",
   "prereqs": {
     "type": "all",
     "courses": [
+      "MATH 20D",
       "ECE 45",
       "ECE 65"
     ]

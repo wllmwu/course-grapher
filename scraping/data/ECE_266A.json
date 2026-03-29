@@ -1,0 +1,11 @@
+{
+  "code": "ECE 266A",
+  "title": "CMOS Circuit Lab I",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece266a",
+  "description": "Physical design of CMOS circuits through the tapeout and measurement lifecycle. Layout techniques covering process variation, parasitics, ESD, and pad ring assembly. Students will learn the entire tapeout tool flow, including DRC, LVS, and RCX. Highly recommended preparation: ECE 164, Analog Integrated Circuit Design, ECE 264A-B, CMOS Analog Integrated Circuits and Systems I and II, ECE 265A-B, Communication Circuit Design I and II, or equivalent. Prerequisites: graduate standing.",
+  "successors": [
+    "ECE 266B"
+  ]
+}

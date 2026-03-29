@@ -1,0 +1,8 @@
+{
+  "code": "MGT 253",
+  "title": "Statistical Programming and Data Inference II",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt253",
+  "description": "Students learn to apply advanced analyses to complex data structures, and learn to evaluate the appropriateness, costs, and benefits of different analytic approaches. Topics may include generalized linear models for other distributions, regularization, robust variants to OLS, multilevel modeling, resampling approaches, and data-driven or machine learning approaches to data. Prerequisites: admission to management PhD program or by consent of instructor."
+}

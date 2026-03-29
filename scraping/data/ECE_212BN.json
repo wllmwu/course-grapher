@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "ECE",
   "anchor": "ece212bn",
-  "description": "Quantum states and quantum transport of electrons; single-electron devices; nanoelectronic devices and system concepts; introduction to molecular and organic electronics. Students may not receive credit for both ECE 212BN and ECE 212C. Prerequisites: ECE 212AN; graduate standing.",
+  "description": "Quantum states and quantum transport of electrons; single-electron devices; nanoelectronic devices and system concepts; introduction to molecular and organic electronics. Students may not receive credit for both ECE 212BN and ECE 212C. Prerequisites: ECE 212AN with a grade of B\u2013 or above; graduate standing.",
   "prereqs": "ECE 212AN",
   "successors": [
     "ECE 212CN"

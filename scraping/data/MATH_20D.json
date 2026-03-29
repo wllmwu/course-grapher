@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "MATH",
   "anchor": "math20d",
-  "description": "Ordinary differential equations: exact, separable, and linear; constant coefficients, undetermined coefficients, variations of parameters. Systems. Series solutions. Laplace transforms. Techniques for engineering sciences. Computing symbolic and graphical solutions using MATLAB.\u00a0Prerequisites: MATH 20C or MATH 31BH and MATH 18 or MATH 31AH with a grade of C\u2013 or better.",
+  "description": "Ordinary differential equations: exact, separable, and linear; constant coefficients, undetermined coefficients, variations of parameters. Systems. Series solutions. Laplace transforms. Techniques for engineering sciences. Computing symbolic and graphical solutions using MATLAB.\u00a0Prerequisites: MATH 20C or MATH 31BH and MATH 18 or MATH 31AH with a grade of C\u2013 or better. Students who have not completed listed prerequisites may enroll with consent of instructor.",
   "prereqs": {
     "type": "all",
     "courses": [
@@ -40,7 +40,8 @@
     "CHEM 135",
     "CHEM 190",
     "CSE 252B",
-    "ECE 109",
+    "ECE 100",
+    "ECE 107",
     "ECE 187",
     "MAE 101A",
     "MAE 105",

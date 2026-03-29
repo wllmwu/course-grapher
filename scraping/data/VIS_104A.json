@@ -1,0 +1,13 @@
+{
+  "code": "VIS 104A",
+  "title": "Performance: Art Practice",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis104a",
+  "description": "This studio course offers an introduction to performance art through exercises, workshops, and critiques. Students will be introduced to a range of performance practices in the context of visual art. In this collaborative environment, we will explore performance concepts such as gesture, movement, participation, and presence. Students develop skills needed to present performance art for exhibition in gallery spaces and other venues. Prerequisites: VIS 80.",
+  "prereqs": "VIS 80",
+  "successors": [
+    "VIS 104B",
+    "VIS 104C"
+  ]
+}

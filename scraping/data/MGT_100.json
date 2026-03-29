@@ -4,19 +4,31 @@
   "units": "4",
   "dept": "MGT",
   "anchor": "mgt100",
-  "description": "Marketers use empirical models to determine, support, and evaluate a wide range of business decisions. This course covers models and estimation techniques commonly used for understanding segmentation, targeting, and positioning; product diffusion; advertising response, among other topics. Prerequisites: ECON 120B or MATH 181B.",
+  "description": "Marketers use empirical models to determine, support, and evaluate a wide range of business decisions. This course covers models and estimation techniques commonly used for understanding segmentation, targeting, and positioning; product diffusion; advertising response, among other topics. Recommended preparation: ECON 120A. Familiarity with R will be assumed. Prerequisites: upper-division standing and BENG 100 or COGS 14B or ECE 109 or ECON 120A or MAE 108 or MATH 11 or MATH 180A or MATH 183 or MATH 186 or MGT 3 or PSYC 60 or SIO 187.",
   "prereqs": {
     "type": "one",
     "courses": [
-      "ECON 120B",
-      "MATH 181B"
+      "BENG 100",
+      "COGS 14B",
+      "ECE 109",
+      "ECON 120A",
+      "MAE 108",
+      "MATH 11",
+      "MATH 180A",
+      "MATH 183",
+      "MATH 186",
+      "MGT 3",
+      "PSYC 60",
+      "SIO 187"
     ]
   },
   "successors": [
+    "MGT 104",
     "MGT 105",
     "MGT 106",
     "MGT 107",
     "MGT 109",
+    "MGT 111",
     "MGT 112"
   ]
 }

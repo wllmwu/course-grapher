@@ -1,0 +1,9 @@
+{
+  "code": "PSYC 160",
+  "title": "Neuroscience of Decision-Making",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc160",
+  "description": "This topics course provides an overview on the neurobiology of decision-making; covering topics related to the neurobiology of decision-making. The goal of this class is twofold: explore how the brain does decision-making and its disruption in disease states, and build know-how and experience in reading and discussing primary research papers. Prerequisites: upper-division standing; PSYC 106.",
+  "prereqs": "PSYC 106"
+}

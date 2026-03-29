@@ -4,19 +4,5 @@
   "units": "4",
   "dept": "COMM",
   "anchor": "comm155",
-  "description": "Develop a critical understanding of the history, politics, and poetics of the Latino barrio as a distinct urban form. Course covers key concepts such as the production of space, landscapes of power, spatial apartheid, everyday urbanism, urban renewal, and gentrification. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
-  "prereqs": {
-    "type": "all",
-    "courses": [
-      "COMM 10",
-      {
-        "type": "one",
-        "courses": [
-          "COMM 100A",
-          "COMM 100B",
-          "COMM 100C"
-        ]
-      }
-    ]
-  }
+  "description": "This diversity, equity, and inclusion course requirement approved course explores the power of place in the formation and representation of Latinx identities and communities in Southern California. It highlights past and current struggles to recuperate and sustain a sense of place for marginalized and displaced peoples against the colonization and racialization of formerly indigenous and Mexican territory. Students conduct research in various locations at the center of the cultural politics of Latinx place-making."
 }

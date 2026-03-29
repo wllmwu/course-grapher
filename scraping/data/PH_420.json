@@ -1,0 +1,15 @@
+{
+  "code": "PH 420",
+  "title": "Introduction to Infectious Disease Epidemic and Economic Modeling for Health Policymaking",
+  "units": "4",
+  "dept": "PH",
+  "anchor": "ph420",
+  "description": "This course provides an introduction to infectious disease epidemic and cost-effectiveness modeling, with focus on applications to inform health policymaking. This didactic and computer lab-based course will cover basic models for human infectious disease transmission, model parameterization, calibration to surveillance data, projecting the epidemic impact of interventions, and cost-effectiveness modeling of health interventions. Students will learn how to code and analyze models in MATLAB. Prerequisites: must be enrolled in MPH program (PB75, PB90, and PB91) or program approval and successfully completed FMPH 401 or PH 401. Students can\u2019t receive credit for PH 420 if they have already completed FMPH 491 subtitled \u201cIntroduction to Infectious Disease Epidemic and Economic Modeling for Health Policymaking.\u201d",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "FMPH 401",
+      "PH 401"
+    ]
+  }
+}

@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "ECE",
   "anchor": "ece265b",
-  "description": "Radio frequency integrated circuits: low-noise amplifiers, AGCs, mixers, filters, voltage-controlled oscillators. BJT and CMOS technologies for radio frequency and microwave applications. Device modeling for radio frequency applications. Design and device tradeoffs of linearity, noise, power dissipation, and dynamic range. Current research topics in the field. Prerequisites: ECE 166 and ECE 265A or consent of instructor; graduate standing.",
+  "description": "Radio frequency integrated circuits: low-noise amplifiers, AGCs, mixers, filters, voltage-controlled oscillators. BJT and CMOS technologies for radio frequency and microwave applications. Device modeling for radio frequency applications. Design and device tradeoffs of linearity, noise, power dissipation, and dynamic range. Current research topics in the field. Prerequisites: ECE 166 and ECE 265A with a grade of B\u2013 or above or consent of instructor; graduate standing.",
   "prereqs": {
     "type": "all",
     "courses": [
@@ -14,7 +14,6 @@
   },
   "successors": [
     "ECE 265C",
-    "ECE 265D",
-    "ECE 266"
+    "ECE 265D"
   ]
 }

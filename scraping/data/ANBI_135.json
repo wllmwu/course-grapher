@@ -1,8 +1,9 @@
 {
   "code": "ANBI 135",
   "title": "Genetic Anthropology Lab Techniques",
-  "units": "4",
+  "units": "6",
   "dept": "ANTH",
   "anchor": "anbi135",
-  "description": "This course provides hands-on experience with the latest molecular techniques as applied to questions of anthropological and human genetic interest. Students will isolate their own DNA and generate DNA sequence data. They will also measure and analyze the percent of DNA methylation at certain regions of their own genomes. We will also discuss measurement of other nongenetic biomarkers that can be incorporated into anthropological research of living populations, e.g., cortisol measures. Prerequisites: upper-division standing."
+  "description": "The aim of this course is to provide hands-on experience with the latest molecular techniques as applied to questions of anthropological and human genetic interest. Students will isolate their own DNA from hair and generate DNA sequence data using an automated DNA analysis system. They will also measure the percent of DNA methylation at certain regions of their own genomes. Data will be analyzed using current computer software packages that are widely available. Recommended preparation: BILD 4. Prerequisites: BILD 1 and upper-division standing.",
+  "prereqs": "BILD 1"
 }

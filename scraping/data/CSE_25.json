@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "CSE",
   "anchor": "cse25",
-  "description": "This course provides a first introduction to artificial intelligence (AI). It covers the definition of AI, the history of AI, the main approaches to AI, and example applications of AI and machine learning (ML). Concepts will be grounded in a range of real-world application projects in AI. Students will also be introduced to ethical issues around AI. Prerequisites: COGS 18 or CSE 11 or CSE 6R or CSE 8A or CSE 8B or DSC 20. Restricted to students within the CS29 major. All other students will be allowed as space permits. This course is intended for students with no prior AI or ML experience.",
+  "description": "This course provides a first introduction to artificial intelligence (AI). It covers the definition of AI, the history of AI, the main approaches to AI, and example applications of AI and machine learning (ML). Concepts will be grounded in a range of real-world application projects in AI. Students will also be introduced to ethical issues around AI. Prerequisites: COGS 18 or CSE 11 or CSE 6R or CSE 8A or CSE 8B or DSC 20. Restricted to students within the CS29 major. All other students will be allowed as space permits. This course is intended for students with no prior AI or ML experience. This course is intended for students with no prior AI or ML experience. Students may receive credit for one of the following: CSE 5, CSE 5R, or CSE 25.",
   "prereqs": {
     "type": "one",
     "courses": [

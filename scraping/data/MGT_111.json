@@ -1,0 +1,18 @@
+{
+  "code": "MGT 111",
+  "title": "Behavioral Science of Money",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt111",
+  "description": "Why do smart people make bad financial decisions? This course explores the psychology of money, examining cognitive biases, emotions, and social influences on financial behavior. Students will analyze real-world spending, saving, and investing habits, learning how to design better financial decisions. Through experiments, case studies, and applied projects, students will gain insights into financial well-being and develop tools to improve financial choices for themselves and society.\u00a0Prerequisites: MGT 100 and MGT 103.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGT 100",
+      "MGT 103"
+    ]
+  },
+  "successors": [
+    "MGT 121B"
+  ]
+}

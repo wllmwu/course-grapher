@@ -1,0 +1,8 @@
+{
+  "code": "MGT 252",
+  "title": "Statistical Programming and Data Inference I",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt252",
+  "description": "This course covers foundational topics in statistical programming in the social sciences using the statistical language R. No prior programming knowledge is required. Topics may include data visualization, probability, measurement, causal inference, and an emphasis on the flexible statistical framework of the generalized linear model. Prerequisites: admission to management PhD program or by consent of instructor."
+}

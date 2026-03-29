@@ -4,11 +4,20 @@
   "units": "4",
   "dept": "COMM",
   "anchor": "comm101a",
-  "description": "In this course, we ask what techniques, strategies, and platforms we might engage to present messages in an impactful and ethical way. We engage with different media forms each quarter, maintaining an emphasis on production and documentary storytelling. The aim of this class is to demystify the idea of a \u201cmedia activist\u201d by guiding students through the development of their own media activism. Prerequisites: COMM 10 and COMM 101.",
+  "description": "In this course, we ask what techniques, strategies, and platforms we might engage to present messages in an impactful and ethical way. We engage with different media forms each quarter, maintaining an emphasis on production and documentary storytelling. The aim of this class is to demystify the idea of a \u201cmedia activist\u201d by guiding students through the development of their own media activism. Prerequisites: COMM 10 or COMM 20 or COMM 30 or COMM 30GS or COMM 40 and COMM 101.",
   "prereqs": {
     "type": "all",
     "courses": [
-      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 10",
+          "COMM 20",
+          "COMM 30",
+          "COMM 30GS",
+          "COMM 40"
+        ]
+      },
       "COMM 101"
     ]
   }

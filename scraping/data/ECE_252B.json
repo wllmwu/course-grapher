@@ -4,6 +4,6 @@
   "units": "4",
   "dept": "ECE",
   "anchor": "ece252b",
-  "description": "Signal analysis methods for recognition, dynamic time warping, isolated word recognition, hidden Markov models, connected word, and continuous speech recognition. Prerequisites: ECE 252A; graduate standing.",
+  "description": "Signal analysis methods for recognition, dynamic time warping, isolated word recognition, hidden Markov models, connected word, and continuous speech recognition. Prerequisites: ECE 252A with a grade of B\u2013 or above; graduate standing.",
   "prereqs": "ECE 252A"
 }

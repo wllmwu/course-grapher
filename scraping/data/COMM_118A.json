@@ -1,0 +1,18 @@
+{
+  "code": "COMM 118A",
+  "title": "Action Cinema",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm118a",
+  "description": "This course traces the history of the action film genre with particular attention to its historical contexts, its social meanings, and its longstanding popularity with audiences. Topics and issues to be covered will include early cinema and serial queens; genre and the action film as hybrid; the aesthetics of action; the 1980s and the blockbuster; action cinema and gender; the rise of the franchise and transnational cinema. Prerequisites: COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "COMM 20",
+      "COMM 30",
+      "COMM 30GS",
+      "COMM 40"
+    ]
+  }
+}

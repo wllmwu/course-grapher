@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "ECE",
   "anchor": "ece271c",
-  "description": "Foundations of deep learning. Deep learning architectures and learning algorithms. Feedforward, convolutional, and recurrent networks. Regularization. Applications to vision, speech, or text processing. Prerequisites: ECE 271A-B; graduate standing.",
+  "description": "Foundations of deep learning. Deep learning architectures and learning algorithms. Feedforward, convolutional, and recurrent networks. Regularization. Applications to vision, speech, or text processing. Prerequisites: ECE 271A-B with a grade of B\u2013 or above; graduate standing.",
   "prereqs": {
     "type": "all",
     "courses": [

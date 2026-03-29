@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "ECE",
   "anchor": "ece226",
-  "description": "This course aims to present the mathematical and computational challenges for holistic content/algorithm/hardware codesign of an efficient deep learning framework. Participants will discuss selected topics including DNNs, CNNs, and RNNs in both supervised and unsupervised settings. Special emphasis will be on optimizing DL physical performance on different hardware platforms. The hardware platforms include CPU-CPU and CPU-GPU architectures. Prerequisites: ECE 250 or ECE 269 or ECE 271A; graduate standing.",
+  "description": "This course aims to present the mathematical and computational challenges for holistic content/algorithm/hardware codesign of an efficient deep learning framework. Participants will discuss selected topics including DNNs, CNNs, and RNNs in both supervised and unsupervised settings. Special emphasis will be on optimizing DL physical performance on different hardware platforms. The hardware platforms include CPU-CPU and CPU-GPU architectures. Prerequisites: ECE 250 or ECE 269 or ECE 271A with a grade of B\u2013 or above; graduate standing.",
   "prereqs": {
     "type": "one",
     "courses": [

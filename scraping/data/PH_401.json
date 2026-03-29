@@ -1,0 +1,16 @@
+{
+  "code": "PH 401",
+  "title": "Introduction to Epidemiology",
+  "units": "4",
+  "dept": "PH",
+  "anchor": "ph401",
+  "description": "This course provides a foundational understanding of principles and methods used to study the distribution and determinants of health and disease in populations. Topics include study design, data collection, measures of disease frequency, and risk assessment. Through lectures and small group discussions, students learn to critically evaluate epidemiological research, understand the ethical considerations in conducting epidemiological studies, and recognize common sources of bias and confounding. Prerequisites: must be enrolled in MPH program (PB75, PB87, PB88, PB89, PB90, and PB91) or program approval. Renumbered from FMPH 401. Students may not receive credit for both FMPH 401 and PH 401.",
+  "successors": [
+    "PH 415",
+    "PH 417",
+    "PH 417R",
+    "PH 418",
+    "PH 420",
+    "PH 425"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "CLX 102",
+  "title": "Research Practicum in Chicanx and Latinx Studies",
+  "units": "4",
+  "dept": "CLS",
+  "anchor": "clx102",
+  "description": "This course explores Chicanx and Latinx experiences in San Diego and the greater border region through community-engaged research. Building on the foundation provided by CLX 101, students will establish relationships with community partners, conduct community-engaged research, and collaborate with their peers in the classroom. Faculty will support and guide students throughout their field research process. Prerequisites: CLX 101 or department approval.",
+  "prereqs": "CLX 101",
+  "successors": [
+    "CLX 103"
+  ]
+}

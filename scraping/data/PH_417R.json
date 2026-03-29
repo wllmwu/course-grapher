@@ -1,0 +1,15 @@
+{
+  "code": "PH 417R",
+  "title": "Cardiovascular Disease Epidemiology",
+  "units": "4",
+  "dept": "PH",
+  "anchor": "ph417r",
+  "description": "This is an MPH-level course designed to introduce topics in cardiovascular disease epidemiology using the following definition of epidemiology as a guide: Epidemiology is the study of the distribution and determinants of health-related states or events in specified populations, and the application of this study to the control of health problems. As such, the course provides an overview of the prevalence, incidence, and key risk factors for major cardiovascular diseases. Prerequisites: must be enrolled in MPH program (PB75 and PB91) or program approval and successfully completed FMPH 401 or PH 401. Students may only receive credit for one of these courses: PH 417, PH 417R, or FMPH 417.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "FMPH 401",
+      "PH 401"
+    ]
+  }
+}

@@ -4,7 +4,7 @@
   "units": "4",
   "dept": "PHYS",
   "anchor": "phys130a",
-  "description": "Development of quantum mechanics. Wave mechanics; measurement postulate and measurement problem. Piece-wise constant potentials, simple harmonic oscillator, central field and the hydrogen atom. Three hours lecture, one-hour discussion session. Prerequisites: PHYS 4A-B-C-D-E, 100A, 110A. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only.",
+  "description": "Development of quantum mechanics. Wave mechanics; measurement postulate and measurement problem. Piece-wise constant potentials, simple harmonic oscillator, central field and the hydrogen atom. Three hours lecture, one-hour discussion session. Prerequisites: PHYS 4A-B-C-D-E, 100A, 110A. Open to major codes PY26, PY28, PY29, PY32, PY33, PY34, and PY35 only.",
   "prereqs": {
     "type": "all",
     "courses": [
